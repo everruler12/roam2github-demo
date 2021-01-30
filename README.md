@@ -8,7 +8,9 @@ For those who are having issues with [MatthieuBizien/roam-to-git](https://github
     - R2G_PASSWORD
     - R2G_GRAPH
     
-2. Update your main.yml with the code [here](https://github.com/everruler12/roam2github-demo/blob/main/.github/workflows/main.yml)
+2. Update your main.yml with the code here
+
+    https://github.com/everruler12/roam2github-demo/blob/main/.github/workflows/main.yml
 
 Note that this will only backup the JSON file (for now) and not export markdown.
 
