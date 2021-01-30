@@ -1,0 +1,38 @@
+name: "Roam Research backup"
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    -   cron: "0 * * * *"
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    name: Backup
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Node 14
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      
+      - name: Run backup
+        run: |
+          cd ..
+          git clone -q https://github.com/everruler12/roam2git-test.git roam2git
+          cd $_
+          npm i
+          npm run start
+        env:
+          RR_EMAIL: ${{ secrets.R2G_EMAIL }}
+          RR_PASSWORD: ${{ secrets.R2G_PASSWORD }}
+          RR_GRAPH: ${{ secrets.R2G_GRAPH }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated snapshot
