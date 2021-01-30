@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    -   cron: "0 * * * *"
+      - cron: "0 * * * *"
 
 jobs:
   backup:
@@ -15,12 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: Setup Node 14
+      - name: Setup Node
         uses: actions/setup-node@v2
         with:
           node-version: '14'
       
-      - name: Run backup
+      - name: Run Backup
         run: |
           cd ..
           git clone -q https://github.com/everruler12/roam2github-test.git roam2github
@@ -28,11 +28,11 @@ jobs:
           npm i
           npm run start
         env:
-          RR_EMAIL: ${{ secrets.R2G_EMAIL }}
-          RR_PASSWORD: ${{ secrets.R2G_PASSWORD }}
-          RR_GRAPH: ${{ secrets.R2G_GRAPH }}
+          R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
+          R2G_PASSWORD: ${{ secrets.R2G_PASSWORD }}
+          R2G_GRAPH: ${{ secrets.R2G_GRAPH }}
 
-      - name: Commit changes
+      - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automated snapshot
