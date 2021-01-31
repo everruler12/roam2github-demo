@@ -26,7 +26,7 @@ jobs:
           git clone -q https://github.com/everruler12/roam2github-test.git roam2github
           cd $_
           npm i
-          npm run start
+          npm run start -s
         env:
           R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
           R2G_PASSWORD: ${{ secrets.R2G_PASSWORD }}
