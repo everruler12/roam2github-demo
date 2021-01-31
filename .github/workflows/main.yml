@@ -23,7 +23,7 @@ jobs:
       - name: Run Backup
         run: |
           cd ..
-          git clone -q https://github.com/everruler12/roam2github.git roam2github
+          git clone -q https://github.com/everruler12/roam2github-test.git roam2github
           cd $_
           npm i
           npm run start
