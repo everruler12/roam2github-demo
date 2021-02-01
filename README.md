@@ -34,17 +34,17 @@ This will backup JSON and EDN, but not Markdown (yet)
     
     Make sure you're not using a Google account login, as this is not supported. (If you are, sign out of Roam, and on the sign-in page, click "Forgot your password" to set a password.)
     
-- Timed out with `R2G astrolabe spinning...`. Possible causes:
+- Timed out with `R2G astrolabe spinning...`. Possible causes I can think of:
 
     - Roam's servers timed out. Try re-running the job later.
-    
-    - You graph is too large to be loaded within the backup timeout (default set to 10 minutes). This is highly unlikely, as it shouldn't take 10 minutes to load. But you can try increasing the timeout in main.yml
 
     - Your `R2G_GRAPH` secret is incorrect. Try updating it (make sure it's only the graph name, not a URL)
     
-    - You don't have permission to view that graph.
+    - You don't have permission to view that graph. (I have been able to get it stuck on the spinning astrolabe when trying to backup someone else's private graph, or using random characters as the graph name in `R2G_GRAPH`)
     
     - Unknown cause. Test with a different graph. Let me know if it happens consistently.
+    
+    - You graph is too large to be loaded within the backup timeout (default set to 10 minutes). This is highly unlikely, as it shouldn't take 10 minutes to load. (If you still think this is the case, you could try increasing the timeout in main.yml)
 
 - `R2G ERROR - EDN formatting error: mismatch with original`
 
