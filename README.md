@@ -50,6 +50,6 @@ This will backup JSON and EDN, but not Markdown (yet)
 
     The file integrity check to make sure the formatted version of the EDN file matches the downloaded EDN export failed. Please let me know if this were ever to happen.
 
-- `R2G ERROR - Error: Protocol error (DOM.describeNode): Cannot find context with specified id`
+- `R2G - Clicking "Sign In"` then `R2G ERROR - Error: Protocol error (DOM.describeNode): Cannot find context with specified id`
 
     I sometimes get this error while testing. I think it's related to Roam loading the login screen a second time, in the middle of trying to sign in (as mentioned in this issue https://github.com/MatthieuBizien/roam-to-git/issues/87#issuecomment-763281895) A check for this and login retry will be added soon...
