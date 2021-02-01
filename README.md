@@ -22,7 +22,7 @@ This will backup JSON and EDN, but not Markdown (yet)
 
 - `R2G ERROR - Secrets error: R2G_EMAIL not found` (or `R2G_PASSWORD` or `R2G_GRAPH`)
 
-    One of of those secrets are blank or missing. Add it in Settings > Secrets
+    One of those secrets is blank or missing. Add it in Settings > Secrets
     
 - `R2G ERROR - Login error. Roam says: "There is no user record corresponding to this identifier. The user may have been deleted."`
 
