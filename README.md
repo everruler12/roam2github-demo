@@ -32,7 +32,7 @@ This will backup JSON and EDN, but not Markdown (yet)
 
     Your `R2G_PASSWORD` secret is incorrect. Try updating it.
     
-    Make sure you're not using a Google account login, as this is not supported. (If you are, sign out of Roam, and on the sign-in page, click "Forgot your password" to set one.)
+    Make sure you're not using a Google account login, as this is not supported. (If you are, sign out of Roam, and on the sign-in page, click "Forgot your password" to set a password.)
     
 - Timed out with `R2G astrolabe spinning...`. Possible causes:
 
