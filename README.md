@@ -14,7 +14,7 @@ For those who are having issues with [MatthieuBizien/roam-to-git](https://github
 
 This will backup JSON and EDN, but not Markdown (yet)
 
-**See more info at https://github.com/everruler12/roam2github**
+# **Main README at https://github.com/everruler12/roam2github**
 
 ---
 
