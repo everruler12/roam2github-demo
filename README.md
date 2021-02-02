@@ -7,7 +7,7 @@ For those who are having issues with [MatthieuBizien/roam-to-git](https://github
     - `R2G_EMAIL`
     - `R2G_PASSWORD`
     - `R2G_GRAPH`
-        - Now with multi graph support! Just add graph names on new lines in `R2G_GRAPH`. (Or separate them by commas.)
+        - Now with multi graph support! Just add graph names on separate lines in `R2G_GRAPH`. (Or separate them by commas.)
     
 2. Update your main.yml with the code here: https://github.com/everruler12/roam2github-demo/blob/main/.github/workflows/main.yml
 
