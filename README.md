@@ -1,5 +1,11 @@
 # roam2github-demo
 
+## Don't fork this demo repo to use for your backups!
+
+Because my test backups will be included, and your backups will be public. Create your own private repo and copy the code from main.yml. If you don't know how, a full guide is coming soon (based on my old [guide](https://eriknewhard.com/blog/backup-roam-in-github) for roam-to-git)
+
+---
+
 For those who are having issues with [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git/) in GitHub Actions, try my new solution:
 
 1. Add secrets for the following values:
