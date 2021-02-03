@@ -31,9 +31,6 @@ jobs:
           R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
           R2G_PASSWORD: ${{ secrets.R2G_PASSWORD }}
           R2G_GRAPH: ${{ secrets.R2G_GRAPH }}
-          BACKUP_JSON: true
-          BACKUP_EDN: true
-          BACKUP_MARKDOWN: false
 
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
