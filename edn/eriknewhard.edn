@@ -2707,26 +2707,6 @@
   [1493 :edit/user 1 536875711]
   [1493 :log/id 1609460823043 536875041]
   [1493 :node/title "January 1st, 2021" 536875040]
-  [1500 :block/children 1501 536875091]
-  [1500 :block/uid "MVAjNFI7t" 536875087]
-  [1500 :create/time 1609462897154 536875087]
-  [1500 :create/user 1 536875711]
-  [1500 :edit/time 1609462897156 536875087]
-  [1500 :edit/user 1 536875711]
-  [1500
-   :node/title
-   "**Lorem ipsum dolor sit amet, consectetur adipiscing elit.**\" \" -- Pellentesque eget cursus enim, ac blandit neque. (Proin luctus felis id ipsum consequat, sit amet euismod eros vulputate.).  \"] [\"I.E.  \" \"**Sed ullamcorper laoreet lectus a tempor. Nunc bibendum cursus tincidunt. [Mauris euismod orci non ipsum cursus, vestibulum interdum velit hendrerit. Quisque tristique molestie sodales.], Quisque tortor sem, condimentum eget tincidunt non, viverra sed nisi. [Praesent ullamcorper consectetur justo eu porttitor.]**\" "
-   536875087]
-  [1501 :block/open true 536875091]
-  [1501 :block/order 0 536875091]
-  [1501 :block/page 1500 536875092]
-  [1501 :block/parents 1500 536875092]
-  [1501 :block/string "" 536875091]
-  [1501 :block/uid "AzicQabQH" 536875091]
-  [1501 :create/time 1609462940694 536875091]
-  [1501 :create/user 1 536875711]
-  [1501 :edit/time 1609462940694 536875091]
-  [1501 :edit/user 1 536875711]
   [1502 :block/uid "01-02-2021" 536875099]
   [1502 :create/time 1609547169852 536875100]
   [1502 :create/user 1 536875711]
@@ -3750,8 +3730,8 @@
   [1644 :version/id "0.8.1" 536875737]
   [1644
    :version/nonce
-   "uuid4117eb17-e192-4bdc-bdcd-582cb942115e"
-   536875776]
+   "uuid970d6b38-4aae-4366-84aa-388604dfbe40"
+   536875777]
   [1645 :block/children 1656 536875767]
   [1645 :block/uid "02-01-2021" 536875738]
   [1645 :create/time 1612141297443 536875738]
