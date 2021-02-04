@@ -4,7 +4,7 @@
 
 The demo backups will be included, and your backups will be public. You should create your own **private** repo and copy the code from main.yml.
 
-## **Main README with full instructions and explanations at https://github.com/everruler12/roam2github**
+### **Main README with full instructions and explanations at https://github.com/everruler12/roam2github**
 
 ## Roam-to-git users: simply update your existing repo
 
@@ -25,7 +25,7 @@ This will backup Markdown, JSON, and EDN!
 
 ---
 
-### Common error causes
+## Common error causes
 
 - `R2G ERROR - Secrets error: R2G_EMAIL not found` (or `R2G_PASSWORD` or `R2G_GRAPH`)
 
