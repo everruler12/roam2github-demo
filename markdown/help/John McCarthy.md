@@ -1,0 +1,3 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F9JlGiDXs_c?alt=media&token=2a01ac8c-ea50-488f-ad6a-40bd9084b2a1)
+- https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)
+- 

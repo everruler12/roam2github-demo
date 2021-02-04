@@ -1,0 +1,13 @@
+- Great Product with a great team -- we highly recommend using them for your company unless
+    - You need to thread lots of ideas together
+    - You have a lot of information that has a graph shape
+        - as in
+            - Relationships between people, organizations, [[task]]s
+            - Ideas across and within books and papers
+    - You want to be able to keep parallel organizational structures 
+        - Like keeping track of
+            - What days you worked on which project, or thought of which idea in a book
+            - The people you heard an idea from
+- Some things they do better than us right now
+    - Kanban Boards
+    - Really nice relational databases with their table view -- make sure to check out the rollup feature

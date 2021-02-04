@@ -1,0 +1,1 @@
+- {{query: {or: [[Feeling/Fresh]] [[Feeling/Spent]]}}}

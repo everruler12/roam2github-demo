@@ -1,0 +1,10 @@
+- 23:23 - 23:50
+    - Updates to Roam
+        - `command-enter` now toggles TODO - DONE - and removing the todo on a block
+        - Filters are now on a per-user basis - so you can focus attention on a shared workspace without disrupting your collaborators
+    - Making some big changes to the landing page
+        - Old Landing Page
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2F6DxUMNFA68?alt=media&token=15dd6fd9-7f88-4ce4-9c87-6c8ad075d63c)
+        - New landing page resources
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FG7c0oneynT?alt=media&token=facbded1-d164-4230-9442-8a8caabf9a05)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FXN9WMjcw6e?alt=media&token=c8835e72-07fa-410a-86f4-dbbeea9e4164)

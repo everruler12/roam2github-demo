@@ -1,0 +1,45 @@
+- Roam has a basic calculator component
+- Example
+    - `{{calc: 1` `+ 1}}`= {{calc: 1 + 1}}
+- The calculator can pull block-references
+    - It just strips the text to find numbers and "equation symbols"
+        - equation symbols
+            - +
+            - - 
+            - / = division
+            - * = multiplication
+            - ** = raise to the power of
+                - 10 ** 2 = {{calc: 10**2}}
+    - Example -- change the value of "A: 1" or "B: 2" and you will see "{{calc: ((MSl_pGiSi)) + ((H9rb4ssZm))}}" update
+        - A: 1
+        - B: 2
+        - {{calc: ((MSl_pGiSi)) + ((H9rb4ssZm))}}
+- This can work recursively 
+    - A * B * (A + B) = {{calc: ((MSl_pGiSi)) * ((H9rb4ssZm)) * ( ((zZot1wT81)) )}}
+- It can be hard to see how the equation works when most of the thing referenced are blocks
+    - You can use control-c control-p to get a preview of the block you're looking at
+    - You can also use Control-Shift-O to open a bullet point reference under your cursor in the sidebar -- which is useful for opening up the sources of variables  used in your calculation
+- Note
+    - The calculator using the javascript math engine 
+        - {{embed: ((1kEhvYrnP))}}
+        - and currently numbers are rounded to nearest int on display
+        - 2**3 = {{calc: 2**3}}
+        - 1.2**8 = {{calc: 1.2**8}}
+- Example::
+    - [[Simple Financial Model]]
+        - Customers:: 700
+        - Weekly Customer Growth:: 1.15
+        - Price per Customer:: 15
+        - {{table}}
+            - **Weeks from Now**
+                - **Total Customers**
+                    - **Monthly Recurring Revenue**
+                        - **ARR**
+            - 4
+                - {{calc: ((13bkU2J4M)) * ((ar8KTTCQs))**((0tI85foPL)) }}
+                    - ${{calc: ((SX868MI-C)) * ((PCBUGgc7d))}}
+                        - ${{calc: ((HqMKtcha9)) *12}}
+            - 12
+                - {{calc: ((13bkU2J4M)) * ((ar8KTTCQs))**((GPgFWnXTt))}}
+                    - ${{calc: ((rd70VP-Ry))  * ((PCBUGgc7d))}}
+                        - ${{calc: ((MZ1mCzpml)) * 12 }}

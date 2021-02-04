@@ -1,0 +1,2 @@
+- [[Advice]] on [[Learning]]
+    - "@farrarscott @michael_nielsen [[Piotr Wozniak]] advises “don’t try to memorize what you don’t understand” and I think that probably applies to situations like you’re describing. If the student understands, then wants to remember, they might naturally make that card."

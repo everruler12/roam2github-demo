@@ -1,0 +1,51 @@
+- 00:04 - 00:05
+    - Live stream of this is here https://youtu.be/ZLSPKigWNZo
+    - "23:47 -- 00:06" only took 20 minutes to get setup
+    - If it is simple to stream, and it can get saved directly to youtube - which we'll test right now - then this is totally worth it, as it could dramatically increase the number of tutorial videos we could be making.
+    - 00:09 - 00:11
+        - Looks like the video got there right away
+- 02:06
+    - Two places I can think to start seeding this into a properly organized [[Zettelkasten]]
+        - First is to start to pull in some of the notes from [[Andy Matuschak]]
+            - but with that - need to figure out how I want to differentiate his notes from my own
+            - [[Matt Brockwell: A Taxonomy of Notes]]
+        - 02:12 - 02:20
+            - Found the link in "[[Matt Brockwell: A Taxonomy of Notes]]"
+                - https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work
+            - The prototype is much more readable - but it is interesting that it feels much less of a space for these scattered half developed thoughts
+                - Even his least developed stubs are worthy of presentation - whereas these are much more obviously public scratchings
+            - I'm feeling highly skeptical of the ida of just importing them wholesale
+                - Seems more apt to put them in under at least a heading of the author
+                - [[notes.andymatuschak.org/Evergreen Note Writing as Fundamental Unit of Knowledge work]]
+    - 02:32
+        - I totally now want an easy way to do the following
+            - The title of the page should possibly be able to respect whatever namespacing convention we have set up
+                - I like the idea of naming the title of the page - when importing a content - based on the domain that it has come in from
+                    - Though - when we have the idea that nodes (today called pages) - can have more than just a string attached to them
+    - 02:37 - 02:40
+        - Playing around with naming convention for [[[[*]] Note Writing as Fundamental Unit of Knowledge Work]]
+            - I could imagine doing something like writing writing out a proper Zettlekasten this way
+                - Writing it without adding pages yet
+                    - 1. [[The way you format your note titles in Roam matters]]
+                        - [[1a Renaming a note in Roam should be done so that it appears in different autocomplete]]
+                    - [[3 Changing the name of a note in Roam doesn't matter all that much]]
+                    - [[March 23rd, 2020]]
+    - 02:52
+        - I definitely like the idea of numbering my permanent notes now - as it will make it easier to reference them associatively 
+            - Trade-Offs:: 
+                - Benefits:: You could Mark a note by its number even if you don't have a great title for it yet #[[Z/1/Questions matter more than answers]]
+                - Weaknesses:: If you try to choose the right name for a few notes at the same time - or you are going back and forth on them - like I am with [[The way you format your note titles in Roam matters]] - then you have to either - not have written anything yet
+    - 03:01 -- 03:04
+        - A path for eliciting more of my notes for a zettelkasten 
+            - steps:: 
+                - Look for [[Key Terms]]
+                - look through everything in [[Questions]]
+    - 03:04
+        - need to exercise
+    - 
+- 12:57
+    - High level Version 1
+        - Point B
+        - Point A
+        - "Point C"
+        - This is a new phrasing [*](((XIlWZ1AOr)))

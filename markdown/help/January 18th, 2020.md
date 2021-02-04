@@ -1,0 +1,3 @@
+- # [[Data Loss Risk]]
+    - We've now had a few reports of people losing data when merging pages (usually they're changing a page title and getting a "this page exists would you like to merge" and the page does not in fact exist)
+        - Working on identifying this bug, but if you get the [[Merge Pages]] warning, suggest copy/pasting that text to an external source first.

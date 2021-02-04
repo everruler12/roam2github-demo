@@ -1,0 +1,92 @@
+- Sections that [[Conor]] cared about
+    - ### How to Invent Hindu-Arabic Numerals
+        - source:: https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals
+        - Key Questions::
+            - What design process could take you from Roman numerals to Hindu-Arabic numerals?
+                - Key Terms::
+                    - __The typical modern design practice__
+                        - supporting quote:: "In a typical practice, "
+                - Relevant Claims::
+                    - Hindu-Arabic numerals are an extraordinary mathematical insight. 
+                        - reason::
+                            - They involve many non-obvious ideas, if all you know is Roman numerals.
+                                - specifically:: 
+                                    - The meaning of a numeral changes depending on its position within a number.
+                    - Mathematical insights are design insights - in this case of designing a number system
+                        - reason:: 
+                            - Numerals have the same affordances even in cases where they have different meaning
+                                - See "Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases. We take this for granted, but this similarity in behavior is a consequence of deep facts about the number system: commutativity, associativity, and distributivity 
+
+All these properties (and many more) point to the design and mathematical insights being inextricably entangled: the mathematical insights are, in some sense, design insights, and vice versa."
+                    - Anyone who could invent Hindu-Arabic numerals, starting from Roman numerals, would be both one of the greatest mathematical geniuses who ever lived, and one of the greatest design geniuses who ever lived.
+                        - reason:: 
+                            - In order to discover "Numerals have the same affordances even in cases where they have different meaning", you would need to understand deep facts about commutativity, associativity, and distributivity
+                                - certainty that this reflects the author's viewpoint::
+                                    - {{a}}
+                                        - Perhaps it is possible that the inventor of Hindu-Arabic numerals would not need to know
+                    - It would not be possible for someone to arrive at these insights through the "__The typical modern design practice__"
+                        - reason::
+                            -  "The most powerful tools for thought express deep insights into the underlying subject matter"
+          
+        AND
+
+ ""__The typical modern design practice__" would not cause you to discover any deep insights about the field"
+                    - The most powerful tools for thought express deep insights into the underlying subject matter
+                        - certainty of claim:: {{a}}
+                    - "__The typical modern design practice__" would not cause you to discover any deep insights about the field
+                        - certainty that this reflects the author's viewpoint:: {{a}}
+                            - supporting quote:: 
+                                - "This is a powerful practice. At its best it causes systems to come into existence which would otherwise be inconceivable. If applied to Roman numerals (in hypothetical ancient Rome, not today) {{alias: ((bY263ol8J)) 24}} this practice would likely improve them a great deal. But it would not provide anywhere near the level of mathematical insight needed to arrive at Hindu-Arabic numerals."
+                        - certainty of claim:: {{a}}
+                            - 
+                - Possible Answers::
+                    - [[Michael Nielsen]]'s discovery fiction on this
+                        - https://twitter.com/michael_nielsen/status/1174420006907473920
+                        - 
+    - ### Why isn't there more work on tools for thoughts these today?
+        - Relevant Claims::
+            - When you develop an actually novel tool for thought, it can be easily copied
+                - Evidence::
+                    - [[Adobe]] has put in a ton of work building legitimate tools for thought with [[Illustrator]] 
+                    - The work Adobe did, and their market share, has been quickly eaten up by [[Sketch]] who is now being eaten by [[Figma]]
+            - Video game companies develop novel interfaces, and put in expensive R&D to do so
+            - Video game companies make most of their money in first 6 months 
+- Quotes::
+    - **How do the cards interact with one another? What is the ideal network structure of knowledge?** This is a very complicated and somewhat subtle set of questions. Let's give a simple example to illustrate the idea. We've presented the cards in the mnemonic medium as though they are standalone entities. But there are connections between the cards. Suppose you have cards: “Who was George Washington’s Vice President?” (Answer: “John Adams”, with a picture of Adams); “What did John Adams look like?” (Answer: a picture of Adams); perhaps a question involving a sketch of Adams and Washington together at some key moment; and so on. Now, this set of cards forms a network of interrelated cards. And you can use a memory system like Quantum Country to study that network. What happens to people's observed recall if you remove a card? Are there crucial lynchpin cards? Are there particularly effective network structures? Particularly effective types of relationship between cards? Crucially: are there general principles we can identify about finding the deepest, most powerful ways of representing knowledge in this system?
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FymZwYdw6F1?alt=media&token=8bf5f034-90c5-4e5a-87eb-277971c87968)
+    - From "How to Invent Hindu-Arabic Numerals"
+        - Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases. We take this for granted, but this similarity in behavior is a consequence of deep facts about the number system: commutativity, associativity, and distributivity 
+
+All these properties (and many more) point to the design and mathematical insights being inextricably entangled: the mathematical insights are, in some sense, design insights, and vice versa.
+        - ---
+            - This is rather sobering if we compare to conventional modern design practice. 
+                - In a typical practice, 
+                    - you'd interview domain experts (in this case, mathematicians), 
+                    - and read any relevant literature. 
+                    - You'd talk to users of existing systems, 
+                    - and analyze serious behavior, 
+                        - both individually and at scale. 
+                    - In short, you'd do what people in the design community refer to as immersing themselves in the target field.
+            - This is a powerful practice. At its best it causes systems to come into existence which would otherwise be inconceivable. If applied to Roman numerals (in hypothetical ancient Rome, not today) {{alias: ((bY263ol8J)) 24}} this practice would likely improve them a great deal. But it would not provide anywhere near the level of mathematical insight needed to arrive at Hindu-Arabic numerals.
+            - --------
+            - $$\color{red}24.$$ Of course, a designer who spoke to an expert on, say, Babylonian mathematics, might well have come across some of these ideas. We'll ignore that, since it depends on the oddity that many excellent prior ideas about numeral systems had been displaced in Roman culture.)
+    - From this discussion, we take away a warning and an aspiration.
+        - The warning is this: conventional tech industry product practice will not produce deep enough subject matter insights to create transformative tools for thought. Indeed, that's part of the reason there's been so little progress from the tech industry on tools for thought. This sounds like a knock on conventional product practice, but it's not. That practice has been astoundingly successful at its purpose: creating great businesses. But it's also what Alan Kay has dubbed a pop culture, not a research culture. To build transformative tools for thought we need to go beyond that pop culture.
+        - The aspiration is for any team serious about making transformative tools for thought. It's to create a culture that combines the best parts of modern product practice with the best parts of the (very different) modern research culture. ![Diagram:
+	'insight' and 'making', pointing to each other in a loop](https://numinous.productions/ttft/assets/insight_through_making.svg)You need the insight-through-making loop to operate, whereby deep, original insights about the subject feed back to change and improve the system, and changes to the system result in deep, original insights about the subject.
+        - Note that we are not making the common argument that making new tools can lead to new subject matter insights for the toolmaker, and vice versa. This is correct, but is much weaker than what we are saying. Rather: making new tools can lead to new subject matter insights for humanity as a whole (i.e., significant original research insights), and vice versa, and this would ideally be a rapidly-turning loop to develop the most transformative tools.
+        - Doing this is a cultural struggle. It seems to be extraordinarily rare to find the insight-through-making loop working at full throttle. People with expertise on one side of the loop often have trouble perceiving (much less understanding and participating in) the nature of the work that goes on on the other side of the loop. You have researchers, brilliant in their domain, who think of making as something essentially trivial, “just a matter of implementation”. And you have makers who don't understand research at all, who see it as merely a rather slow and dysfunctional (and unprofitable) making process. This is certainly true in Silicon Valley, where it's common to meet accomplished technical makers who, after reading a few stories from Richard Hamming and Richard Feynman, think they understand research well enough that they can “create the new Bell Labs”. Usually they're victims of Dunning-Krugeritis, so ignorant they're not even aware of their ignorance.
+        - Of course, we've got a long way to go with Quantum Country. It's not yet generating nearly deep enough ideas about memory and cognition; it's not yet one of the world's foremost memory laboratories. And considered as a product, it's also in the very earliest days; we're not yet iterating nearly fast enough, nor learning nearly fast enough from the system. Getting the insight-through-making loop to operate at full throttle will mean reinventing parts of both research culture and conventional product development culture; it will mean new norms and a new type of person involved in key decision making. But that's the aspiration, and what we believe is necessary to develop transformative tools for thought.
+    - ## From Why there isn'tmore work on tools for thought today
+        - Unfortunately for Adobe, such mediums are extremely expensive to develop, and it's difficult to prevent other companies from cheaply copying the ideas or developing near-equivalents. Consider, for example, the way the program Sketch has eaten into Adobe's market share, after duplicating many of the best features from several of Adobe's products, perhaps most notably Illustrator. And consider the way Figma is now eating into both Sketch and Illustrator's market share. Both Sketch and Figma have done this without needing to make an enormous investment in research. That's a big advantage they have over Adobe.
+        - As Marc Andreessen has observed (In Elad Gil's “High Growth Handbook” (2018)  true defensibility purely at the product level is really rare in [Silicon] Valley, because there are a lot of really good engineers… And then there's the issue of leap-frogging. The next team has the opportunity to learn from what you did and then build something better.
+        - Put another way, many tools for thought are public goods. They often cost a lot to develop initially, but it's easy for others to duplicate and improve on them, free riding on the initial investment. While such duplication and improvement is good for our society as a whole, it's bad for the companies that make that initial investment. And so such tools for thought suffer the fate of many public goods: our society collectively underinvests in them, relative to the benefits they provide.
+        - Unfortunately, the novelty-based short-term revenue approach of the game industry doesn't work. You want people to really master the best new tools for thought, developing virtuoso skill, not spend a few dozen hours (as with most games) getting pretty good, and then moving onto something new.
+        - The two most promising approaches seem to us to be:
+            - Philanthropic funding for research. This approach was used, for instance, by the field of computer animation and animated movies. Decades of public research work on computer animation resulted in a large number of powerful and (in many cases) publicly available ideas. This, in turn, helped prepare the way for companies such as Pixar and Dreamworks, which developed many of the ideas further, and took them to scale.
+            - The model used by Adobe and similar companies, in which new tools for thought are a central part of the company's operations, but not the core of their competitive moat. That moat may instead be built around training, marketing, documentation, and so on.
+    - ## From Questioning our basic premises
+        - “What will new tools for thought be like?” is a question we hear often. And yet, almost by definition, we cannot say. As we noted earlier, if we could communicate the experience in an essay, then the tools would be failing at their job; they would not be transforming a person's thinking, or even their consciousness. Concretely: to understand the mnemonic medium you must use it intensively over an extended period. And even then you may not be conscious of the effect; we've done interviews with users who are apparently unaware of the incredible level of recall they have of material in the essay they have read. 
+        - One of the most famous papers in the philosophy of consciousness is entitled “What is it like to be a bat?” Each tool for thought poses a similar question, near impossible to answer without immersion in the tool: “What is it like to be a language user? A musician?” and so on.
+        - It seems plausible to us that work on tools for thought will be, over the next few decades, more important than work on AGI and BCI. And, given how fashionable and well-funded work on AGI and BCI currently is, it seems nearly certain that work on tools for thought offers vastly greater benefit, at the margin.
+        - 

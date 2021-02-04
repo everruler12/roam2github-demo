@@ -1,0 +1,7 @@
+- Founder of:: Longevity Research Institute
+    - https://thelri.org/
+- author:: [[How to Make a Memex]]
+- blog::
+    - https://srconstantin.posthaven.com/
+- twitter::
+    - https://twitter.com/s_r_constantin

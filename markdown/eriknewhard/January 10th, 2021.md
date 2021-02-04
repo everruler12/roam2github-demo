@@ -1,0 +1,2 @@
+- #Tweeted https://twitter.com/ErikNewhard/status/1348467494650925057?s=20
+    - One big thing that emerged from my Annual Review with Forte Labs is that most of my gratitude list and best memories from 2020 were moments with friends and family rather than personal achievements.

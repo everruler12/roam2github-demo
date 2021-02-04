@@ -1,0 +1,5 @@
+- 14:11
+    - [[Questions]]
+        - Is it worthwhile to put public thoughts in this help database?
+        - "Actually has a lot in common with [[Just in Time Project Management]] from [[Tiago Forte]]"
+        - 

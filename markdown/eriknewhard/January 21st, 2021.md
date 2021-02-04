@@ -1,0 +1,4 @@
+- #Tweeted https://twitter.com/ErikNewhard/status/1352372867917209600?s=20
+    - Source:: [How To Motivate Yourself - The Trick Behind Lasting Self-Motivation - YouTube](https://www.youtube.com/watch?v=BL_n6eKM-vo) by [[Tim Han]]
+    - "Don't compare yourself to someone else's online, controlled content."
+    - "Don't wait until you feel good to do something good."

@@ -1,0 +1,6 @@
+- 22:25
+    - Added to [[What People Are Saying]]
+- [[RAQ]]
+    - How do you stop tweet previews appearing when you paste in links to them
+        - Problem:  https://twitter.com/Conaw/status/1164040017452257280
+        - [Solution](https://twitter.com/Conaw/status/1164040017452257280) -- put them in an html link

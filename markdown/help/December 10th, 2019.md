@@ -1,0 +1,26 @@
+- 14:18
+    - Working on csv import, for purpose of importing in a few thousand tweets into Roam
+        - Goals::
+            - I want to grab all of the tweets from [[Tiago Forte]]
+            - have the plain text of all of them
+                - What happens if I just paste the csv
+                    - The most important paragraph I've ever read on modern education. I'm stunned 
+Via @soenke_ahrens
+
+                    - https://t.co/lKMqYgxhcVhttps://twitter.com/fortelabs/status/1192657281457934338
+            - I think we could also get around this a little bit by having a tweet-embed toggle, so that you could choose whether or not to show the tweet
+- 15:14 
+    - Simplest CSV import is just going to create a nested list
+        - Name
+            - Tweet text
+                - tweet url
+    - Next version of it would let you define attributes
+        - Tweet text
+            - author:: x
+            - url:: y
+- 19:48
+    - [[[[Tiago Forte]] [[Tweet]] Import]]
+    - [[[[Andy Matuschak]][[Tweet]] Import]]
+        - "In a recent chat with @michael_nielsen and me about https://t.co/lnd5Z3zN1g, @delong suggested that the mnemonic medium is a new kind of catechism. We laughed, but… that's a pretty interesting lens! (thread) https://t.co/A6szlDLzri"
+            - similar to ideas I've heard from [[diviacaroline]]
+    - [[[[vgr]][[Tweet]] Import]]http://www.roamresearch.com/

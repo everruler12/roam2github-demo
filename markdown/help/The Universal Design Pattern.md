@@ -1,0 +1,2 @@
+- source:: https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html
+- 

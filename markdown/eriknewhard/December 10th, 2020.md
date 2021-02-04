@@ -1,0 +1,3 @@
+- #Tweeted https://twitter.com/ErikNewhard/status/1337110105297276930?s=20
+    - Because of [[technology]], the current generation is in a position to be more knowledgeable than anyone in the past. Credit where credit is due, because we are standing on the shoulders of those giants...
+    - But they were not so much giants as they were normal people standing on the shoulders of other normal people. Our ancestors were no better or worse than us; we just have a view from a higher perch, learned from collective experience.

@@ -1,0 +1,3 @@
+- [[Welcome Message]]
+- 15:52 - 16:47
+    - {{[[DONE]]}} Move [[Roam White Paper]] here and place link on landing page

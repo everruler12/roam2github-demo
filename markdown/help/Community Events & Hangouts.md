@@ -1,0 +1,9 @@
+- {{attr-table: [[Event]]}}
+- Sunday, [[December 13th, 2020]]
+    - Event:: Roam Book Club 2
+    - Time:: 15:30-17:30 ET
+    - Recording:: [Link](https://roamresearch.com/#/app/roam-book-club-2/page/MasUJzKjO)
+- Sunday, [[December 6th, 2020]]
+    - Event:: Roam Book Club 2
+    - Time:: 15:30-17:30 ET
+    - Recording:: [Link](https://roamresearch.com/#/app/roam-book-club-2/page/MasUJzKjO)

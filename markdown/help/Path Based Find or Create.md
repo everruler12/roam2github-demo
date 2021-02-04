@@ -1,0 +1,9 @@
+- Key Things to Know
+    - Open by pressing `Ctrl-Shift-9` aka `Ctrl-(` while focused on a block
+    - Tab or Enter - will add an item to the path
+    - Delete will move you back up the path
+    - Enter (when there is no text in the search field)
+        - Will reference the last block in the path
+- Use Cases::
+    - Placing new items on another page, then referencing them in your current context
+        - Without breaking flow
