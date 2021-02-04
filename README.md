@@ -51,7 +51,7 @@ This will backup Markdown, JSON, and EDN!
     
     - Unknown cause. Test with a different graph. Let me know if it happens consistently.
     
-    - You graph is too large to be loaded within the backup timeout (default set to 10 minutes). This is highly unlikely, as it shouldn't take 10 minutes to load. (If you still think this is the case, you could try increasing the timeout in main.yml)
+    - You graph is too large to be loaded within the backup timeout (default set to 10 minutes). This is highly unlikely, as it shouldn't take 10 minutes to load. (If you still think this is the case, you could try increasing the timeout in main.yml and adding the `TIMEOUT` env setting as explained here: [Extra Options](https://github.com/everruler12/roam2github#extra-options))
 
 - `R2G ERROR - EDN formatting error: mismatch with original`
 
