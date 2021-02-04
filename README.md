@@ -1,10 +1,12 @@
 # roam2github-demo
 
-## Don't fork this demo repo to use for your backups!
+## New users: Don't fork this demo repo to use for your backups!
 
-Because the test backups will be included (my public graph and Roam's help database), and your backups will be public. You should create your own **private** repo and copy the code from main.yml. If you don't know how, a full guide is coming soon (based on my old [guide](https://eriknewhard.com/blog/backup-roam-in-github) for roam-to-git)
+The demo backups will be included, and your backups will be public. You should create your own **private** repo and copy the code from main.yml. A full guide on how to do this is coming soon (based on my old [guide](https://eriknewhard.com/blog/backup-roam-in-github) for roam-to-git)
 
 ---
+
+## Roam-to-git users: easy update
 
 For those who are having issues with [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git/) in GitHub Actions, try my new solution:
 
