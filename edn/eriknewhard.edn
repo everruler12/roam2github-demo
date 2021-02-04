@@ -3489,6 +3489,7 @@
   [1615 :edit/time 1611266119646 536875647]
   [1615 :edit/user 1 536875711]
   [1615 :node/title "Source" 536875647]
+  [1616 :block/children 1670 536875814]
   [1616 :block/uid "hQ5otlaJk" 536875654]
   [1616 :create/time 1611266131909 536875654]
   [1616 :create/user 1 536875711]
@@ -3730,8 +3731,8 @@
   [1644 :version/id "0.8.1" 536875737]
   [1644
    :version/nonce
-   "uuid7ee6a4d6-5b5c-44ea-985f-c96a4637cc3c"
-   536875811]
+   "uuid4dfe72bf-9ca0-4bf0-9b53-73fa26c7a5d7"
+   536875820]
   [1645 :block/children 1657 536875805]
   [1645 :block/uid "02-01-2021" 536875738]
   [1645 :create/time 1612141297443 536875738]
@@ -3874,9 +3875,19 @@
   [1668 :block/order 0 536875797]
   [1668 :block/page 1659 536875798]
   [1668 :block/parents 1659 536875798]
-  [1668 :block/string "" 536875810]
+  [1668 :block/string "" 536875813]
   [1668 :block/uid "XJWOCdv0f" 536875797]
   [1668 :create/time 1612425369187 536875797]
   [1668 :create/user 1 536875797]
-  [1668 :edit/time 1612425405234 536875810]
-  [1668 :edit/user 1 536875797]]}
+  [1668 :edit/time 1612425405234 536875813]
+  [1668 :edit/user 1 536875797]
+  [1670 :block/open true 536875814]
+  [1670 :block/order 0 536875814]
+  [1670 :block/page 1616 536875815]
+  [1670 :block/parents 1616 536875815]
+  [1670 :block/string "" 536875820]
+  [1670 :block/uid "zoROsjOj6" 536875814]
+  [1670 :create/time 1612457961115 536875814]
+  [1670 :create/user 1 536875814]
+  [1670 :edit/time 1612458174714 536875820]
+  [1670 :edit/user 1 536875814]]}

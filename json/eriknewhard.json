@@ -4114,11 +4114,25 @@
   {
     "create-time": 1611266131909,
     "title": "Tim Han",
-    "uid": "hQ5otlaJk",
-    "edit-time": 1611266131912,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1612457961115,
+        "uid": "zoROsjOj6",
+        "edit-time": 1612458174714,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "hQ5otlaJk",
+    "edit-time": 1611266131912,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
