@@ -41,15 +41,13 @@ This will backup Markdown, JSON, and EDN!
     
     Make sure you're not using a Google account login, as this is not supported. (If you are, sign out of Roam, and on the sign-in page, click "Forgot your password" to set a password.)
     
-- Timed out with `R2G astrolabe spinning...`. Possible causes I can think of:
+- Timed out with `R2G astrolabe spinning...` then `Error: The operation was canceled.` Possible causes:
 
-    - Roam's servers timed out. Try re-running the job later.
+    - The most common reason is your `R2G_GRAPH` secret is incorrect. Try updating it (make sure it's only the graph name, not a URL)
 
-    - Your `R2G_GRAPH` secret is incorrect. Try updating it (make sure it's only the graph name, not a URL)
+    - Roam's servers happened to timeout. Try re-running the job later.
     
-    - You don't have permission to view that graph. (I have been able to get it stuck on the spinning astrolabe when trying to backup someone else's private graph, or using random characters as the graph name in `R2G_GRAPH`)
-    
-    - Unknown cause. Test with a different graph. Let me know if it happens consistently.
+    - You don't have permission to view that graph (in case of trying to backup up someone else's graph).
     
     - You graph is too large to be loaded within the backup timeout (default set to 10 minutes). This is highly unlikely, as it shouldn't take 10 minutes to load. (If you still think this is the case, you could try increasing the timeout in main.yml and adding the `TIMEOUT` env setting as explained here: [Extra Options](https://github.com/everruler12/roam2github#extra-options))
 
