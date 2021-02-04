@@ -4,7 +4,7 @@
 
 The demo backups will be included, and your backups will be public. You should create your own **private** repo and copy the code from main.yml.
 
-### **Main README with full instructions and explanations at https://github.com/everruler12/roam2github**
+### [Click here for the main README with full instructions and explanations](https://github.com/everruler12/roam2github)
 
 ## Roam-to-git users: simply update your existing repo
 
