@@ -1,0 +1,8 @@
+- Name: Dr. Sally S. Mudiamu
+- Institution: Portland State University, Portland, Oregon USA
+- Website: www.internationaledfutures.com
+- Notes:
+    - Had one-on-one consultation with Sonke Ahrens and happy to share what I learned
+        - Key takeaway was focus on three main projects at one time 
+        - He is not against highlighting (as in the book); he uses Kindle to read and transfer notes
+        - A good app for moving hightlights from Kindle to Roam is https://coda.io/@chris-prinz/kindle-highlights-migrator

@@ -1,0 +1,14 @@
+- Website:: [jeffreybwest.com](http://jeffreybwest.com/)
+- Company:: [Moffitt Cancer Center](https://moffitt.org/)
+- Link to something I find interesting:: 
+- Fleeting Notes::
+    - Maybe it's less important to take great notes, but to put into practice. Rather than writing another paper, change what you are doing.
+    - Granularity at the block level. But you can link it to the previous block. Distinguish between different types of links between blocks/zettles.
+    - One hashtag only: index only.
+- 
+- You can replace a block with text & an alias, so it links back to the original with an astrisk.
+- Example:
+    - This note is presumably related to the first, but I've changed the text inside and left the reference. [*](((QSFWeWPx5)))
+    - This note is presumably related to the SECOND. [*](((P6k9fm3eG)))
+- 
+- 

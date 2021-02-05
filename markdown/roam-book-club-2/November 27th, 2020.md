@@ -1,0 +1,12 @@
+- #Video [[Roam Portal]] Amazing demonstration from last week from [[Dharam Kapila]]
+    - {{iframe: https://www.loom.com/embed/717fa8b788844c23aa08dd7d448bf0bf}}
+    - 
+- ^^**I'm interested in the historical perspective and evolution of note taking, in the greek,roman, middle ages, renaissance, belle epoque, industrial revolution, the baby boomers pre internet and now in the digital age**^^ {{[[r/moved]]}}[*](((JZa0zOgRo)))
+- **How are we notetaking in the information abundance age?** {{[[r/moved]]}}[*](((gaoi11DNq)))
+- ^^**I'm interested in the historical perspective and evolution of note taking, in the greek,roman, middle ages, renaissance, belle epoque, industrial revolution, the baby boomers pre internet and now in the digital age**^^ {{[[r/moved]]}}[*](((JZa0zOgRo)))
+- #Video [[Mike Kramer]]'s very thoughtful reflections on Zettelkasten and the progress from Book Club 1
+    - {{iframe: https://www.loom.com/embed/df5a997c45f041378d07eec0dbb7d273}}
+    - 
+- #Video [[Example Zettel structure and overview]] 
+    - {{iframe: https://www.loom.com/embed/3d74bae3f40e470196a72ae603968924}}
+    - 

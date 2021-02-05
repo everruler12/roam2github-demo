@@ -1,0 +1,11 @@
+- Twitter:: [@jtth](https://twitter.com/jtth)
+- Website:: [https://jtth.net](https://jtth.net)
+- Pronouns:: they/them
+- Book Club 1 member? (y/n):: n
+- [[Book Club Live Session 1]]
+    - [[Goals]]
+        - I'm interested in figuring out how people relate to this kind of information. It seems like a lot of people in technology don't want to "lose" information and want to connect things for the sake of connection, rather than for the sake of something else that mediates the meaning and valence of those connections. Roam especially seems to evoke this sense of the means of connecting as a kind of end in itself, and I think that's potentially dangerous and misleading. There's a way of relating to technology as an end that scares me, so I'm interested in disambiguating the means of externalizing thought and persisting that externalization through time from the end of what that thought serves.
+        - I'm also interested in meeting people who are interested in this stuff. I've been using these systems for 16 years in one form or another and most of the obsession with them has more to do with a yearning for a simple solution to life's complexities. I finally feel like I have a handle on my expectations for systems like this (which I why I got the Believer package) and need to settle into one, because the commitment is far more important than the particular differentiating affordances of the system. But I rarely have anyone to talk with about my thoughts about these systems.
+        - I'm fascinated by the way other people use Roam, particularly the way people implement their habits of writing literature notes and converting those into their own zettels. Namespaces? Indexes? Blocks? Transclusion? Roam has a lot of affordances and a simple system is going to eschew most of them.
+- [[Book Club Live Session 2]]
+    - I did not attend.

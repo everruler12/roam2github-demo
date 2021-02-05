@@ -1,0 +1,25 @@
+- Favourite books:: How to Read a Book
+- Link to something you find interesting:: this story http://mindingourway.com/the-value-of-a-life/
+- Book Club 1 member? (y/n):: n
+- 
+- How to Take Smart Notes::
+- Fleeting Notes:: 
+- Literature Notes::i
+- [[Book Club Live Session 1]]
+    - [[Questions for Sönke]]
+        - How do you see the **world in 10+ years** when the **Zettelkasten** mindset has been **well established**? Maybe in a similar way the shipping container is now widely used, what will "widely used Zettelkasten" look like?
+    - [[[[Goals of Book Club]]]]:
+        - bad
+            - Reconnect with the ideas
+        - good
+            - individual
+                - actually start a morning writing practice
+                - decide whether I want to meticulously keep a # evergreen on the start of every page or just do it anarchistically
+                - actually come up with a topic I care about and start thinking about it in Zettel kasten
+                    - maybe try to answer the question:
+                        - how to integrate note-taking and spaced repetition?
+            - collective
+                - figure out best practices on how to do multiplayer Roam
+                - collect suggestions for improvements and send them all to the Roam team
+            - random
+                - meet someone new, make a friend

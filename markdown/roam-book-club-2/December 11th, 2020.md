@@ -1,0 +1,4 @@
+- "The slip-box is a conversation partner, able to engage the user to structure & develop thoughts and ultimately to generate ideas. [*](((BjFRHwXXy)))"
+- {{[[embed]]: ((((lMHacntJH))))}}
+- 
+- 

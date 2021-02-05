@@ -1,0 +1,39 @@
+- Name:: Wilbert Matthew C Dimaculangan
+- Website:: 
+- Email:: wilbert_dimaculangan@dlsu.edu.ph
+WilbertDimaculangan@gmail.com
+- University:: De La Salle Manila 
+- Literature Notes::
+    - "Structure will make writing simpler [*](((N9B8GYzJr)))"
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- [[Fleeting Notes]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - the book is about creating a workflow specific to writing and notetaking [*](((59-bYYcu-)))
+        - Structure will make writing simpler [*](((N9B8GYzJr)))
+            - This reminds me of a [video by Ted Ed on [[creative constraints]]] 
+                - {{[[youtube]]: https://www.youtube.com/watch?v=v5FL9VTBZzQ}}
+            - Less time looking for the input and producing the output (i.e. either a [[Digital Garden]] or a published work)
+        - The Problem is not the topics we want to write but the difficulty of having a consistent writing routine [*](((lz_jy3Uyg)))There is a difference between having structure and having a plan or plans of something [*](((e5t8EGtoY))
+        - There is a difference between having structure and having a plan or plans of something [*](((e5t8EGtoY)))
+            - Planning should be avoided in writing  
+                - it forces you to be inflexible
+                - necessitates the use of [[willpower]] 
+                - Assumes that insight can be generated out of thin air
+                    - Insights are generated from a state of distraction (see David Perell 3Blue1Brown podcast episode)

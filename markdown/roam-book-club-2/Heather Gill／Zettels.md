@@ -1,0 +1,33 @@
+- #Zettels [[Efficient workflows are enjoyable and rare, flow states often set you up for success in the long run]]
+    - #[[Literature Notes]] [Chapter 8. Let The Work Carry You Forward](((RK0T2uHBh)))
+    - #[[Literature Notes]] [Source material](((aNpVTHWzy)))
+        - Workflow can help or hinder us, if we can mimic an exothermic reaction we gain momentum and enjoy the process, energized throughout.
+        - More literature notes here 
+        - Going into more detail 
+    - #[[Fleeting Notes]]
+        - He's using a narrative
+            - He's asking us to go back to school
+        - Workflow 
+            - Working in a chronological order
+            - Fitting things together
+        - Efficiency
+            - Vs. Effectiveness like LED vs Old school lightbulb
+            - Output is the same, but one uses way les senergy
+            - We are energy saving devices
+        - Bureaucracy 
+            - Levels of hierarchy 
+            - Governed by rules and regulations
+        - Inefficiency
+            - Energy wasted, leakage
+            - Doing something that's not straighforward
+            - Non-common sensical
+        - Work is draining
+            - Common affair
+                - Micro-management is draining 
+        - Losing all the time
+            - Luck never seems to go there way
+            - Some people just have luck against them
+        - Getting in the groove
+            - Flow state
+                - Enjoying your activity
+                - Time goes away

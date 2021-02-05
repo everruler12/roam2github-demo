@@ -1,0 +1,45 @@
+- Name:: [[Karson Chrispens]]
+- **Email**:: karson.chrispens@gmail.com
+- **Twitter**:: [@karsonchrispens](www.twitter.com/karsonchrispens)
+- **Interests**:: [[Reading]] [[creativity]] [[STEM]]
+- Book Club 1 member? (y/n):: Yes
+- Favourite books::  [[One Flew From the Cuckoo's Nest]] by [[Ken Kesey]]
+- Link to something you find interesting:: https://www.youtube.com/watch?v=dd6CQCbk2ro
+- Website:: no website yet unfortunately.
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+    - Quick note: It feels as if there's a resistance for me in creating these permanent notes, almost as if it is easier to keep my "notes" in my head. It definitely is, but it keeps them unformed and amorphous. Writing is thinking, as everyone says, so I need to get over that.
+    - Fleeting notes: literally anything and everything.
+    - "Whenever he added a note, he checked his slip-box for other relevant notes to make possible connections between them. Adding a note directly behind another note is only one way of doing this. Another way is by adding a link on this and/ or the other note, which could be anywhere in the system. This very much resembles, of course, the way we use hyperlinks on the internet. But, as I will explain later, they are quite different and it would be rather misleading to think of his slip-box as a personal Wikipedia or a database on paper. The similarities are obviously there, but the subtle differences are what makes this system unique."
+        - Built from the ground up, as Sonke says. Earlier in life I tried really hard to force some sort of organizational structure on my brain and retrieval, and that really didn't work at all. Mind palace is still effective though, and could have huge potential for exploring these sorts of networked connections.
+- **Cool Stuff from Browsing the Graph:**
+    - #Reply[[Mike Kramer]] When you are reading very difficult texts, there might be better strategies to use than highlighting. You might try:
+        - First, read through the article once, to get a sense of the whole without any concern for the details. In your case, that would probably mean paying special attention to the abstract, charts and tables, and, perhaps, the conclusion.
+        - Second, go through it more slowly. If you come to a part that you think might be important to you someday do any or all of the following:
+            - close the window with the journal article
+                - then either
+                    - say to yourself, in your own words, the main idea of what you thought was important, or
+                    - write down that idea
+                - if you're like me, you probably will not be happy with what you came up with. Then:
+                    - reread the passage and repeat above.
+                - these are forms of "retrieval practice" which is a very efficient learning method (see [[Jeffrey D. Karpicke]]). The problem is that most human beings are poor judges of which methods are most effective for knowledge-retention, so they tend not to use retrieval practice.
+        - This is more work than highlighting and you might decide that it's not worth it. But then, it probably wasn't worth it to highlight.
+        - ^^My note: This retrieval practice is really helpful, and something I want to remember. SRS?^^

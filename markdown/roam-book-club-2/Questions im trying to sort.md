@@ -1,0 +1,3 @@
+- What are examples of "good" fleeting notes that help flow into permanent notes more effectively.
+    - I have typically been underlining and then just jotting down things as I go but im having trouble knowing what the next step of this process looks like
+- Good permanent note templates?

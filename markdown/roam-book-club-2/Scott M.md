@@ -1,0 +1,11 @@
+- curly hair specialist 
+- www.curlyhairartistry.com
+- @scottmusgravehair
+- Entrepreneur, online course creator
+- Fitness, Family, Faith
+- Marketing, health, business & Entrepreneurial books
+- I help hairstylists around the globe to learn how to cut and work with curly hair. 
+- I have online courses teaching people how to manage their wavy & curly hair. 
+- I love to journal and bought How To Take Smart Notes and find it very useful 
+- 
+- 

@@ -1,0 +1,44 @@
+- Marisol Im::  Carol Leather
+- Breakout Group Number - X
+(fill this in for your X!)
+    - What did your group talk about?::
+    - Any questions for the book club as a whole?::
+    - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+- **Book Club 1 member? (y/n):** N
+- About Me
+    - Website:: https://www.needlework-tips-and-techniques.com (one of 6 that I own)
+    - Twitter:: @cazza42
+    - e-mail:: carol.leather@gmail.com
+    - Pronouns:: She/her
+    - Location:: Cambridgeshire, UK
+    - Interests:: drawing, needlework, reading, wildlife photography, birdwatching, gluten-free diet, mindmapping
+    - Company:: X-Calibre Designs (my own company) 
+    - Day job:: Co-Team Leader Technical Support (web software company)
+- [[Goals for Book Club]]
+    - I have been using Roam for a couple of months, but I would like to make better use of it to create articles for my sites. 
+    - I am interested in learning how to collate information to use for this, and how to structure and process those notes using the [[zettelkasten]] methods. 
+    - I wish to read and put into practice the techniques shared in [[Sönke Ahrens]] book to help me produce more content in less time, and stop procrastinating when it comes to the actual writing steps.
+    - I understand that it takes time to learn new techniques and put them into practice.
+    - Learning this alongside others seems like an ideal opportunity to learn together.
+- ...................................
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 

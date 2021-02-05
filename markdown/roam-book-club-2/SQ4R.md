@@ -1,0 +1,1 @@
+- #Chat [[Casey Gollan]] Does anyone use [[SQ3R]] or [[SQ4R]] in their work/practice? I take it that [[Sönke Ahrens]] is not a fan -- wondering if anyone here is?

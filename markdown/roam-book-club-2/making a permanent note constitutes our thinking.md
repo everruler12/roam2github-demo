@@ -1,0 +1,3 @@
+- source::
+    - Most people still think about thinking as a purely internal process, and believe that the only function of the pen is to put finished thoughts on paper. Richard Feynman once had a visitor in his office, a historian who wanted to interview him. When he spotted Feynman’s notebooks, he said how delighted he was to see such “wonderful records of Feynman’s thinking.” [*](((BernhIBab)))
+    - "“No, no!” Feynman protested. “They aren’t a record of my thinking process. They are my thinking process. I actually did the work on the paper.”"

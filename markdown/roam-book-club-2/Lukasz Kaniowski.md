@@ -1,0 +1,33 @@
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Learn how to collaborate in roam
+        - Learn how to apply Sonkes tips in my note taking
+- [[Book Club Live Session 3]]
+    - ""
+        - {{[[TODO]]}} **Section 1 Writing Session**
+            - {{[[POMO]]: 15}}
+                - Pick from the prompts below
+                    - Define a literature note in your own words.
+                    - How do you take literature notes? Discuss your method.
+                    - 
+                    - Have you found value in taking literature notes already?
+                    - What struggles have you had implementing literature notes?
+                    - Describe any enlightening moments you had while taking literature notes.
+        - {{[[TODO]]}} **Section 2 Breakout rooms**
+            - {{[[POMO]]: 5}}
+                - Read everyone in your room's answers to the prompts above
+            - {{[[POMO]]: 15}}
+                - Discuss each other's answers
+        - {{[[TODO]]}} **Section 3 Block References**
+            - Demonstration of block references for literature notes in Roam
+            - Group block reference exercise
+        - {{[[TODO]]}} **Section 4 Breakout rooms 2**
+            - {{[[POMO]]: 10}}
+                - Literature note writing exercise
+                    - Take any 2-3 blocks from the book and summarize them
+            - {{[[POMO]]: 10}}
+                - Teach everyone else in your room what you learned from the blocks you summarized and the exercise
+        - {{[[TODO]]}} **Section 5: This coming week**
+            - Finish taking literature notes this week
+                - If you are done, and want to start zetteling, just use the `#zettel` tag on any block you want to make a zettel
+            - We will discuss zetteling next session!

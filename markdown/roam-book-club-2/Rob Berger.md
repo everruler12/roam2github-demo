@@ -1,0 +1,27 @@
+- Name:: Rob Berger
+- Website:: https://robberger.com/
+- Fleeting Notes:: 
+- Literature Notes::
+    - ((((NWs_b4xIQ))))
+        - How much to add to any given note. One idea for each note sounds good, but in practice, it's very difficult. And if you break ideas down, you end up with many notes linked together for something that might be better in a single note.
+            - Agreed! Another constraint I've found helpful is: think about what could fit on an index card -- even if you have unlimited space on a digital doc. I also found the Kant quote memorable: Have the courage to use your own understanding! And Ahren's reminders to "not worry about it" when it comes to these kinds of "blocker" feelings. You can always split up big notes later? Or merge multiple notes into one meta-note?
+        - How much detail to go into with a [[Literature Note]]. I started by taking detailed notes on a book. The time involved, however, may not be justified based on the benefits. I'm now trying to avoid simply moving content from one source (a book) to another (Roam). If I need to look up data, Roam will have the info I need to find it in the book/article.
+            - [[Rob Berger]] I think Ahrens makes a great argument against just archiving and searching a database of quotes. Translating quotes into your own words forces you to self-test: "Do I really understand this?" 
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]

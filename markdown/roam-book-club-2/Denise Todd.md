@@ -1,0 +1,112 @@
+1. General Info 
+    - Breakout Group Number - X
+(fill this in for your X!)
+        - Who was in this group on 11.1.20:: Unable to attend first session
+        - What did your group talk about?::
+        - Any questions for the book club as a whole?::
+        - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+    - Website:: https://denisetodd.com 
+    - **Company:** Author, Non-fiction, and Fiction- Thriller/mystery 
+    - **Favorite Authors:** John Irving, Salman Rushdie, Philip Roth
+    - **Twitter:** @denisehtodd
+    - **email:** peaceful.az@gmail.com
+    - **website:** https://denisetodd.com]
+    - **Interests:** critical thinking, learning, writing, reading, software, drawin
+2. Daily Page postings 
+    - It's been suggested that fleeting notes lead to literature notes, which lead to Permanent notes.  That linear construct has been uncomfortable for me so I decided to challenge that construct. This is not to say that this construct doesn't work well for others, just for me, I think the construct could be developed to even better leverage both the power of ROAM and the power of Zettlekasten even more. This is my draft attempt at that and I'd love feedback on what you think works, and what doesn't
+    - My theory is that the relationship between fleeting notes, literature and permanent notes is not linear, nor hierarchical but dimensional.  
+        - Per [[Sonke] -- 
+            - [*](((BL5wHnXDF))) Fleeting notes are only reminders of information 
+            -  [*](((pZ1dkTn5N))) Should not cause distraction
+            - Should enable you to focus on the reading
+            - [*](((pZ1dkTn5N))) You can skip fleeting notes and go write to Permanent Notes if the thought is already fully formed. 
+        - Upon review of your fleeting notes, you can do five things (in good GTD fashion) --
+            - 1.  ^^Trash them ^^
+                - They had not real value to begin with, or
+                - You wrote it so poorly that it has no meaning when you review it 
+            - Turn it into a ^^Literature note ^^
+                - For notes that were a reminder of something specific to this book (or other media), turn the fleeting not into a literature  note.  
+                - For notes that were a trigger for thoughts related to another book - also turn into a Literature Note but reference both this book (as it triggered the thought for a reason) and the original book it referred to.  This likely might me more of a permanent note depending on the thought development and importance 
+            - Turn it into a ^^Permanent Note^^ - for more fully developed thoughts of importance.  Will have multiple sources linked not just the one fleeting or literature note. 
+            - ^^Turn it into a Todo^^ - likely something that relates to an AREA of responsibility (if I'm using Forte's turn correctly).  It might be a todo, or other type note you want to track for an Area.  These are the random thoughts that pop up during the reading, or anytime during the day of things you need to do or track.  
+            - ^^Combine it ^^with other fleeting notes, and then process it as above into a Literature or Permanent or Todo. 
+        - Here is a visual - but I warn you, I'm not artist (where is [[Maggie Appleton]] when you need her?? 😉
+            - https://www.dropbox.com/s/7h0s9yjlyzdnjsf/FleetingNotes.ppsx?dl=0
+3. Book Notes 
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - #Literature An idea kept private will be usurped by someone else for all ideas are out (i.e. public) there but only a few people have the gumption to act upon them.  
+                - This book is based on another assumption: Studying does not prepare students for independent research. It is independent research. Nobody starts from scratch and everybody is already able to think for themselves. Studying, done properly, is research, because ^^it is about gaining insight that cannot be anticipated ^^and will be shared within the scientific community under public scrutiny. There is no such thing as private knowledge in academia. ^^#quote An idea kept private is as good as one you never had.^^ ^^And a fact no one can reproduce is no fact at all.^^ Making something public always means to write it down so it can be read. There is no such thing as a history of unwritten ideas. [*](((5Bxb_J2dj)))
+            - #Literature Students are not taught to question teachers but to accept what they are saying as fact. Thus, they learn to obey, to follow but not to think for themselves or to lead.  This fits well into the [[one world]] concept, which take a very long term view. #learning #leadership
+                - (^^School is different. Pupils are usually not encouraged to follow their own learning paths, question and discuss everything the teacher is teaching and move on to another topic if something does not promise to generate interesting insight. ^^  [*](((U0_AKhDHt))))
+            - #Literature No learning is lost. It may not apply today but if you're reading / listening to things that matter to you, it will likely apply in the future.  Having an objective for a lecture or book is good, but your insights should not be limited by such an objective. Keep your mind open to the possibilities, which is consistent with the idea of #fleeting notes. 
+                - ^^Having a clear, tangible purpose when you attend a lecture, discussion or seminar will make you more engaged and sharpen your focus. You will not waste your time with the attempt to figure out what you “should” learn. ^^[*](((9LdD6VzxA)))
+            - #Literature Chapter Five Writing is the only things that matter -- Reading, learning, researching, and writing are all intertwined and cannot be considered separate and distinct process. 
+            - #Zettles Learning requires writing. 
+                - Justification:  My mind is not capable of remembering every detail, much less deriving insights from connecting details (some of which may be months or even years old).  It is the act of reading with a purpose and recording our thoughts provoked by the reading where true learning happens.  
+                -  References: "#Literature Chapter Five Writing is the only things that matter -- Reading, learning, researching, and writing are all intertwined and cannot be considered separate and distinct process. "
+                - Reference: By writing, students demonstrate what they have learned, show their ability to think critically and ability to develop ideas. [*](((rfxlhKub4)))
+                - Reference:  You quickly learn to distinguish good-sounding arguments from actual good ones, as you will have to think them through whenever you try to write them down and connect them with your previous knowledge.[*](((9LdD6VzxA)))
+        - [[Chapter 6. Simplicity is Paramount]]
+            - #Literature Big ideas start small, so small that they are often not noticed. 
+                - ^^We tend to think that big transformations have to start with an equally big idea. But more often than not, it is the simplicity of an idea that makes it so powerful (and often overlooked in the beginning)^^. [*](((Zo2Uaa6y3)))
+            - #Literature Change fails when the change is integrated into existing processes and infrastructure.  This is true for innovation of any kind, in any discipline.  Without this consideration it is analogous to a software "patch" , or workaround, or in medical terms treating the symptom rather than the disease.  #change #innovation #process
+                - ^^The ship owners tried to integrate the container into their usual way of working without changing the infrastructure and their routines. They tried to benefit from the obvious simplicity of loading containers onto ships without letting go of what they were used to.^^ [*](((9eRcB8Tey)))
+            - #Literature When reviewing a process, consider the overall objective of the process, not just the view of a subset.  Such as when businesses create processes that revolve around product's net value to the bottom line without consideration of the customer experience, or legal or compliance considerations.  #process  
+                - ^^McLean understood better than others that it is not the perspective of the ship-owners that counts, but the purpose of the whole trade: to bring goods from the producer to the final destination. ^^[*](((9eRcB8Tey)))
+            - #fleeting #DTNoodle Not sure I understand how fleeting notes should be deleted after processed - within a day or two.  If that is true, then I shouldn't be tagging them at all - other than to say they are fleeting. But to me, they are concepts for future thought??  The same goes for "Project Notes" which, according to Sonke should be deleted as well when the project is finished.  I would agree with the outlines, todo, reminder related to the project but not the collection of project-related literature notes.  I would think these could be used again in other projects? 
+                - "1. Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two."
+            - #fleeting #DTNoodle Since literature notes are notes in your own words and build up to a permanent note, then there really should be many of them (unless of course, the work is highly technical or dense.) Not sure if this is true - need to noodle. 
+                - Author talks about three types of notes: Fleeting, Permanent, and Project, but doesn't reference Literature notes. ( 6).  A couple of paragraghs later [*](((wmFEVrD5o))) he state that "a fleeting literature note can make sense if you need an extra step to understand or grasp an idea." In the next block [*](((sA3wOx9on))) he statues that "The only permanently stored notes are the literature notes in the reference system and the main notes in the slip box.  
+            - #Literature Chapter Six Simplicity is Paramount - Garbage in, garbage out.  The note-taking system cannot be filled with unimportant notes, but filled only with key thoughts, succinctly written in my own words that can be used directly into other works such as an article.  As having an objective when reading is important, so is the objective of each type of note.  Understanding the difference between Fleeting, Literature, Permanent and Project notes adds value to the information by reducing noise and clutter. 
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+4. Live Session Notes [[November 15th, 2020]]
+    - "Define a literature note in your own words."
+        - Literature notes are an elaboration of concepts in the text, but in my own words, while still trying to retain the original meaning.   They are personal to my insterests.  Lit Notes answer questions like - what does this mean to me -- how can this be applied in other disciplines, what if it weren't true, what if the opposite was true, can the opposite be true at the same time. 
+    - "How do you take literature notes? Discuss your method."
+        - Read, Underline, short/fleeting notes, reread short notes, ask the questions above (in addition to -- does this apply to any projects I'm currently working on), and write.
+    -  "What struggles have you had implementing literature notes?"
+        - Not changing the meaning - which is inherent in this process to some extent. 
+        - Taking the time to do it right 
+        - Prioritizing the important/critical from the fascinating and/or irrelevant.  It's analogous to surfing the web - you go to look for one thing, and end up looking at 10 other unrelated but very interesting things. There can be value in that - but most of the time it's a FWOT.  I can ponder on a note for a while and go down different rabbit holes.  I have to stop and remind myself why I thought this was significant in the first place and realign my thinking. 
+    - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)"
+        - Control and familiarity do not equate to skill and can be a determent to change. Thus, change of habits is difficult, not only because change is never easy but also because we don't want to relinquish control. 
+5. Live Session Notes [[November 15th, 2020]]
+    - "Define a literature note in your own words."
+        - Literature notes are an elaboration of concepts in the text, but in my own words, while still trying to retain the original meaning.   They are personal to my insterests.  Lit Notes answer questions like - what does this mean to me -- how can this be applied in other disciplines, what if it weren't true, what if the opposite was true, can the opposite be true at the same time. 
+    - "How do you take literature notes? Discuss your method."
+        - Read, Underline, short/fleeting notes, reread short notes, ask the questions above (in addition to -- does this apply to any projects I'm currently working on), and write.
+    -  "What struggles have you had implementing literature notes?"
+        - Not changing the meaning - which is inherent in this process to some extent. 
+        - Taking the time to do it right 
+        - Prioritizing the important/critical from the fascinating and/or irrelevant.  It's analogous to surfing the web - you go to look for one thing, and end up looking at 10 other unrelated but very interesting things. There can be value in that - but most of the time it's a FWOT.  I can ponder on a note for a while and go down different rabbit holes.  I have to stop and remind myself why I thought this was significant in the first place and realign my thinking. 
+    - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)"
+        - Control and familiarity do not equate to skill and can be a determent to change. Thus, change of habits is difficult, not only because change is never easy but also because we don't want to relinquish control. 
+6. Meetup [[November 18th, 2020]]
+    - Maggie website - 
+        - Denise - this isn’t her website, but it is a video of her doing a “Roam Research Tour” which I found incredibly helpful https://www.youtube.com/watch?v=RXXXHN516qc 
+        - [[Maggie Appleton]]
+            - https://maggieappleton.com/garden/ 
+    - Beau talkling about process 
+        - Must have source
+        - Analogy of Gas (fleeting), liquid (literature), solid permanent note
+        - [[Fleeting Notes]] on lion and mouse
+            - Size and strength do not determine value. 
+            - Everyone has something to offer -- you can learn from anyone.
+        - How you structure it (one of the five fundamental issues of roam??)
+            - 

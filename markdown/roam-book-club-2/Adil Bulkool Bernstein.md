@@ -1,0 +1,42 @@
+- Name:: Ádil Bulkool Bernstein
+- Book Club 1 member? (y/n):: n
+- Work:: Psychologist #Psychology
+- Interests:: #Psychology #Philosophy #Psychoanalysis #[[note taking]] #reading #academia #academic
+- How to Take Smart Notes::
+    - [[Afterword]]
+- [[Breakout Room 12]]
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Reading and learning in first-hand about the [[zettelkasten]] process
+        - Master writing in Roam, deepening my usage of it, especially regarding academic reading, research and writing. #academic #academia
+        - Get more lucid and structured about note-taking, therefore I can take a true step forwards roaming.
+        - Get inspired by other roamans usage styles and implement those I find more intersting.
+        - Meeting other #academic / #academia interested roamans for changing best-practices
+    - [[Writing Prompts]] / [[Book Prompts]] --> ("rand") ([[plugins/(rand)]])
+    - #[[November 1st, 2020]]
+        - Sonke> O interessante de usar o Roam para as anotações é a capacidade de escrever notas mais longas, por conta da granularidade dos blocos.
+        - Densidade e granularidade - critérios para a criação de uma nova nota.
+        - Permanent Notes as clusters
+        - Individual vs Collective Zettling
+            - Familiarity possible in the individual level, not possible in the collective level.
+            - [[Sönke Ahrens]] expresses his curiosity about the collective perspective on zetteling
+        - Fleeting Notes são anotações breves a partir do primeiro contato com o livro.
+        - Fases [[Schedule ]]
+            1. Ler, Marcar, Anotar
+            2. Explorar conceitualmente o livro e interagir com o livro original, a nível de bloco. (Semanas 2 e 3)
+                - Ex.: Copiar trechos para a estrutura do livro copiado acima e comentando.
+                - 
+- Olhar: [[Schedule ]] e [[Roam Book Club]]
+- Looking for brazilians (#Brazil) to #Meetup #Chat
+    - Oi [[Ronaldo Batista]]
+    - Couldn't find Patrícia Pimenta's page, who showed in the zoom chat near the end.
+    - [[Ronaldo Batista]] [[@Adil Bulkool Bernstein]]. That's nice to have fellow Brazilians here. Yes, I would love to meetup, chat or zoom. I'm still getting used to Roam though, I don't even know if I'm answering you correctly.
+    - [[Bruno d'Abreu]] Hi! Brazilian here. A meetup is a great idea, altough I am not sure my timezone you facilitate it #in-response-to "Looking for brazilians (#Brazil) to #Meetup #Chat"
+    - Hi [[Ronaldo Batista]], [[Bruno d'Abreu]] and [[Patricia Pimenta Fernandes]], we could exchange contacts and try to make it happen, at least a group for exchanging insights etc. (Eu estou no fuso do Rio de Janeiro, não sei vocês?)
+        - [[Bruno d'Abreu]] I am in European Central Time, 4h ahead of Brasília right now. Estou no horário da Europa Central, quatro horas a frente do horário de Brasília
+        - [[@Adil Bulkool Bernstein]]. I am in São Paulo, Brasília Time,  the same from Rio de Janeiro. The best way to contact me is by email: ronaldokun@gmail.com. Estou em São Paulo no horário de Brasília. O mesmo horário do Rio de Janeiro. O melhor meio de contato para mim é por email: ronaldokun@gmail.com
+        - Hello guys[[@Adil Bulkool Bernstein]], [[@Bruno d'Abreu]], [[@Ronaldo Batista]]. I'm new to Roam and struggling to understand how things work (hope I'm using chat properly!). I am in Resende, RJ, same GMT as Adil, and I would love to have a couple of meet ups while we work on Ahrens' book.
+        - Hello all, I'm in Canada. Exciting about seeing more Brazilians here [[Carolina Brum]].
+- [[Live Session 3]] #[[Literature Notes]]
+    - [[Chapter 14. Make it a Habit]]
+        - Long term change is stronger with a realistic approach on the difficulties ahead. Habits and conditioning makes it harder because of a false feeling of control. [*](((x5hx3y9ay)))

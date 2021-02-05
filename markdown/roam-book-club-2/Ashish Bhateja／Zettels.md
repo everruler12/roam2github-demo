@@ -1,0 +1,36 @@
+- #Zettels [[New possibilities can be created through self sustaining workflows that allow energy to shift to discovery rather than efforts]]
+    - #[[Literature Notes]] [Chapter 8 Let the work carry you forward](((RK0T2uHBh)))
+        - Endergonic reactions drive themselves. This is akin to a workflow that pulls us along, energizing us.
+        - Our work, when self sustaining, adds energy and keeps propelling us forward.
+    - #[[Fleeting Notes]] In order to change habits, we need mechanisms that self sustain. This can create greater energy (think chemical reactions). The result is new possibilities.
+        - Different ways to remember
+            - Active work
+            - Self-sustaining
+        - Effort is to move towards self-sustaining
+            - Something that which that doesn't need to be constantly remembered
+            - Something that operates on it's own
+                - It has a reason
+                - You don't have to restart it everyday
+        - Changing habits
+            - The way of thinking
+            - What I read
+            - The way I process
+            - Seeing it through a different lens altogether
+        - Moving towards an auto-mode
+            - Helps building habits
+            - Incentivized
+            - Using that to grow knowledge
+        - Lots of chemistry
+            - Chemical reactions
+            - Innocent liquid liquids and then it goes BOOM!!!
+                - I can't do that by adding power, it's the liquids coming together
+                    - Not independently
+        - Feeling more and more energy
+            - The two test tubes, the chemical reaction when the two mix
+                - That creates something you could never imagine
+                - Excitement from the color
+                    - The new world
+        - Driving you faster in a different way
+            - Somewhat linked to the energy, but it's the new possibilities
+            - Showing a world you never knew existed
+- #permanent [[Gaining critical mass of ideas that are linked increases the probability of serendipitous understanding]]

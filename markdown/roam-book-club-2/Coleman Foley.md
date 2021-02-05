@@ -1,0 +1,44 @@
+- Name: Coleman Foley
+- Website: colemanfoley.com
+- Fleeting Notes:
+    - [[Introduction]]
+        - 
+- Literature Notes:
+    - [[Introduction]]
+        - "They seem to forget that the process of writing starts much, much earlier than the blank screen and that the actual writing down of the argument is the smallest part of its development. This book aims to fill this gap by showing you how to efficiently turn your thoughts and discoveries into convincing written pieces and build up a treasure of smart and interconnected notes along the way."
+        - "Most people struggle for much more mundane reasons, and one is the myth of the blank page itself. They struggle because they believe, as they are made to believe, that writing starts with a blank page. If you believe that you have indeed nothing at hand to fill it, you have a very good reason to panic. Just having it all in your head is not enough, as getting it down on paper is the hard bit. That is why good, productive writing is based on good note-taking. Getting something that is already written into another written piece is incomparably easier than assembling everything in your mind and then trying to retrieve it from there. To sum it up: The quality of a paper and the ease with which it is written depends more than anything on what you have done in writing before you even made a decision on the topic."
+            - Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 3). UNKNOWN. Kindle Edition. 
+            - This seems to flip the naive impression of writing on its head. You don't stat with a blank page and hope for inspiration. You start with notes and develop them into something bigger.
+        - We know today that self-control and self-discipline have much more to do with our environment than with ourselves (cf. Thaler, 2015, ch. 2) – and the environment can be changed. Nobody needs willpower not to eat a chocolate bar when there isn’t one around. And nobody needs willpower to do something they wanted to do anyway. Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long- and short-term interests.
+            - Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 5). UNKNOWN. Kindle Edition.
+            - Again, not trying to __force__ writing, ideas to materialize out of thin air. Rather, building up notes over time.
+        - But what is even more impressive than the sheer number of publications or the outstanding quality of his writing is the fact that he seemed to achieve all this with almost no real effort. He not only stressed that he never forced himself to do something he didn’t feel like, he even said: “I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else.”
+            - Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 15). UNKNOWN. Kindle Edition.
+            - Again, __ease__, not strain. Flow, not force.
+        - If we work in an environment that is flexible enough to accommodate our work rhythm, we don’t need to struggle with resistance. Studies on highly successful people have proven again and again that success is not the result of strong willpower and the ability to overcome resistance, but rather the result of smart working environments that avoid resistance in the first place
+            - Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (pp. 16-17). UNKNOWN. Kindle Edition. 
+            - Recurring theme of effortless output
+        - If there is one thing the experts agree on, then it is this: You have to externalise your ideas, you have to write. Richard Feynman stresses it as much as Benjamin Franklin. If we write, it is more likely that we understand what we read, remember what we learn and that our thoughts make sense. And if we have to write anyway, why not use our writing to build up the resources for our future publications?
+            - Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 23). UNKNOWN. Kindle Edition. 
+            - Notetaking's direct and indirect benefits. Helps you understand and think as you read, then as a very nice bonus, gives you building blocks for substantial output,blog posts, essays.
+        - We constantly encounter interesting ideas along the way and only a fraction of them are useful for the particular paper we started reading it for. Why let them go to waste? Make a note and add it to your slip-box. It improves it. Every idea adds to what can become a critical mass that turns a mere collection of ideas into an idea-generator.
+            - Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 27). UNKNOWN. Kindle Edition.
+            - Taking notes expecting them to maybe be useful later -- similar thinking is common in Roam users
+        - You don’t have to read anything you don’t consider an absolute necessity for finishing your most urgent paper, but you will still encounter a lot of other ideas and information along the way. Spending the little extra time to add them to your system will make all the difference, because the accidental encounters make up the majority of what we learn.
+            - Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 27). UNKNOWN. Kindle Edition. 
+            - Again, notes as investments in the future.
+    - [[The Six Steps to Successful Writing]]
+        - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)"
+            - We overestimate our ability to change our behavior. This makes it hard to change our behavior, because we can get discouraged when it turns out not to be so easy. If we adjust our expectations to realize that behavior change is hard, we will be prepared for the difficulty and will be able to handle it.
+- 11/15/2020 [[Live Session 3]] notes
+    - "Define a literature note in your own words."
+        - A note directly from the text, specifying where it came from. Summarizing the idea.
+    - "How do you take literature notes? Discuss your method."
+        - I use the Kindle app on my laptop. I highlight sections then add notes to go with the highlighted text.
+    - "Have you found value in taking literature notes already?"
+        - Yes. Taking literature notes help me to read in a more intentional way, looking for important things to extract.
+    - "What struggles have you had implementing literature notes?"
+        - I am still figuring out the differences between fleeting notes and literature notes. It's not super clear to me. I think fleeting notes are thoughts that occur to me as I read. While literature notes are directly from the text. And they include my direct response to a specific thing in the text.
+    - Idea of entry points into areas of your zettelkasten
+    - Passively ensure resurfacing by tagging with things that will keep coming up (from Brandon Toner)
+        - Tag it with eg November 2020 so you ensure you see it in your monthly review

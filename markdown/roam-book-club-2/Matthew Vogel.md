@@ -1,0 +1,188 @@
+- Breakout Group Number - X
+(fill this in for your X!)
+    - Who was in this group on 11.1.20::
+    - What did your group talk about?::
+    - Any questions for the book club as a whole?::
+    - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+- Favorite Books::
+    - [[Book/The Magicians]]
+    - [[Book/The Name of the Wind]]
+    - [[Book/All the Birds in the Sky]]
+- Profession:: [[Architect]]
+- Twitter:: [@todayIwasbetter](https://twitter.com/todayIwasbetter)
+- Interests:: [[cooking]] [[architecture]] [[metacognition]] comedic [[improvisation]] 
+- Link to something you find interesting::
+    - Links of others I like (but have not delved into yet):
+        - [The Mind expanding ideas of andy clark](((LXmOivG4I)))
+        - "[Syntropic Farming](https://agendagotsch.com/en/what-is-syntropic-farming/)"
+        - "[Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)"
+        - [The website of Dr Jason Fox](((BHJp7Mxou)))
+- #quote
+    - [[Introduction]]
+        - __What does make a significant difference along the whole intelligence spectrum is something else: how much self-discipline or self-control one uses to approach the tasks at hand__
+            - [[October 29th, 2020]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - __Having read more does not automatically mean having more ideas. Especially in the beginning, it means having fewer ideas to work with, because you know that others have already thought of most of them.__
+            - [[October 29th, 2020]]
+    - [[1.1 Good Solutions are Simple – and Unexpected]]
+        - __"Only if nothing else is lingering in our working memory and taking up valuable mental resources can we ... focus on the work right in front of us without getting distracted by competing thoughts."__
+            - [[October 29th, 2020]]
+    - [[1.2 The Slip-box]]
+        - focus on the work right in front of us without getting distracted by competing thoughts.
+            - Tags:: [[productivity]]
+            - [[October 29th, 2020]]
+- #[[Literature Notes]]
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- #[[Fleeting Notes]]
+    - How far along am I?
+        - "#Poll How far is everyone with the capturing of #[[Fleeting Notes]]? __(entering them into this shared graph)__ {{[[slider]]}}"
+    - [[Introduction]]
+        - Most writing advices is focused on large writing but most writing happens everyday in small bits. This is the writing that is most numerous and also what we should work to perfect. Writing is the medium of understanding.
+        - Note taking is the pre-work. The ground work that we do in the time before the blank page and the deadline.
+    - [[Chapter 1. Everything You Need To Know]]
+        - [[1.1 Good Solutions are Simple – and Unexpected]]
+            - Work to lessen your [[cognitive load]] / overhead. The more you need to keep in your head the less thinking you can do. This is what a #[[note taking]] 'system' is for, scaffolding for your thoughts.
+                - How does this translate to #architecture? Does it lend itself to taking 'process' notes or maybe 'workflow' notes?
+            - Taking Smart notes boils down into two concepts: The slip box and a consistent routine.
+            - GTD from [[Getting Things Done]] works very well for tasks were the goal is clearly defined not ones (like writing or design) where the path is meandering.
+        - [[1.2 The Slip-box]]
+            - [[Niklas Luhmann]], creator of the #[[slip-box]], worked in a way that is opposite of most. __"Instead of trying to squeeze as many publications out of one idea as possible ... he [tried] to squeeze as much insight and as many ideas as possible into one publication."__ This was due to how much he read, how much he notated, and __how__ he notated; the #slip-box.
+            - Constant adjustment must be {{or: integrated into the system | allocated | planned for}}. Forcing a creative endeavor will not lead to productive output so we must always be ready to pivot and re-adjust to align with our sense of fun and keep motivation.
+            - Success is environmentally based
+        - [[1.3 The slip-box manual]]
+            - The #[[slip-box]] was the start of the [[atomic idea]]. [[Evergreen Notes]] and [[Roam Research]] have based themselves on this concept of thinking.
+                - [[Niklas Luhmann]] had a 2 card system; one with bibliographic info and brief notes and one with synthesized atomized notes
+                - 'chained' notes by hand 
+                - Cross-pollination of ideas and notes is the most powerful tool and something I am striving for [*](((k1R5hvOJl)))
+    - [[Chapter 2. Everything You Need to Do]] 
+        - [[November 5th, 2020]]
+            - the easier the capture the more likely that a fleeting note will be taken. This is why tools that are inline like #[[Hypothes.is]] and the tagging system of #Readwise are so often used.
+                - __"Frictionless input. Fantastic output."__ 
+                    - -[[Andrew Courter]]
+            - I wonder what the best balance between enjoying something and analyzing it is. I run into this problem often when I read with less of a critical eye and more for the enjoyment of the information. The shrinking of the time between consuming and thinking should help me keep the knowledge consumed.
+            - the line between fleeting and literature notes seems very thin to me
+            - asking yourself questions can allow for you to create connections and opinions [*](((y5dDNqTm7)))
+            - get rid of fleeting notes when they have transitioned into literature notes and/or permanent notes
+            - 1 note -> 1 ideas
+            - the more interested and invested in something the more you will read and the more ideas you'll collect (if you translate notes -> permeant notes)
+            - when ready to write collect connected notes (NOT quotes) and remix them
+        - [[November 7th, 2020]]
+            - Fleeting notes vs literature notes vs permanent notes
+                - {{[[embed]]: ((((qWUhCUP19))))}}
+            - what you write about can only be decided after reviewing what you already have [*](((WUwVRqAv7)))
+            - Make idea collages from your existing thoughts/notes [*](((WUwVRqAv7)))
+            - There's a conflicting idea that if you have a really good idea then it will come alone again. This seems shortsighted to me; if ideas build on each other then by not writing yours down you always start from zero.
+            - Your ideas are only as strong/useful as their connections to others
+    - [[Chapter 3. Everything You Need to Have]]
+        - [[November 7th, 2020]]
+            - pomo
+                - {{[[POMO]]: 25}}
+            - That NASA story has always bothered me. In actuality the reason that NASA didn't use a pencil is because the lead inside it conducts electricity. On the off chance that the lead broke small particles of conductive material would be floating around in space next to highly sensitive equipment 
+                - #Reply-from [[Dan Allosso]] Thanks for the detail. I wonder if the anecdotes aren't a weakness of the book? I was amused by the punchline of the NASA story, but I was a bit annoyed by the Malcolm McLean story, which I thought oversimplified the issues and painted the rest of the trucking industry as benighted and ignorant. It's easy to view innovations as obvious and inevitable after the fact, but is it helpful?
+                - #Chat [[Dan Allosso]] #Reply-from [[Matthew Vogel]] I am having similar thoughts as I read through and it's similar to discomfort I've felt reading other [[argument]]-based literature. The anecdotes feel a little like a [[straw man argument]], only there to prove the central thesis with details cherrypicked. Of course it could also be due to the not having the complete story.
+            - Be wary of conflicting [[Note-taking]] strategies that you have collected along the way. They may interact with each other in unexpectedly unhelpful ways [*](((m46GGR6-d)))
+            - [[Fleeting Notes]] work as __reminders__ of thought not actual [[thoughts]] themselves. This prioritizes capture speed
+    - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[November 7th, 2020]]
+            - **Poor way of writing:**
+find a question
+read everything relevant
+synthesize and write up your conclusion
+            - School is odd because the learning path is fixed; defined. You come to the conclusions that are laid in front of you. Independent research is **very** different.
+            - Interesting difference between public and private arguments. At what point does an idea separate from the original author?[*](((U0_AKhDHt)))
+            - creating knowledge and showing knowledge are not two separate things[*](((U0_AKhDHt)))
+            - pre-reading and studying up on the presentation topic is essential if you want to get the most ideas out of time spent in presentation[*](((9LdD6VzxA)))
+            - Connecting an idea with the rest of your knowledge can help you sus out the argument's validity[*](((9LdD6VzxA)))
+            - Elaboration in your own words helps solidify memory
+    - [[Chapter 6. Simplicity is Paramount]]
+        - [[November 7th, 2020]]
+            - [[second-order effects]] can reinforce a [[positive feedback loop]]
+            - switch from 'topic' to 'context' thinking
+                - sorting things by incidental topics like time, location, class, etc only isolates your ideas and notes
+        - [[November 8th, 2020]]
+            - pomo
+                - {{[[POMO]]: 25}}
+            - [[Tags]] are a form of 'folder' thinking
+            - the [[slip-box]] is only useful if not continuously paid attention to and curated 
+                - does this make it simpler or more complex?
+            - If everything of interest is blindly saved value is diluted [*](((7GWVsCHA5)))
+                - how is this solved
+            - Project specific silos are not the answer either. By siloing your ideas by project you are forced to start from a blank page with every project [*](((HlsQj7ZDO)))
+                - #Chat [[Thomas B.]] [I struggle with this as well](((XxWUfv7D7))) and as I read [the book]([[How to Take Smart Notes]]) have started to wonder if '#[[failure]]' even exists. 
+            - [Treating all notes as fleeting is what I have always done](((V8bEn02_W))) and a habit that, I hope, reading this book will break. Reading than re-reading takes **SO** much time
+            - I feel like there is a fourth type of [[note]], one not specifically for reference but for [[inspiration]] and [[Personal Growth]]
+- [[Goals for Book Club]]
+    - Work to a specific goal
+    - Learn how to "**Write for discoverability**"
+    - Learning and developing the multiplayer experience
+    - Start some interesting conversations 
+- [[November 1st, 2020]]
+    - "Ideas emerge from networks"
+        - [[Matt McKinlay]]
+    - Are there any Meetups for EST?
+        - {{[[mentions]]: [[Meetup]]}}
+- [Interesting blocks]([[Interesting Links]]) to review
+    - [[November 1st, 2020]]
+        - [[Conventions]]
+        - [[Chat guidelines]]
+        - "Check out Conor's videos on Youtube for a sense of it. e.g."
+        - [[plugins/(rand)]]
+        - [[Roam Book Club Principles]]
+        - [[Questions for Sönke]]
+    - [[November 5th, 2020]]
+        - Core concepts of Zettelkasten in Roam - Week 1 (Noon)
+            - "Core concepts of Zettelkasten in Roam - Week 1 (Noon) {{[[youtube]]: https://youtu.be/irKxEnEwTXw}}"
+    - [[November 6th, 2020]]
+        - "my goal is to create "chunks," or meaningfully interconnected aggregations of [[permanent notes]]. [[Sönke Ahrens]] does not use the word "chunk", but I find it quite helpful to think in those terms precisely because it, self-referentially, aggregates a lot of different claims made in the book. (For more on chunking see [[cognitive load]] theory or [[[[Barbara Oakley]] A Mind for Numbers]])"
+        - ""[[Cal Newport]] agrees in his book [[Deep Work]]. He talks about how [[routine]]s and [[ritual]]s minimize the need for [[willpower]] and reduce the number of decisions that need to be made in any given day. This frees up brain space for more important work. Rituals surrounding deep work include location and the actions that come both immediately before and immediately after. Routines and rituals provide structure: a beginning, middle, and end to the activity.""
+    - [[November 7th, 2020]]
+        - [Daniel Lüdecke’s Zettelkasten writing app](http://zettelkasten.danielluedecke.de/)
+    - [[November 8th, 2020]]
+        - [[Q: How do you help a gifted child grow and not set them up for failure?]]
+        - "Graph meditation. Reflection ideas"
+        - "**Create a world, not just encounter it**"
+            - "For many of us, Roam is a mindset shift more than a software product."
+    - [[November 11th, 2020]]
+        - [[[[walkthrough]] of how to pull a short quote]]
+    - [[January 7th, 2021]]
+        - [[spaced repetition]])
+- Misc. #thoughts while working on the [[Book Club Graph]]
+    - Looking at what [[notes]] others have written on the graph and at a block level feels like cheating somehow? 
+    - [[Inspired by Roam Research]]
+    - ""[[Introduction]]""
+- query
+    - :q [:find ?p ?seen ?r
+ :where [?b :block/uid "g7OBeK8RJ"]
+        [?b :block/string ?p]
+		[?b :edit/seen-by ?seen]
+        [?b :block/refs ?r]]
+    - :q [:find ?p ?seen
+ :where [?b :block/uid "g7OBeK8RJ"]
+        [?b :block/string ?p]
+		[?b :edit/seen-by ?seen]]
+    - :q [:find ?e-id 
+	:where [?e-id :user/display-name "Matt Vogel"]
+			[?e-id :user/uid]]
+    - :q [:find ?string ?seen ?num
+ :where [?b :block/string ?string]
+		[?b :create/email "mainmoniker@gmail.com"]
+		[?b :edit/seen-by ?seen]
+		[(count ?string) ?num]]

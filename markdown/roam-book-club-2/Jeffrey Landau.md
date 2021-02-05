@@ -1,0 +1,7 @@
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Learn how to use Roam
+        - Learn how to use note taking system
+        - Finish reading [[How to Take Smart Notes]]
+        - Implement note taking system
+        - Meet new people through this bookclub

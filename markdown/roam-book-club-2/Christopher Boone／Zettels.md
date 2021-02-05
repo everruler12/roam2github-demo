@@ -1,0 +1,86 @@
+- 
+- #[[Relevant Notes]]
+    - #Zettels [[We are pulled along by endergonic reactions powering both vicious and virtuous feedback loops in our thinking and behaving, and we want to harness that self-perpetuating power in our workflow]]
+        - #[[Literature Notes]] [Chapter 8 Let the Work Carry You Forward](((RK0T2uHBh)))
+            - Exergonic reactions require external energy.
+Endergonic reactions create their own energy.
+            - The goal is a workflow that is self-perpetuating.
+        - #[[Fleeting Notes]] Self-perpetuating workflows are endergonic rather than exergonic. They can help avoid procrastination.
+            - The goal is to not waste energy. A system/loop will be inefficient if it requires external energy to keep it going. The loop will self-perpetuate if it creates its own energy. However, it's not necessarily good for a loop to be self-perpetuating. If the components are negative that
+            - Desire to create a workflow that is self perpetuating
+                - It reminds me of flow state
+                    - Getting and staying in the flow
+                    - I have experienced this in some places
+                        - To have this more often is exciting
+                            - Ingesting ideas and generating ideas
+                                - Reminds me of the Five Why's
+            - Taken by the terminology
+                - When I come across a label, shorthand, having these concepts is handy
+                    - Now I know what exergonic means
+                        - My spot in memory abridged version, placeholder, reference for that deeper concept
+                - Different types of flow
+                - Actual term to keep pushing energy into
+            - Theme in my own thinking
+                - Feedback loops
+                    - I like to find these
+                        - Draining energy hits on this for me
+                            - Related to feedback loop I learned in being trained in Mediation
+                                - Why conflict escalates
+                                    - Connected to energy→ Conflict is draining
+                                        - If we can break that, we can change the dynamic to an upward spiral
+                - Noticing where things are vicious cycles vs. virtuous cycles
+                    - Fostering virtuous cycles
+                    - This is an example of that
+            - Energy
+                - Procrastination
+                    - Not a time management problem, an emotional reaction problem
+                        - Perfectionism
+                            - Avoid doing it on an emotional reactivity level
+                                - If it can be removed and into the flow, you've removed a barrier
+                                    - That causes procrastination
+                    - Energetic, emotional response to work
+                        - Short circuited, if operating in this type of system
+- 
+- 
+- 
+- 
+- Desire to create a workflow that is self perpetuating
+    - It reminds me of flow state
+        - Getting and staying in the flow
+        - I have experienced this in some places
+            - To have this more often is exciting
+                - Ingesting ideas and generating ideas
+                    - Reminds me of the Five Why's
+- Exergonic vs. Endergonic Reactions
+    - Exergonic requires new energy input whereas endergonic creates its own energy and is self-perpetuating.
+    - We want to create a workflow that is self-perpetuating.
+- 
+- Taken by the terminology
+    - When I come across a label, shorthand, having these concepts is handy
+        - Now I know what exergonic means
+            - My spot in memory abridged version, placeholder, reference for that deeper concept
+    - Different types of flow
+    - Actual term to keep pushing energy into
+- 
+- 
+- 
+- Theme in my own thinking
+    - Feedback loops
+        - I like to find these
+            - Draining energy hits on this for me
+                - Related to feedback loop I learned in being trained in Mediation
+                    - Why conflict escalates
+                        - Connected to energy→ Conflict is draining
+                            - If we can break that, we can change the dynamic to an upward spiral
+    - Noticing where things are vicious cycles vs. virtuous cycles
+        - Fostering virtuous cycles
+        - This is an example of that 
+- Energy
+    - Procrastination
+        - Not a time management problem, an emotional reaction problem 
+            - Perfectionism
+                - Avoid doing it on an emotional reactivity level
+                    - If it can be removed and into the flow, you've removed a barrier
+                        - That causes procrastination 
+        - Energetic, emotional response to work
+            - Short circuited, if operating in this type of system

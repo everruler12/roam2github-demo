@@ -1,0 +1,511 @@
+- Welcome to [[Chinarut]]’s idea generator! 🚀 
+- 
+- short-term goal: [[Statement of Purpose]] (in the context of a [[wellbeing commons]], [[graduate school]], and [[Weave Your Legacy]])
+    - Input with special thanks to [[Joel Chan]] 🙏🏼
+        - Problem of **synthesizing** diverse lines of evidence --- e.g., primary and secondary research literature, wisdom and religious literature, personal experiences, ideas from others, personal experiments --- ^^to empower individuals to take action towards wellbeing^^
+        - Possibility of **sharing** partial starting points for synthesis in a social commons (perhaps a network of personal knowledge graphs or wikis, overlaid on top of various literatures)
+        - [[research question]]s
+            - what is a commons?
+                - “a compelling question that is also very very high level”
+            - how is a commons model for wellbeing different from what we have today? [[wellbeing commons]]
+            - how do we know what is [[wellbeing knowledge]] and what is not?
+            - how will [[ownership of wellbeing information]] be handled? [[ownership of information]]
+            - how do we motivate people to take action towards wellbeing? [[motivation to act]]
+                - how do we know when actions people take are consistent with [[elevating wellbeing]]?
+            - what gets in the way of people taking action towards wellbeing? [[barriers to wellbeing]]
+    - historical: [Wellbeing Commons R&D page](https://www.notion.so/communitygarden/Wellbeing-Commons-R-D-b7e5b1dac9e748a893fb3e15c4f1158a) ([research model](https://www.notion.so/communitygarden/Wellbeing-Commons-Research-Model-962946f7fe0c46a5885d9af8ed716cc1))
+    - -> ^^see ((Z54MOf39I))^^ <-
+- 
+- **Zettel Index**
+    - what I really want is to index by the attribute `Index` 
+    - {{attr-table: [[Index]]}}
+- **Unanswered Questions in Slipbox**
+    - how a framework to framework analogy is achieved
+        - same element: [[financial wellbeing]] -> [[physical wellbeing]]
+        - at holistic level: [[Wheel of Life]] -> [[Wellbeing 5]]
+        - associative [[analogical innovation]]: [[robotics]] -> [[wellbeing]]
+    - data ownership
+        - privacy of data
+
+            - levels of privacy
+        - how are boundaries of data managed?
+            - how are boundaries firm yet flexible?
+                - [[UN*X permissions]]
+
+    - other types of media (eg. x-rays) (not just books) (analogue and digital, transmedia in general)
+    - role of machine agents (when it comes to [[wellbeing]])
+
+        - [[semantic web]]
+        - [[Deep Medicine]]
+    - how medicine fits in the picture -> [[Deep Medicine]]
+    - economics and sustainability of a [[wellbeing commons]]
+
+        - [[gift economy]]
+    - accountability and responsibility
+        - [[100/100 responsibility]] [[Landmark Worldwide]] [[nature of partnership]]
+- 
+- ——— (in linear order of development) ———
+- [[getting out of nature’s way]] [[surrendering to nature]]
+- #Zettels [[Passionate people can support each other in the process of recovering from burnout in such a way that it energizes everyone to solve problems that matter to the collective]] z1
+    - Index:: [[collective recovery]] [[collective problem solving]] [[collective action]] [[collective synergy]] [[wellbeing collective]] [[collective solutions]]
+    - #[[Literature Notes]] [Chapter 8: Let the Work Carry You Forward](((RK0T2uHBh))) 
+        - Our goal is to create momentum with our work. Getting into a workflow that creates momentum reinforces the energy already created rather than taking away energy from us. This is a natural phenomenon that exists in nature.
+    - #[[Fleeting Notes]] it would be amazing if we all worked together and built momentum together such that we felt we were energizing each other in the process.
+        - [[energy creation]] [[nature of energy]]
+        - The renewal of energy
+            - Less trying to manage my energetic state
+            - Focusing more on going with the flow
+            - Letting things unfold
+        - It feeds itself
+            - It would be awesome
+            - Vibrant
+                - A lot less people complaining about how tired they are
+                - Excited about having juice
+                    - Motivated to get to the next step
+        - Core science in the book
+            - From a reading comprehension stand point, I struggle with that
+            - It really challenges me
+        - Recovering from burnout
+            - I wake up... spent
+            - Roam community inspires me with purpose
+            - Tend to self-care
+        - Finding novel ways to transform my energy
+            - It's easy to keep doing the same things over and over again
+                - Habit out of things that don't work
+            - It's refreshing
+                - My life doesn't have to be this way
+        - Build momentum
+            - It's easy to feel you start, and it doesn't go anywhere
+            - It's defeating and tiring
+            - Building on previous efforts
+            - [[Building Blocks]]
+                - Build on top of that
+        - This would be great if this was the nature of our own lives
+            - Getting SHIT DONE!
+            - We'd actually be generating ideas that are new
+        - Not feel spent at the end of day
+            - If we don't engage in a process that has momentum, builds upon itself
+                - Then we get to a place it doesn't great, or fulfilling
+                    - Spent energy
+        - Nature, naturally works this way
+            - Not much to "do" it's just how nature works
+- 
+- #Zettels [[An important step in elevating wellbeing is choosing to do nothing and put the abundance of what’s possible down]] z2
+    - Index:: [[elevating wellbeing]] [[everything nothing]]
+    - "Context decides whether everything or nothing empowers the next step #[[Literature Notes]]"
+    - "Man’s greatest inventions come from “nothing,” thus we are drawn to draw on a blank canvas or write on a blank page. It is the preparation of notes that externalize our thinking that allows us to go beyond willpower when it comes to writing. #[[Literature Notes]]"
+- #Zettels [[A collective must first choose to accomplish nothing in the face of everything members feel is important to work on as a group]] ~~z3~~ z2/1
+    - Index:: [[everything nothing]] [[collective choice]] [[collective action]] [[first step]]
+    - "#Zettels [[An important step in elevating wellbeing is choosing to do nothing and put the abundance of what’s possible down]] z2"
+- #Zettels [[Feeling in control of your wellbeing is part of creative flow, not something you plan out]] z4
+    - Index:: [[creative flow]] [[flipping things upside-down]]
+    - "The key to getting unstuck is giving up planning and seeing the creative flow of ideas as our source of control. By implementing an adaptive structure for our writing starting from a place of abundance, we free our brains from using tricks like compartmentalization and embrace creativity at its core. #[[Literature Notes]]"
+- #Zettels [[The first step in building a collective is to establish creative flow]] ~~z5~~ z4/1
+    - Index:: ^^[[building a collective rooted in wellbeing]]^^ [[creative flow]] [[collective action]] [[collective architecture]]
+    - "#Zettels [[Feeling in control of your wellbeing is part of creative flow, not something you plan out]] z4"
+- #Zettels [[Be curious about the wellbeing in others and write about it]] z6
+    - Index:: [[curiosity in others]] [[writing as understanding]] [[learning with others]] [[getting outside yourself]] [[understanding others]]
+    - "A transformed process for idea generation uses curiosity as the source of inquiry, frames one’s own worldview while listening/reading, and combines writing as core to this process. #[[Literature Notes]]"
+- #Zettels [[A collective that successfully implements a tool to ongoingly transform raw wellbeing thoughts into meaningful well-written notes enhances their collective intelligence]] z7
+    - Index:: [[collective implementation]] [[collective knowledge]] [[collective intelligence]] [[why slipbox]] [[wellbeing collective]] [[collective action]] [[collective synergy]]
+    - "A tool that works increases focus and enhances your process (in this case, thinking). The slipbox is a tool that reinforces a disciplined process transforming your raw thoughts into meaningful well-written notes. #[[Literature Notes]]"
+    - #[[Fleeting Notes]] 
+        - "Pink highlight | Page: 29"
+        - "Every little step suddenly turns into its own project without bringing the whole much further forward."
+        - "Blue highlight | Page: 29"
+        - "^^Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is **thinking**.^^ [*](((vbI8TekIe)))"
+        - "Yellow highlight | Page: 29"
+        - "an undistracted brain to think with and a reliable collection of notes to think in is pretty much all we need."
+        - "Yellow highlight | Page: 30"
+        - "These notes are not meant to be stored permanently."
+        - "Yellow highlight | Page: 30"
+        - "They only function as a reminder of a thought and are not meant to capture the thought itself, which requires time to phrase proper sentences and check facts."
+- #Zettels [[Understanding why wellbeing matters lets you build on what works and improve upon it]] z8
+    - Index:: [[impact of wellbeing]] [[value of building a foundation]] [[why wellbeing]]
+    - "Understanding why a tool works empowers you to develop the tool rooted in its underlying principles and improve upon it. #[[Literature Notes]]"
+- #Zettels [[Wellbeing is not a set of rules. We experience what we learn sufficiently to have questions worth comparing and contrasting our experience with others]] z9
+    - Index:: [[distinguishing experiences from others]] [[creating distinctions]] [[creative flow]] [[learning with others]] [[understanding others]]
+    - "Learning is not rote fact memorization. Learning is diving into the material and understanding sufficiently that questions show up worth writing about - this is the real juice of research and worth deliberating with others in public. #[[Literature Notes]]"
+- #Zettels [[By maintaining an easy to retrieve set of permanent notes around various aspects of our wellbeing, we set ourselves to share with others what we believe are the keys to elevate wellbeing]] z10
+    - Index:: [[designing for retrieval]] [[cross synergy]] [[knowledge exchange]] [[elevating wellbeing]] [[keys to success]] [[collective synergy]]
+    - "Take notes with an intent to find them later and share publishable insight. The goal is to leverage our brain for thinking, not remembering, and maintain a set of permanent notes to give us the freedom to let go (or archive or trash) old notes so the quality of our notes improve over time. This includes old project notes (like todos, drafts, etc) once the project is complete. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "Blue highlight | Page: 40"
+        - "In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?"
+        - "Yellow highlight | Page: 41"
+        - "Instead of focusing on the in-between steps and trying to make a science out of underlining systems, reading techniques or excerpt writing, everything is streamlined towards one thing only: insight that can be published."
+        - "Yellow highlight | Page: 41"
+        - "The slip-box is designed to present you with ideas you have already forgotten, allowing your brain to focus on thinking instead of remembering."
+        - "Pink highlight | Page: 42"
+        - "One of the major reasons for not getting much writing or publishing done lies in the confusion of these categories."
+        - "Pink highlight | Page: 42"
+        - "^^As he treats every note as if it belongs to the “permanent” category, the notes will never build up a critical mass.^^ [*](((7GWVsCHA5))) #post-lit"
+            - "absolutely guilty as charged!"
+        - "Pink highlight | Page: 42"
+        - "^^the strict chronological order does not offer any help to find, combine or rearrange ideas in a productive sense.^^ [*](((7GWVsCHA5)))"
+        - "Pink highlight | Page: 43"
+        - "collecting unprocessed fleeting notes inevitably leads to chaos."
+            - "sounds like my #Evernote system!"
+        - "Pink highlight | Page: 43"
+        - "the benefit of note-taking decreases with the number of notes you keep."
+            - "oh boy.. so clearly 20,000 notes in Evernote is **not** a good thing if they have not been fully processed and synthesized..."
+                - "it is the opposite if you keep meaningful permanent notes “playing” together #post-lit"
+            - "^^More notes will make it more difficult to retrieve the right ones and bring related ones together in a playful way. But it should be just the opposite^^ #post-lit"
+        - "Blue highlight | Page: 43"
+        - "^^**The more you learn and collect, the more beneficial your notes should become**^^"
+            - "the more ideas can mingle and give birth to new ones–and the easier it should be to write an intelligent text with less effort #post-lit"
+        - "Yellow highlight | Page: 43"
+        - "Fleeting notes are there for capturing ideas quickly while you are busy doing something else."
+        - "Orange highlight | Page: 44"
+        - "Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later."
+        - "Blue highlight | Page: 44"
+        - "Permanent notes, on the other hand, are written in a way that can still be understood even when you have forgotten the context they are taken from."
+        - "Blue highlight | Page: 45"
+        - "Some notes might disappear into the background and never catch his attention again, while others might become connection points to various lines of reasoning and reappear on a regular basis in various contexts."
+        - "Blue highlight | Page: 45"
+        - "because every note is in the same format at the same place can they later be combined and assembled into something new and **no thought is ever wasted** on the question of where to put or label it."
+        - "Orange highlight | Page: 46"
+        - "When you close the folder for your current project in the evening and nothing is left on your desk other than pen and paper, you know that you have achieved a clear separation between fleeting, permanent and project-related notes."
+- #Zettels [[We design our wellbeing from the bottom up based on what is actually happening not what is in our heads]] z11
+    - [[wellbeing by design]] [[bottom up learning]] [[grounding to reality]] [[flipping things upside-down]] [[being present]]
+    - "Deciding what to write before you write is not always a good idea. In fact, many ideas come from outside your head. A bottom-up approach to synthesizing your notes drives the kind of curiosity that leads you to your interests in a non-linear manner. #[[Literature Notes]]"
+- #Zettels [[Wellbeing is not just about you]] z12
+    - Index:: [[getting outside yourself]] [[wellbeing is about the collective]] [[collective wellbeing]]
+    - "#Zettels [[Be curious about the wellbeing in others and write about it]] z6"
+- #Zettels [[When we embrace wellbeing as a lifelong journey, it becomes an rewarding adventure making sense of input along our path]] z13
+    - Index:: [[wellbeing as an adventure]] [[sensemaking]] [[be in the moment]] [[fun with wellbeing]] [[keeping learning fun]]
+    - #[[Related Notes]] [z11](((eUye7FYoN)))
+    - "We cultivate excellence in understanding in how we take notes and write. The slip box is an idea generator and network of ideas that motivates us to be lifelong learners. It rewards us with a source of energy and natural source of motivation. The organic nature of the process makes receiving feedback pleasant and directs our ability to make sense of the input we receive along our journey. #[[Literature Notes]]"
+- #Zettels [[Pay attention to what pulls your attention away from your wellbeing]] z14
+    - Index:: [[wellbeing focus]] [[nature of attention]] [[being present]] [[creating focus]]
+    - "Pay attention to the source of your distractions and what pulls your attention. #[[Literature Notes]]"
+- #Zettels [[Multitasking is a myth. Create a structure to maintain focus and flow]] z15
+    - Index:: [[myth of multitasking]] [[focus structures]] [[creating focus]] [[creative flow]] [[creating flow]]
+    - "Multitasking is a myth and researchers have discovered a wide variety of attention types including effortless flow. The slipbox serves as a structure to maintain focus. #[[Literature Notes]]"
+- #Zettels [[A sense of play makes discovering new ideas around wellbeing fun]] z16
+    - Index:: [[fun with wellbeing]] [[keeping learning fun]] [[importance of play]] [[discovering ideas]]
+    - "It is important to know how to shift our focus. Play has a role maintaining floating attention which in turn, supports idea exploration which helps reduce cognitive bias. By establishing a flexible structure and **not** planning, it channels focused attention to concepts and makes writing easier. #[[Literature Notes]]"
+- #Zettels [[Stay in the moment and develop your intuition and gut. Let patterns guide your experience of wellness]] z17
+    - Index:: [[wellbeing awareness]] [[intuition for wellbeing]] [[following your gut]] [[letting patterns guide your experience]] [[experience of wellbeing]] [[creative flow]]
+    - "Experts stay in the moment and let patterns guide their experience and develop their intuition and gut. #[[Literature Notes]]"
+    - #[[Related Notes]]
+        - [[Pay attention to what pulls your attention away from your wellbeing]]
+        - [[Feeling in control of your wellbeing is part of creative flow, not something you plan out]]
+        - [[Multitasking is a myth. Create a structure to maintain focus and flow]]
+        - [[A sense of play makes discovering new ideas around wellbeing fun]]
+- #Zettels [[Create meaningful connections between differing elements of wellbeing and give the brain space to wander and solve problems at times you otherwise wouldn’t expect]] z18
+    - Index:: [[cross synergy]] [[giving the brain space]] [[mind wandering]] [[space for unexpected outcomes]] [[meaningful connections]]
+    - "Intentionally create meaning and connections. Give the brain a structure to let it wander and solve problems at times you otherwise wouldn’t expect. #[[Literature Notes]]"
+- #Zettels [[Making decisions across multiple areas of life and disciplines is exhausting. Reduce decisions by establishing a predictable note crafting process giving our brain space to store long-term thoughts and create room for new thoughts and ideas]] z19
+    - Index:: [[cross-disciplinary decision making]] [[why slipbox]] [[cross synergy]] [[source of exhaustion]] [[reducing decisions]] [[giving the brain space]] [[source of new ideas]]
+    - "Making decisions is exhausting. The slip box reduces decisions by establishing a predictable process to craft our permanent notes. This allows our brain to focus on problem solving and gives the brain space to store long-term thoughts creating room for new thoughts and ideas. #[[Literature Notes]]"
+- #Zettels [[Have a goal in mind to guide your wellbeing explorations. Let the mental models and theories you’ve developed be challenged. Your dialogue and perception of wellbeing will go in directions you had not imagined]] z20
+    - Index:: [[why wellbeing]] [[wellbeing explorations]] [[challenging mental models]] [[challenging developed theories]] [[being flexible]] [[being open to new directions]] [[creative flow]] [[exploring the unexpected]] [[nature of dialogue]]
+    - "Having a goal in mind to dialogue around lets the slip box guide your development. Let it challenge your mental models and the theories you’ve developed and your notes will interconnect. #[[Literature Notes]]"
+    - "Bringing a clear purpose to your reading allows you to reframe ideas in your own thinking. #[[Literature Notes]]"
+- #Zettels [[Eliminate bias by developing a linear case for wellbeing **after** gathering data and drawing conclusions]] z21
+    - Index:: [[eliminating bias]] [[bottom up linear argument development]]
+    - "Our priority is to establish our slip-box and contribute by developing our arguments from the bottom-up. Be open to discovery. Be willing to depart from preconceived notions of what dialogue is present and eliminate the bias our brains introduce. Construct a linear argument **after** gathering data and drawing conclusions. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "highlights (raw)"
+            - "Pink highlight | Page: 79"
+            - "our brains are not very smart in selecting information by default."
+            - "Pink highlight | Page: 79"
+            - "^^The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, which is neither a good way to learn nor research.^^"
+            - "Yellow highlight | Page: 79"
+            - "The classic role model would be Charles Darwin. He forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories."
+            - "Yellow highlight | Page: 80"
+            - "With a good system, the mere necessities of the workflow will force us to act more virtuously without actually having to become more virtuous."
+            - "Pink highlight | Page: 80"
+            - "The linear process promoted by most study guides, which insanely starts with the decision on the hypothesis or the topic to write about, is a sure-fire way to let confirmation bias run rampant."
+            - "Pink highlight | Page: 80"
+            - "Then ^^you artificially create a conflict of interest between getting things done (finding support for your preconceived argument) and generating insight, turning any departure from your preconceived plan into a mutiny against the success of your own project.^^"
+            - "Blue highlight | Page: 81"
+            - "^^Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight.^^"
+                - "but what does it mean to develop a [[Statement of Purpose]] “bottom-up”? #inquiry"
+            - "Yellow highlight | Page: 81"
+            - "We should be able to focus on the most insightful ideas we encounter and ^^welcome the most surprising turns of events without jeopardizing our progress^^ or, even better, because it brings our project forward."
+            - "Orange highlight | Page: 81"
+            - "^^postpone the decision on what to write about specifically and focus on building a critical mass within the slip-box.^^"
+                - "this pretty much says to get the slip-box built and **then** discover what unfolds!"
+            - "Orange highlight | Page: 81"
+            - "focus on understanding the text we read,"
+            - "Yellow highlight | Page: 81"
+            - "^^the only criterion is the question of whether something adds to a discussion in the slip-box.^^"
+            - "Orange highlight | Page: 81"
+            - "One of the most important habitual changes when starting to work with the slip-box is ^^moving the attention from the individual project with our preconceived ideas towards the open connections within the slip-box.^^"
+            - "Yellow highlight | Page: 81"
+            - "as soon we focus on the content of the slip-box, ^^disconfirming data becomes suddenly very attractive, because it opens up more possible connections and discussions within the slip-box^^, while mere confirming data does not."
+            - "Blue highlight | Page: 82"
+            - "The experience of how one piece of information can change the whole perspective on a certain problem is exciting."
+            - "Blue highlight | Page: 82"
+            - "Contradictions within the slip-box can be discussed on follow-up notes or even in the final paper."
+            - "Pink highlight | Page: 82"
+            - "it is almost impossible to write anything interesting and worth publishing (and therefore motivating) if it is based on nothing else than an idea we were able to come up with up front before elaborating on the problem."
+            - "Yellow highlight | Page: 82"
+            - "^^It is after reading and collecting relevant data, connecting thoughts and discussing how they fit together that it is time to draw conclusions and develop a linear structure for the argument.^^"
+- #Zettels [[Be present to the dialogue in your slipbox and declare a future for wellbeing distinct from the past **after** gathering data and drawing conclusions]] z21/1
+    - Index:: [[being present]] [[slipbox as dialogue]] [[eliminating bias]][[wellbeing future]] [[rewriting the future]] [[future declaration]] [[wellbeing future]] [[wellbeing as declaration]] [[nature of transformation]] [[declaring from nothing]] [[creating from nothing]] ^^[[how wellbeing works]]^^
+    - "#Zettels [[Eliminate bias by developing a linear case for wellbeing **after** gathering data and drawing conclusions]] z21"
+    - #[[Fleeting Notes]] [[Landmark Worldwide]] [[network of conversations]] [[The Advanced Course]] [[future as possibility]]
+- #Zettels [[Develop a knack for listening for the differences in how others perceive wellbeing and reframe what you hear in the context of your own personal experience]] z22
+    - Index:: [[listening for distinctions]] [[understanding others]] [[reframing]] [[creating analogies]]
+    - "Develop critical thinking by listening for distinctions and reframing what is heard. Notice your speaking improves alongside your writing. #[[Literature Notes]]"
+- #Zettels [[Find the conversation for wellbeing in the gap of understanding between you and your conversation partner (slipbox or person)]] z23
+    - [[nature of wellbeing dialogue]] [[being in the gap]] [[space in between]] [[learning with others]] [[exploring with others]] [[conversation partner]]
+    - "While sharing with others, one often discover gaps in understanding. Make the choice to make your slip box your conversation partner. #[[Literature Notes]]"
+- #Zettels [[Writing and externalizing notes frees up your brain to perform big picture strategic thinking which in turn, frees you up to attend to physical wellbeing]] z24
+    - Index:: [[externalizing our thinking]] [[value of externalization]] [[giving the brain space]] [[space to attend to physical wellbeing]] [[physical wellbeing]]
+    - "Making an effort to elaborate your writing is an optimal way to externalize your long-term memory. By making this effort, it frees you up to attend to self-care as it frees your brain to do the big picture strategic thinking it does best. #[[Literature Notes]]"
+- #Zettels [[Measure the interconnectedness of the 5 Elements of Wellbeing by counting the number of notes added over time]] z25
+    - Index:: [[cross synergy]] [[wellbeing 5]] [[measures of progress]] [[note interconnectedness]]
+    - "Discovering the interconnectedness of projects is a natural outcome of using the slip box. A measure of progress is the number of notes you add over time. #[[Literature Notes]]"
+- 
+- #Zettels [[Reveal the underlying nature of your wellbeing through writing. When we write, we begin to externalize our thinking and open ourselves up to a more objective view]] z26
+    - Index:: [[writing as understanding]] [[discovery through writing]] [[externalizing our thinking]] [[developing objectivity]]
+    - #[[Related Notes]]: [z6](((u1oQayEzK)))
+    - "When we write, we reveal underlying concepts and theories. We distance ourselves from the original argument to reduce the risk of cognitive bias. By reframing our thoughts, we do the kind of independent thinking invaluable to others. #[[Literature Notes]]"
+- #Zettels [[When we reflect on our wellbeing in abstract terms, we interconnect ideas and concepts unfettered by details. We develop long-term thinking and invent new mental models that make actions elevating our wellbeing intuitive]] z27
+    - Index:: [[wellbeing as an abstraction]] [[thinking in abstract terms]] [[rising above details]] [[value of long-term thinking]] [[inspiring right action]] [[elevating wellbeing]] ^^[[making wellbeing intuitive]]^^
+    - "By thinking in abstract terms, we shed details, elaborate on what is relevant, and create space for new thinking. We interconnect notes facilitating long-term thinking and the development of our own classification system by focusing on similarities and differences between notes. This level of understanding allows us to recall information in strategic and timely manner. #[[Literature Notes]]"
+- #Zettels [[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]] z28
+    - Index:: [[capturing differing perspectives]] [[multiple levels of abstraction]] [[expressing wellbeing]] [[elements of rich conversation]] [[inter-disciplinary nature of wellbeing]] [[why slipbox]] [[inter-disciplinary conversation]] [[why wellbeing]]
+    - "#[[Literature Notes]] A slip box is a network of mental models. Every time we add a note, we expand the richness of our interconnected concepts and abstractions"
+    - "#[[Fleeting Notes]] #quote “Latticework of Mental Models” [*](((5Sn3gQkxy)))"
+- #Zettels [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]] z28/1
+    - Index:: [[collective slipbox]] [[model for community]] [[modeling community growth]] [[individual blueprints]] [[optimum wellbeing]] [[expanding consciousness]] [[elevating wellbeing]] [[collective wellbeing]] [[collective action]]
+    - "#Zettels [[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]] z28"
+- #Zettels [[A slipbox is a network of conversations. A collective slipbox is a network of individuals and their notes. All individuals make a unique contribution to a collective dialogue. Every time we add an individual to a group slipbox, we expand the richness of interconnected concepts and abstractions inspiring new possibilities for the collective]] z28/1a
+    - Index:: [[nature of a slipbox]] [[network of conversations]] [[collective slipbox]] [[collective dialogue]] [[nature of contribution]] [[expanding richness of dialogue]] [[inspiring new possibilities]] [[collective inspiration]] [[collective action]] [[collective outcome]]
+    - "#Zettels [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]] z28/1"
+- 
+- #Zettels [[A wellbeing commons supports emergent thinking. As participants add to existing lines of thought, a collective slipbox is a valuable thinking tool to recognize patterns at both an individual and group level]] z29
+    - Index:: [[collective slipbox]] [[collective thinking]] [[wellbeing commons]] [[collective process]] [[thinking tools]] [[collective pattern recognition]]
+    - "The slipbox is a space for emergent thinking. As we expand and add new lines of thought, we discover the slipbox is very valuable to us as a thinking tool. #[[Literature Notes]]"
+- #Zettels [[Choose keywords to index your wellbeing notes so relevant information is present in the context(s) of what matters to you and your collective the most]] z30
+    - Index:: [[designing for retrieval]] [[wellbeing by design]] [[information in context]] [[what matters to you most]] [[collective search]] ^^[[search by context]]^^
+    - "Put some thought into the keywords that index your notes so they can be found in the context of what interests you most. #[[Literature Notes]]"
+    - #[[Fleeting Notes]] "^^Keywords should always be assigned with an eye towards the topics you are working on or interested in, never by looking at the note in isolation.^^ [*](((UhUikcAob)))"
+        - "keywords for **retrieval**"
+- #Zettels [[The slipbox is a perfect conversation partner shaped by your current reality of wellbeing yet has no qualms challenging new ideas against ideas that mattered to you in the past]] z31
+    - Index:: [[externalizing our thinking]] [[conversation partner]]
+    - "Our slipbox is the perfect conversation partner shaped by how we think yet also keeping us in check based on past ideas. #[[Literature Notes]]"
+    - #[[Fleeting Notes]] "“The slip-box is like a well-informed but down-to-earth communication partner who keeps us grounded.” [*](((Xs1fLmaxP)))"
+        - "insight into why i enjoy thinking thru things w others"
+- #Zettels [[The slipbox acts like an advisory shaped by your life experience in each of the 5 elements of wellbeing. It has the capacity to bring forth new perspectives across elements and it may challenge new ideas you have based on past ideas that matter to you]] z31/1
+    - Index:: [[wellbeing 5]] [[wellbeing advisory]] [[cross synergy]] [[grounded discourse]] [[advisory analogy]]
+    - "#Zettels [[The slipbox is a perfect conversation partner shaped by your current reality of wellbeing yet has no qualms challenging new ideas against ideas that mattered to you in the past]] z31"
+- #Zettels [[When we fail to bring awareness to wellbeing, we risk introducing bias to wherever our focus lies. The slipbox is a gatekeeper helping our conversation stay unbiased, robust and improve wellbeing outcomes]] z32
+    - Index:: [[being present]] [[wellbeing awareness]] [[cognitive bias]] [[role of slipbox]] [[wellbeing outcomes]]
+    - "We create illusions of progress when we allow our present moment biases to flavor our thinking. By rigorously comparing our notes to those in our slipbox, we give ourselves the opportunity to discover contradictions which creates new thinking. When we discover new notes are **not** new ideas, our work continuously improves because we remove what otherwise would be redundant. #[[Literature Notes]]"
+    - #[[Fleeting Notes]] ""the value of “clearing” with a coach before an important meeting/event - you are not bringing emotional “charge” to your network of thoughts that can indeed throw things off if the meeting is intended to be unbiased""
+- #Zettels [[Wellbeing frameworks do not fit all contexts. The richness of our own wellbeing experience allows us to place differing models into our slipbox. Our network of mental models support us in making sense of new information]] z33 
+    - Index:: [[wellbeing framework]] [[mental models]] [[wellbeing experience]] [[role of wisdom]] [[sensemaking]] [[network of mental models]]
+    - "Not all mental models fit all contexts. The richness of our experience allows us to place various models into our slipbox. We draw upon the long-term wisdom of differing perspectives to allow us to make sense and learn in new situations. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "“A scientific term or concept only becomes meaningful within the context of a theory–otherwise it would just be a word.” [*](((ZCqW4TrXP)))"
+            - "my experience w [[Knowledge Graphs]] - i feel like im just learning a bunch of terms sometimes."
+        - "“some theories or theoretical models are surprisingly versatile, which is why it makes sense to assemble a toolbox of useful mental models (Manktelow and Craik 2004) that could help with our daily challenges and make sense of the things we learn and encounter.” [*](((nD7ENZrJ2)))"
+            - "various mental models for wellbeing, productivity and performance"
+            - "[toolbox in Notion](https://www.notion.so/communitygarden/Toolbox-89b20bed30ad4181af021bb8a3bcb8aa)"
+            - "sensemaking"
+        - "^^”You’ve got to hang experience on a latticework of models in your head.”^^ (Munger 1994). [*](((jbhsgjkso)))"
+        - "“A truly wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation schemes.” [*](((kB0DxNvn3)))"
+            - "my key to giving being a know it all!"
+        - "“practice learning not as a pure accumulation of knowledge, but as an attempt to build up a latticework of theories and mental models to which information can stick, we enter a virtuous circle where learning facilitates learning.” [*](((dljL9oLzm)))"
+            - "#inquiry  what mental models am i building?"
+        - "^^“to remember what you have learned, you need to build effective long-term memory structures.” (Sachs 2013, 26)^^ [*](((PWK_O3mj5)))"
+            - "  brings context to TheBrain and personal wikis!"
+- 
+- #Zettels [[A slipbox designed around the 5 Elements of Wellbeing encodes a learning process. We deepen our understanding by writing notes about what we read around one element. By retrieving and translating what we experience in one element into another context, we develop our thinking & elevate our wellbeing]] z34
+    - Index:: [[wellbeing slipbox]] [[cross synergy]] [[wellbeing 5]] [[analogical innovation]] [[contextual translation]] [[element translation]] [[translating experience]] [[learning theory]] [[learning through retrieval]] [[brain development]] [[elevating wellbeing]]
+    - "The slipbox encodes a learning process. We deepen our understanding by writing notes about what we read. Different contexts, some unplanned, allow us to project our notes into an array of possible connections. Our intentional efforts drive us to further elaborate and develop our thinking further. #[[Literature Notes]]"
+    - #[[Fleeting Notes]] 
+        - "^^We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), ideally with the help of chance ([[contextual interference]]) and with a deliberate effort (retrieval). The slip-box not only provides us with the opportunity to learn in this proven way, it forces us to do exactly what is recommended just by using it. We have to elaborate on what we read just to be able to write it down and translate it into different contexts. We retrieve information from the slip-box whenever we try to connect new notes with old notes. Just by doing this, we mix up contexts, shuffle notes and retrieve the information in irregular intervals. And along the way, we further elaborate on the information, which we always retrieve deliberately.^^ [*](((3alXROjys)))"
+            - "understanding -> broader implications (elaboration) <- writing"
+            - "retrieve at different times (spacing) <- (connecting)"
+            - "different contexts (variation) <- translation"
+            - "chance (contextual interference) <- (unplanned mix of contexts)"
+            - "deliberate effort (retrieval) <- (further elaboration)"
+- 
+- #Zettels [[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]] z35
+    - Index:: [[no one left behind]] [[collective breakthrough]] [[open space]] [[digital gardening]][[collective gardening]] [[creative connections]] [[nature of contribution]] [[collective action]] [[shared experience]] [[shared wisdom]] [[equal access]] [[nature of transformation]] [[collective transformation]]
+    - "Experimental spaces foster open collaboration and making connections. Making connections is the art of creativity. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "“Even sudden breakthroughs are usually preceded by a long, intense process of preparation.” [*](((8OsaRd7c8)))"
+            - "10 years of interfacing support teams via email, 13 years of inquiring into multi-player wiki, 18 years inquiring into dance innovation & analogies, 5 years of tinkering w Wellbeing 5 as a way of life, 25 years of professional experience, 19 years listening for transformation, 39 years personal computing"
+        - " “the importance of experimental spaces where ideas can freely mingle (Johnson 2011). A laboratory with open-minded colleagues” [*](((m6DITkv3w)))"
+            - "roam book club!"
+            - "[[Dance Labs]]"
+            - "[[Digital Garden]]"
+- 
+- #Zettels [[Next time you stumble into an opportunity to learn from another’s failure, listen up. Interdisciplinary work demands we combine ideas by thinking in concepts. Take this opportunity to abstract and generate new ideas in an area of wellbeing that matters to you]] z36
+    - Index:: [[learning from failure]] [[generating ideas]] [[interdisciplinary work]] [[thinking in concepts]] [[extracting concepts]] [[shifting context]]
+    - "#[[Literature Notes]] Interdisciplinary work demands we combine ideas by abstracting and thinking in concepts. We also generate ideas when we have a willingness to learn from others and our failures. By inquiring into the gap, we explore what is possible and develop new insight"
+    - "#[[Literature Notes]] Looking at who survived often does not tell us nearly as much as looking at the more relevant data of those who failed"
+    - #[[Fleeting Notes]]
+        - "“The better an engineer is at abstracting from a specific problem, the better and more pragmatic his solutions will be–even for the very problem he abstracted from (Gassmann and Zeschky, 2008, 103).“ [*](((pFJj_C203)))"
+            - "value of art/dance in an engineer's life"
+        - "“Abstraction is also the key to analyse and compare concepts, to make analogies and to combine ideas; this is especially true when it comes to interdisciplinary work (Goldstone and Wilensky 2008).” [*](((pFJj_C203)))"
+            - "[[analogical innovation]]"
+            - "Carnegie Mellon University"
+        - "“The ability to generate new ideas has more to do with breaking with old habits of thinking than with coming up with as many ideas as possible.” [*](((szZVctiOS)))"
+            - "[[cognitive bias]]"
+        - "“survivorship bias” [*](((ybXRYhjkL)))"
+            - "#[[Literature Notes]] Looking at who survived often does not tell us nearly as much as looking at the more relevant data of those who failed"
+        - "“rarely does a product developer show any interest in learning from the experience of others.” [*](((FzeaxGF4w)))"
+            - "learning what attempts at a wellbeing commons have been made (and perhaps failed)"
+        - "“(failed managers unfortunately rarely write biographies)” [*](((48BXqArTk)))"
+            - "all the reason to write about TenFold, Rational, Orbital, Dance Labs, Squid & Squash, Team Minutemen, FIBO, Japan, West LA, mediaglyph, Omada Health, [[Weave Your Legacy]]!"
+- #Zettels [[The function of money in The Burning Man Project is to acquire the resources and build the foundation required to organize and run an annual 1 week experiment capable of containing a gift economy of 70k people (as of 2019). A sustained 7-day experience of collective abundance (opposed to scarcity) permanently alters one’s experience of life and rewrites the future of the community]] z37
+    - Index:: [[function of money]] [[Burning Man Project]] [[sustaining a gift economy]] [[large-scale experiments]] [[offline experiments]] [[collective abundance]] [[rewriting the future]] [[transformative experience]] [[large-scale event production]] [[community development]] [[flow development]] [[abundance as habit]] [[abundance over scarcity]]
+    - "#[[Literature Notes]] Rather than focus on societal issues stemming from money exchange, we can learn the function of money if we become curious how we might deliver services without the use of money"
+    - "#[[Fleeting Notes]] It is easier to learn about the function of money in a society if we wonder how strangers would exchange [[healthcare services]] without using money than if we just focus on the obvious problems we have in a society based on money exchange"
+        - "“^^It is easier to learn about the function of money in a society if we wonder how strangers would exchange goods without using money than if we just focus on the obvious problems we have in a society based on money exchange.^^” [*](((6TKwoaoFV)))"
+            - "barter"
+            - "[[gift economy]]"
+            - "Burning Man Project"
+            - "The Venus Project"
+                - "Zeitgeist"
+                - "[[resource-based economy]]"
+            - "[[Universal Basic Income (UBI)]]"
+        - ((cahqF8HG_))
+            - what if book club is already the Gates of Roam theme camp and all there was to do was chill? 🤪😆
+- 
+- #Zettels [[In an age of exponential information, every human being has a unique blueprint with unlimited opportunities and next steps which can prove to be paralyzing at times. Focusing on the dialogue in your slipbox will help you choose the next step relevant to you and your life]] z38
+    - Index:: [[cost of exponential information]] [[bespoke recommendations]] [[unique human being]] [[infinite possibilities]] [[infinite openings for action]] [[creating breakthroughs in overwhelm]] [[slipbox for life]] [[slipbox for decision making]] [[maintaining focus]] [[designing for relevancy]] [[making powerful choices]]
+    - "The next time you are faced with indecision, consider the constraints of the slipbox gives you the ability to be more discerning and decide what is relevant. This increased focus gives you the freedom to **choose**. #[[Literature Notes]]"
+- #Zettels [[If we treat life as a discovery, we notice what interests cluster up and develop our lives in a way that is bottom-up. Rooting ourselves in reality, we free ourselves of shortcuts our brains make due to best of plans]] z39
+    - Index:: [[discovering life]] [[clustered interests as sensemaking]] [[sensemaking]] [[bottom up life development]] [[clustered development]] [[freeing ourselves]] [[fallacy of plans]] [[rooted development]]
+    - "Cognitive bias from ourselves and cognitive fixation through others get in the way of the best of plans. If choose to discover our writing as we go, we will notice what clusters up and develop arguments bottom-up in a focused manner. #[[Literature Notes]]"
+- #Zettels [[Tinker around with your wellbeing like there is no wrong path. Start with resources you already have including your notes]] z40
+    - Index:: [[being sourceful]] [[unattached exploration]] [[all paths lead to Rome]] [[tinkering with wellbeing]] [[why slipbox]]
+    - "Start with the notes you already have with an unattached mindset. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - #book Million Ways to Live, Luke S.
+        - "“If open-mindedness is all that is needed, the best artists and scientists were hobbyists.” [*](((HGeH0pymd)))"
+            - "#FTW! dance and technology were always “hobbies” that by attempting to make both my career/work has resulted in a lot of disappointment when it stops being fun (something for me to notice and inquire what I can do about these plateaus)"
+- #Zettels [[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]] z41
+    - Index:: [[making wellbeing fun]] [[staying connected to personal goals]] [[wellbeing autonomy]] [[having fun]] [[maintaining curosity]] [[following our curiosity]] [[following interests]] [[keeping learning fun]] [[why wellbeing]]
+    - "We maintain curiosity and build autonomy by keeping learning fun. Following what interests us sets us up to be connected to our personal goals. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "__(Bnode aka. “blank node” :)__"
+            - "“even highly intelligent students fail in their studies, it’s most often because they cease to see the meaning in what they were supposed to learn (cf. Balduf 2009), are unable to make a connection to their personal goals (Glynn et al. 2009)” [*](((hKJOIwEyi)))"
+                - "clutch!  feeling like you’ve lost purpose or the work that you’re working on has lost purpose or is not inherently what you care about is depressing. [[mental health]]"
+                - "learning ceases to be fun and perhaps put another way, one ceases to see process from time spent/invested in learning."
+            - "”lack the ability to control their own studies autonomously and on their own terms (Reeve and Jan, 2006; Reeve, 2009).” [*](((hKJOIwEyi)))"
+                - "when students want to move towards learning something different when they may feel stuck even though putting together and navigating their own learning plan is what they intuitively know what is right."
+                    - "[[Universal Basic Income (UBI)]] would be a step to enable this kind of freedom amongst the most committed of students (of life)"
+        - "“The risk of losing interest in what we do is high when we decide upfront on a long-term project without much clue about what to expect.” [*](((tHtvri2mR)))"
+            - "this is exactly how I feel about committing to a multi-year PhD"
+        - "“It would be quite sad if we did not change our interests during research.” [*](((-Cl18HUNX)))"
+            - "finding an advisor committed to Zettlekasten and allowing the journey of what is being discovered to unfold in our respective slip boxes"
+- #Zettels [[Let the structure of wellbeing emerge. One way to eliminate mental blocks and get unstuck is to switch elements of wellbeing and flow with your interests]] z42
+    - Index:: [[emergent wellbeing]] [[getting unstuck]] [[dancing between elements]] [[interests as flow]]
+    - "Let the structure of your document emerge. One way to eliminate mental blocks and get unstuck is to switch documents and flow with your interests. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "“Instead of not knowing how to fill the pages, we have so much at hand that we have to curb our impulse to mention everything at the same time.” [*](((9TWMLIhQ4)))"
+            - "this feels like my experience attempting to post [my final Facebook Note](https://www.facebook.com/notes/chinarut-ruangchotvit/facebook-notes-has-come-to-an-end/10164316715575118/). My task was to be focused as almost everything I else I wanted to say could be found in my [[Digital Garden]]. even this attempt to make no more than 3 points, resulted in 5 (with 15 (!) sub-points)"
+                - "(1) Facebook blog is ending"
+                    - "(1a) photos got lost in conversion"
+                - "(2) personal wiki"
+                    - "(2b) reluanched personal wiki"
+                    - "(2c) done mourning last 2 implementations"
+                    - "(2d) thanks for participating"
+                - "(3) updates/blog feel like a river"
+                    - "(3b) wiki is easily updatable"
+                    - "(3c) tweaking over 4 months"
+                    - "(3d) will look prettier soon"
+                    - "(3e) happy"
+                    - "(3f) open notebook"
+                    - "(3g) current"
+                    - "(3h) best way to reach me"
+                - "(4) vision to build a learning community"
+                    - "(4b) participation (not consumption)"
+                    - "(4c) welcome to comment about something you want me to write about"
+                - "(5) belated thanks for birthday wishes"
+                    - "(5b) healthy"
+                    - "(5c) gratitude 🙏🏼"
+        - "“it allows us to switch to other projects whenever we get stuck or bored.” [*](((yCbbkHB85)))"
+            - "I love it!  a process/methodology/container that is designed to love the creative soul roam!"
+            - "it’s not too often a system acknowledges “boredom” is a healthy part of the process"
+                - "[[Underbelly: The Art of Slowing Down]]"
+- #Zettels [[Envisioning your wellbeing outcome helps you see the steps in between. Then it becomes a matter of focusing on the immediate next step towards your end goal]] z43
+    - Index:: [[wellbeing outcomes]] [[value of envisioning outcomes]] [[discovering next step]] [[being intentional]] [[progressing towards your goal]] [[developing focus]]
+    - "Envisioning the end goal only helps if you envision the steps in between. Then it becomes as simple as focusing on the immediate next step towards accomplishing that outcome. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "[[overconfidence bias]]"
+        - "“be generally sceptical about planning, especially if it is merely focused on the outcome, not on the actual work and the steps required to achieve a goal.”  [*](((i-J1kvZAs)))"
+            - "hmm - my way of going about committing to a [[Statement of Purpose]] by 12/9 and all the sub-outcomes kinda sounds like me not understanding all the steps in-between"
+        - "”We know from sports that it doesn’t help when athletes imagine themselves as winners of a race, but it makes a big difference if they imagine all the training that is necessary to be able to win.” [*](((i-J1kvZAs)))"
+            - "this is fascinating as it relates to the [[science of motivation]]"
+            - "I’ve also been trained to think in terms of [[desired outcomes]] which may, in fact, be part of the reason I am overextended in the [[world of possibility]] #wellbeing"
+                - "[[Landmark Worldwide]]"
+        - "“we can only learn from our experiences if feedback follows shortly afterwards” [*](((MF_V6jgLX)))"
+            - "the importance of an advisor"
+            - "immediate feedback on the support graph video that was the culmination of last week and getting immediate feedback and driving setting up the next meeting is clear feedback"
+            - "getting immediate input on the `# support` page is immensely useful to updating the page with other people’s ideas"
+        - "^^It is much easier to get started if the next step is as feasible as “writing a note,” “collect what is interesting in this paper” or “turning this series of notes into a paragraph” than if we decide to spend the next days with a vague and ill-defined task like “keep working on that overdue paper.”^^"
+            - "the power of the “next action” [[GTD]]"
+- #Zettels [[Be willing to let go of explorations that do not serve your primary focus. Keep your vision for the future lean and on purpose]] z44
+    - Index:: [[developing focus]] [[unattached exploration]] [[staying on purpose]] [[clear future]] [[rewriting the future]]
+    - "Keep your writing lean and on purpose. If you find parts of your writing that do not serve your main line of development, get rid of it! #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "^^One of the most difficult tasks is to rigorously delete what has no function within an argument^^ [*](((Gz-S3DnUJ)))"
+            - "notice I’m getting better while composing email to let go of part of the email that feel weak and seemingly no purpose (if anything it feels like it’s coming from a “know it all”)"
+- #Zettels [[The root of our wellbeing is in who we are being. The moment we feel in control puts a false predictability in the space which is, in fact, **not** control. Let new habits replace old habits rather than just dropping them completely]] z45
+    - Index:: [[root of wellbeing]] [[nature of being]] [[nature of control]] [[building new habits]] [[replacing habits]] [[past in the future]]
+    - "The root of intention is in who we are being. The moment we feel in control puts a false predictability in the space which is, in fact, not control. Let new habits replace old habits rather than dropping them completely. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "^^researchers struggle to find any measurable connection between our intentions and our actual behaviour^^ (Ji and Wood 2007; Neal et al. 2012). [*](((DAESrQc3M)))"
+            - "intentions need to be rooted in who we’re **being**"
+            - "the space needs to be clear for the manifestation of said intention to happen"
+                - ""the value of “clearing” with a coach before an important meeting/event - you are not bringing emotional “charge” to your network of thoughts that can indeed throw things off if the meeting is intended to be unbiased""
+            - "[[behavior change]]"
+        - "Behavior change is challenging because the moment we feel in control, we have less control. [*](((x5hx3y9ay)))"
+            - "[[nature of control]]"
+        - "“^^When we perform an action repeatedly, its familiarity seems to bleed back into our judgments about that behavior. We end up feeling we have more control over precisely the behaviours that, in reality, we have the least control over.^^” (Dean 2013, 22) [*](((uOQBxSUdK)))"
+            - "{{[[DONE]]}}  all i know this is something for me to sleep on! 🤔"
+            - "is this the nature of complacency?"
+        - "^^The trick is not to try to break with old habits^^ [*](((4hIM0I_l_)))"
+            - "don’t drop habits cold turkey. let new habits **replace** old habits."
+- #Zettels [[We transform how we teach wellbeing by giving up the fallacy of a top-down approach to life and coach students to build a lifelong structure for transformation and use declaration as a means to synthesize diverse experiences in life. When students have access to experiences beyond themselves, wellbeing becomes life itself]] z46
+    - Index:: ^^[[wellbeing education]]^^ [[fallacy of top-down]] [[lifelong structures for transformation]] [[declaration as synthesis]] [[synthesis of experience]] [[access to experience beyond self]] ^^[[life as wellbeing]]^^
+    - "We transform education by giving up the fallacy of top-down organization of curricula and teach students to see writing as a system to synthesize diverse information. We encourage them to build a simple long-term learning structure through writing. When a student sees beyond themselves, they shift their thinking and writing becomes the source of transformation. #[[Literature Notes]]"
+    - #[[Fleeting Notes]]
+        - "()"
+            - "^^the long-term, cross-topic organization of notes, which is guided only by one’s own understanding and interest, is very much at odds with the modular, compartmentalised and top-down approach in which the curricula of universities and colleges are organised.^^ [*](((QVfNEbAfL)))"
+                - "so how is someone supposed to choose what dept to apply for their studies? #inquiry"
+            - "^^Teaching is still set up for review, and students are not really encouraged to [[independently build a network of connections between heterogeneous information]] – despite the radical change in our understanding on how our memory and learning works.^^ [*](((QVfNEbAfL)))"
+                - "this sounds like a requirement as a student!"
+        - "()"
+            - "^^The slip-box does not put the learner in the centre. Quite the contrary: It allows the learner to let his or her own thinking become [[decentralised within a network of other ideas]].^^ [*](((AEToJgvmY)))"
+                - "important element of becoming objective"
+            - "^^Learning, thinking and writing should not be about accumulating knowledge, but about becoming a different person with a different way of thinking.^^ [*](((AEToJgvmY)))"
+                - "i would argue “different way of **being**!” [[nature of transformation]]"
+                - "absolutely hear being open to “blind spots” and [[embracing the unknown]]"
+        - "^^the basis for that is a deep understanding on how and why it works and how the different steps and tasks of writing fit together.^^ [*](((ID232vsr4)))"
+            - "understanding writing at a really fundamental level - just like mathematics!"
+        - "()"
+            - "^^most students only realise the need for a good system when they already struggling with their writing^^ [*](((SF8pUW-gw)))"
+                - "I’m struggled to write my a [[Statement of Purpose]] (and [[one-page proposal]]s)"
+                - "I did have the insight to know I use sheer willpower to synthesize and that I am burnt out by the way I’ve been doing it. I had the insight to know starting over with a blank piece of paper every time was part of the problem (that is was causing fragmentation). I had the insight to know there was a better way but little did I know I would have the luck to have this book land in my hands!"
+            - "^^it would have helped much more if one started earlier – very much like saving for retirement.^^ [*](((SF8pUW-gw)))"
+                - "*sigh* I can relate to **feeling** like I haven’t saved up for retirement “early” enough..."
+                - "this makes me feel it is imperative students learn this method **now**"
+                    - "{{[[DONE]]}}  insist Fisher pick this book up now!"
+            - "^^It is also difficult to change behaviour in times of stress.^^ [*](((SF8pUW-gw)))"
+                - "yes, it seems absolutely crazy to pick up Zettlekasten when I feel I should just sit in front of a blank page and just write (which we know doesn’t work very well - old habits die hard!)"
+            - "^^Change is possible when the solution appears to be simple.^^ [*](((SF8pUW-gw)))"
+                - "yes - this seems simple enough indeed!  I am wondering what it will take to learn what are mostly fleeting notes into literature notes..."
+- 
+- #Zettels [[Many have an endless array of notes related to our wellbeing that go unprocessed. We have the opportunity to transform how people take input from health practitioners, advisors, coaches and take meaningful and relevant action]] z47
+    - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
+        - In a world where we create an endless stream of unprocessed quotes, we have the opportunity to transform how people read and contribute meaningful insight.
+    - #[[Fleeting Notes]] <snip>
+        - not forcing outcomes
+        - how to focus on reading vs “capturing”
+        - it is okay to craft permanent notes off the bat
+        - very NLP :P)
+        - end of endless “highlight” noise
+        - more meaningful public information

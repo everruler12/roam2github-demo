@@ -1,0 +1,11 @@
+- top-40 companies una Switzerland 
+- 
+- 
+- #Announcement from [[Clara Pastore]]
+    - Here are the videos from [[Live Session 7]]!
+        - #Video [[Group discussion]] and Questions
+            - {{[[youtube]]: https://youtu.be/0zML26HmbOc}}
+        - #Video [[Graph Meditation]] and Final Thoughts
+            - {{[[youtube]]: https://youtu.be/GCLEb7HAH1Q}}
+        - #Video [[Live Session 7]] full recording
+            - {{[[youtube]]: https://youtu.be/DbeFf102Tv0}}

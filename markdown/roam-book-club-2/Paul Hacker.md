@@ -1,0 +1,42 @@
+- 
+- Marisol Im:: Paul Hacker
+- Breakout Group Number -36
+    - Who was in this group on 11.1.20::
+        - [[Conroy Michel]] [[Beau Haan 📌]]  [[Tamera Martens]]
+    - What did your group talk about?::
+    - Any questions for the book club as a whole?::
+    - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+- Website:: 
+- Fleeting Notes:: Copy block ref, then replace with text and alias so you can highlight and annotate, then put a comment below if you want
+- 
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- 
+- [[Book Club 2 Live Session 1]]
+    - [[Goals]]
+        - I would like to see myself becoming more likely to use notetaking as a way of interacting with all the work I am doing, without it being like a real drag.
+
+        - To use the writing and reading as a kickstarter to doing more writing and reading more consistently
+        - Will this be something I can easily teach others, like Joel and Marisa
+        - Will this help me remember thinks more readily and be able to find info that I want to remember?
+        - Can this be used in coaching others about PC?
+        - Will this speed up, slow down, help or harm my ability to get to a stage where I feel comfortable moving PCPC online?
+        - 

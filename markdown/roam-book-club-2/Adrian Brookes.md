@@ -1,0 +1,35 @@
+- Marisol Im:: 
+- Breakout Group Number - X
+(fill this in for your X!)
+    - Who was in this group on 11.1.20::
+    - What did your group talk about?::
+    - Any questions for the book club as a whole?::
+    - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+- Website:: 
+- Company:: optional, delete otherwise
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- 
+- "Graph Meditation #[[Graph Meditation]]"
+- [habits give a false sense of control](((x5hx3y9ay)))
+- We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)
+- We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.) [*](((x5hx3y9ay)))

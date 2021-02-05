@@ -1,0 +1,131 @@
+- 
+- [[Goals for Book Club]]
+- [[How to Take Smart Notes]]
+    - [[Introduction]]
+        - #[[fleeting notes]]
+            - Writing is not what follows research, learning or studying, it is the medium of all this work. 
+            - Most people struggle for much more mundane reasons, and one is the myth of the blank page itself. They struggle because they believe, as they are made to believe, that writing starts with a blank page. 
+            - The research on willpower or "ego depletion" is in a bit of turmoil at the moment. But it is safe to say that using willpower is a terrible strategy to get things one in the long run.  
+        - #[[literature notes]]
+            - Writing is the medium of learning
+            - Learning requires the reader to actively engage by asking questions and making connections 
+            - Sitting around and waiting for inspiration is a timing problem. Writing does not happen after reading, it is a process that that happens while you actively read  
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - #[[fleeting notes]]
+            - Tools are only as good as your ability to work with them. Everybody knows how to handle a flute (you blow into one end and press your fingers on the holes according to the notes you are playing), but nobody would try it out once and then judge the instrument on what they hear. 
+                - /{{[[youtube]]: https://www.youtube.com/watch?v=J_ryjjeNc5k}}
+        - #[[literature notes]]
+            - A tool can be a form of expression, how you use a tool changes how the tool behaves.
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - #[[fleeting notes]]
+                - There is no such thing as a history of unwritten ideas. 
+                - But, as [[Wilhelm von Humboldt]], founder of the Humboldt University of Berlin and brother to the great explorer Alexander von Humboldt, put it, the professor is not there for the student and the student not for the professor. Both are only there for the truth. And truth is always a public matter.
+            - #[[literature notes]]
+                - Ideas need to be written down for them to be heard by others.
+                - Ideas can fester in a biased feedback loop if they are only viewed from your internal point of view
+        - [[Chapter 6. Simplicity is Paramount]]
+            - #[[fleeting notes]]
+                - He certainly did not aim to turn world trade upside down and pave the way for Asia to become the next big economic power. He just didn’t want to get stuck in traffic anymore. 
+                -  the question is: In which context will I want to stumble upon it again?
+            - #[[literature notes]]
+                - Inventions have unintended consequences
+                - Problems that are addressed from bottom-up engineering have higher order effects
+                - Utilize how your mind remembers associations that often cascade towards a memory rather than remembering facts in isolation
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - #[[fleeting notes]]
+                - The extraordinary successful fitness motivation coach Michelle Segar uses this dynamic to turn even the most stubborn couch potatoes into exercise aficionados 
+                - focusing on one thing: Creating satisfying, repeatable experiences with sports.
+                - Embracing a growth mindset means to get pleasure out of changing for the better (which is mostly inwardly rewarding) instead of getting pleasure in being praised (which is outwardly rewarding).
+                - But if facts are not kept isolated nor learned in an isolated fashion, but hang together in a network of ideas, or “latticework of mental models” (Munger, 1994), it becomes easier to make sense of new information. 
+            - #[[literature notes]]
+                - Utilize positive triggers that personally affect your own mindset when embarking on new habits
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+            - #[[fleeting notes]]
+                - We unfortunately tend to confuse familiarity with skill.
+                - When we proofread a manuscript, we take on the role of a critic who takes a step back to see the text with the eyes of a dispassionate reader.
+                - Teachers tend to mistake the ability to follow (their) rules with the ability to make the right choices in real situations.
+                - Things we understand are connected, either through rules, theories, narratives, pure logic, mental models or explanations. And deliberately building these kinds of meaningful connections is what the slip-box is all about.
+                - Zeigarnik effect: Open tasks tend to occupy our short-term memory–until they are done.
+                    - we also know that we don’t actually have to finish tasks to convince our brains to stop thinking about them. All we have to do is to write them down in a way that convinces us that it will be taken care of.
+            - #[[literature notes]]
+                - meaningful connections are built through understanding
+                -  "Zeigarnik effect: Open tasks tend to occupy our short-term memory–until they are done."
+        - [[Chapter 10: Read for Understanding]]
+            -  #[[fleeting notes]]
+                - Even though elaboration works verifiably well for deep understanding, it might not be the best choice if you just want to learn isolated encyclopaedic facts 
+            - #[[literature notes]]
+                - elaboration weaves notes together 
+        - [[Chapter 11. Take Smart Notes]]
+            -  #[[fleeting notes]]
+                - Luhmann recommends: Writing brief accounts on the main ideas of a text instead of collecting quotes. And she also stresses that it is no less important to do something with these ideas–to think hard about how they connect with other ideas from different contexts and could inform questions that are not already the questions of the author of the respective text.
+                - Writing here, too, is not copying, but translating (from one context and from one medium into another)
+                - The brain, as Kahneman writes, is “a machine for jumping to conclusions” 
+                - “No, no!” Feynman protested. “They aren’t a record of my thinking process. They are my thinking process. I actually did the work on the paper.”
+                - What does this all mean for my own research and the questions I think about in my slip-box? This is just another way of asking: Why did the aspects I wrote down catch my interest?
+                - Learning would be not so much about saving information, like on a hard disk, but about building connections and bridges between pieces of information to circumvent the inhibition mechanism in the right moment. It is about making sure that the right “cues” trigger the right memory, about how we can think strategically to remember the most useful information when we need it.
+                - the very thing that is learning, which is making meaningful connections.
+            - #[[literature notes]]
+                - instead of collecting quotes, write in your own words and think about how they connect
+                - notes should be making you question: how does this relate to my interests? where does it fit in my slip box?
+                - learning is making connections
+        - [[Chapter 12. Develop Ideas]]  
+            - #[[fleeting notes]]
+                - The way people choose their keywords shows clearly if they think like an archivist or a writer. Do they wonder where to store a note or how to retrieve it? The archivist asks: Which keyword is the most fitting? A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it? It is a crucial difference.
+                - But maybe you are a political scientist and read this note as an answer to the question of why certain topics are discussed during an election and others not, or why it could be politically more sensible to promote easy-to-visualise solutions over solutions that really work. Fitting keywords here might be “political strategies,” “elections” or “dysfunctionalities, political.”
+                - Keywords should always be assigned with an eye towards the topics you are working on or interested in, never by looking at the note in isolation.
+                - It is no coincidence that one of the main features of Luhmann’s theory of social systems is its discovery of structural patterns that could be found in very different parts of society. 
+                - He was able to show how vastly different things like money, power, love, truth and justice can be seen as social inventions that solve structurally similar problems 
+                - (they all can be seen as media that make the acceptance of certain communication offers more likely
+                - The brain is very good at making associations and spotting patterns and similarities between seemingly different things and also very good in spotting differences between seemingly similar things, but it needs to have them presented objectively and externally. 
+                - It is much easier to see differences and similarities than to detect them by mere thinking.
+                - how people in science and in general come up with genuine new ideas, calls it the “slow hunch.”
+                - Our brains evolved to notice details by shifting focus from one area to another, by repeatedly scanning the surroundings. 
+                - The brain is more likely to notice details when it scans than when it focuses.
+                - This is one of the reasons why thinking works so much better when we have the very things we think about in front of our eyes. It is in our nature.
+                - The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. Without structure, we cannot differentiate, compare or experiment with ideas.
+            - #[[literature notes]]
+                - In which circumstances will I want to stumble upon this note
+                - choose keywords based on how the note relates to you, not by looking at the note in isolation
+                - money, power, love, truth and justice can be seen as social inventions that solve structurally similar problems 
+                - the brain has an easier time seeing similarities and differences than thinking about them
+                - Our brains evolved to notice details by shifting focus from one area to another, by repeatedly scanning the surroundings. 
+                - structure imposes restriction to foster creativity, allowing the brain to come and experiment with differences 
+        - [[Chapter 13. Share Your Insight]]
+            - #[[fleeting notes]]
+                - Since writing is nothing more than the revision of a rough draft, which is nothing more than turning a series of notes into a continuous text, which are written on a day-to-day basis, connected and indexed in the slip-box, there is no need to worry about finding a topic to write about.
+                - The more time an artist devotes to learning about an aesthetic “problem,” the more unexpected and creative his solution will be regarded later by art experts 
+                - When even highly intelligent students fail in their studies, it’s most often because they cease to see the meaning in what they were supposed to learn are unable to make a connection to their personal goals or lack the ability to control their own studies autonomously and on their own terms 
+                - “When I am stuck for one moment, I leave it and do something else.” 
+                - But there is one consolation: It has nothing to do with being a student. It has something to do with being human. Even the people who study this phenomenon, which is called the overconfidence bias, admit that they too fall for it
+                - The lesson to draw is to be generally sceptical about planning, especially if it is merely focused on the outcome, not on the actual work and the steps required to achieve a goal.
+                - One of the most difficult tasks is to rigorously delete what has no function within an argument–“kill your darlings.”
+            - #[[literature notes]]
+                - inspiration gardening: indexed notes grow to continuous texts and rough drafts 
+                - students need to learn to recognize how notes and meaningful to them and connect to their personal goals
+                - planning is plagued by overconfidence bias, even among experts
+        - [[Chapter 14. Make it a Habit]]
+        - 
+    - [[Afterword]]
+        - Learning, thinking and writing should not be about accumulating knowledge, but about becoming a different person with a different way of thinking. This is done by questioning one’s own thinking routines in the light of new experiences and facts.
+- Reflection on first reading phase of the book 
+    - Writing is an ongoing process. Most insights aren't immediate, and writing shouldn't be either. 
+    - Every creative endeavor involves structure and restraint. Take notes and reflect how they connect to your goals. 
+    - How to take smart notes describes a method for writers to increase engagement with the information they consume. 
+    - I see the zettle method as a process one can use to find the relationship between their notes, so that they can more effectively navigate their own thoughts and goals in writing.
+    - Reading How to Take Smart Notes is making me question: 
+        - Why do I want to save this note? When do I want to remember this fact? 
+        - What is my bigger goal of accumulating notes on this topic? 
+        - How does this piece of knowledge fit into my previous work?
+    - The zettle method feels like it has the potential to reshape how I think about my passions, knowledge, and goals.
+- Live Session 4
+    - "Pick from the prompts below and write in your own page for 15 minutes."
+        - The book changed how I view the purpose of notes. Previously I viewed notes as a way to archive facts that I find interesting. Now I see notes as a tool to facilitate me to communicate with my thoughts.
+        - The book is very abstract, and I wish it provided more concrete examples of a writer playing his toolbox as an instrument instead of talking about the slip box as a tool
+        - A permanent note enables a writer to explore their past insights to create more insights;
+            - passive consumption vs active creation 

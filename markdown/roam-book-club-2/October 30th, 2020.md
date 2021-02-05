@@ -1,0 +1,7 @@
+- 
+- 
+- [[Matthew Vogel]]
+    - Fleeting Notes::
+        - "[[1.3 The slip-box manual]]"
+            - "The #[[slip-box]] was the start of the [[atomic idea]]. [[Evergreen Notes]] and [[Roam Research]] have based themselves on this concept of thinking."
+        - 

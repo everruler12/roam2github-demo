@@ -1,0 +1,163 @@
+- Name:: Saqer Almarri
+- Book: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers
+- Writer: Sönke Ahrens
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+    - [[Introduction]]
+        - [[Writing]] is a fundamental aspect of thinking, researching, learning, studying, and processing ideas. If anything it is the "**it is the medium of all this work**." [*](((DbNXwAXX9)))
+        - Unsystematic and inefficient [[note-taking]] might not show itself to be unsystematic or inefficient until it is put under pressure (by [[deadline]] or otherwise). [*](((1NqxVWlvh)))
+        - Everyday work is where the quality of [[academic work]] lies, and not anywhere else: which is [[self-discipline]] or self-control during the everyday tasks associated with [[writing]]. [*](((KqvBsDubC)))
+    - [[Chapter 1. Everything You Need To Know]]
+        - The process of [[writing]] and [[note-taking]] must be associated with the [[workflow]] in order to be useful. [*](((59-bYYcu-)))
+        - A structure is not a plan. A plan requires willpower, but a good structure lets us do the right thing at the right time. [*](((lz_jy3Uyg))) [*](((e5t8EGtoY)))
+        - Good Solutions are Simple:
+            - Sometimes attempting to simplify tasks and notes leads to making them very complicated. [*](((FfwvQnsGs)))
+            - Instead of attempting to make plans simpler, why not just use routines. [*](((ez0DqkFlC)))
+            - The [[Getting Things Done]] approach doesn't work in [[academia]] probably because the academic [[writing]] process is not linear. [*](((uROSshEwO)))
+    - [[Chapter 2. Everything You Need to Do]]
+        - Things that need to be done:
+            - Make [[fleeting notes]], which are fleeting, so they will not be permanent, but "mere reminders of what is in your head." [*](((pZ1dkTn5N)))
+            - Make [[literature notes]], which are notes about the content. Those will have to be short and selective. Do not quote, unless you really really have to. [*](((eRojO1adJ)))
+            - Make [[permanent notes]], which are done when you look into your notes and develop the ideas, arguments, and discussions. [*](((y5dDNqTm7)))
+            - [[One Note, One Idea]], in full sentences, with references and precision.
+                - When you do this you can discard your [[fleeting notes]].
+    - [[Chapter 3. Everything You Need to Have]]
+        - You need to have:
+            - a [[workflow]] that works
+                - [[workflow]] tools:
+                    - a notebook or a central inbox of notes
+                    - a reference system
+                    - a slip-box or whatever it is that you'll catalog your literature and permanent notes in
+                    - a text editor
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - Understand how to use your tools before using them.
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - "An idea kept private is as good as one you never had." In [[academia]], we write to make make public our ideas. [*](((5Bxb_J2dj)))
+                - Everything in [[academia]] involves [[writing]] in some form. [*](((U0_AKhDHt)))
+        - [[Chapter 6. Simplicity is Paramount]]
+            - Most writers write their notes everywhere, and then have trouble remembering where and when these notes were written. [*](((iEoGjCKxY)))
+            - Remember your tools: the slip-box.
+                - Store your ideas in the same slip-box, in a standardized format, so you don't spend any energy figuring out where it is.
+                - Do not add ideas indiscriminately, so you need to focus on making ideas of quality.
+                    - This can be done through making use of the 3 types of notes, and keeping them separately:
+                        - [[fleeting notes]]
+                            - temporary reminders of information
+                            - should be reviewed within a day or two
+                        - [[permanent notes]]
+                            - never thrown away, kept in a slip-box
+                            - are readable in the future when the context is forgotten
+                        - [[project notes]]
+                            - project-specific notes that are archived when the project is done.
+                                - these tend to be outlines, snippets, drafts, etc.
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - Brainstorming isn't as helpful as you think it is, because you are not going to start from scratch when you write, and because writing itself is not linear.
+            - Academic writing is a non-linear process and requires a clear, reliable structure.
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - The workflow can turn into a self-sustaining cycle when it becomes rewarding.
+                - A circular approach can include multiple feedback loops to go into the self-sustaining cycle:
+                    - Feedback Loop 1: Reading with a pen makes us to read and check our understanding by writing down what we're understanding in our own words.
+                    - Feedback Loop 2: Writing permanent notes forces us to express our thoughts after thinking them through.
+                    - Feedback Loop 3: As we feed our [[slip-box]] (which grows exponentially) we make it more useful and productive for us through its links.
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+            - Do not [[multitask]]: each [[task]] must be given its time.
+                - [[writing]] a paper involves: [[reading]], [[understanding]], [[reflecting]] on and developing ideas, structuring, organizing, editing, correcting, and rewriting. And each task needs its own time. [*](((sw97t7ucj)))
+            - Reach a point of focused attention that is a "[[flow]]" ([[Mihaly Csikszentmihalyi]]). A [[flow]] is effortless focused attention. [*](((d0FZTHICy)))
+            - Each [[task]] needs the right kind of attention (i.e. proofreading requires different attention than writing). Not multitasking is important because you're not mixing the task of the critic/editor with the task of the writer.
+            - Use embodied experience to become an expert in academic writing (that is know the process in your body), and that way you won't have to do planning, because the plan is already known and repeated so often it is muscle memory.
+            - Attention, short-term memory, and motivation are limited resources: do not waste them.
+            - [[Zeigarnik effect]]: "open tasks tend to occupy our short-term memory–until they are done." Named after [[Bluma Zeigarnik]]. [*](((E4Y2AJaeT)))
+            - A strategy to reduce using attention and short-term memory is to reduce decision making:
+                - keep a regular system so most of the decisions are made in the beginning
+                    - examples:
+                        - use the same notebook for quick notes
+                        - extract ideas from a text in the same way
+                        - turn ideas into the same kind of permanent note
+        - [[Chapter 10: Read for Understanding]]
+            - A paper is a rewritten draft, a draft is a continuous flow of text out of a series of notes, a series of notes is a rearranged notes from the slip-box, and the notes in a slip-box are notes written from your readings. [*](((NFROnc7cy)))
+            - Notes should be selective, but selectivity should be relevant to your goals:
+                - your note-taking should deal with confirmation bias effectively
+                    - by breaking the writing process from any form of linearity
+                        - "If insight becomes a threat to your academic or writing success, you are doing it wrong." [*](((HqodWit64)))
+                        - develop your ideas and arguments bottom-up
+                            - Reading/Writing tasks should be to make sure you have a true account of its content, and make connections, then you can decide what conclusions to draw from that reading task.
+                    - by changing the reasons of gathering relevant information
+                        - selectivity of reading and note-taking should be based on whether something adds to a discussion in the slip-box.
+                        - if we begin to find dis-confirming data, then we can begin seeking it out further
+            - when reading you should be able to re-articulate what you understand from the text
+        - [[Chapter 11. Take Smart Notes]]
+            - Your note-taking practice should not be collecting quotes but rather: brief accounts of the main ideas and how they connect to other ideas from different contexts.
+            - Novel writers can engage in a daily writing practice that aims at a daily goal (like [[Anthony Trollope]] who wrote every morning at least 250 words every 15 minutes before breakfast.)
+            - Academic writing requires more than mere writing: because we need reading, research, thinking and tinkering with ideas. So we can't stick to one page a day.
+            - Break your task down to manageable tasks. Treat putting notes into a slip-box as investing with compounded interest.
+            - Taking literature notes is a deliberate practice.
+            - Taking permanent notes is thinking within a medium of writing.
+            - You can embed the idea into a context by writing the reasons of its importance for your own lines of thinking.
+            - Steps for permanent notes:
+                - 1. Add a note to thes slip-box behind the note you refer to.
+                - 2. Add links to other notes, and links to this note from other notes
+                - 3. Include in the index.
+        - [[Chapter 12. Develop Ideas]]  
+            - New notes should be written with explicit reference to already existing notes.
+            - The slip-box is not an encyclopedia, but a tool to think with. It isn't intended to be complete.
+            - Use keywords that make it both retreivable and usable in the future. Keywords are part of the thinking process.
+            - Cross-references:
+                - Links to the overview of a topic.
+                - Links to the local cluster of notes.
+                - Links to follow-up notes.
+                - Note-to-note links
+            - Remember to compare, correct, and differentiate your notes.
+                - Reviewing old notes helps you detect differences that you didn't notice before.
+                    - It helps you figure out how different your ideas are from other thinkers' ideas.
+                - Reviewing helps you detect contradictions, paradoxes, or oppositions.
+            - The slip-box is building a latticework of mental models.
+            - Read: for what you want to remember, and how to remember the information you want,.
+            - The slip-box is a creativity machine, through a lot of pattern uncovering.
+            - Required practices:
+                - Comparing Notes
+                - Differentiating Notes
+                - Connecting Notes
+                - Playing with Notes
+                - Tinkering with Notes
+            - Develop feedback loops.
+            - Double-check your notes to confirm patterns.
+            - Regularly ask yourself: what is missing?
+            - Remember to make small notes (restricted to size)
+            - Standardize the technical aspects of note-taking so you can focus on the creative aspects.
+        - [[Chapter 13. Share Your Insight]]
+            - Sharing your research is taking your writing all the way to publication.
+            - Use your slip-box to uncover insights and figure out what to write.
+                - Your writing should come out of your insight out of the clusters within your slip-box.
+                - The writing topics and questions will build themselves bottom-up.
+                - The slip-box will lead you down the trails for your research, by finding meaning in the questions that arise.
+            - When writing
+                - remember to structure the text and keep it flexible.
+                - remember to work on different manuscripts at the same time
+                    - the by-product of one project will become a resource for the next
+                        - reading and writing will produce a lot of unintended by-products
+                    - only work on what comes easily
+            - be skeptical about planning
+            - we can only learn from our experience if it is followed by feedback
+        - [[Chapter 14. Make it a Habit]]
+            - keep an intention to do it
+            - make it a habit so that you can replace the old habits with them
+    - [[Afterword]]

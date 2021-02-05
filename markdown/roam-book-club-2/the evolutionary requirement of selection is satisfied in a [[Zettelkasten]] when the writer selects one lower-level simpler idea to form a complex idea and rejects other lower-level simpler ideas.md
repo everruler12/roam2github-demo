@@ -1,0 +1,12 @@
+- keywords::
+- source::
+    - source:: mostly self. 
+        - quote p115:
+            - If we, on the other hand, let questions arise from the slip-box, we know that they are tried and tested among dozens or even hundreds of other possible questions. The vast majority of questions might have been answered quickly or disappeared as no notes were drawn to them, either because of a lack of interest or a lack of material. This is how evolution works: by trial and error, not planning
+        - quote p70
+            - "The slip-box forces us to be selective in reading and note-taking, but the only criterion is the question of whether something adds to a discussion in the slip-box. The only thing that matters is that it connects or is open to connections.[*](((2J1X0Ixx_)))"
+- relevant links::
+- ------------------------------
+- notes::
+- ------------------------------
+- change log::

@@ -1,0 +1,87 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FXlelePhnEI.jpg?alt=media&token=0bf25d17-36b7-492a-a68e-3567b10e6e96)
+- [Twitter Profile](https://twitter.com/RikaSukenik)
+- [[Book Club Meeting #1]] with [[Sönke Ahrens]] reading [[How to Take Smart Notes]]
+    - Your slipbox is your dialogue partner. Having a conversation with a human being is better, but slipbox works well.  
+    - Your routine is something that you can fall back on to look for another entry point. 
+    - Need some notes that are entry points to a cluster of information. (This is good, I forgot about this and need to implement in my own database)
+    - Sonke thinks a Zettelkasten can't be possible in a group because a Zettelkasten is unique to each person. However, he's really intrigued where the group writing process can lead. 
+    - **Relevant Books**
+        - [[How to Read A Book]]
+            - similar theme that people are overloaded with information and we need a better way to filter and learn from information
+- Who am I? 
+    - "[[Rika Sukenik]]"
+        - "[[Interests]]"
+        - "[[Favorite Books]] [[How Emotions Are Made]] [[Man's Search for Meaning]] [[How to Read A Book]] [[How To Take Smart Notes]]"
+        - "[[Profession]] [[Roam Cybrarian]] [[Researcher]]"
+- [[How to Take Smart Notes]]
+    - [[Introduction]]
+        - Note taking is not only for writing papers. It should be done daily. Everything should be written down. This prevents the problem of the blank screen. Writing is thinking. It is not something that you do after you decided to write a paper, but rather for days, weeks, months, and even years before. 
+        - It's very important to have self-control and self-discipline, but this cannot be cultivated from willpower alone because willpower comes and goes, it's outside of our control. Therefore, a system of taking notes, a workflow, is very important. A daily habit, a process, for taking notes is the solution to never writing with a blank screen. 
+        - The note taking worfklow should be simple. Don't reinvent the wheel. In fact, you can just use the slipbox technique. Organizing notes by category is not a good idea because  good note taking is less about collecting ideas and more about connecting thoughts. Plus, your needs need to be able to surprise you. 
+        - A smart work environment is the key to being productive. It's important to have a workflow that is flexible and allows for small changes. It's not just about the slipbox, but even more importantly about the system of the workflow. 
+        - **The core idea of the slipbox is that notes usually add value in a different context than originally made in. Thus, super important to connect notes.**
+        - Luhmann's workflow was to write a note with a new idea and include a bibliographic reference. Then, he would write another note with his ideas, comments, thoughts. Whenever he created a new note, he would make a connection to existing notes. This can be done with hyperlinks. Lastly, he kept an index to jog his mind with some ideas and concepts. 
+        - The slip box becomes like a person you have a dialogue with. You start by taking fleeting notes, then create literature notes, then permanent notes that you add to the slip box. Your slip box keeps growing with new notes that you build upon. 
+    - [[The Four Underlying Principles]]
+        - 1. Writing is the only thing that matters - writing is the key to making insights. We aren't taught this in school. We're not taught to ask questions and to veer off the path. But writing is key to studying. There's no such thing in history as an unwritten thought. In academia, there's no such thing as private knowledge.
+        - 2. Simplicity is key - Idea of a shipping container was a box, super simple. Many shippers tried it but gave up because they lost money on it. They didn't change their process, their supply chain, and so instead it was a burden on them. Eventually, positive feedback loops started happening. More harbours wanted the containers and more containers were built. 
+            - Most people collect a bunch of notes and then want to brainstorm on a specific topic. You shouldn't ask yourself what category to put the notes in but rather, '**in what context will i want to find this note again?' **A common mistake that people make is not understanding difference between fleeting notes, temp notes, and permanents notes/slipbox. Fleeting notes need to be processed. 
+        - 3. Never start from a blank sheet  - if you do the slipbox method, you will never scratch your head about what topic to write about. you would have done the processing each day to figure it out, the hard work. 
+        - 4. Let the Work Carry you Forward - you shouldn't have to reward yourself with things after you complete a task, that's not a way to get motivated. Rather, the work itself needs to be motivating & rewarding to create feedback loops. Feedback loops should come at every stage of the process, not just after a few months. **Circular feedback loops, not linear**
+        - The better we become at note taking, differentiating important bits from not important ones, the better we become at reading, and the more we read, the more we write, and it becomes a virtuous cycle. 
+        - The slip box becomes like a neural network. it has our mental models, our thoughts, not anyone else's like on Wikipedia. 
+    - [[The Six Steps to Successful Writing]]
+        - 1. Give each task your undivided attention
+        - 2. Don't multitask - multitasking means shifting attention between two things and that is draining on our brains. Every task should be accompanied by writing. This gives our brain a haven from its usual restlessness. 
+        - 3. Give each task the right kind of attention - outlining should be done throughout the whole writing process. It should be updated, edited as our understanding shifts. 
+        - 4. Become an expert instead of a planner - argues that real experts don't make plans. they go based on their intuition. they have a lot of experience and can see patterns that help them make good decisions. 
+    - [[Get Closure]]
+        - Unfinished tasks need to not linger in our memory. This means you need to write down the outcome of your thinking, with possible connections to other things. Open items are possible connections to other notes. We could choose to elaborate further or not. The workflow becomes fleeting notes, literature notes, permanent notes. **Next task is to process whatever is in literature notes. **Or it could be to add a reminder to review a paragraph or something like that. 
+        - We need breaks, walks, naps to replenish our willpower. Willpower is fleeting & we don't quite know how to replenish it. 
+        - **Literature notes can be either short or long. If short, you need good mental models & theories in your head to tie them back to your slipbox**. Overall, literature notes should be concise so that they help you write slipbox notes. 
+        - **You have to have a plan for what to do with your literature notes, otherwise taking them feels like a chore.  **
+    - [[Stay Open Minded]]
+        - The slip box should be fed relevant information that doesn't serve any one hypothesis. It's open minded, as you should be when taking lit notes and then eventually slip box notes. In fact, you should collect lots of sides to an argument, pros and cons. It makes the slipbox much more interesting, making writing and drawing connections much more interesting. 
+    - **Get the Gist**
+        - It's important to write notes in your own words several times a day as that is the only way to develop patterns and mental models to navigate texts. It's important to understand the author's argument and what exactly the author means when talking about a subject. For example, human rights, what kind, in what context? It's also important to think critically about a text and look behind the assertions. It's important to reframe questions, assertions, and information. Even more important than having knowledge because without it we can't put our knowledge to use. 
+        - Immanuel Kant said, "nonage (immaturity) is the inability to use one's own understanding without another's guidance." 'Have the courage to use your own understanding' is the motto of the Englightenment
+        - The more you read, the easier you can spot patterns and understand the reading. Reading becomes a virtuous cycle. 
+        - It's better to be more clear & to the point. Readers will appreciate it, plus it spills over into speaking and thinking. 
+        - The skills can be learned but it takes deliberate practice
+        - Rereading a text is a way to fool yourself into thinking that you understand something. 
+    - **Take Smart Notes**
+        - Instead of collecting quotes, write brief accounts of the main ideas of a text. Then, think hard about how these ideas connect with other ideas. 
+        - A certain number of notes a day is a good goal for academic writing. **Measure productivity by the number of notes you take a day**
+        - **First step to a literature note, is to ask yourself questions. Write them down.**
+        - When you start to write a literature note, ask yourself 'what does this all mean for my own research & the questions I think about in my slip box? Next, ask questions like, "is this convincing?" "what methods are used," "which of the references are familiar?" "why?" ask yourself then 'is this already discussed? 'who else discussed this?' 'if not, why not?' Look at the slipbox to help answer these. 
+    - **Adding Permanent Notes**
+        - Make sure you can find the note from the index. 
+        - Build a latticework of mental models
+    - **Develop Ideas**
+        - The slipbox is the tool we think in, not the tool we think about
+        - Focus more on connecting individual notes, not necessarily connecting notes to the index. Don't use the index as an organizational tool. It shouldn't be planned. The index is just the entry point, and once you're in, you can go down the rabbit hole note after note. 
+        - Assign keywords based on a word that is not in the note & with an eye on what you're researching/working on. 
+    - **Make Smart Connections**
+        - The first type of note is the highest level (entry point from the index). It's used as a structure for thoughts and is just a few sentences about the topic. From there, you can backlink away. If the way you're structuring notes changes, just edit this entry point note noting the new structure. 
+    - **Think Inside the box**
+        - First, take literature notes & translate them to different contexts in the slipbox. 
+        - It's very important to abstract ideas, that's why we can emotionally resonate with Romeo + Juliet. Especially for interdisciplinary work. 
+        - It's important to ask ourselves what is not in the picture, but could be relevant. What is missing from the text?
+        - Make sure you really see what you see. double check. like an optical illusion, it's hard for us to not fall into traps (our system 1 is active)
+        - Keep a list of failures. What has not worked?
+        - Redefine the problem so there is an already existing solution. Ask, what if? What is missing?
+        - By using the slipbox on a daily basis, we are constantly confronted with what we think we saw in a text so we can redefine & re-evaluate it. Is this really right? Is this what the author was really trying to say? what is missing? what if there could be another way of doing it? 
+    - **Share your insight**
+        - Let questions arise from the slip-box. Evolution works by trial & error, not planning. 
+        - Slip-box should be a question generator. If no questions arose from notes then either they were already answered or there was nothing to connect them to. We have to work, write, connect, differentiate, complement and elaborate on questions - that's what we do when we take smart notes. 
+    - **Finishing and Review**
+        - Turn the slipbox into a linear outline. 
+        - Slipbox's power is when you work on multiple projects at the same time because one project can serve as a resource for another. Also we can switch to another project when we become stuck or bored. 
+        - Work on your projects in chunks - write, edit, change up, etc. 
+        - Strategically build up new habits to replace old ones. Don't rely on willpower alone. 
+- #Chat [[Stian Håklev]][Spiritual Bypassing, Robert Masters](https://realitysandwich.com/74388/spiritual_bypassing/) is a thought provoking piece. It made me dig into my own meditation practice and whether I am "spiritually bypassing" my problems. I like to think I don't because, through my meditation practice, I work with negative emotions as well. Masters makes some bold claims about meditators and that turns me off, but then again, [[John Vervaeke]] makes some bold claims about enlightened meditators. 
+    - Masters makes the claim that some meditators he has met flee darker emotion, like anger, instead bypassing them for feelings of "oneness." 
+    - Masters' disdain for this experience of [[oneness]] is in contradiction to [[John Vervaeke]] who says that [enlightened meditators describe feelings of oneness](((Nxi1kUwKb)))[[Notes on Awakening from the Meaning Crisis 11]] #Zettel #[[Fact checking]]
+    - I'm curious to further explore the concept of [[oneness]] with respect to [[enlightenment]]
+- #Chat [[Erik Engelhardt]] you may be interested in the [[Fact checking]] we're starting to do with [[Notes on Awakening from the Meaning Crisis 11]]. Respond if you see this. 
+- [[Book Club Meeting #4]]

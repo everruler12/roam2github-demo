@@ -1,0 +1,2 @@
+- #Zettles
+    - [[Z: The framework for note taking in the slip-box is solely to enrich the discussion within the slip-box itself]]

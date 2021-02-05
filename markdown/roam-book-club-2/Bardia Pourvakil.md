@@ -1,0 +1,133 @@
+- Name:: Bardia Pourvakil
+- Website:: [bardiapourvakil.com](https://bardiapourvakil.com)
+- Company:: [[Roam Research]]
+- Fleeting Notes:: 
+- Literature Notes::
+    - [[Introduction]]
+        - We write to remember and organize [*](((hG7TRPF5I)))
+        - Writing plays a crucial role in learning but we don't pay it enough attention [*](((PGX-Y4f9Y)))
+        - This book is aimed to help you organize your notes and turn your thoughts into better notes so that you can learn more effectively and help propel your projects forward [*](((baDCUDIxD)))
+        - Writing is fundamental to research and learning, so any improvement we make in our writing will help us immensely in all our intellectual endeavours [*](((NOUeE9wbB)))
+        - It's hard to get feedback on your everyday writing so it's hard to know when you're doing it wrong and if you do it wrong you may not realize until its too late [*](((1NqxVWlvh)))
+        - Good writing comes from good note-taking as its much easier to take already-written material and form it into a finished piece rather than start from scratch and pull things from your mind alone [*](((VQiKWP6bz)))
+        - The quality of a written piece is directly correlated to the written preparation done beforehand [*](((-AeNlDTdF)))
+        - Academic success is dictated by how you do your work every day [*](((KqvBsDubC)))
+        - Doing required work in a smart way leads to success but it seems to require willpower, which we have a limited amount of every day [*](((tsiIOxgEi)))
+        - Self-discipline is more a product of our environment than ourselves and we can change our environment so we don't have to use it. [*](((tIetkYe5Q)))
+        - When tasks have meaning, are defined well and interest us, they will get done, because there is an alignment between our short-term and long-term interests [*](((tIetkYe5Q)))
+        - You know you've set yourself up for success when you don't have to use willpower to get things done. [*](((tIetkYe5Q)))
+    - [[Chapter 1. Everything You Need To Know]]
+        - Everything You Need To Know::
+            - This book will show you an overarching structure of how to take notes so that you can move from one task to another easily without having to do anything you don't feel like while also maintaining sight of the bigger picture. [*](((59-bYYcu-))) #zettel
+            - Zettel: Having a good system means you don't have to try and keep everything in your head and instead you can focus on the important matters: content, ideas, and arguments. [*](((N9B8GYzJr)))
+            - When you break down an ambiguous project into smaller well-defined tasks, you can do them separately to completion and move from one to another with ease. [*](((N9B8GYzJr)))
+            - A good structure allows you to get into a flow state where you are completely immersed with what you're doing and the work becomes effortless as a result [*](((N9B8GYzJr)))
+            - Researchers, writers, and academics don't have a shortage of interesting things to spend their time on, but they often use bad workflows that put a burden on them which leads to procrastination and demotivation [*](((lz_jy3Uyg)))
+            - Planning is not the same as having a good structure:  plans impose an inflexible structure that requires willpower to stay on track [*](((e5t8EGtoY)))
+            - The inflexibility of plans is incompatible with open-ended processes where we are constantly adjusting our goals as we learn more [*](((e5t8EGtoY)))
+            - We want to structure our workflow so that new insights and ideas drive us forward instead of threatening preexisting plans [*](((e5t8EGtoY)))
+            - Planning works to get through school but it won't turn you into a life-long learner. [*](((Afolfm8fD)))
+            - Good students struggle the most with writing because they care the most about their writing. [*](((GRlg3daPc)))
+            - The first idea you have is probably bad. [*](((GRlg3daPc)))
+            - Good questions are hard to come by. [*](((GRlg3daPc)))
+            - Reading more does not translate to having more ideas, and in the beginning this is especially true, because you find that someone has already thought about most of your ideas. [*](((GRlg3daPc)))
+            - A good system is needed for good students who look beyond their own discipline, as they have an ever-greater amount of information coming from disparate sources to manage and integrate to come up with new ideas [*](((GgF6t07Z4)))
+            - Poor students often think they are better than they are [*]([[Dunning-Kruger effect]]) and will look for confirming evidence [*]([[Confirmation bias]]) instead of trying to find the limits of their own understanding. [*](((LTX79DEgy)))
+            - Good students constantly try to learn more since the more you read the more you realize you don't understand and then suffer from [[Imposter syndrome]] as they don't think they are up to the task given all that they don't know [*](((Y0L49bjII)))
+        - 1.1 Good Solutions are Simple – and Unexpected::
+            - You can start taking smart notes immediately—no need to make a complex system or reorganize all your existing notes. [*](((axkSbVLUr)))
+            - Complexity creeps in as you amass more notes on different subjects and the initial urge is often to silo notes and organize them hierarchically which leads to a complicated structure at odds with finding connections between the notes. [*](((FfwvQnsGs)))
+            - The best way to deal with complexity is to keep things simple and stick to a few basic principles [*](((vhg4vhrk2)))
+            - The simplicity of the smart notes structure allows complexity to build at the content level, which is what we want [*](((vhg4vhrk2)))
+            - No prep needed to get started with smart notes, you can just deal with things differently from now on. [*](((LLzV2bQ35)))
+            - We only need to combine two proven ideas to create the smart notes structure, the first is a slipbox [*](((hCx2F3Siv)))
+                - The second idea is changing your daily routines around writing [*](((ez0DqkFlC)))
+            - Changing behaviours always has an adjustment period where you are drawn back into your old habits but with smart notes, you will soon feel it becomes intuitive and you'll never go back to your old methods given how much more productive you'll be now [*](((ez0DqkFlC)))
+            - For a routine to be successful, it requires employing simple, repeatable tasks that become automatic and fit together seamlessly. [*](((ez0DqkFlC)))
+            - Significant change can only take place when all the related work becomes integrated in an overarching process without bottlenecks [*](((ez0DqkFlC)))
+            - The essence of [[GTD]] is collecting everything that needs to be done into one place and processing it systematically [*](((ngW0psLUC)))
+                - We can only let go and focus on the important stuff when we know that everything is taken care of, as we can only reach the "mind like water" state when we don't have lingering thoughts competing for our attention when we do our work [*](((ngW0psLUC)))
+            - We can't transfer [[GTD]] cleanly to insightful writing for two reasons: 
+1) the former requires well-defined goals whereas insights cannot be planned for, so you much organize more openly
+2) the former requires projects broken down into concrete next steps whereas insightful writing has many smaller steps that don't make sense to write down and often are non-linear in order [*](((PxFYE_wSD)))
+            - Writing involves constantly jumping from task to task so micromanaging at that level is useless while zooming out to the bigger picture does not help much either as the tasks become things like "write a page" which may involve a month of other tasks [*](((uROSshEwO)))
+            - The main takeaway from [[GDT]] is a holistic perspective: a) we need to have everything taken care of lest the neglected parts nag on our attention until unimportant tasks become urgent 
+b) tools only make a difference when they are embedded into a well-thought-out process and fit well together [*](((1OmI74xT0)))
+            - Everything from researching to proof-reading is deeply connecting in the process of writing so all the steps need to be linked in such a way that you can go from one task to another with easy while remaining modular enough so that you can do what you need to do at any given moment [*](((wAz831-X5)))
+        - 1.2 The Slip-box::
+            - [[Niklas Luhmann]] took a note any time he came across something interesting or had a thought about what he was reading [*](((tr6Squ5vc)))
+            - Instead of putting notes in different categories or under a specific text, [[Niklas Luhmann]] wrote them all down on cue cards, put a number in the corner and collected them all in one place, the slip-box [*](((r6KEY5ijJ)))
+            - [[Niklas Luhmann]] believed that an idea was only as valuable as its context and it didn't have to be the one that it came from, so he began to think about how ideas could relate to different contexts [*](((BjFRHwXXy)))
+            - [[Niklas Luhmann]]'s slip-box became more than the sum of its notes because of the way he took his notes and it immensely helped his productivity and the structure and development of his own thoughts, eventually becoming his main dialog partner and idea generator—and it was fun for him because it worked so well [*](((BjFRHwXXy)))
+            - With the slip-box method [[Niklas Luhmann]] published hundreds of articles and 58 books across many different fields, many becoming classics [*](((mCWzSPAwU)))
+            - [[Niklas Luhmann]]'s writing read as if he was squeezing in as much insight and as many ideas as his publications would fit [*](((jCXXAWuQo)))
+            - The only thing [[Niklas Luhmann]] wished for was more time [*](((EnfU0Gsfh)))
+            - #Quote “I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else.” — [[Niklas Luhmann]] [*](((j6EyoD7pi)))
+                - [[Fleeting Notes]]
+                    - This reminds me of [[Nassim Taleb]]'s
+            - Most people couldn't believe such productivity could come from [[Niklas Luhmann]] with such little effort using such a simple technique while having fun because we still hold dear this ill-conceived notion that great outcomes require great effort [*](((7HSDsXHqL)))
+            - [[Niklas Luhmann]] was so productive because of how fun he found his work not in spite of it [*](((7HSDsXHqL)))
+                - Hard work can be fun if its aligned with intrinsic goals and we have a sense of control [*](((7HSDsXHqL)))
+                - Work becomes a slog when we set up inflexible systems that don't allow us to adapt under changing circumstances [*](((7HSDsXHqL)))
+            - The best way to feel in control is to actually be in control [*](((oz882t9yv)))
+                - To stay in control, its better to keep your options open during the writing process instead of sticking to the first idea [*](((oz882t9yv)))
+                    - It is natural in writing process for the questions we are trying to answer, the idea-space we are navigating, and the perspectives we have to be completely different than the ones we imagined before getting into the writing [*](((oz882t9yv)))
+                        - The precondition to effortless work is keeping our interests, motivation, and work aligned and this can only happen if our work is structured flexibly enough [*](((oz882t9yv)))
+            - Success doesn't come from the strength of your willpower and being able to overcome resistance but rather from smart working environments that allow you to avoid resistance [*](((hhTaHBEnz)))
+            - You need both the right tools and know how to use them effectively together [*](((hhTaHBEnz)))
+            - No amount of smarts can compensate for the lack of an external system to collect, organize and process your thoughts, ideas or observations and the understanding of how to embed the system into your overarching daily routines [*](((_4c4iQ4E2)))
+            - People didn't use the slip-box because it was so simple and most people assume that impressive achievements need only come from equally complicated efforts [*](((j85ILtzRh)))
+                - Many did not understand how something as simple as the conveyor belt could be so revolutionary [*](((lMo5zp36O)))
+                    - [[Fleeting Notes]]
+                        - This relates to [[non-linear]] effects, [[80/20]] principle, etc.
+        - 1.3 The slip-box manual::
+            - [[Niklas Luhmann]] had two slip-boxes, one for his notes and references to literature and the main one where he collected and generated ideas based on his readings and observations [*](((fDWyGkGQL)))
+            - Whenever [[Niklas Luhmann]] read something, he'd write a brief note on one side of the cue card and the bibliographic information on the other, and then he would look at these notes and then go to the main slip-box to write his ideas and commentary on the notes, limiting himself to one idea per card [*](((nN5f1vjN_)))[*](((55MjPqvfQ)))
+            - [[Niklas Luhmann]] wrote his ideas with existing notes in mind [*](((zt7lrN7X2)))
+            - [[Niklas Luhmann]] wrote these notes with as much care as his final manuscript—everything in full sentences and with references to the original texts [*](((zt7lrN7X2)))
+                - When [[Niklas Luhmann]] would take a new note it would often directly follow an existing one and his slip-box contained long chains of related notes [*](((zt7lrN7X2)))
+                - [[Niklas Luhmann]] would also add references to other notes in different spots in the slip-box, often very far from the original context of the note [*](((zt7lrN7X2)))
+            - [[Niklas Luhmann]] would not copy ideas or quotes from texts but transitioned the ideas from one context to another while trying to maintain the original meaning [*](((iKecBcypp)))
+            - [[Niklas Luhmann]] organized his notes by fixed numbers with no meaning except to be a unique identifier [*](((U4Q7m4mQO)))
+                - New notes that directly referred to or were related to an existing note, he would add it right behind it, and if the existing note had the number 11 the new note would be 12 and if 12 already existed the new note would be 12a [*](((U4Q7m4mQO)))
+                    - Using alternating numbers and letters with some slashes and commas in between allowed [[Niklas Luhmann]] to branch out into as many lines of thought as he wanted [*](((U4Q7m4mQO)))
+            - [[Niklas Luhmann]] built his topics from the bottom up, in contrast with other systems with preconceived notions of top-down topics [*](((k1R5hvOJl)))
+                - [[Niklas Luhmann]] developed topics by sorting through the links of relevant notes [*](((k1R5hvOJl)))
+            - The last element of [[Niklas Luhmann]]'s slip-box was an index, which had a list of id's for cards that served as an entry point for a certain topic or line of thought [*](((gq3S3MuUq)))
+            - The best way to understand how to use the slip-box is to understand more about how we think, learn and develop ideas [*](((kVuIQFmCg)))
+            - The slip-box is acts as the necessary simple external structure to think in to compensate for the limitations of the human brain [*](((kVuIQFmCg)))
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+            - Its crucial to distinguish between fleeting, permanent and project notes [*](((qWUhCUP19)))[*](((BL5wHnXDF)))[*](((SWKiDesb1)))[*](((yBtPTbb0b)))
+            - We tend to think that big transformations have to start with an equally big idea. But more often than not, it is the simplicity of an idea that makes it so powerful (and often overlooked in the beginning). Boxes, for example, are simple. Malcom McLean, the owner of a trucking company and a former trucker himself, regularly got stuck in traffic on the crowded coastal highways. When he came up with an idea to circumvent the congested roads, it was a simple one. He had no clue that it would tip the world in a new direction. He did not foresee that his simple idea would reshape the political landscape, let some nations rise to the top and other fall behind, make century-old professions redundant, give birth to new industries, and would barely leave a single person on earth unaffected by it. I am speaking, of course, of the shipping container, which is basically just a box. When McLean converted the tanker Ideal X to be able to carry 58 containers and set it to sail on 26 April 1956, it was just because it made more sense to ship parts of a lorry than the whole lorry itself, which in itself made more sense than to have them stand in traffic for days. He certainly did not aim to turn world trade upside down and pave the way for Asia to become the next big economic power. He just didn’t want to get stuck in traffic anymore. [*](((Zo2Uaa6y3)))
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+            - Our best shot at changing our behaviour is to be cognizant of how hard it is to do and that the longer a behaviour is engrained in us the more it has a grip on us even though we feel the other way around. [*](((x5hx3y9ay)))
+    - [[Afterword]]
+- Live session notes
+    - "Define a literature note in your own words."
+        - A summarization of an interesting passage or idea from a text with an explicit reference to where it came from
+    - "How do you take literature notes? Discuss your method."
+        - At least for this book in this graph I block reference the block that holds the idea or piece of information I want to summarize, add it as an alias to the end of the block, and then write in my own words the idea while keeping true to the essence of the original text as much as possible
+    - "Have you found value in taking literature notes already?"
+        - Yes it makes explicit and straightforward a proven method of learning from texts which is of summarization and writing in your own words
+    - "What struggles have you had implementing literature notes?"
+        - I often find I struggle with deciding whether or not it is useful to keep something as a literature note, and so I do more than less just in case so I don't miss something
+    - "Describe any enlightening moments you had while taking literature notes."
+        - How easy it is actually to do it by framing it like so:
+            - What are the ideas in this block (i.e what is this block trying to say)?
+                - And then write those ideas more concisely
+    - "a literature note is a careful distillation of your fleeting notes [encapsulating the overall ideas from the author]"
+        - Not really, it is more of a summary of the ideas from the author (which can incorporate fleeting notes)
+        - ah - thanks for the input.  what you describe is more accurate to what I did :)

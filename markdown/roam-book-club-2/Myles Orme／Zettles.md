@@ -1,0 +1,8 @@
+- "Template - Apply children as text"
+    - #[[Question 3]] 
+        - #[[Question 2]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
+            - Once we establish a habit it gives us the freedom the work in the new way and enjoy our new found skills. And then get a little smug about it ;-)
+        - #[[Question 1]] - Is this the summary stuff? Let the inner child breathe, ask him/her what they want and be compassionate. 
+            - Building up new habits to replace old ones - I've recently read a piece on someone's experiments with  - I'm way too distracted by the narration going on! - overcoming their social media addiction - 
+            - Establishing a routine - when starting running again my first level of success is to just turn with shoes on - doesn't matter how well I run just being there gives me the chance to run
+- 

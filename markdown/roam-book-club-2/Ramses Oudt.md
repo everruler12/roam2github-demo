@@ -1,0 +1,41 @@
+- Twitter:: [@rroudt](https://twitter.com/rroudt)
+- Website:: [Ramses.blog](https://ramses.blog)
+- Company:: Freelancer (previously [[Oracle]] and [[Royal BAM Group]])
+- Favourite books:: [[Meditations]] by [[Marcus Aurelius]]
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: n
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+    - ## Session 1
+        - #[[Questions for Sönke]] What is your view on keeping direct quotes with notes in your own works? Do you find it useful, or is sticking to Luhmann's system (own words only) enough?
+    - "The reason is that by connecting permanent notes, we are "prewriting." The threshold for writing a text has been lowered when entire sections of it have been laid out in advance."
+        - Linking (permanent) notes is a way to prewrite.
+    - I like this system for [[Multiplayer Roam]]:
+        - "[[~Tony Tong]] [[@Tony Tong]]"
+            - "this is basically the read tag "I thought about having a "read" tag and filter out those in the query but the problem became what if people reply under that "read" block?""
+                - "so same question applies here"
+                    - "I guess a [[rule of thumb]] is to always @ someone if you want them to read and not reply in the ~ block "
+- Literature Notes::
+- Book Club Thoughts::

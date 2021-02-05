@@ -1,0 +1,69 @@
+- This is my personal page in the shared graph - CS Oakley
+- Location: [[Houston]], [[Texas]] [[Houston, TX]]
+- 
+- 
+- [[roam/js]]
+- [[Book Club Live Session 1]]
+    - 
+- [[Book Prompts]]
+    - ""He not only stressed that he never forced himself to do something he didn’t feel like, he even said: “I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else.” (Luhmann et al., 1987, 154f.)" - p. 15"
+    - 
+- How to take smart notes: 
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- [[Writing Prompts]]
+    - Week 1
+    - "“Writing these notes is also not the main work. Thinking is. Reading is. Understanding and coming up with ideas is. And this is how it is supposed to be. The notes are just the tangible outcome of it. All you have to do is to have a pen in your hand while you are doing what you are doing anyway (or a keyboard under your fingers). Writing notes accompanies the main work and, done right, it helps with it. Writing is, without dispute, the best facilitator for thinking, reading, learning, understanding and generating ideas we have.” [[Chapter 2. Everything You Need to Do]] [*]([[Beau Haan 📌]])"
+    - "Write about what stops you from finishing books?"
+    - What is the gist of the book [[How To Take Smart Notes]]
+        - To me, the gist of the book is that it outlines a method for a reader to capture the main elements from a written piece of work with the intent to:
+            - make a reference summary that can be consulted later for refusing the reader on what the piece was about. 
+            - help cement better understanding of a piece by forcing the reader to rewrite the authors thoughts in their own words.
+            - collect atomic ideas or concepts about the work that can be used later as research points to later develop your own written pieces of work (books, articles, etc.) and write them quicker based on your own thoughts. 
+        - Fleeting Notes
+            - Fleeting notes are those notes gathered to retain a thought in the moment though they are unlikely to provide long-term value.
+            - Fleeting notes are gathered in the moment. They are captured with whatever you have on-hand (scraps of paper, phone, etc.) They can serve as a todo list for later action or developing permanent notes. You should expect fleeting notes to end up in the trash. 
+    - Fleeting Notes:: 
+    - "Our group question for Sönke Ahrens:: How do you limit the overwhelm with notetaking - can there be too many notes?
+#[[Questions for Sönke]]"
+- Literature Notes::
+- [[How to Take Smart Notes]]
+    - "[[Introduction]]"
+    - "[[Chapter 1. Everything You Need To Know]]"
+    - "[[Chapter 2. Everything You Need to Do]]"
+    - "[[Chapter 3. Everything You Need to Have]]"
+    - "[[Chapter 4. A Few Things to Keep in Mind]]"
+    - "[[The Four Underlying Principles]]"
+        - "[[Chapter 5. Writing is the Only Thing That Matters]]"
+        - "[[Chapter 6. Simplicity is Paramount]]"
+        - "[[Chapter 7. Nobody Ever Starts From Scratch]]"
+        - "[[Chapter 8. Let the Work Carry You Forward]]"
+    - "[[The Six Steps to Successful Writing]]"
+        - "[[Chapter 9. Separate the Interlocking Tasks]]"
+        - "[[Chapter 10: Read for Understanding]]"
+        - "[[Chapter 11. Take Smart Notes]]"
+        - "[[Chapter 12. Develop Ideas]]  "
+        - "[[Chapter 13. Share Your Insight]]"
+        - "[[Chapter 14. Make it a Habit]]"
+    - "[[Afterword]]"
+- Week 5 - Demo of Spaced Repetition from [[Matt Brockwell/MJB]]
+    - Go find the video of this session and watch it.
+    - Install the "Roam Toolkit" extension - I actually have this.
+    - 
+    - 

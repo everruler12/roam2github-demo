@@ -1,0 +1,132 @@
+- About:: 
+    - I do [research](http://joelchan.me/research/) and [teach](http://joelchan.me/teaching/) about **systems that support creative knowledge work**.
+        - I conceive of "systems" very broadly, from individual cognitive skills, interfaces, tools and practices, to collaborative and organizational dynamics and tools, all the way to sociotechnical infrastructures within which knowledge work is done. 
+        - Sometimes I study such systems (like Roam!); and sometimes I create new instances of such systems (plotting mods on Roam that supercharge it even more for leading edge knowledge [[synthesis]]); often I do a close mix of the two. I am also broadly interested in creative work across many domains, although I have spent the most time considering the domains of design and scientific discovery. 
+    - My long-term vision is to help **create a future where the systems that drive innovation systems are __open__ and __sustainable__**.
+    - Previously, I was a Postdoctoral Research Fellow and Project Scientist in the [Human-Computer Interaction Institute](http://www.hcii.cmu.edu/) (HCII) at [Carnegie Mellon University](http://www.cmu.edu/), where I worked with [Steven Dow](http://pages.ucsd.edu/~spdow/) and [Niki Kittur](http://kittur.org/). I received my PhD in Cognitive Psychology at the [University of Pittsburgh](http://www.pitt.edu/), where I was advised by [Christian Schunn](http://www.lrdc.pitt.edu/schunn).
+    - You can learn a bit more about me by listening to me [talk to Ben Reinhardt on the Idea Machines podcast](http://ideamachinespodcast.com/joel-chan), watching my [Roam tour](https://www.youtube.com/watch?v=A6PIrVZoZAk) with [[Robert Haisfield]], or reading my [blog post](https://www.roambrain.com/knowledge-synthesis/) on [[synthesis]] on RoamBrain, or connecting with me on [Twitter](https://twitter.com/JoelChan86)
+- Website:: https://joelchan.me
+- Profession:: Assistant Professor of Information Science and Human-Centered Design
+- Company:: University of Maryland
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+    - [[November 1st, 2020]]
+        - #[[Kindle-Highlights]] import
+            - #[[quote]] Writing is not what follows research, learning or studying, it is the medium of all this work.
+                - [[Yellow highlight]]
+                - Page: 2
+            - #[[quote]] The right question is: What can we do differently in the weeks, months or even years before we face the blank page that will get us into the best possible position to write a great paper easily?
+                - [[Yellow highlight]]
+                - Page: 3
+            - #[[quote]] Most people struggle for much more mundane reasons, and one is the myth of the blank page itself. They struggle because they believe, as they are made to believe, that writing starts with a blank page. If you believe that you have indeed nothing at hand to fill it, you have a very good reason to panic. Just having it all in your head is not enough, as getting it down on paper is the hard bit. That is why good, productive writing is based on good note-taking. Getting something that is already written into another written piece is incomparably easier than assembling everything in your mind and then trying to retrieve it from there.
+                - [[Yellow highlight]]
+                - Page: 3
+            - #[[quote]] Having a meaningful and well-defined task beats willpower every time.
+                - [[Yellow highlight]]
+                - Page: 5
+            - #[[quote]] A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas. By breaking down the amorphous task of “writing a paper” into small and clearly separated tasks, you can focus on one thing at a time, complete each in one go and move on to the next one (Chapter 3.1). A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep on going as the work becomes effortless (Csikszentmihalyi, 1975). Something like that does not happen by chance.
+                - [[Yellow highlight]]
+                - Page: 5
+            - #[[quote]] Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower. This is not only demotivating, but also unsuitable for an open-ended process like research, thinking or studying in general, where we have to adjust our next steps with every new insight, understanding or achievement – which we ideally have on a regular basis and not just as an exception. Even though planning is often at odds with the very idea of research and learning, it is the mantra of most study guides and self-help books on academic writing. How do you plan for insight, which, by definition, cannot be anticipated? It is a huge misunderstanding that the only alternative to planning is aimless messing around. The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward. We do not want to make ourselves dependent on a plan that is threatened by the unexpected, like a new idea, discovery – or insight.
+                - [[Yellow highlight]]
+                - Page: 6
+                - Note: Really really really really resonate with this!
+            - #[[quote]] Having read more does not automatically mean having more ideas. Especially in the beginning, it means having fewer ideas to work with, because you know that others have already thought of most of them.
+                - [[Yellow highlight]]
+                - Page: 7
+            - #[[quote]] a system is needed to keep track of the ever-increasing pool of information, which allows one to combine different ideas in an intelligent way with the aim of generating new ideas.
+                - [[Yellow highlight]]
+                - Page: 7
+            - #[[quote]] GTD relies on clearly defined objectives, whereas insight cannot be predetermined by definition.
+                - [[Yellow highlight]]
+                - Page: 11
+                - Note: Not planning
+                - Note: Yes!! I have struggled with this so much!!
+            - #quote In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?
+                - [[Yellow highlight]]
+                - Page: 40
+            - #quote The slip-box is designed to present you with ideas you have already forgotten, allowing your brain to focus on thinking instead of remembering.
+                - [[Yellow highlight]]
+                - Page: 41
+                - Note: Bc zettels are processed traces and valuable outputs of the kind of thinking we want, it is reasonable to use it as measure of day to day academic productivity. It is close to what Niki (my postdoc advisor) suggests in terms of learnings. We want to maximize our learning rate.
+                - Note: I mentally substitute these for external representations, perhaps “formal”/explicit ones. But sketches and prototypes also serve this function, as does code and notation
+            - #[[quote]] “No, it’s not a record, not really. It’s working. You have to work on paper, and this is the paper.”[33]
+                - [[Yellow highlight]]
+                - Page: 95
+                - Note: Nice example of how to use the slip box for literature notes
+                - Note: This x10000000
+            - We have thought so many times in the past about organizing by using as a much more powerful and generative way to “manage literature”, sort of like how the brain works!
+                - #[[quote]] The slip-box forces us to ask numerous elaborating questions: What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to? That the slip-box is not sorted by topics is the precondition for actively building connections between notes.
+                    - [[Yellow highlight]]
+                    - Page: 106
+                - #[[quote]] The way people choose their keywords shows clearly if they think like an archivist or a writer. Do they wonder where to store a note or how to retrieve it?
+                    - [[Yellow highlight]]
+                    - Page: 110
+                    - Note: This relates to my thoughts about whether it makes sense to have a librarian maintain a community zettelkasten. At first glance this looks like a bad idea. The key it’s also seem very plintensely personal. Or at least context specific. Capturing that context might be key then to its reusability.
+                - #[[quote]] Assigning keywords is much more than just a bureaucratic act. It is a crucial part of the thinking process, which often leads to a deeper elaboration of the note itself and the connection to other notes.
+                    - [[Yellow highlight]]
+                    - Page: 112
+                - #[[quote]] making these links is not a chore, a kind of file-box maintenance. The search for meaningful connections is a crucial part of the thinking process towards the finished manuscript.
+                    - [[Yellow highlight]]
+                    - Page: 114
+                    - Note: Other nice examples of the kinds of connections facilitated by the zettelkasten’s structure and contents
+                - #[[quote]] confronts them with already thought thoughts.
+                    - [[Yellow highlight]]
+                    - Page: 115
+                - #[[quote]] detect differences
+                    - [[Yellow highlight]]
+                    - Page: 115
+                - #[[quote]] detect contradictions, paradoxes or oppositions
+                    - [[Yellow highlight]]
+                    - Page: 116
+                    - Note: Reminds me of the age distribution of citations work: old + new
+                    - Note: The prepared mind - the synthesis helps you recognize insight when it comes
+                - #[[quote]] It is very good to know what has already proven to not work if we try to come up with new ideas that do work.
+                    - [[Yellow highlight]]
+                    - Page: 127
+                    - Note: Compression enables composability
+                    - Note: Stigmergy?
+            - Endothermic reaction
+                - Note: Reminds me a bit of sprints
+                - #[[quote]] It is much easier to get started if the next step is as feasible as “writing a note,” “collect what is interesting in this paper” or “turning this series of notes into a paragraph” than if we decide to spend the next days with a vague and ill-defined task like “keep working on that overdue paper.”
+                    - [[Yellow highlight]]
+                    - Page: 144
+                    - Note: Our dead/sleeping kittens! :)
+        - Feeling constricted thinking in this space (can't connect to my own graph, transfer insights over easily), not too different from what [[Sue Borchardt]] mentions:
+            - "I read [[How to Take Smart Notes]] about the same time I started using roam (January 2020?) and took a ton of notes in my own graph. I think what I'm more interested in for these four weeks is experimenting with what it's like to try to work in a shared graph with others. I've tried this a bit with [[Joel Chan]] and it's been kinda painful. This is partly because I'm jumping into the deep end of his existing graph and he as established conventions quite different from mine (which are fairly non-existent -- i'm pretty ad-hoc). It's also been frustrating in that I can't migrate my insights back to my own graph. "
+                - I think I'm gonna do most of my literature notes in my own graphs, then copy-paste over. 
+                    - Test: what happens if it includes a blockref? 
+                        - And also thinking again more on [the model](((_jLzFOzk2))), and connecting to how it practically can play out in Roam:
+                            - It preserves the block id! So if people really want to see it, I can maybe copy-paste it in here - seems like the block ids are globally UID???
+    - [[November 2nd, 2020]]
+        - Had a quick read through of the intro, and struck again by the high level idea that this is really about the [[Prepared Mind]]: developing a process so that when you sit down to write and think, you are not starting from scratch, but rather drawing on a rich and teeming garden of thought.
+    - [[December 6th, 2020]]: response to writing prompts for live session
+        - "Questions for us from [[Sönke Ahrens]]"
+            - "What have you learnt about note taking that I (Sönke) should know about?"
+            - "Are there any additions to the process described in the book?"
+                - In using it in my own practice (since ~January/February this year), I've found that the emphasis on a sharp textual note is great for a lot of things, but it can often be difficult to distill the "gestalt" of some ideas (in my case, something like a prototype or a rich qualitative study) into a single statement. The workaround for me has been to try to construct much richer "literature notes" that span modalities (screenshots, embedded videos, etc.). This workaround works fairly well for me.
+                - This has pushed me to change the way I think about literature notes: they should be as contextual and grounded as possible (past tense, as specific as possible, grounded in as much context and screenshots and data as possible), to serve as appropriate grist for my zettels. And they should be densely connected to my zettelkasten.
+                - I'm also curious about the emphasis on the zettelkasten being your own original thoughts, to be sharply distinguished from those of others. As someone whose day job is doing scientific research on creativity (perhaps also connecting back to the previous book on Where Good Ideas Come From), this feels like a distinction that is hard to make in practice, and I'm not even sure it's useful for me. In my own practice using a variant of Zettelkasten to power synthesis and idea development for my research, I let the provenance of each idea be indicated by its grounding in "literature notes", which I broaden to include my own personal observations (e.g., linked to from Daily Notes, or a paper I've written). 
+                - So each zettel tends to be *both* my ideas *and* others, in a sort of co-creative dance. But some zettels that are less well grounded, or much more grounded in only my observations, can then be seen as "my contributions" to the overall conversation.
+            - "Discuss your impression of the range of possibilities and limitations of a Zettelkasten?"
+            - "(what use cases does it work for? Are there any examples it doesn't work for?)"
+- Notifications:
+    - {{[[mentions]]: [[@[[Joel Chan]]]]}}

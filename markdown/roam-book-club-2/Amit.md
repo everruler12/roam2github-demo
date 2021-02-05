@@ -1,0 +1,7 @@
+- Michael Nieman:: 
+- Website:: 
+- Company:: 
+- Fleeting Notes:: 
+- Literature Notes::
+- [[How to Take Smart Notes]]
+- 

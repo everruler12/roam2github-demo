@@ -1,0 +1,44 @@
+- **Twitter:** [@rodulfoprieto](https://twitter.com/rodulfoprieto)
+- **Company:** [Laboratoria](www.laboratoria.la)
+- **Favourite books:**
+    - [Development as Freedom](https://www.goodreads.com/book/show/173961.Development_as_Freedom?ac=1&from_search=true&qid=86HjVTEz8U&rank=2#)
+    - [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity?ac=1&from_search=true&qid=RHL6hnwkOp&rank=1)
+    - [A Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World?ac=1&from_search=true&qid=y1mUrio5MP&rank=1)
+- **Link to something you find interesting:**
+    - https://notes.andymatuschak.org/Evergreen_notes
+- **Book Club 1 member? (y/n):** n
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Understand how to Zettelkasten in Roam and improve my knowledge management system 
+        - Understand how students can use this method to learn better 
+- **How to Take Smart Notes:**
+    - **Fleeting notes:**
+        - [[Introduction]]
+            - "Writing is not what follows research, learning or studying, it is the medium of all this work. And maybe that is the reason why we rarely think about this writing, the everyday writing, the note-taking and draft-making. Like breathing, it is vital to what we do, but because we do it constantly, it escapes our attention. But while even the best breathing technique would probably not make much of a difference to our writing, any improvement in the way we organise the everyday writing, how we take notes of what we encounter and what we do with them, will make all the difference for the moment we do face the blank page/ screen–or rather not, as those who take smart notes will never have the problem of a blank screen again."
+            - "With that in mind, it is not surprising that the single most important indicator of academic success is not to be found in people’s heads, but in the way they do their everyday work. In fact, there is no measurable correlation between a high IQ and academic success–at least not north of 120. Yes, a certain intellectual capacity helps to get into academia, and if you struggle severely with an IQ test, it is likely that you will struggle to solve academic problems, too. But once you are in, a superior IQ will neither help you to distinguish yourself nor protect you from failure. What does make a significant difference along the whole intelligence spectrum is something else: how much self-discipline or self-control one uses to approach the tasks at hand (Duckworth and Seligman, 2005; Tangney, Baumeister, and Boone, 2004)."
+            - Luckily, this is not the whole story. We know today that self-control and self-discipline have much more to do with our environment than with ourselves (cf. Thaler, 2015, ch. 2) – and the environment can be changed. Nobody needs willpower not to eat a chocolate bar when there isn’t one around. . Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long-and short-term interests. Having a meaningful and well-defined task beats willpower every time. . This is where the organisation of writing and note-taking comes into play. [*](((tIetkYe5Q)))
+        - [[Chapter 1. Everything You Need To Know]]
+            - "A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas. By breaking down the amorphous task of “writing a paper” into small and clearly separated tasks, you can focus on one thing at a time, complete each in one go and move on to the next one (Chapter 3.1). A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep on going as the work becomes effortless (Csikszentmihalyi, 1975). Something like that does not happen by chance."
+            - "Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower. This is not only demotivating, but also unsuitable for an open-ended process like research, thinking or studying in general, where we have to adjust our next steps with every new insight, understanding or achievement–which we ideally have on a regular basis and not just as an exception. Even though planning is often at odds with the very idea of research and learning, it is the mantra of most study guides and self-help books on academic writing. How do you plan for insight, which, by definition, cannot be anticipated? It is a huge misunderstanding that the only alternative to planning is aimless messing around. The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward. We do not want to make ourselves dependent on a plan that is threatened by the unexpected, like a new idea, discovery–or insight."
+            - "Thankfully, we don’t have to choose between usability and usefulness. Quite the contrary. The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles. The simplicity of the structure allows complexity to build up where we want it: on the content level. There is quite extensive empirical and logical research on this phenomenon (for an overview: cf. Sull and Eisenhardt, 2015). Taking smart notes is as simple as it gets."
+            - 
+        - [[Chapter 2. Everything You Need to Do]]
+        - [[Chapter 3. Everything You Need to Have]]
+        - [[Chapter 4. A Few Things to Keep in Mind]]
+        - [[The Four Underlying Principles]]
+            - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - [[Chapter 6. Simplicity is Paramount]]
+            - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - [[Chapter 8. Let the Work Carry You Forward]]
+        - [[The Six Steps to Successful Writing]]
+            - [[Chapter 9. Separate the Interlocking Tasks]]
+            - [[Chapter 10: Read for Understanding]]
+            - [[Chapter 11. Take Smart Notes]]
+            - [[Chapter 12. Develop Ideas]]  
+            - [[Chapter 13. Share Your Insight]]
+            - [[Chapter 14. Make it a Habit]]
+        - [[Afterword]]
+    - "{{[[DONE]]}} **Section 1 Writing task** "
+        - "What is the gist of the book? "
+            - To me, the book is about the importance of your research workflow. We are used to a top-down approach, starting with a hypothesis and a blank page, and then investigating to find meaningful insights and articulating them in writing. This is not only more prone to confirmation bias, but it also leads to having less flexibility about changing or adjusting your path as you learn. A bottom-up approach provides much more freedom to pursue the path where your have discovered more insight. To do this, you must have a system of note taking in place. 
+    - 

@@ -1,0 +1,2 @@
+- Latitude:: 43
+- Longitude:: 11

@@ -1,0 +1,13 @@
+- Article review template
+    - [[Author name]]
+    - [[Date]]
+    - [[Notes]]
+    - That::
+    - Because::
+    - However::
+    - Therefore::
+    - Method overview::
+    - Discussion::
+    - Future research::
+- Podcast review 
+- 

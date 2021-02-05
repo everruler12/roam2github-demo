@@ -1,0 +1,7 @@
+- keywords::#Zettels
+- source::
+- relevant links::
+- ------------------------------
+- notes::
+- ------------------------------
+- change log::

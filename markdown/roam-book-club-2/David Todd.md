@@ -1,0 +1,25 @@
+-  Hi Everyone. I'm psyched to be part of the Roam Book Club. Also, I recently joined [Twitter](https://twitter.com/dthTMW) solely to connect with and learn from my fellow Roamans and take part in the great vibes of [RoamCult](https://twitter.com/CultRoam).
+- I thought you'd all enjoy - [Most Influential Essays](https://www.notion.so/b64d5144c7cc4c7a991119eff4588428?v=4c2dba4120a644768db4a0d42839f491). This past summer Patrick O'Shaughnessy of [Investor Field Guide](https://investorfieldguide.com/) [asked the twitterverse](https://twitter.com/patrick_oshag/status/1278307221944840193) for the most influential essays they had ever read. He then aggregated the responses and their respective links into a single resource. 
+- **Fleeting notes:**
+- [[Introduction]]
+- [[Chapter 1. Everything You Need To Know]]
+- Write your notes here
+- [[Chapter 2. Everything You Need to Do]]
+- Write your notes here
+- [[Chapter 3. Everything You Need to Have]]
+- Write your notes here
+- [[Chapter 4. A Few Things to Keep in Mind]]
+- Etc
+- [[The Four Underlying Principles]]
+- [[Chapter 5. Writing is the Only Thing That Matters]]
+- [[Chapter 6. Simplicity is Paramount]]
+- [[Chapter 7. Nobody Ever Starts From Scratch]]
+- [[Chapter 8. Let the Work Carry You Forward]]
+- [[The Six Steps to Successful Writing]]
+- [[Chapter 9. Separate the Interlocking Tasks]]
+- [[Chapter 10: Read for Understanding]]
+- [[Chapter 11. Take Smart Notes]]
+- [[Chapter 12. Develop Ideas]]
+- [[Chapter 13. Share Your Insight]]
+- [[Chapter 14. Make it a Habit]]
+- [[Afterword]]

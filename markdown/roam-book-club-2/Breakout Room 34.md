@@ -1,0 +1,14 @@
+- [[November 1st, 2020]]
+    - Who was in this group on 11.1.20:: 
+        - [[Sue Borchardt]]
+        - [[Peggy McElgunn]]
+        - [[Justin Pledger]]
+    - What did your group talk about?:: 
+        - We didn't get very far on talking about the book but focused on getting two new roamers up to speed 
+        - What drew us each to read the book and to use Roam
+            - Sue - backlinks and finding my notes (stacks of paper journals are tough)
+            - Justin - trying to make connections between disparate thoughts and when I am reading psychology, philosophy and literature in general
+            - Peggy -- just learning to make sense of all of the strings of thoughts in my head
+    - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+    - Any questions for the book club as a whole?:

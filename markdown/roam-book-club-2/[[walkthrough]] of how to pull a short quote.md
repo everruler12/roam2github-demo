@@ -1,0 +1,37 @@
+- [[Matt Brockwell/MJB]] I was asked this question on the Slack
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FsodbQygHLn.png?alt=media&token=cd883a04-438a-4ccb-93e6-f00fafa2500e)
+- here's the answer ... (read on!)
+- **there are two steps:**
+- ### the first step 
+    - ... is to use "text as alias" to make your own, editable copy of the original block from the database copy of Soenke's book. You will be "mirroring" it into your own page if you follow these instructions. 
+    - find the paragraph you want to pull-quote from.
+    - then, when you right click the bullet point next to the paragraph and selecting "copy block reference", the top option off that menu that comes up - you'll thereby store the "block address" into your browser clipboard.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2Fxya2csbDHb.png?alt=media&token=ceb888c4-e77d-4843-8f66-71e32ec40f7f)
+    - you copied the block reference, great!
+    - now put that reference into your book notes on your own page with `Ctrl-V`
+    - it will show up in blue because it's a block reference and that's how block references show up in book club graph because of book club's special CSS
+        - which is [here](((fhO-qBAyx))), by the way, if you want to see it.
+    - so now... click anywhere on that blue text (i.e. the "block reference")
+    - you'll get not one, but TWO separate block reference submenus, looks like this (see below), 
+you need to choose, first, "Replace with", and then "text and alias".
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FKmJQfqYRGG.jpg?alt=media&token=a1276e52-08e9-4404-bce7-a3aafd3a1a22)
+        - 
+    - ## ^^BOOM!^^
+    - Now you have your own, editable copy of the whole paragraph. You can do what you want with it - and it won't change the "master copy". But it still "points" (via the asterisk) to the original. 
+        - This is what code developers sometimes call a "fork". 
+        - You have your own version but it points back to the orginal if you click the asterisk, AND it will show up as a reference - if you look back at all the references to the original.
+- ### the second step
+    - **here's where you use a neat trick sometimes referred to as "inline block referencing"**
+    - You click and drag over the single sentence in your new, freshly copied block of Soenke's book (see above).
+        - Within that block, "select" (via click-drag) all that you want to extract.
+            - Your browser should have now "darked out" that block in a slightly darker shade of blue to indicate that it is "selected"
+    - now just type `((` - two left parentheses ...
+    - this should, right away, pull up an inline block creator menu beneath your selection
+    - you will see that the top option is to "Create as block below"
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FtgpcmC69Zh.png?alt=media&token=36626c82-a48d-484a-8b45-12d1014375d8)
+    - **CHOOSE THAT OPTION!**
+    - Now, the single sentence that you wanted has been replaced with a block reference,
+        - ... and the new block reference points to a new child-block that was created immediately below your paragraph.
+    - **(Optional)**
+        - I also chose to "highlight" the freshly-created sub-block by ^^surrounding it with^^ $$^^$$ characters. I do this within the sub-block itself. 
+            - and, I also put `# quote` in front of it, just because that's how I like to tag single-sentence quotes so I can find them later.

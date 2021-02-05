@@ -1,0 +1,62 @@
+- About Me
+    - Twitter:: https://twitter.com/s_moens
+    - Favourite books:: 
+        - [[Marcel Proust]] - [[Swann's Way]]
+        - [[Oscar Wilde]] - [[The Picture of Dorian Gray]]
+        - [[George Orwell]] - [[1984]]
+    - Book Club 1 member? (y/n):: n
+    - Link to something you find interesting::
+        - Topics: technology, data, learning, memory, productivity
+        - I really enjoy reading [[Andy Matuschak]]'s notes and am inspired by his approach to note-taking and education: https://notes.andymatuschak.org/About_these_notes
+- Live sessions
+    - [[November 1st, 2020]] [[Book Club Live Session 1]] {{[[POMO]]: 15}}
+        - Breakout Group number
+            - Who was in this group on 11.1.20 :: [[Kathryn]] and [[Ashish]]
+            - What did your group talk about? :: 
+                - use cases Roam
+                - Roam background and experience
+                - Experience with other note taking softwares
+            - Any questions for the book club as a whole? ::
+                - How do people apply the note-taking methodology of Zettelkasten in a Roam context?
+                - Do we need Zettle references in roam
+            - Our group question for Sönke Ahrens:: 
+#[[Questions for Sönke]]
+                - Do you have a process of reviewing notes to generate more insights or ideas? 
+                    - #Reply-from [[Juan Caicedo]] Great question!
+                - While using an online software (e.g. Roam), how to create a slip box
+                - Do we write in Roam or use a different editor (does the main writing need to retain the links to the building blocks)
+        - [[Goals for Book Club]]
+            - Increase understanding of the Zettelkasten method
+            - Be able to apply the Zettelkasten method (in a Roam context)
+            - Improve Roam note-taking strategy and approach
+            - Improve thought process and approach to reading and discussing about books
+            - Knowing how to write notes for knowledge acquisition and idea generation
+        - [[Writing Prompts]]
+            - "When do you plan to read? Where? How often?"
+                - In the morning and in the evening in the sofa or in bed on a daily base
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::
+- 

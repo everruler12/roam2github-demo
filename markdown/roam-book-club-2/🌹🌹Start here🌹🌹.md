@@ -1,0 +1,56 @@
+- 
+- # ^^**Welcome to Book Club!!! **^^
+    - **Nice decision!**
+
+- ^^If you haven't yet signed up to Book Club and want to, please do so [here](https://matt52.typeform.com/to/hIoUNmj9)^^
+- Once you have signed up, and been given access to the graph, please follow these steps: 
+- ## ******Step 1: Create a page with your own name******
+    - Go to the search bar in the top right (keyboard shortcut `cmd +u`), type your preferred name as the page title, and then press enter.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FHSkwkt43-1.gif?alt=media&token=b236026c-43dd-4e15-91cf-523cd622648d)
+    - You have now created your page, and are underway. 
+- ## **Step 2: Set up your page**
+    - **How to structure your page**
+        - Please add an about me overview to your page 
+        - And then add chapter titles 
+            - Where you can then nest comments 
+            - [[Sample page structure]]
+- ## **Step 3: Add your name to the directory**
+    - Add your name to the [[Directory]] so others can find you 
+        - Click on the directory page
+            - Add your page name in square brackets to the list
+            - On your own personal page, create a bullet titled [[Directory]]
+                - Under that bullet, nest any information you want to share with others about you
+                - Note that when you do this, all the personal info will show up on the main `Directory` page, but in the linked references section, not on the page itself.
+- ## **Step 4: Read the **[[Conventions]]** page**
+- ## **Step 5: Add notes to your page, or to the daily notes**
+    - One of the few constraints we have is that we ask you don't write in topic pages.  ^^**PLEASE ONLY WRITE IN YOUR OWN PAGE, OR THE DAILY NOTES**^^. 
+    - ### **What to write in your own page**
+        - Write your notes from the book. Try and keep it in someway related to the book themes, but it's up to you, some of the best ideas might come from left field. jyd
+            - WRITE IN YOUR PAGE UNTIL YOUR **❤️****❤️****❤️**HEART**❤️****❤️****❤️** IS FULL **❤️****❤️****❤️** AND **❤️****❤️****❤️**YOUR **❤️****❤️****❤️**BRAIN IS EMPTY**❤️****❤️****❤️**.
+    - ### **What to write in the daily notes page**
+        - The daily notes is a Book Club Please feel free to add anything you wish to the daily Nnotes. 
+        - There are some conventions for how to write in the daily notes. 
+            - Write your own page name, and then nest your comments underneath
+            - .e.g.  
+            -  [[Matt McKinlay]]
+                - Write here.
+        - That way your comments will always show up as linked references on your own page
+        - Use [[Chat guidelines]] conventions
+    - ## ^^**Some tips on how write your notes**^^
+        - **Write for discoverability**
+            - Keep in mind that people aren't going to natively remember to check your page.  
+            - When writing, try and think 'how would others find this' 
+                - Use tags, square brackets, and attributes liberally.
+        - **Write in blocks**
+            - Another goal of book club is to explore block level writing. 
+            - The more you can atomise your blocks, to one thought per block, the more it will allow others to remix individual blocks. 
+            - Whilst it's fine to write in whatever style you want, 'block writing' is a further way to supercharge interaction in Roam. 
+                - Rather than write long prose based paragraphs, break up your paragraphs into multiple blocks 
+                    - >>Indent 
+                        - >>  early 
+                            - >>  and 
+                                - >> often. 
+                - This will allow others to block reference any particular block that you write, rather than an entire block which might have multiple points.
+                - Check out Conor's videos on Youtube for a sense of it. e.g.
+                    - {{[[youtube]]: https://www.youtube.com/watch?v=YcNW-eidDJk&t=1143s}}
+- 

@@ -1,0 +1,58 @@
+- "You may remember from school the difference between an exergonic and an endergonic reaction. In the first case, you constantly need to add energy to keep the process going. In the second case, the reaction, once triggered, continues by itself and even releases energy. The dynamics of work are not so different. Sometimes we feel like our work is draining our energy and we can only move forward if we put more and more energy into it. But sometimes it is the opposite. Once we get into the workflow, it is as if the work itself gains momentum, pulling us along and sometimes even energizing us. This is the kind of dynamic we are looking for."
+- #[[Fleeting Notes]]-
+    - Generally to lab basics in school
+        - Cricket match
+            - That rally was really good... if I don't get feedback
+                - It is indifference
+                    - Putting more energy
+                - Compared to having rapport
+                    - Comes naturally
+    - Relate to the work and thought
+        - Constantly giving analogies
+            - It comes naturally in a state of flow
+                - When you're working on something that excites you
+                    - Example: business models
+                        - I keep getting excited
+                            - Connected thoughts like Roam
+                                - There's a sticky effect to it
+                                    - Cost of moving to another platform
+                    - Like subscription models
+                        - Example: Adobe
+                            - The delivery aspect of the product
+                                - Changes how things can be
+                                    - By gaining momentum
+                                        - It creates flow
+                    - Example: Tractors
+                        - Use it for a month, not use it for a month
+    - Pictorial representation
+    - Rooted in analogies
+        - It's still powerful
+            - But differs from First Principles
+        - The language we use isn't an analogy
+            - Example is Elephant
+                - Elephant in the room
+                    - So big it has to be addressed
+        - Many things we aren't able to figure out yet
+        - I appreciate the power of analogy here
+        - Compares two different things
+    - Triggering of reactions
+        - It may fizzle out
+        - You have to perform the experiment
+            - It can't be relied on someone else 
+                - Does it come naturally, or does it constantly demand energy
+        - To see how experiments react
+    - ![](https://ssl.gstatic.com/ui/v1/icons/mail/no_photo.png)
+    - Thanks a lot for sharing.
+    - This is great, thank you!
+    - Thanks a lot.
+    - ReplyForward
+    - [](https://drive.google.com/u/0/settings/storage?hl=en&utm_medium=web&utm_source=gmail&utm_campaign=manage_storage)
+    - [](https://www.google.com/intl/en/policies/terms/)[](https://www.google.com/intl/en/policies/privacy/)[](https://www.google.com/gmail/about/policy/)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Analogy used here is of reactions from [[chemistry]] and connect that to [[thoughts]] or [[work]] in general of how we are aiming for state of flow in general. and then it has a snowball effect on every next task and thought. 

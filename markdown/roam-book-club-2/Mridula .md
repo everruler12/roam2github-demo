@@ -1,0 +1,85 @@
+- Twitter:: [@Mridgyy](https://twitter.com/Mridgyy)
+- Website:: [mridulaecon.github.io](https://mridulaecon.github.io/)
+- Pronouns:: She/Her
+- Profession:: PhD Researcher
+- Favourite books:: 
+- Link to something you find interesting:: 
+- Book Club 1 member? (y/n):: n
+- "template 🧩: report back from small group"
+    - Breakout Group Number - 49
+        - Who was in this group on 11.1.20:: [[Javier Gonzalez]], [[Ilham Talab]], [[Silvia Gao]]
+        - What did your group talk about?:: Introductions. Talked about how long we've used Roam. How much of [[How to Take Smart Notes]] have we read. How Roam has changed things for us. 
+        - Any questions for the book club as a whole?::
+        - Our group question for Sönke Ahrens:: How do you deal with writing and the context switching that is involved with it?
+(#[[question for Soenke]])
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Would like to delve further into the ideas behind the Zettelkasten method and configure my own writing accordingly. 
+            - Build my own practice keeping in mind the theoretical constructs of the method. 
+        - Does knowing the system actually change the way I think about the work, I do? 
+        - Do I really care about the literature notes stage? 
+            - Often read while thinking and jumping straight to Zettels. 
+                - Maybe I do want to think about it though. Since it might help me deal with the zero context problem I have been noticing with my notes. 
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - ^^A good [[structure]] is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas.^^ By breaking down the amorphous task of “writing a paper” into small and clearly separated tasks, you can focus on one thing at a time, complete each in one go and move on to the next one (Chapter 3.1). A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep on going as the work becomes effortless (Csikszentmihalyi, 1975). Something like that does not happen by chance.
+        - ^^Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower.^^ This is not only demotivating, but also unsuitable for an open-ended process like research, thinking or studying in general, where we have to adjust our next steps with every new insight, understanding or achievement–which we ideally have on a regular basis and not just as an exception. Even though planning is often at odds with the very idea of research and learning, it is the mantra of most study guides and self-help books on academic writing. How do you plan for insight, which, by definition, cannot be anticipated? ^^It is a huge misunderstanding that the only alternative to planning is aimless messing around.^^ The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward. We do not want to make ourselves dependent on a plan that is threatened by the unexpected, like a new idea, discovery–or insight. [*](((e5t8EGtoY)))
+        - Having read more does not automatically mean having more ideas. Especially in the beginning, it means having fewer ideas to work with, because you know that others have already thought of most of them. [*](((GRlg3daPc)))
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+    - 
+- Literature Notes::
+    - 
+- Permanent Notes:: 
+- #Chat
+    - [[Mridula ]] Hey [[Beau Haan 📌]], I accidentally changed one of your notes on the Daily Notes page. I was using my phone to get to my page and it ended up changing your note with the drawing tool. I'm so sorry. Very, very sorry. Going to stay away from Roam on my phone. At least public graphs. 
+    - hi [[@Mridula]] FWIW I think drawings are not synced so if you write into someone else's drawing by accident I don't think it syncs any changes to the home database
+        - [[Matt Brockwell/MJB]] thanks for letting me know. I could see the drawing tool on the daily notes section where the change happened. Not sure if you can see it, too. 
+    - Also, unrelated but I am curious [[Matt Brockwell/MJB]], when I look at your edit icon it shows me your name whereas when I look at mine it shows my email address. Wondering how you managed to change that? Because not sure how many people would want to their email addresses being shared on here. 
+- Conversation with [[Sönke Ahrens]] - [[November 1st, 2020]] 
+    - 21:35 - 22:04
+        - The Zettelkasten helps with the confirmation bias. 
+            - Writing in general helps with clarity and thinking. 
+        - Doesn't make sense to make notes on everything. 
+            - Sometimes it is better to read more and not take notes. 
+            - Should filter what you would like to take notes on. 
+        - Handwritten notes to gain clarity before writing permanent notes. 
+        - Roam makes you not think about the app. Instead you focus on thinking and writing. 
+        - Having a routine with respect to thinking and writing might be a trap. 
+            - You might want to think about editing the routine as you go along. 
+        - Think about why you are reading the book? 
+            - Do you want to put it into practice? 
+                - The way you think about it will be different. 
+                    - Here you might want to modify it to suit your writing habits. 
+            - You might be interested in the ideas of the book. 
+                - Writing/critical thinking. 
+                    - Use Zettelkasten in the way they are described. 
+        - Building your own practice doesn't necessarily involve writing notes on everything. 
+        - Sönke's workflow
+            - Allow yourself to write longer notes. 
+                - Notes which are highly connected should be under one note. 
+                - If not highly connected then start a new note.
+                - Distinguish between Tags, Pages and Blocks. 
+                    - Tags are one word pages which act more as an index. 
+                    - Pages as a cluster of ideas. 
+            - Individual versus collective zetteling 
+                - Copy paste from collective zettling to create your own and become familiar with the process. 

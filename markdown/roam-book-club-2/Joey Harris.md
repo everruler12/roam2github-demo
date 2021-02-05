@@ -1,0 +1,372 @@
+- About Joey Harris
+    - **Email**:: joeyharris@mac.com or Bible.Teacher@gmail.com
+    - **Twitter**:: [@joeyharris](https://twitter.com/joeyharris)
+    - Location:: Augusta, GA USA
+    - **Interests**::[[reading]], [[Language]], [[Productivity]], people, [[thinking]], [[academic]], [[academia]], [[academic writing]]
+    - Interests:: [[Science Fiction]], [[Languages]], [[Anime]], [[Biblical Studies]], [[Comparative Religion]], [[Religious Studies]], [[Technology]], [[information technology]], [[Literature]]
+    - Book Club 1 member? (y/n):: Yes
+    - Company:: Aeron IT Consulting, LLC
+    - Favourite books::  [[The Bible]], [[How to Read A Book]], [[How to Take Smart Notes]]
+        - #Chat    I love how you love the Bible. Hello! Funny how we have the same exact three favorite books.
+            - #Chat [[Joey Harris]]The Bible is the original transcultural and polysocial divine-human collaborative Graph extending interactively and recursively through time and space ;-)
+    - Link to something you find interesting:: 
+    - Website:: https://www.aeronconsulting.com
+- [[Goals for Book Club]]
+    - One of my goals for this Book Club 2 is to thoroughly internalize [[Sönke Ahrens]] [[Zettelkasten]] process so that I can adapt it for my own note taking needs creating a personal/professional [[Zettelkasten in Roam]].
+    - I am excited about interacting with and learning directly from [[Sönke Ahrens]].
+        - I am interested in how he might adapt [[Zettelkasten]] concepts in light of [[Roam]]
+    - To be able to use and adapt the [[Zettelkasten]] methodology and concepts for my own [[writing]] and [[research]].
+    - Another goal is to meet other [[Roamans]] and [[roamcult]]ists and learn from the various ways that they are implementing [[Roam]] for themselves.
+    - I would also like to learn how to modify and adapt my own [[Roam]] databases through [[roam/js]], [[roam/css]],  templates, queries, and other ways of modifying and adapting [[Roam]]. 
+    - I would like to get a feel for how [[[[multiplayer]] [[Roam]]]] might be better implemented once it is available.
+    - I am also interesting in how [[multiplayer Zetteling]] might work.
+    - I'm very excited about how much I am (and will be) [[learning]] through active participation in this particular [[Roam Book Club]] as well as in the [[Roam Book Club]] in general (for all books, 2 thus far).
+    - ^^Ultimately, I would like to internalize the contents of [[Sönke Ahrens]]'s book [[How to Take Smart Notes]] so that I can use the concepts and ideas freely for my own purposes.^^
+- **Weeks**
+    - ((Live Session
+    - "{{[[DONE]]}} **Section 2** Zettel writing session with [[Beau Haan]]"
+        - 
+        - ((FblThs7yh))
+    - "[[Live Session 5]] Start 12:30 PST "
+        - "[Zoom Link](https://zoom.us/meeting/84562143126)"
+        - "📌 [Alternate Link](https://cwhitesullivan.lt.acemlna.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ1czAyd2ViLnpvb20udXMlMkZqJTJGODQ1NjIxNDMxMjYlM0Zwd2QlM0RlSGRyZDAwMFN6WldlaTlOWjNOdlRURmtXVm94UVQwOQ==&a=66602312&account=cwhitesullivan%2Eactivehosted%2Ecom&email=tBXusL5fv0hAR0H8uVp5Y7XEf05QuHANew5jWIBp84o%3D&s=7b8a74316fe38cf4af40d6bdba25fec0&i=164A1010A20A846)"
+            - ""
+                - "I'm in."
+                - ""
+                - ""
+                - ""
+                - "we can just start on the prompts :)"
+                - ""
+                - ""
+        - "{{[[TODO]]}} **Section 1** [[Writing practice]]"
+            - "{{[[POMO]]: 10}}"
+            - "Pick from the prompts below and write in your own page for 15 minutes."
+            - ""Pick from the prompts below and write in your own page for 15 minutes.""
+            - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+            - ""Reflect on your own reading and writing practice and habits with this book over the last month. ""
+                - "Making #[[Literature Notes]] (mostly in my own graph) has slowed my reading process tremendously and helped me to realize that [[Sönke Ahrens]]'s writing is deceptively rich. I say deceptively because his writing style is accessible, informal, and even humorous, but his paragraphs pack a punch. His brief mention of Charles Munger, for instance, sent me down a rabbit hole, and when I came out of that rabbit hole and returned to Ahren's mention, I got to see how he had deftly summarized Munger's general approach in that very paragraph that sent me down the rabbit hole."
+            - "Reflect on your Zettel process"
+            - "Why do you want a Zettelkasten?"
+        - "{{[[TODO]]}} **Section 2** Zettel writing session with [[Beau Haan]]"
+            - "{{[[POMO]]: 20}}"
+            - "{{[[POMO]]: 20}}"
+        - "{{[[TODO]]}} **Section 3** [[Break Out Rooms]]"
+            - "{{[[POMO]]: 30}}"
+            - "Explore the Zettels in the #Zettels   page, and discuss your own Zettel technique so far.  "
+        - "{{[[TODO]]}} **Section 4** Graph Meditation"
+            - "{{[[POMO]]: 20}}"
+            - "Explore the graph individually for 8 minutes"
+            - "[[Dharam Kapila]] to use [[Roam Portal]] to show us what's happened in the graph this week"
+        - "{{[[TODO]]}} **Section 5** [[Matt Brockwell]] to explore spaced repetition tools"
+            - "{{[[POMO]]: 20}}"
+        - "{{[[TODO]]}} **Section 6** What's next"
+            - "{{[[POMO]]: 20}}"
+            - "A discussion about what to plan for next week as [[Sönke Ahrens]] joins us. "
+    - [[Live Session 4]]
+        - "Section 1 [[Writing practice]]"
+            - ""How is your progress towards your initial goals? Or have they changed?""
+                - "So, I definitely need to define some form of schedule to get some fixed reading time. Otherwise I just won't make it."
+            - ""Reflect on the work and timeline- has it been easy/hard to get through the phases so far? ""
+                - "Very hard for me. But this is just my own fault as I'm not reserving time to do this. I need to combine this with some other task I'm already doing daily. Personally, I think the best time to do this is in the morning and before work. "
+                - "I should get up earlier so I can carve out time for reading, note taking and thinking."
+    - **Agendae**
+        - (("[[Book Club Live Session 5]]"
+        - 
+        - ((""
+            - ""Final Session""
+            - "Can we answer our [[Book Club Questions]]"
+        - "**Agenda for today**"
+            - "**Section 1 Writing task** "
+                - "Pick from any of the prompts below, and write for 20 minutes. "
+                    - 
+                    - "Reflection on first reading phase of the book "
+                        - "What ideas resonate with you from the book"
+                            - I was struck not only by the ideas and concepts developed in the book, but by how well they seem to map onto [[Roam]].
+                            - Sort of like a thoughtful [[GTD]] for [[writing]].
+                            - I like/not like the concept of cleanly and clearly separating the three types of notes:
+                                1. [[Fleeting Notes]]
+                                2. [[Reference Notes]]
+                                3. [[Permanent Notes]]
+                            - "What is the gist of the book? "
+                                - The gist of the book is that productive thought and learning is done primarily through writing
+                                    -  writing is more of an art than a rigorous mechanical activity
+                                    - having a structured, yet flexible system for writing enables one to write more easily and productively
+                                    - having a structured, flexible writing system enabled greater creativity and produces writing of higher quality than writing done without such a system
+                                - **Note:** the book focuses primarily on [[academic writing]] but argues that the principles and methodology apply to ALL forms of meaningful/useful writing.
+                        - "Discuss the fleeting note phase"
+                            - "What does the concept of fleeting notes mean to you? "
+                                - The concept of fleeting notes to me refers to all of the random thoughts, ideas, musings, gleanings, etc. that pop up or occur in your mind as you are reading or reflecting on ideas.
+                            - "Define a fleeting note in your own words. "
+                                - A fleeting note is a reminder of a concept, idea, thought, or line of inquiry which you might wish to pursue or develop further. 
+                                    - Fleeting notes are temporary and primarily meant to get things out of your head and written down someplace where they can be processed further. 
+                                        - Processing includes things such as evaluating, winnowing, selecting, refining, restating, etc.
+                            - "How did you take fleeting notes? Discuss your method."
+                                - My method of taking fleeting notes was fairly simple. I put the text of the book in the [[sidebar]] and took notes in my personal page under the chapter headings and subheadings. 
+                                    - Most of my notes consisted of thoughts, notes, reflections, restatements and summaries.
+                                        - I also copied some quotes from the book for further reflection and summarization.
+                            - "What is the value of fleeting notes? For this book, and for previous books you have read? "
+                                - The main value of fleeting notes is to get the swarming panoply of thoughts, musings, ideas, reflections, etc. out of my head and written down someplace where I will be able to easily retrieve and process them later (sooner is usually better than later). 
+                                    - Writing fleeting notes gets them out of my head so that I can focus on reading the book.
+                                    - I find it a good way of doing an initial fastread, followed by a slower, more reflective reading of the material, taking fleeting notes on both reads.
+                                    - Reading this way helps me to focus, to apprehend and to understand what I'm reading better, and to remember the gist of what I'm reading for longer.
+                                    - Fleeting notes also allow me to begin the process of digesting and refining and processing what I'm reading in order to glean value from it.
+            - "**Section 2 Breakout rooms **"
+                - "{{[[POMO]]: 25}}"
+                - "Discuss your written notes, and your impressions of the book more generally."
+                    - "My personal notes written before the meeting"
+                    - 
+            - "**Section 3 Interview with** [[Luca Dellanna]]"
+            - "**Section 4 Graph reflection  **"
+                - "Explore the graph "
+                    - "{{[[POMO]]: 6}}"
+                - "**Group discussion**"
+                    - "What is the current state of the graph? "
+                        - "State of individual pages?"
+                        - "Are we developing a writing practice? "
+                        - "Do we need a glossary?"
+                        - "What needs work in the graph? "
+                            - "Merging pages?"
+                    - "Are beginners able to make sense of what's going on?"
+            - "Section 5- This coming week"
+                - "Literature note phase"
+                    - "Do we need a literature note tag?"
+                    - "Daily writing prompts to develop a practice"
+                - " Block referencing from the graph"
+                    - "Use Charlie's Remixer"
+                    - "Rewriting in your own words"
+                - "Book Map"
+                - "Meetups "
+                    - "Proposed"
+        - "~template 🧩: 11.8.20 report-back from small group"
+            - My personal notes written before the meeting
+                - Breakout Group Number - YOURNUMBERHERE
+                    - Who was in this group on 11.8.20:: 
+                    - Any struggles or challenges identified?:: Feeling that everything was a [[fleeting]] note. Being more selective about what became a note was difficult. Not sure whether this is always difficult or just in this particular book (I have a feeling it's more the latter). 
+                        - Also, it feels like in some ways that while [[Zettelkasten in Roam]] works very well, [[Roam]] has broader use cases than a [[Zettelkasten]]. 
+                            - Perhaps using a separate [[Roam]] [[graph]] as a dedicated or "pure" [[Zettelkasten in Roam]].
+                            - Maybe it's just the way my brain works but I like the "mess" for discovery.
+                                - Similar feelings about [[Andy Matuschak]]'s [[Evergreen Notes]]
+                    - Anything you are excited about?:: learning how to take better notes in general
+                    - Does the concept of a "Fleeting Note" make sense to you?:: The basic concept makes sense to me. However, [[Sönke Ahrens]] recommends processing and getting rid of [[Fleeting Notes]]. There are some [[Fleeting Notes]] such as [[quotes]] or [[highlights]] in books that I would want to keep, even if I have made [[permanent notes]] from them. Would these then become [[reference notes]] kept in a [[reference system]] such as [[Zotero]] and attached to the reference? I can see doing it that way which would keep the 3 types of notes separate from one another and keep the [[Permanent Notes]] "pure."
+                        - #[[Reply-from]] [[Juan Caicedo]] -> I don't think that they necessarily need to be thrown away in a digital world. In fact given that it takes more effort to delete them rather than just ignoring them, I think it's better to leave them. How I interpret this idea is that a literature note is much more valuable than a fleeting notes because it is in your own words, has more context, and perhaps even combines multiple fleeting notes. So while it can be nice to have the fleeting notes as references, it's rare that you'll get anything from them that you wouldn't get from the literature note
+        - "{{[[DONE]]}} **Section 1 Writing Session**"
+            - "{{[[POMO]]: 15}}"
+                - "Pick from the prompts below"
+                    - "Define a literature note in your own words."
+                        - [[Joey Harris]] A [[literature note]] is a note based on the text written in your own words.
+                            - It differs from a [[fleeting note]] in that a [[literature note]] is a summary of textual information in your own words and is thus directly related to the text while a [[fleeting note]] is a note about anything that might come to mind while reading and may not be related to the text at all.
+                            - A [[literature note]] differs from a [[permanent note]] note in that it may not necessarily be a refined and permanent final formulation of an idea or concept which you have distilled in your own words from the text as a [[permanent note]] is (though it may also be close to this).
+                                - A [[literature note]] further differs from a [[permanent note]] in that it doesn't have to be quite as well-written or "timeless" as a [[permanent note]].
+                                - A [[literature note]] does not contain my own insights (cf., [[Shana Pote]]) while a [[permanent note]] is my own insight.
+                    - "How do you take literature notes? Discuss your method."
+                        - [[Joey Harris]] I take [[literature notes]] by reviewing my existing notes on the text (which may be any kind of note) and summarizing the main or relevant ideas of the text in my own words. 
+                            - My initial focus is on capturing the essence of the idea clearly, simply, and briefly in my own words.
+                                - This is not the same as paraphrasing. I am re-explaining the concept or idea which necessitates true understanding and assimilation.
+                                    - I have to "make it my own" in order to do this well.
+                            - I use [[Richard Feynman]]'s technique of explaining as if I were teaching a young child.
+                    - "Have you found value in taking literature notes already?"
+                        - [[Joey Harris]] I have found great value in taking [[literature notes]] already
+                            - [[Literature notes]] help me to make sure I am understanding the text
+                            - [[Literature notes]] provide the raw material from which I will distill my [[permanent notes]] as well as use directly in writing.
+                    - "What struggles have you had implementing literature notes?"
+                        - [[Joey Harris]] It's not always easy to explain some concepts, particularly highly abstract concepts, simply, clearly and briefly.
+                            - I am easily distracted
+                    - "Describe any enlightening moments you had while taking literature notes."
+                        - When i first began to understand what a literature note really is.
+            - {{[[TODO]]}} Review [[Juan Caicedo]]'s notes
+        - "[[Live Session 3]] [[November 15th, 2020]]"
+            - ""How do you take literature notes? Discuss your method.""
+                - "After reading the book, or articles in questions, and having highlighted interesting sentences or paragaphs, I will export the highlights through [[ReadWise]]and then process the highlights and review them in my graph. 
+Then I will look at those that trigger/ generate any interesting thoughts and write my own notes on them with a block reference or beneath the relevant quote"
+                - "Thus creating my [[Literature Notes]] based on my own words interpretation of highlighted passages"
+                - "Next would be to review my [[Literature Notes]] and write [[Zettel]] or [[Permanent Notes]] based on them for long term referencing"
+                - "With that method I see highlights and random short notes as [[Fleeting Notes]]"
+                - ""
+            - ""What struggles have you had implementing literature notes?""
+                - "I see the challenge as allocating the right amount of time for it as part of the process, reasonable time, not too much or too little to legitimize the value as it's a [[Interim]] phase between [[Fleeting Notes]] and [[Permanent Notes]] or [[Zettel]]"
+            - ""
+            - """"
+                - "{{[[TODO]]}} **Section 1 Writing Session**"
+                    - "{{[[POMO]]: 15}}"
+                        - "Pick from the prompts below"
+                            - "Define a literature note in your own words."
+                            - "How do you take literature notes? Discuss your method."
+                            - "Have you found value in taking literature notes already?"
+                            - "What struggles have you had implementing literature notes?"
+                            - "Describe any enlightening moments you had while taking literature notes."
+                - "{{[[DONE]]}} **Section 2 Breakout rooms**"
+                    - "{{[[POMO]]: 5}}"
+                        - "Read everyone in your room's answers to the prompts above"
+                        - "Interesting conversation in the breakout room with [[Julie Freyberg]] [[Shana Pote]] and [[Joey Harris]] discussed each other process and the challenges we face regarding implementing it with regard to our academic readings and the issue of time allocation "
+                        - ""
+                    - "{{[[POMO]]: 15}}"
+                        - "Discuss each other's answers"
+                - "{{[[DONE]]}} **Section 3 Block References**"
+                    - "Demonstration of block references for literature notes in Roam"
+                    - "Group block reference exercise"
+                - "{{[[TODO]]}} **Section 4 Breakout rooms 2**"
+                    - "{{[[POMO]]: 10}}"
+                        - "Literature note writing exercise"
+                            - "Take any 2-3 blocks from the book and summarize them"
+                    - "{{[[POMO]]: 10}}"
+                        - "Teach everyone else in your room what you learned from the blocks you summarized and the exercise"
+                - "{{[[TODO]]}} **Section 5: This coming week**"
+                    - "Finish taking literature notes this week"
+                        - "If you are done, and want to start zetteling, just use the `#zettel` tag on any block you want to make a zettel"
+                    - "We will discuss zetteling next session!"
+            - ""
+- How to Take Smart Notes {{word-count}}
+    - [[Introduction]]
+        - Fleeting Notes::
+            - Everyone writes and all serious thinking begins with a note. 
+            - Writing is about turning thoughts, ideas and realizations into atomistic chunks of cogent written material.
+                - Having a body of such notes makes it easier to write anything.
+                - Writing using a body of notes moves every project forward.
+            - Writing is the medium of thinking, research, and learning.
+            -  "...good, productive writing is based on good note-taking. Getting something that is already written into another written piece is incomparably easier than assembling everything in your mind and then trying to retrieve it from there."
+            - "...the key to successful writing lies in the preparation..."
+                - Your existing body of notes (e.g., your [[Roam]] database) directly facilitates writing derived from your notes and enhances the quality of all your written work.
+            - "...the single most important indicator of academic success is...in the way they do their everyday work."
+                - "What does make a significant difference along the whole intelligence spectrum is something else: how much self-discipline or self-control one uses to approach the tasks at hand (Duckworth and Seligman, 2005; Tangney, Baumeister, and Boone, 2004)."
+                - "...self-control and self-discipline have much more to do with our environment than with ourselves (cf. Thaler, 2015, ch. 2) – and the environment can be changed. Nobody needs willpower not to eat a chocolate bar when there isn’t one around. And nobody needs willpower to do something they wanted to do anyway. Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long-and short-term interests. Having a meaningful and well-defined task beats willpower every time. Not having willpower, but not having to use willpower indicates that you set yourself up for success. This is where the organisation of writing and note-taking comes into play."
+    - "[[Chapter 1. Everything You Need To Know]]"
+        - Fleeting Notes:: 
+            - 1.1 Good Solutions Are Simple – and Unexpected
+                - "A [[good structure]] allows you...to move seamlessly from one task to another–without threatening the whole arrangement or losing sight of the bigger picture."
+                    - A [[good structure]] relieves you from the burden of keeping track of everything and allows you to focus on content, argument, and ideas.
+                    - A [[good structure]] allows you to break down any writing project into small, discrete tasks which can easily and progressively be completed in a focused manner.
+                - [[structure]] is distinct from planning.
+                - Taking [[Smart Notes]] with a [[good structure]] makes you become an expert, instead of a planner when it comes to learning.
+                - "...a [[system]] is needed to keep track of the ever-increasing pool of information, which allows one to combine different ideas in an intelligent way with the aim of [[generating new ideas]]."
+                - "...[[insight]] doesn’t come easy and...[[writing]] is not only for proclaiming opinions, but the main tool to achieve [[insight]] worth sharing."
+                - "There is no need to build a [[complex system]] and there is no need to reorganise everything you already have. You can start working and developing [[ideas]] immediately by taking [[Smart Notes]]."
+                - "The best way to deal with [[complexity]] is to keep things as simple as possible and to follow a few basic [[Principles]]. The simplicity of the structure allows [[complexity]] to build up where we want it: on the [[content]] level. There is quite extensive empirical and logical [[research]] on this phenomenon (for an overview: cf. Sull and Eisenhardt, 2015). Taking [[Smart Notes]] is as simple as it gets."
+                - "Routines require simple, repeatable tasks that can become automatic and fit together seamlessly (cf. Mata, Todd, and Lippke, 2010). Only when all the related work becomes part of an overarching and interlocked [[process]], where all bottlenecks are removed, can significant change take place..."
+                    - [[Roam]] enables and facilitates this sort of [[workflow]].
+                - "Writing is not a linear [[process]]."
+                - "When it comes to writing, everything, from [[research]] to proofreading, is closely connected. All the little steps must be linked in a way that will enable you to go seamlessly from one task to another, but still be kept separate enough to enable us to flexibly do what needs to be done in any given situation. ...Only if you can trust your [[system]], only if you really know that everything will be taken care of, will your brain let go and let you [[focus]] on the task at hand."
+            - 1.2 The Slip-box ([[Zettelkasten]])
+                - [[Niklas Luhmann]]
+                - It seems to me as if [[Roam]] may meet the criteria of being a natural [[Zettelkasten]] without even needing to consciously [[structure]] it as such (not to say that some structuring may be necessary for other reasons) #[[Zettelkasten in Roam]]
+                - "It is about having the right [[tools]] and knowing how to use them–and very few understand that you need both."
+                - "Sure, you need to be smart to be successful in academia and [[writing]], but if you don’t have an [[external system]] to think in and organise your thoughts, ideas and collected facts, or have no idea how to embed it in your overarching  [[daily routines]], the disadvantage is so enormous that it just can’t be compensated by a high IQ."
+                - "The main misunderstanding stems from an isolated [[focus]] on the slip-box and a neglect of the actual workflow in which it is embedded."
+            - 1.3 The [[slip-box]] Manual
+                - **"We need a reliable and simple external structure to think in that compensates for the limitations of our brains."**
+                - "Strictly speaking, Luhmann had two [[slip-box]]es: a bibliographical one, which contained the [[references]] and brief [[notes]] on the [[content]] of the literature, and the main one in which he collected and generated his [[ideas]], mainly in response to what he read."
+                    - Bibliographical, reference and [[literature notes]]
+                        - "Whenever he read something, he would write the bibliographic information on one side of a card and make brief notes about the content on the other side (Schmidt 2013, 170). These notes would end up in the bibliographic slip-box."
+                    - Permanent [[idea notes]]
+                        - "In a second step, shortly after, he would look at his [[brief notes]] and think about their relevance for his own thinking and writing. He then would turn to the main slip-box and write his [[ideas]], comments and [[thoughts]] on new [[pieces]] of paper, using only one for each [[idea]] and restricting himself to one side of the paper, to make it easier to read them later without having to take them out of the box. He kept them usually brief enough to make one idea fit on a single sheet, but would sometimes add another note to extend a thought."
+                        - "He usually wrote his notes with an eye towards already [[existing notes]] in the slip-box. And while the notes on the literature were brief, he wrote them with great care, not much different from his style in the final [[manuscript]]: in full sentences and with explicit references to the literature from which he drew his material. More often than not, a new note would directly follow up on another note and would become part of a longer chain of [[notes]]. He then would add [[references]] to notes somewhere else in the slip-box, some of them which were located nearby, others in completely different areas and contexts. Some were directly related and read more like comments, others contained not-so-obvious connections. Rarely would a note stay in isolation."
+                        - "The trick is that he did not organise his [[notes]] by topic, but in the rather abstract way of giving them fixed numbers. The numbers bore no meaning and were only there to identify each note permanently. If a new note was relevant or directly referred to an already existing note, such as a comment, correction or addition, he added it directly behind the previous note."
+                        - "Whenever he added a note, he checked his [[slip-box]] for other relevant [[notes]] to make possible connections between them. Adding a note directly behind another note is only one way of doing this. Another way is by adding a [[link]] on this and/ or the other note, which could be anywhere in the [[system]]."
+                        - "By adding these links between [[notes]], [[Luhmann]] was able to add the same note to different contexts. While other [[systems]] start with a preconceived order of [[topics]], Luhmann developed topics bottom up, then added another note to his slip-box, on which he would sort a topic by sorting the links of the relevant other notes."
+                        - "The last element in his [[file system]] was an [[index]], from which he would refer to one or two [[notes]] that would serve as a kind of [[entry point]] into a line of thought or topic. Notes with a sorted [[collection]] of links are, of course, good entry points."
+    - "[[Chapter 2. Everything You Need to Do]]"
+        - Fleeting Notes:: 
+            - 2.1 Writing A Paper Step-By-Step
+                1. Make [[Fleeting Notes]].
+                    - 1. "...[[capture]] every [[idea]] that pops into your mind. Don’t worry too much about how you write it down or what you write it on. These are fleeting notes, mere reminders of what is in your head. They should not cause any distraction. Put them into one place, which you define as your [[inbox]], and [[process]] them later."
+                2. Make [[literature notes]].
+                    - "Whenever you read something, make notes about the [[content]]. Write down what you don’t want to forget or think you might use in your own [[thinking]] or [[writing]]. Keep it very short, be extremely selective, and [[use your own words]]. Be extra [[selective]] with quotes–don’t copy them to skip the step of really [[understanding]] what they mean. Keep these notes together with the bibliographic details in one place–your [[Reference System]]."
+                3. Make [[Permanent Notes]].
+                    - "Go through the notes you made in step one or two (ideally once a day and before you forget what you meant) and think about how they relate to what is relevant for your own [[research]], [[thinking]] or interests. The idea is not to collect, but to [[develop ideas]], [[arguments]] and [[discussions]]. Does the new information contradict, correct, support or add to what you already have (in the slip-box or on your mind)? Can you [[combine ideas]] to generate something new? What [[questions]] are triggered by them?"
+                    - "Write exactly one note for each idea and write as if you were writing for someone else: Use full sentences, disclose your [[sources]], make [[references]] and try to be as precise, clear and brief as possible. Throw away the [[fleeting notes]] from step one and put the [[literature notes]] from step two into your [[reference system]]. You can forget about them now."
+                4. Add your [[Permanent Notes]] to the [[slip-box]].
+                    - "a) Filing each one behind one or more related notes..."
+                    - "b) Adding links to related notes." 
+                    - "c) Making sure you will be able to find this note later by either linking to it from your index or by making a link to it on a note that you use as an entry point to a [[discussion]] or [[topic]] and is itself linked to the [[index]]."
+                5. Develop your [[topics]], [[questions]] and [[research]] [[projects]] bottom up from within the [[system]].
+                    - "See what is there, what is missing and what [[questions]] arise. Read more to challenge and strengthen your [[arguments]] and change and develop your [[arguments]] according to the new information you are learning about. Take more [[notes]], develop ideas further and see where things will take you. Just follow your interest and always take the path that promises the most insight. Build upon what you have." 
+                    - "Do not [[brainstorm]] for a [[topic]]. Look into the [[slip-box]] instead to see where chains of [[notes]] have developed and [[ideas]] have been built up to clusters. Don’t cling to an idea if another, more promising one gains momentum. The more you become interested in something, the more you will read and think about it, the more notes you will collect and the more likely it is that you will generate [[questions]] from it. It might be exactly what you were interested in from the beginning, but it is more likely that your interests will have changed–that is what insight does."
+                6. Decide on a [[topic]] to write about.
+                    - "Your topic is now based on what you have, not based on an unfounded idea about what the literature you are about to read might provide."
+                    - "Look through the connections and collect all the relevant notes on this topic..."
+                    - "Look for what is missing and what is redundant. Don’t wait until you have everything together. Rather, try ideas out and give yourself enough time to go back to reading and note-taking to improve your ideas, arguments and their structure."
+                7. Turn your notes into a [[rough draft]]. 
+                    - "Don’t simply copy your [[notes]] into a [[manuscript]]. Translate them into something coherent and embed them into the [[context]] of your [[argument]] while you build your [[argument]] out of the [[notes]] at the same time." 
+                    - "Detect holes in your [[argument]], fill them or change your [[argument]]."
+                8. Edit and proofread your [[manuscript]].
+            - "These are the steps, presented as if you will write only one paper/ article at a time. In reality, you never work on just one idea, but many ideas in different stages at the same time. And that is where the system plays out its real strengths. We cannot help but think about more than one question at a time and the chances are that you will think and write in the future as well. It might not be for academia or a publication, but certainly for your own intellectual growth. Gather what you encounter along your way and don’t let any good idea go to waste. You might read a certain book in hope it could be useful for one of the papers you write. Maybe you are wrong, but it still might contain some interesting thoughts worth keeping and useful for something else you haven’t thought about yet."
+            - "In truth, it is highly unlikely that every text you read will contain exactly the information you looked for and nothing else. We constantly encounter interesting ideas along the way and only a fraction of them are useful for the particular paper we started reading it for. Why let them go to waste? Make a note and add it to your slip-box. It improves it. Every idea adds to what can become a critical mass that turns a mere collection of ideas into an idea-generator."
+            - "A typical work day will contain many, if not all, of these steps: You read and take notes. You build connections within the slip-box, which in itself will spark new ideas. You write them down and add them to the discussion. You write on your paper, notice a hole in the argument and have another look in the file system for the missing link. You follow up on a footnote, go back to research and might add a fitting quote to one of your papers in the making."
+            - "How focused you want to read depends on your [[priorities]]. You don’t have to read anything you don’t consider an absolute necessity for finishing your most urgent [[paper]], but you will still encounter a lot of other [[ideas]] and [[information]] along the way. Spending the little extra time to add them to your [[system]] will make all the difference, because the [[accidental encounters]] make up the majority of what we learn."
+            - "Each added bit of [[information]], filtered only by our [[interest]], is a contribution to our future [[understanding]], [[thinking]] and [[writing]]. And the best [[ideas]] are usually the ones we haven’t anticipated anyway."
+            - "Most people follow different lines of [[thought]] at the same time. They might [[focus]] for a while on one idea, but then leave it alone for another while until they see how to proceed further. It is helpful then to be able to pick up on another idea now and go back to the earlier thought later. It is much more realistic to keep this [[flexibility]] and you don’t have to worry about starting all over."
+    - "[[Chapter 3. Everything You Need to Have]]"
+        - "To have an undistracted brain to think with and a reliable collection of notes to think in is pretty much all we need. Everything else is just clutter."
+        - Four necessary tools (IMHO [[Roam]] is capable of accomplishing all 4 functions):
+            1. Writing materials (e.g., pen and paper or [[Roam]])
+            2. A reference management system. E.g.,  [[Zotero]] or [[Roam]]
+            3. A slip-box. E.g.,  [[Roam]] [[Zettelkasten in Roam]]
+            4. An editor. E.g.,  [[Roam]] [[Scrivener]]
+    - "[[Chapter 4. A Few Things to Keep in Mind]]"
+        - It's important to know how the slip-box works, how to work with it, and why it works. This will allow you to modify it for your own needs and ways of working. This is also something that makes [[Roam]] so well-suited to this way of working.
+    - "[[The Four Underlying Principles]]"
+        - "[[Chapter 5. Writing is the Only Thing That Matters]]"
+            - Studying is independent research. 
+            - "If writing is the medium of research and studying nothing else than research, then there is no reason not to work as if nothing else counts than writing."
+            - "Focusing on writing as if nothing else counts does not necessarily mean you should do everything else less well, but it certainly makes you do everything else differently."
+            - " If you change your mind about the importance of writing, you will also change your mind about everything else. Even if you decide never to write a single line of a manuscript, you will improve your reading, thinking and other intellectual skills just by doing everything as if nothing counts other than writing."
+        - "[[Chapter 6. Simplicity is Paramount]]"
+            - Three types of notes
+                1. Fleeting notes
+                2. Permanent notes
+                    - will never be thrown away and contain the necessary information in themselves in a permanently understandable way. 
+                    - They are always stored in the same way in the same place, either in the reference system or, written as if for print, in the slip-box.
+                3. Project notes
+            - The three types should be kept separate from one another
+            - Ultimately, only the permanent notes and some literature notes (bibliographical) should be kept, the other two types are temporary as their names imply.
+                - "The only permanently stored notes are the literature notes in the reference system and the main notes in the slip-box. The former can be very brief as the context is clearly the text they refer to. The latter need be written with more care and details as they need to be self-explanatory."
+            - It is important to reflect regularly on the purpose of each type of note.
+        - "[[Chapter 7. Nobody Ever Starts From Scratch]]"
+            - ""Even though academic writing is not a linear process, that does not mean you should follow an anything-goes approach. On the contrary, a clear, reliable structure is paramount.
+""
+        - "[[Chapter 8. Let the Work Carry You Forward]]"
+            - The work itself should become intrinsically motivation.
+            - Feedback loops help with both motivation and learning.
+            - Working cyclically and iteratively with a slip-box helps one to be creative, productive and able to learn and generate possibilities.
+    - "[[The Six Steps to Successful Writing]]"
+        - "[[Chapter 9. Separate the Interlocking Tasks]]"
+            1. Give each task your undivided attention
+            2. Multitasking is NOT a good idea
+            3. Give each task the right kind of [[attention]]
+                - [[proofreading]]
+                - Finding the right words
+                - Dynamic [[Outlining]]
+                - [[reading]]
+                - [[Focused attention]] vs [[Floating attention]]
+                    - We need both types for different purposes and moments
+                    - A [[flexible work structure]] enables [[flexible attention switching]]
+            4. Become and expert instead of a planner
+                - Practice makes better
+                    - [[academic writing]] is an art as well as a craft
+                    - We can become better at [[academic writing]] with experience and [[deliberate practice]]
+                    - academia and writing is all about gaining insight and making it public (this is closely related to one of the founding principles of [[Roam]]), I believe)
+                    - we can only learn [[academic writing]] by doing it
+                        - we need to learn how to make the right choices in real, unscripted situations
+                            - "Experts, on the other hand, have internalised the necessary knowledge so they don’t have to actively remember rules or think consciously about their choices. They have acquired enough experience in various situations to be able to rely on their intuition to know what to do in which kind of situation. Their decisions in complex situations are explicitly not made by long rational-analytical considerations, but rather come from the gut (cf. Gigerenzer, 2008a, 2008b)."
+                                - "Gigerenzer, Gerd. 2008. Gut Feelings: The Intelligence of the Unconscious. New York: Viking Penguin."
+                        - We learn by "systematic exposure to feedback loops and experience"
+            5. Get closure
+                - Learning is always about understanding
+                - #[[Bluma Zeigarnik]] [[Zeigarnik effect]]: Open tasks tend to occupy our short-term memory until they are completed.
+                    - The task doesn't have to actually be completed, it just has to be written down in such a way that we are convinced that it will be taken care of. #GTD
+                - To be able to focus on the task at hand
+                    1. break down the "writing task" into smaller pieces of different tasks that can be finished in one go
+                    2. Make sure you always write down the outcome of your thinking, including possible connections to further inquiries.
+                        - open questions
+                        - connections to other notes
+                        - reminders and notes to self
+                - Can also deliberately keep unanswered questions in mind and in view in order to allow the brain to work on them in the background.
+            6. Reduce the number of decisions
+        - "[[Chapter 10: Read for Understanding]]"
+        - "[[Chapter 11. Take Smart Notes]]"
+        - "[[Chapter 12. Develop Ideas]]  "
+        - "[[Chapter 13. Share Your Insight]]"
+        - "[[Chapter 14. Make it a Habit]]"
+            - **Forming a new, good habit is intrinsically rewarding.** #Zettels #[[Joey Harris]]
+            - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)"
+                - Changing behavior is hard. It's easier when we give up being in control since we weren't really in control in the first place.
+    - "[[Afterword]]"

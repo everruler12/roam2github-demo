@@ -1,0 +1,11 @@
+- "Template - Apply children as text"
+    - #[[Zettels]] 
+        - #Zettels [[Acquire the habit to catch and distill your thoughts in a scalable way that will give you access to evergreen distilled knowledge and insights aka Zettels ]] #[[Jeremie Rykner/Zettels]]
+        - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
+            - 
+            - It's trying to switch from Fleeing Notes to Fleeting Notes, if we don't make it a habit of immediately catching our thoughts onto a sustainable format we will lose most of them like we lose and forget our dreams
+            - Today we have no excuse to refrain from this habit as it's never been easier, on the one hand we have easy capture tools on the other hands we have tools that will transfer our highlights, references and thoughts from one platform to another without any friction, think about #Roam and #Readwise
+            - We have to transit from a previous habit to a new habit, this takes time, and a commitment from ourselves to ourselves
+        - #[[Fleeting Notes]] 
+            - 
+- 

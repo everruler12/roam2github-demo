@@ -1,0 +1,47 @@
+- [[About me]]
+    - Name:: Nick Rvachev
+    - Website:: [aitarget.com](aitarget.com)
+    - Company:: Aitarget – Facebook, Google, Snapchat & TikTok Marketing Partner. We build SAAS tool to help automate and scale marketing for eCommerce businesses. 
+    - Literature Notes::
+        - [[Introduction]]
+            - Everybody writes. #zettel #writing
+            - We write when we need to remember something, be it an idea, a quote or the outcome of a study. We write when we want to organise our thoughts and when we want to exchange ideas with others.
+            - This book aims to fill this gap by showing you how to efficiently turn your thoughts and discoveries into convincing written pieces and build up a treasure of smart and interconnected notes along the way.
+            - Productive writing is based on good note-taking.
+            - Nobody needs willpower not to eat a chocolate bar when there isn’t one around.
+        - [[Chapter 1. Everything You Need To Know]]
+            - A good [[structure]] is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head
+            - Poor students do not have any of these problems. As long as they stick within the boundaries of their discipline and read only as much as they are told to (or less), no serious external system is required and writing can be done by sticking with the usual formulas of “how to write a scientific paper.” In fact, poor students often feel more successful (until they are tested), because they don’t experience much self-doubt. In psychology, this is known as the [[Dunning-Kruger effect]] (Kruger and Dunning, 1999). Poor students lack insight into their own limitations – as they would have to know about the vast amount of knowledge out there to be able to see how little they know in comparison. That means that those who are not very good at something tend to be overly confident, while those who have made an effort tend to underestimate their abilities.
+            - Even the best tool will not improve your [[productivity]] considerably if you don’t change your daily routines the tool is embedded in, just as the fastest car won’t help you much if you don’t have proper roads to drive it on.
+            - [[smart notes]], it will feel so much more natural that you will wonder how you were ever able to get anything done before.
+            - It is the 1960s, somewhere in Germany. Among the staff of a German administration office is the son of a brewer. His name is [[Niklas Luhmann]].
+            - "It is the 1960s, somewhere in Germany. Among the staff of a German administration office is the son of a brewer. His name is [[Niklas Luhmann]]. He went to law school, but he has chosen to be a public servant, as he did not like the idea of having to work for multiple clients. Fully aware he is also not suited for a career in administration, as it involves a lot of socializing, he excuses himself every day after his 9-5 shift and goes home to do what he liked most: reading and following his diverse interests in philosophy, organizational theory and sociology."
+            - Instead of adding notes to existing categories or the respective texts, he wrote them all on small pieces of paper, put a number in the corner and collected them in one place: the slip-box.
+            - He soon developed new categories of these notes. He realised that one idea, one note was only as valuable as its context, which was not necessarily the context it was taken from. So he started to think about how one idea could relate and contribute to different contexts.
+            - he collected his notes in his slip-box in such a way that the collection became much more than the sum of its parts. His slip-box became his dialogue partner, main idea generator and productivity engine. It helped him to structure and develop his thoughts.
+            - The contemporaries of Henry Ford did not understand why something as simple as the conveyor belt should be that revolutionary. What difference does it make to let the cars move from worker to worker instead of letting the workers walk from car to car?
+            - How does the slip-box, the heart of this system, work? Strictly speaking, Luhmann had two slip-boxes: a bibliographical one, which contained the references and brief notes on the content of the literature, and the main one in which he collected and generated his ideas, mainly in response to what he read. The notes were written on index cards and stored in wooden boxes.
+            - Whenever he read something, he would write the bibliographic information on one side of a card and make brief notes about the content on the other side (Schmidt 2013, 170). These notes would end up in the bibliographic slip-box.
+            - He did not just copy ideas or quotes from the texts he read, but made a transition from one context to another. It was very much like a translation where you use different words that fit a different context, but strive to keep the original meaning as truthfully as possible.
+            - The numbers bore no meaning and were only there to identify each note permanently. If a new note was relevant or directly referred to an already existing note, such as a comment, correction or addition, he added it directly behind the previous note. If the existing note had the number 22, the new note would become note number 23. If 23 already existed, he named the new note 22a.
+            - Adding a note directly behind another note is only one way of doing this. Another way is by adding a link on this and/or the other note, which could be anywhere in the system. This very much resembles, of course, the way we use hyperlinks on the internet. But, as I will explain later, they are quite different and it would be rather misleading to think of his slip-box as a personal Wikipedia or a database on paper. The similarities are obviously there, but the subtle differences are what makes this system unique.
+            - By adding these links between notes, Luhmann was able to add the same note to different contexts. While other systems start with a preconceived order of topics, Luhmann developed topics bottom up, then added another note to his slip-box, on which he would sort a topic by sorting the links of the relevant other notes.
+            - The last element in his file system was an index, from which he would refer to one or two notes that would serve as a kind of entry point into a line of thought or topic. Notes with a sorted collection of links are, of course, good entry points.
+            - We need a reliable and simple external structure to think in that compensates for the limitations of our brains.
+        - [[Chapter 2. Everything You Need to Do]]
+        - [[Chapter 3. Everything You Need to Have]]
+        - [[Chapter 4. A Few Things to Keep in Mind]]
+        - [[The Four Underlying Principles]]
+            - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - [[Chapter 6. Simplicity is Paramount]]
+            - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - [[Chapter 8. Let the Work Carry You Forward]]
+        - [[The Six Steps to Successful Writing]]
+            - [[Chapter 9. Separate the Interlocking Tasks]]
+            - [[Chapter 10: Read for Understanding]]
+            - [[Chapter 11. Take Smart Notes]]
+            - [[Chapter 12. Develop Ideas]]  
+            - [[Chapter 13. Share Your Insight]]
+            - [[Chapter 14. Make it a Habit]]
+        - [[Afterword]]
+    - Fleeting Notes:: 

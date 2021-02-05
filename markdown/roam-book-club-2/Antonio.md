@@ -1,0 +1,39 @@
+- Marisol Im:: Antonio Maldonado
+- [[Breakout Room 20]]
+    - Who was in this group on 11.1.20::
+        - [[StephanC]] 
+        - [[Mika Mauger]]
+    - What did your group talk about?::
+    - Any questions for the book club as a whole?::
+    - Our group question for Sönke Ahrens::
+
+- Website:: 
+- Fleeting Notes:: 
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- [[Book Club Live Session 1]]
+    - [[Goals of Book Club]]
+        - Improve my knowledge and skills in roam.
+        - Learn how to take notes to generate concrete ideals
+        - Reduce the fear of writing.
+            - Being dyslexic has haunted me for years since I could never keep up with the images or ideas I had in mind and attempting to put it down on paper. 
+        - Establish better habits to reading & finishing books. 
+        - How to correlate different techniques and viewpoints that can be connected with investment opportunities. 
+        - Overall, how can taking notes or better notes, help increase recall information to better enhance my intuition.

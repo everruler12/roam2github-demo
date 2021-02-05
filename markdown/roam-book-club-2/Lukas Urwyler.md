@@ -1,0 +1,359 @@
+- Hello visitor! I'm a 28 years old mechanical engineer from Switzerland. When I am not taking notes or doing engineering work, I like to climb and cycle. What about you?
+**Twitter**: [@lurw](https://www.twitter.com/lurw)
+**LinkedIn**: [Lukas Urwyler](https://www.linkedin.com/in/urwyler)
+- Literature Notes:: {{word-count}}
+    - [[Introduction]]
+        - Most of what we write is actually everyday note-taking
+        - Writing down an argument is only the last step, and the smallest part, in developing an idea
+        - Writing does not start with a blank page. Good writing is based on good note-taking.
+        - Who you are (IQ) does not predict success. Self-discipline does, but this requires willpower.
+            - Willpower is a quickly depleting resource
+            - It‘s much easier to set yourself up so you won‘t __have__ to use willpower to get things done, because the tasks will be interesting, meaningful, and well-defined.
+    - [[Chapter 1. Everything You Need To Know]]
+        - [[Everything You Need To Know]]
+            - „Good structure“ is important. Allows you to be able to trust the system and to reach __flow__.
+            - Creating a good structure to work __in__ is very different from making a plan. Adhering to the plans requires willpower, working in a good structure feels fun and effortless.
+        - [[1.1 Good Solutions are Simple – and Unexpected]]
+            - Taking smart notes is simple, no complexity is needed.
+            - GTD ([[Getting Things Done]]) by [[David Allen]] describes a good overall workflow. 
+                - Works for business, not so well for academia, because it requires breaking down tasks in clear „next steps“, which is impossible for insights.
+                - Two main insights:
+                    - A holistic perspective is very important
+                    - Only if you can trust your system will your brain be able to relax
+        - [[1.2 The Slip-box]]
+            - Developed by [[Niklas Luhmann]] in the 1960s
+            - A note is only as valuable as its context
+            - Using slip box, Luhmann wrote doctoral thesis __and__ habilitation in less than a year!
+            - L. admitted to not working on anything he did not feel like — he only wrote when he „immediately knew how to do it“.
+            - **Success is not the result of strong willpower, but of a working environment that avoids resistance.**
+            - Don‘t be fooled by simplicity: It is untrue that impressive results require equally impressively complicated efforts.
+        - [[1.3 The slip-box manual]]
+            - Luhmann had two slip boxes, a bibliographical one for references and short notes on them, and a main, „idea-generating“ one
+                - Bibliographical notes: Two-sided, with bibliographical info on one side, and brief notes about the content on the other side.
+                - Idea/main notes: One-sided, numbered in a unique way, containing concepts, not direct quotes.
+                    - Numbering system: Start with a number, alternate between numbers and letters. Notes can be inserted anywhere! E.g. 21/3d7a7 comes after 21/3d7a6.
+                    - Linking notes not just by inserting them next to other relevant notes, but also by inserting links to other notes.
+                    - {{[[TODO]]}} Links are almost like hyperlinks, but not quite. The difference is subtle, but important. Clarify this.
+                    - Linking allows one note to be added to multiple other notes.
+            - Additionally, he had an index that served as entry point into notes via references to a few notes each for some main topic.
+            - With software (Roam?), we don‘t need to add numbers/letters to generate links.
+    - [[Chapter 2. Everything You Need to Do]]
+        - [[Everything You Need To Do]]
+            - __“Everybody is motivated when the finish line is within reach.“__ #quote
+            - Example of writing a paper, every step is easy:
+                - Assemble notes and order them
+                - Create draft from these notes
+                - Edit and revise draft
+            - __Main work__ is not assembling the notes, it‘s reading, thinking, understanding, with a pen or keyboard at hand.
+            - You have to write to think! The brain needs an external scaffolding.
+        - [[2.1 Writing a paper step by step]]
+            1. Write fleeting notes. Medium and quality are irrelevant, just write your thoughts down.
+            2. Make literature notes whenever you read something. Keep them short and to the point, using your own words. And keep bibliographical info with these notes.
+            3. Make permanent notes. These arise from the fleeting and literature notes. One idea per note, write as if it were for others to read.
+                - After writing permanent notes, the fleeting notes can be thrown away, while the literature notes should be added to the reference system.
+            4. File the note, meaning (in Roam): Give it meaningful keywords and add links to other relevant notes or to an index (# Zettel!). No note should be „orphaned“ (without links or keywords).
+            5. Develop ideas, questions, topics within the slip-box. Let chains of notes guide you. You might end up with different ideas than you started with — that‘s insight. By reading more and writing more notes, new topics will be discovered.
+            6. Decide on a topic to write about based on what‘s already there in the slip-box. Take the relevant notes and collect them on the „Desktop“ (arrange them so they‘re together in a group). I guess in Roam this could be done with a a Project Desktop page using block quotes to all the relevant notes. Don‘t wait until you have it all together.
+            7. Create a rough draft based on the notes, without copying them.
+            8. Edit and revise. Done!
+                - Note: This is a step-by-step instruction as if you would only work on one topic at a time. In reality, this will be a highly parallelised process, which is where the true strength of the system lies.
+    - [[Chapter 3. Everything You Need to Have]]
+        - NASA story about pen that works without gravity: Either spend a lot of money, or do it the Russian (simple) way: Use a pencil
+        - Many systems for note-taking exist, but they are always "insular", meaning they do not form a scaffolding or a model that extends through __everything__. This makes it hard to link notes, access them quickly, look them up, etc.
+        - [[3.1 The Tool Box]]
+            - Four tools
+                - A note-taking tool (pen and paper, Roam, Apple Notes, ...)
+                    - Should be one single place and ideally always the same. For me, Roam does it, I can use it on my phone, on a computer, anywhere. There is a certain sexiness in a pen and a small notebook, but I would not truly __always__ have it with me.
+                - A reference management system (Roam for me, could be Mendeley, Zotero, or similar for academic writing)
+                - A slip-box (Roam)
+                - An editor (Roam and then Word if a text is needed)
+            - More is unnecessary, less is impossible
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - A tool is only as good as your ability to work with it.
+        - Risk with the slip-box: It can devolve into a simple note archive ("graveyard")
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - Studying is independent research
+            - "An idea kept private is as good as one you never had" -- wow!
+            - Producing and presenting knowledge are two sides of the same coin. Writing it down is what matters.
+                - Mythbusters' Adam Savage: "Remember kids, the only difference between science and screwing around is writing it down"
+            - **Do everything as if nothing counts other than writing.**
+        - [[Chapter 6. Simplicity is Paramount]]
+            - The shipping container is a super simple idea: It's just a box. However, it still had a difficult start. Shipping companies were used to products being packaged according to their individual peculiarities -- so they evaluated shipping containers using their old system. This obviously led to not-so-great experiences made with containers. Only when the full chain (ship design, harbour design, standards, ...) was adapted, did containers start making sense.
+            - The analogy here is that note-taking systems are like shipping containers. If you use a new system in an old environment, it's bound to fail. The slip-box method is its own environment ("external scaffolding"), which prevents this. 
+            - When filing a note in the old system, the question was 
+"Where (topic) does this note fit in?"
+In the new system, the question is 
+"In what context will I want to find this note again?"
+            - Traditional note-taking systems are top-down (hierarchical), where as the slip-box is bottom-up.
+                - Holacratic versus hierarchic
+            - Three different types of notes:
+                - Fleeting notes
+                    - Just to "save" ideas, will be thrown away after a few days
+                    - Need to be able to capture them as quickly and efficiently as possible
+                    - Paramount to revise these within one or two days and make them permanent, if worth it
+                - Permanent notes
+                    - These are the high-quality "nuggets", that are __never__ deleted
+                    - These are not reminders of an idea, but the idea itself in written form
+                - Project notes
+                    - Notes relevant for a single project, can be archived after project finish
+                    - In Roam, these can be assembled by using a project-identifying tag/link
+            - Three different typical mistakes:
+                - Being confused about these three types of notes is one of the major reasons for not getting much done. Writing down any idea indiscriminately removes the possibility of building a __critical mass__ of notes.
+                - Only collecting notes about a singular project, without allowing new ideas to enter the system. This means that for every new project, you're going to have to start from scratch, as no notes exist, just what your brain can carry.
+                - Treating all notes as fleeting (not refining, keywording, linking for the slip-box)
+            - Common to all typical mistakes: Keeping too many notes. Be strict with quality and only keep notes worth keeping!
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - Normal books on writing propose the following order: Decide about an idea (question to answer), plan and do the research, write. 
+                - This is a flawed process. In order to know what to write about (find the question), you first need to have read some of the relevant material.
+            - You never start from scratch: A good research question arises from reading and working on a set of sources for a while.
+                - Using the slip-box, when the question presents itself, you'll already have material to work with to start answering it.
+            - Often, **Brainstorming** is used to "generate ideas" from the brain. In reality, these ideas are also mostly external and could have been moulded further and earlier by a good note-taking process.
+            - A good check if the system works: Instead of not having a topic to write about, you'll have too many topics at the same time.
+            - Developing ideas in the written form will automatically raise many questions, some of which will be highly interesting to investigate further.
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - Work should be an endergonic process: Once started, it should not need more energy put into it to keep it rolling.
+            - Importance of a good workflow: If it is good, it will be a virtuous circle. The positive experience motivates to do more, and so on. If the workflow is bad and there are hurdles to be overcome at every step, a vicious circle forms, leading to demotivation and delays.
+                - Motivation cannot come from external factors ("extrinsic"), as these only work short-term. It has to come from intrinsic sources, the work itself needs to be rewarding for a self-sustaining motivation dynamic.
+                - Anything you do just for the expectation of the subsequent reward is unsustainable, because it requires willpower. After a while, you'll seek the reward without having to do the work.
+                    - Good example for me, solving NYTimes Daily Crossword
+                - **Feedback Loops** are the key to any learning process
+                    - They need to be frequent and small. Many small feedbacks received frequently are much more useful than one huge chunk, i.e. after handing in a thesis.
+                - **Growth Mindset**: Actively seeking feedback, positive or negative, is a huge predictor for long-term success
+                    - Short-term vs long-term interests
+                    - Fixed mindset: Gifted students have the problem that they are praised for who they are, not what they do. They then seek to continue getting praise (external) instead of seeking feedback and growing from it (internal).
+                    - Seeking praise will keep you doing what you already know, what's safe (climbing!)
+                    - Seeking growth will show you where you need to improve the most
+            - Writing helps to check if you've understood something. Even if the lack of comprehension is not detected during the note-taking process, it will become evident when during the next revision step (from fleeting/literature to permanent notes, for example) the notes don't make sense anymore.
+            - The more you write, the better you become at it. 
+                - The more notes you take, the better your notes become and the better your understanding will be of whatever you're taking notes of. 
+                -  The more you read, the more efficient your reading will become
+            - Writing permanent notes will show inconsistencies, contradictions or repetitions in the slip-box, leading you to get small feedbacks not from a person, but from the slip-box! 
+                - This also simultaneously improves the slip-box in the process
+            - "The slip-box is not a collection of notes". It is a collection of connected thoughts! The bigger the box, the easier it is to connect new ideas with it -- exactly like the brain.
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+            - [[9.1 Give Each Task Your Undivided Attention]]
+                - Our attention span has been constantly decreasing for decades
+            - [[9.2 Multitasking is not a good idea]]
+                - Don't multitask. You'll feel as if you're getting more done, but actually completing tasks sequentially gets things done more quickly __and__ in higher quality.
+                - Ironically, multitasking often limits our ability to do more than one thing at a time. It does not "train" us to get better at it!
+                - **Mere-exposure effect**: The more often you do something, the more you'll feel as if you're getting better at it, completely independent of your actual performance. 
+                - Different kinds of attention:
+                    - Focused attention, the "classical" definition. Attention on one thing only, which can only be sustained for a few seconds, and also hasn't changed for humans over time.
+                    - Sustained attention. This is attention that is needed to study, or to get something done. This kind is under threat by media etc. and has decreased in the past.
+                - To work efficiently, tasks should be separated and grouped into similar kinds. Distractions have to be removed. It's most efficient to work on similar tasks sequentially, so that all tasks requiring one type of work come one after the other.
+            - [[9.3 Give Each Task the Right Kind of Attention]]
+                - Writing is very different from proof-reading, and thus these should be separated.
+                    - Writing is looking for words, open, creative, unconstrained, "floating attention"
+                    - Proof-reading is looking at semantics, grammar, typos, and seeing the words for what they are (__not__ the ideas you were trying to put into them), "focused attention"
+                - Outlining, playing with the slip-box, and reading are also all highly separate tasks and need to be treated as such.
+                - Good scientists can switch between highly focused states and more playful attention when it comes to exploring new ideas.
+                - Switching between focus and defocus not only requires mental flexibility, but also a suitable external environment. Making plans is too rigid and does not help!
+            - [[9.4 Become an Expert Instead of a Planner]]
+                - To a teacher, an expert is somebody who follows her plans exactly. In reality, an expert is somebody with real experience and intuition, not bound by a plan.
+                    - This experience is a result of many feedback loop outcomes manifesting themselves in the brain as experience, successes or failures
+                - This links with the fact that all hard tasks need to be done unconsciously to do them well.
+                    - Best example is driving: 
+Conscious drivers are slow, hesitant, unsure. They have to do everything consciously, which slows down their actions, as conscious decisions are slow. 
+Anybody who drives well, drives unconsciously, the large majority of actions happens "automatically", effortlessly, and thus the focus can be put on the truly important things. 
+                - "Real experts don't make plans"
+            - [[9.5 Get Closure]]
+                - Short-term memory is limited: 7 items, plus/minus 2, can be held in our mind at any one time.
+                    - Remember O. de Weck talking about this regarding systems engineering: Divide complex things into around 7 categories per hierarchical step.
+                    - Newer research shows that it might actually be closer to 4, if "bundling things together" is not possible. So, 4 completely unrelated things, or 7 if there are some overlapping themes.
+                - It's much easier to remember something you understand. Understanding something makes it __connected__. Making these connections is exactly what the slip-box is about.
+                    - "What does x mean for y?"
+                - **Zeigarnik effect**
+                    - Open tasks occupy the short-term memory until they are done. 
+                    - There is no difference to the brain in actually completing the task or writing it down for later processing. Writing it down really gets it out of your head!
+                    - It is very important to have an "external brain" in the form of a good note system in order to be free from distractions.
+                - How to structure longer-term work with many tasks
+                    - Break big tasks down into smaller tasks, which can be finished in one go.
+                    - Write down all outcome of your thinking, so you can come back to the tasks and dive right back into it.
+            - [[9.6 Reduce the Number of Decisions]]
+                - Willpower is limited ("ego depletion")
+                - It doesn't really matter how big the decision or action is, it seems to deplete the willpower resources quite constantly.
+                - Solution: Cheat! Find a way to make the next necessary step fun or appealing
+                - Don't make decisions that are unnecessary, like too many clothing options
+                - Rely on a constant system that takes away many decisions, like the slip-box. If you always follow the same procedure to solve a certain problem, it's an easy and fun problem to solve!
+        - [[Chapter 10: Read for Understanding]]
+            - [[10.1 Read With a Pen in Hand]]
+                - Making notes during reading helps to capture the ideas of a text and put them into context without your own mind/slip-box.
+                - It's OK and expected that for a difficult and/or new subject, notes will tend to be longer, while notes on "easy" material might be only keywords.
+                - The note-taking system should also differ between different shapes and forms of text material. It does not make sense to have one rigid approach (like SQ3R) for all kinds of sources.
+                - Literature notes might be taken with any system or effort. The important thing to remember is that they only serve to create permanent notes for the slip-box, so any "extra" effort is not justified.
+                - Be careful when taking notes with a keyboard: You can type much quicker than your hand can write with pen and paper. Writing by hand forces you to think about what to write down, because you are forced to distil what you hear into the main points. When typing, you can record verbatim quotes without them even really registering in your brain.
+            - [[10.2 Keep an Open Mind]]
+                - Being selective about note-taking is very important, but we should focus on counter-arguments and challenges to our thinking to combat confirmation bias.
+                - **Confirmation bias**: We are attracted to people who think alike, so we tend to just hear the same opinions that we have.
+                - The slip-box fights confirmation bias by working bottom-up: You're writing down __all__ ideas that might enrich the slip-box, regardless of the context in which they might be used in later.
+                    - These can be disagreements with other notes, further elaborations on already established topics, questions to a note, etc.
+                - The slip-box is (should be) agnostic to new ideas, as long as they are a __relevant__ net addition to the universe of ideas already in there
+            - [[10.3 Get the Gist]]
+                - The more you try to extract the main points of a text ("the gist"), the more virtuous you'll become in it. Thus, the more you read actively (while taking notes), the easier it will become, the more you can read in the same amount of time, the quicker you can spot patterns and mental models.
+                - When taking notes in your own words, also think about what was not said/meant.
+                - Condensing ideas into powerfully packed words takes deliberate practice. The slip-box system with its permanent notes provides exactly this deliberate practice.
+            - [[10.4 Learn to Read]]
+                - There is no better check of your understanding of a topic than trying to explain it in writing to somebody ignorant of the whole subject.
+                    - Think about it: In a short while, the ignorant person you wrote this for will be you yourself!
+                - It's easy to hide gaps in knowledge or understanding when talking. People often don't have the confidence to question your statements, and you can even lie to yourself and be rewarded with a reaffirming nod from your audience.
+                    - Writing down something that you don't truly understand is much harder, though. Writing exposes any hiding tricks.
+            - [[10.5 Learn by Reading]]
+                - Learning takes deliberate practice, which takes effort. Nobody would go to the gym and try to get results with the least effort possible. Gym bros know that: "No pain, no gain". This is not as well understood for "mental" training, where teachers typically pre-arrange ideas to make them more easily digestible.
+                - Re-reading and re-viewing do not help learning at all. What helps is elaboration ("Ausarbeitung"): Thinking about questions that a text might lead to, how it fits in with other topics, what it __truly__ means, and so on.
+                - **Reading without taking notes and elaborating on what you read is practically useless, a waste of time. Think about this when complaining that the slip-box method takes time.**
+                - Division of labour between slip-box and brain:
+                    - Slip-box: Details, external storage of information, references, objective
+                    - Brain: Big picture, connections, subjective, creative
+        - [[Chapter 11. Take Smart Notes]]
+            - Successful academics think __beyond__ the frame of the text.
+            - De-contextualised quotes are useless. As stated before, to truly learn from a text, you need to write about the main ideas and how they connect to other topics outside of the frame of the source material.
+            - [[11.1 Make a Career One Note at a Time]]
+                - It's impossible to write "a page a day" in academia, as a large part of the productive work is not writing itself, but thinking, reading, connecting ideas, refining concepts, etc.
+                    - This is why the slip-box approach is much better suited to academia than a strict "250 words per day" rule.
+                    - A good rule would be to count daily notes written and put into the slip-box, __not__ daily words or pages.
+            - [[11.2 Think Outside the Brain]]
+                - Putting ideas in writing helps refine and check them, and also makes you learn them.
+                - Feynman also worked on paper: He didn't think and then put down his thoughts on paper, he __thought by writing on paper__. Important difference!
+                - To help transform a literature note into a permanent note in the slip-box, think about __why the note's topic piqued your interest__. This will tell you some of the ways with which the new note fits into the slip-box' context.
+                    - This first note then usually triggers more questions, often just "Why?, questioning the argument of the first note.
+                        - Answers might be found by skimming through the slip box, which could then also uncover other relevant topics you hadn't thought about.
+            - [[11.3 Learn by not Trying]]
+                - Considering "brain capacity", there is storage strength and retrieval strength. Most educational paths today still focus on storage strength, even though it cannot be improved. Many study guides still focus on rote memorisation.
+                    - It makes more sense to shift attention to retrieval strength, which can be improved by focussing on tagging memories with the correct __cues__, so that they "automatically" surface from the unconscious as soon as a related thought appears in the conscious mind.
+                        - My interpretation: __Cues__ are essentially the links to different knowledge, which help to understand a topic.
+                - Example: Student learning about differences between arteries and veins. Arteries are thick, elastic, don't have valves. Veins are thinner, more rigid, and have valves. If you know that heart pumps blood into arteries and that veins bring it back, it makes sense that arteries would be thicker-walled and that veins have valves to prevent backflow.
+                - "Too much order can impede learning". Ordering everything by topic makes it harder to see connections with other topics, which is essential for learning and understanding.
+                - Ironically, focussing on similarities and differences between unsorted ideas actually helps to come up with reasonable categorisations.
+            - [[11.4 Adding Permanent Notes to the Slip - Box]]
+                - Adding a note to the slip-box:
+                    1. Add note directly behind other connected note, or if no previous note exists, to end of slip-box
+                        - No distinction in Roam if notes are not numbered. Should we number notes, nonetheless?
+                    2. Add links to other notes or on other notes to this note
+                    3. Make sure note is either on index or linked on a note that is on the index
+                        - Avoid orphaned notes
+                    4. Build a latticework of mental models
+        - [[Chapter 12. Develop Ideas]]  
+            - A note is only an element of a network of bidirectional references
+            - Note sequences are key to developing longer texts
+            - Stop trying to get an overview over the slip-box, it's impossible.
+            - [[12.1 Develop Topics]]
+                - The index should only ever link to one or two notes per keyword. From there, the notes should be referenced within themselves.
+                - Working in the slip-box should also be an opportunity to re-discover old ideas and to come up with completely new ones. This happens when you are "in between" the notes, not when entering the notes via the index.
+                - To get a temporary overview of a subtopic, a "meta-note" can be written which summarises it and links to the relevant notes. 
+                    - In Roam, this can be done by creating a new page, and then using block references to compile the info of the other notes.
+                - When tagging notes, think about how you will search for them in the future ("Which words will I use to search for this topic?"), or how the keywords are normally embedded in a text/sentence. This allows for tags that can be seamlessly integrated in texts in Roam.
+                    - Don't tag notes with overlapping keywords or words that you never use in your everyday language.
+                - A keyword will feel right if it already contextualises the note and creates a filter through which to see the note and ask follow-up questions.
+                - Keywords need to be related to the topics you are already working on or are interested in. Creating them needs thinking, this process cannot be delegated to an AI.
+            - [[12.2 Make Smart Connections]]
+                - Luhmann had four types of links, of which only first and last one are relevant for digital Zettelkasten:
+                    1. Links on "meta-notes"/"entry notes" that give an overview of a topic
+                    2. (Links on "meta-notes" for notes in physical proximity in the slip-box. Luhmann used these to help describe an original thought spread over some notes that have by now been physically "interrupted" by many notes in between.)
+                    3. (Links that tell you which note came before and which note came after. Not relevant in Zettelkasten program, but this might still be relevant in Roam, as without this, there is no order whatsoever in the notes. Solution: Put a reference to the previous note so that a backlink is automatically created)
+                    4. Note-to-note links -- the "standard"
+            - [[12.3 Compare, Correct and Differentiate]]
+                - Sometimes, when working in the slip-box, it can happen that you find out that your hot new idea was actually already in there.
+                    - Similarly, you might find an idea that is very close to one already in the slip-box. You can then compare the ideas and learn from the small differences in them.
+                - **Constructing oppositions might be one of the best ways to create new ideas.**
+                - **Feature-positive effect**: We overemphasize information that's easily available and at the top of our head. Knowing about this bias helps to reduce it.
+            - [[12.4 Assemble a Toolbox for Thinking]]
+                - Working with a slip-box is like an unintended flashcard, you'll retrieve information with irregular frequency and connect it to other information.
+                - Flashcards are known to be a good tool for memorisation. A limitation of studying with flashcards, however, is that the information on the cards is always "alone", unconnected to the general whole of a topic. This, in turn, makes flashcards a system of limited merit in a learning process.
+                - Many scientific theories are highly versatile. It thus makes sense to build a toolbox of useful mental models to apply in everyday life.
+                - Charlie Munger: Look out for main concepts of every discipline. Understand them thoroughly enough for them to become part of your thinking.
+                    - Important caveat: Don't become the man with the hammer (sees nails everywhere) --> don't focus on a handful of favourite models, but try to keep a broad array present.
+                - Learning from experience is good, but learning from others' experiences is better (mainly faster and less risky!). To do that well, however, you have to dwell on these experiences and work on them in your mind and in the slip-box.
+                - **Read Shane Parrish's "The Great Mental Models"**
+                - Information can be seen as hooks, to which new ideas can be attached
+                - Learning as part of a virtuous circle gives you the feeling of growing mental capacity and speed, while a vicious circle will create opposite feelings. To get into a virtuous circle, an effective long-term memory system is needed: The slip-box.
+                - Using the slip-box automatically ticks all the boxes of a good learning process:
+                    - Writing down the note in your own words means __elaboration__
+                    - Retrieving the info at different times, within different contexts, and by chance means we condcuct __retrieval__ with __spacing__ and __variation__.
+            - [[12.5 Use the Slip - Box as a Creativity Machine]]
+                - Steve Jobs: __"Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something".__
+                - Even sudden breakthroughs are normally the result of a long period of thinking about and working on a project.
+                    - Similarly, paradigm shifts are mostly not one big move on its own, but the sum of many incremental steps in the right direction, up to a tipping point.
+                - **Intuition is not contradictory with rationality**
+                    - Intuition is incorporated, practical, unconscious, "sedimented" experience (Ahrens)
+                    - **Intuition can only happen in an "experimental space where ideas can freely mingle" --> need quiet downtime and calm mind.**
+                        - An example of such a space: The old cafés in Paris, where artists, intellectuals and authors (used to) discuss their ideas.
+                            - For me, I often have discussions with friends which serve as such environments.
+                - Comparing similar ideas and finding very small differences in them is key to make the small steps that get us closer to the tipping point possible.
+            - [[12.6 Think Inside the Box]]
+                - To apply knowledge, ideas have to be abstracted and then later re-specified within a new context.
+                    - We abstract all the time to relate to things, for example when viewing a movie: The actor's fate only touches us when we take the situation in the abstract, as we are never in the exact same situation as the protagonist (e.g., we are not part of the protagonist's family).
+                    - To abstract: To strip away the unnecessary details and to uncover the general (simpler) truth.
+                - How to break out of the routine so that new information can be given the proper attention, from "The 5 Elements of Effective Thinking":
+                    1. Build feedback loops, confront yourself with errors in your thinking
+                    2. Focus on main ideas, "get the gist of it"
+                    3. Make sure that you really see what you see, and describe it as factually (objectively) as possible
+                        - This is harder than it sounds, as our brains always interpret at the same time as they perceive. So the goal should be to just __see__, not to __perceive__.
+                            - **This is also a mindfulness practice! Listen to the sounds you hear but avoid the immediate categorisation and keywording.**
+                        - It also helps to ask "What don't I see that could be relevant?"
+                            - RAF story about wanting to armour planes where they were hit the most: Overlooked the fact that planes hit in certain spots did not return at all. These were the spots they should have armoured!
+                                - **Survivorship bias** (Taleb)
+                        - Manager biographies also suffer from this: Failed managers very rarely write books, so the ones that do make you think that persistence and charisma are the most important character traits. Coincidentally, these traits are also often seen in managers who screwed something up big time (e.g. Theranos, WeWork)
+                        - First-principle thinking also helps: Rediscovering problems to which we already have a solution.
+                        - Question the question: What sort of answers is this question raising?
+                    4. Take simple ideas seriously
+                        - I had figured this out myself already!
+                        - Simple is not easy
+                    5. Raise questions
+            - [[12.7 Facilitate Creativity through Restrictions]]
+                - The slip-box system creates a simple, defined environment in which our ideas can prosper. 
+                - The lack of space on a physical note enforces succinctness for our ideas. One note can only contain one idea and it has to described sufficiently in a few sentences at most. This should also be enforced in a digital slip-box!
+                - Working in the pre-defined process of the slip-box makes it possible for your brain to forget about the organisation, so that you can focus on the content instead.
+                - Restrictions also mean less choices and thus, easier decisions. Having too many choices is almost never beneficial.
+                    - __"Not having to make choices can unleash a lot of potential, which would otherwise be wasted on making these choices."__
+                - Restrictions, counter-intuitively, can foster creativity. Think about a Haiku, which is an extremely narrowly-defined form of a poem, which still sparks many creative expressions that fit into the defined frame.
+                - Language itself is a restriction, we have 26 letters, on the rearrangement of which basically all our lives are based.
+                - **A lack of structure and restrictions is the enemy of creativity.**
+        - [[Chapter 13. Share Your Insight]]
+            - [[13.1 From Brainstorming to Slip - box - Storming]]
+                - We tend to like our first idea best and will struggle to let go of it.
+                - **Brainstorming: The more people in the room, the narrower the range of topics will be. It's a good idea to limit the group size or to have people brainstorm alone first as preparation.**
+                - By using the slip-box process, we not only __think__ about ideas, but actually __work__ on them, which is necessary to raise the questions that will lead to ideas for articles or anything to write about.
+            - [[13.2 From Top Down to Bottom Up]]
+                - The more familiar we are with ideas we already have, the more open we are to new ideas. This makes sense, as being familiar with our ideas enables us to see their limitations and question them deeply.
+            - [[13.3 Getting Things Done by Following Your Interests]]
+                - Reasons that intelligent students fail:
+                    1. They don't see the meaning in what they are studying for
+                    2. They cannot make a connection between studying and their personal goals
+                    3. They don't have autonomous control over how to study
+                - **Having to choose a topic of a long-term project without knowing much about it runs a high risk of losing interest in it later!**
+                - Working with the ZKM allows you to change the topic you're working on seamlessly. Following a strict plan is the exact opposite of that and quite detrimental to success.
+                    - DNA structure discovery example: The research was triggered by a grant application that was for a research on a cancer cure. The researchers followed their intuition and went on to discover the DNA's structure instead of reaching the original goal of finding a cure for cancer.
+                        - "__They finished the plan on what to do the very moment they finished the whole project.__"
+                - The more control you have over steering your work towards what you find interesting, the less willpower you will need to get your work done. 
+                    - This is the __only__ way to generate long-term motivation for your work.
+                - Having control over work makes work fun. It also lengthens your life! On the other side, losing control actually shortens it!
+            - [[13.4 Finishing and Review]]
+                - Keep the draft outline structured, but be open to move bits of texts and whole chapters around.
+                - Try to work on different manuscripts at the same time.
+                    - **"__Verbund__" as defined in the chemical industry: Byproducts of one process support another process, and so on and so forth until there is a highly efficient circle of processes.**
+                - If you encounter a block, try working on something else, meaning on another idea or text. Redirect the resistance to another topic, like in martial arts.
+            - [[13.5 Becoming an Expert by Giving up Planning]]
+                - People are insanely bad at planning, as countless studies have shown. Even the dates given as expected delivery dates in the case everything that could go wrong, would go wrong, were not upheld about half the time.
+                    - What's worse, **overconfidence bias** means that people don't even learn from it and will give another unrealistic estimate the next time they are asked, too.
+                - Knowing what it takes to "get there" is very important. It helps you perform better and also boosts motivation. This was originally seen in athletes, but the insight can be transferred to anything that needs effort and endurance. 
+                    - Thus, it makes more sense to visualise the training required to climb a certain grade than to imagine yourself climbing this grade.
+                - **Parkinson's law: A project will fill the time you allocate for it, like air fills every corner of a room.**
+                    - Valid for longer projects.
+                    - Zeigarnik effect says the opposite for shorter tasks: "Open tasks occupy the short-term memory until they are done. "
+            - [[13.6 The Actual Writing]]
+                - Always remember that a draft is just a draft. It does not have to be perfect from the start.
+                - Don't be afraid to "kill your darlings": Ruthlessly delete even well-written passages that don't add anything specific to an argument.
+                    - You can trick yourself into doing this by just "moving" these segments to another document and telling yourself that you will then go over the other document at some point and fit these passages back into the draft. Which of course never happens.
+        - [[Chapter 14. Make it a Habit]]
+            - There is little connection between your intentions and your actual behaviour on the long term. What helps are habits, because if the intention is to just do something the same way you've done it before, the chances of you actually doing it are higher.
+                - "Dark side" of habits: They are very hard to change and are typically underestimated in their persistence.
+                - Don't try to use willpower to __get rid__ of old habits, but strategically build new habits that have a chance to __replace __the old ones.
+        - [[Afterword]]
+            - Reasons why the ZKM has not found very wide acceptance in academia:
+                - Courses are taught top-down, by topic, which is at odds with taking unrelated, cross-topic, long-term notes.
+                - Students only realise how much their studying and writing process sucks towards the end of their studies, when writing the thesis.
+                    - Tunnel effect: In stress situations, we tend to "stick to our guns", meaning the routines we know well -- even though it might have been these exact routines that are causing the stress!
+    - [[Afterword]]
+- Fleeting Notes:: 

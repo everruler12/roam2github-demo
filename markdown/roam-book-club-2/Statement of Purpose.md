@@ -1,0 +1,6 @@
+- I wholeheartedly look forward to book club declaring our purpose in a way that feels visceral to each and every one of us!  If you have any thoughts on how it might look for all of us to come together in this way, please share!
+- #Chat [[Chinarut]] Still down with your proposal [[@[[Matt Brockwell/MJB]]]] from original book club!
+    - My proposal is: that we take a moment to craft a vision statement or statement of purpose
+        - who from:: [[Matt Brockwell]] (building on [[Alex Shchedrin]])
+        - description:: from [[Book/The Art of Community]]
+        - rationale:: let new members know why we do what we do and hopefully retain membership through articulating clear goals

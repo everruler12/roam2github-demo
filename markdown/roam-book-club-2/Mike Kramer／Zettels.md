@@ -1,0 +1,14 @@
+- "Template - Apply children as text"
+    - #[[Question 3]] 
+        - it's all about god-damned behaviorism! There is an innate immune system and then there is an adaptive immune system. So, we have innate mental patterns but we also have ones that are selected by the environment.
+        - I think the whole idea of Zettelkasten is still what I said a while ago. It works because it forces a lot of hard work up front. And thus it is bottom-up. if I chunk as I go along, then I will have a bunch of chunks. Tey won't all hand together. but some will. and the more I read, the more I will look to add more stuff to the more developed chunks.
+        - So there is a kind of evolutionary process. I naturally get excited by by larger chunks. and then I look for way to make the large ones even larger so they can become theories, world-views, weltaunschauung. 
+        - #[[Question 2]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
+            - summary: free recall:
+                - we are going to make the zettelkasten process a habit, a routine. Just like containerization standardized global shipping. So, the cue is an idea. the response is writing. then having written a permanent note is a cue to start linking.
+                - so, this isn't doing much for me. so I will just write my own shit. Is it compositionality? modularity? 
+        - #[[Question 1]] 
+            - the whole idea of not using willpower. the whole idea is that the cue, the prmpt just gets us into the routine. this is behaviorism. I am not rally sure that this is impotant. so that is important to me if I were to try to teach others. to have them write about somehtng that does not resonate with tem is not great.
+            - this connects a lot with the whole containerization analogy that he spends so much time on. 
+            - ok. this is working for me.all of this writing is just. well, there is a whole different perspective. the way to do it is really free recall for leanring.nada baby.
+- 

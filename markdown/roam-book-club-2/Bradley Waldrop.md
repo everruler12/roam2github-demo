@@ -1,0 +1,11 @@
+- **Name**: Bradley Waldrop
+- **Website**: https://waldropcommunications.com
+- **Links to things I find interesting:**
+    - https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805
+- **Company**: Waldrop Communications
+- **Fleeting Notes:**
+- [[Introduction]]
+- [[The Four Underlying Principles]]
+- [[The Six Steps to Successful Writing]]
+- [[Afterword]]
+- [[Bibliography]]

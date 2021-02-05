@@ -1,0 +1,6 @@
+- #[[Blank Page]] [[Having a practical note-taking system alleviates the biggest struggle when writing--the blank page]]
+    - #Structure [[A system that provides a simplified chunking of complex concepts, gives users a structure that they can depend on, developing trust and habit]]
+        - #Dependable [[Flow state is predicated on knowing where everything is at all times, in order to not make decisions that will interrupt, but rather have that focus convergent on the task at hand]]
+    - #WIllpower [[Approaching note-taking with a plan in any form is results-oriented and tests willpower in continuing, instead of relying on a structure that confines the process in order to produce insight]]
+        - #Dissatisfied [[To continue on the arduous path of expertise, thinking about structure provides rewards through continual insight, that the planner-type only achieves when it is all over and done with]]
+            - #overcomplicated [[Create a simple note taking system]]

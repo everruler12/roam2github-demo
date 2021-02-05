@@ -1,0 +1,65 @@
+- Email:: lindakoomen22@gmail.com
+- Twitter:: [@lindakoomen22](https://twitter.com/lindakoomen22)
+- Favourite books:: Agatha Christie, Harry Potter and a lot of nonfiction books
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: N
+- [[Book Club Live Session 1]]
+    - [[Goals of Book Club]]
+        - I'm very curius about the book en how we are going to make something of it with so many of us.
+            - Hopefully this helps to make Roam work even better in the future.
+        - I would like to learn how to use Roam for my research notes in a smart way.
+        - I want to take everything out of my head, so I can do something with my nowledge.
+            - For instance how can I make an artikel or even a book from my (research) notes.
+    - "Engage with an awesome community in a way I have not done before"
+    - 
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::
+- Live session 3 notes
+    - Define a literature note in your own words
+        - I think they are all the notes that you take on a book, artikel or ...
+        - Told in your own words, having in mind that you can understand them also in the future.
+        - The specs of the book, article etc. Titel, author, etc.
+    - How do you take literature notes?
+        - I make them out of the fleeting notes I made in the book or on a indexcard
+    - Have you found value in taking literature notes?
+        - I'm not sure. Isn't it much more logical to make permanent notes right away?
+    - What struggles have you had implementing literature notes?
+    - D
+    - Making change to our behaviour is not easy, because we feel like losing control. So be realistic when you want to make a long term change. [*](((x5hx3y9ay))) #[[Literature Notes]]
+    - 
+    - 
+- "**Dates**"
+    - "Session 1"
+        - "[[November 1st, 2020]]"
+    - "Session 2 "
+        - "[[November 8th, 2020]]"
+    - "Session 3"
+        - "[[November 15th, 2020]]"
+    - "Session 4"
+        - "[[November 22nd, 2020]]"
+    - "Final Session"
+        - ""
+- 

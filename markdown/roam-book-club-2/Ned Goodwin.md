@@ -1,0 +1,2 @@
+- Wine Commentator and avid reader
+- Favourite books among those read recently: Phillip Roth American Pastoral, , Colson Whitehead Underground Railroad, Min Jin Lee Pachinko

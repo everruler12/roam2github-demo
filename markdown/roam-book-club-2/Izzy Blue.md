@@ -1,0 +1,48 @@
+- [[Directory]]
+    - Pronouns:: she/they
+    - Twitter:: [@stardust_izzy](https://twitter.com/stardust_izzy)
+    - Website:: 
+    - Favourite books:: Calaban and the Witch, Silvia Federici
+    - Link to something you find interesting:: https://whalequench.club
+    - Book Club 1 member? (y/n):: n
+    - Breakout Room:: [[Lindsey Johnston]], [[Brent Bitz]], John Guerrero
+- [[Questions for Sönke]]
+    - How his system evolves and changes, especially since writing the book, and how  those changes handle notes from previous approaches?
+    - When going from an analog system to a digital one, or from one digital system to another, what approach do you take to bringing in old notes into the new system?
+- [[[[Book Club Live Session 1]]]] 
+    - Izzy's [[Goals for Book Club]] [[Goals for Book Club]]
+        - Find tools for refining my own system of learning and writing
+            - Attain better understanding and question my present understanding of note taking, learning, and writing
+            - Right now, it seems like my notes exist in similar forms regardless of the reason I'm taking them, but I suspect that it will make a lot more sense to consider the "area" a note belongs to when creating it, storing it, and embedding it within the "graph" - but I still need to determine what those areas are for myself.
+        - Have a better system for my writing, which currently include talks/speeches and blog posts
+            - I'd some day like to write long form theoretical and practical non-fiction, so while supporting those shorter form and less strict contexts with as little friction as possible
+        - Consider how note taking on "knowledge" fits in with note taking on "life" (eg, recipes, random bookmarks, important details of lease, etc.)
+        - Refine the connection between my existing "life" systems - my to-do lists, personal project management, and tracking the information I need to exist in society, and my "knowledge" system, which is still being actively developed and is starting initially strongly informed by Luhmenn's and Ahren's writings.
+- Session 2
+    - {{embed: ((CI1wvAvSh))}}
+        - What resonates with me:
+            - Notes need to have a purpose or they end up just holding information you never see again; never use again. (IE, most of my notes >.>)
+            - Notes are a part of a system and can't be considerered without the context of a system
+    - Breakroom, Session 2
+        - {{embed: ((5r6_cc3Px))}}
+        - {{embed: ((UqeyO9F0H))}}
+- Fleeting Notes:
+    - From breakout: Daily journaling question: "What made today different?"
+    - Sonke Q&A Session
+        - Software v Pen&Paper:
+            - Handwriting has some benefits over typing
+            - Not an either-or q - Sonke often takes handwritten notes for clarification before permanent storing
+            - Removing of friction with software is important, as long as you aren't thinking about the software more than the context you're thinking about
+            - Screens can be a source of constant distraction but software is a net benefit for Ahrens
+        - Routines and the Process of Writing
+            - 3 months isn't enough time to develop a routine
+            - Warning: Don't look for a perfect system, a perfect system can't have an automatic and identical daily routine but rather depends on the states of projects
+            - Balance immersing self in reading with taking notes - can spend weeks just reading and taking very few notes, highlights for spots to go back to take notes on, is a luxury but the question at hand determines the routine.
+            - Routine is something to fall back on to, not something to choose first - when you're stuck, go to the routine to provide direction when stuck
+        - Differences from Pen and Paper:
+            - Larger notes in Roam bc block structure enables it
+            - Note sequences usually in one note, but when it's not "densely connected", start a new note
+            - Block References! (right click a bullet)
+    - Rest of Session
+        - Reading a book done in phases, which starts with reading for an overview with highlighting, then thinking more about what it actually means to take real notes
+        - Reading and writing as practice for themselves, not just an ends

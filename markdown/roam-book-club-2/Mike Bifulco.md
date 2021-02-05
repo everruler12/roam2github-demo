@@ -1,0 +1,27 @@
+- [[Directory]]
+    - About me:: I'm a Developer Advocate and entrepreneur working for Google in Charlotte, North Carolina, USA.  I've been using Roam for about 6 months, and am hoping to pick up some tricks from the others working through this book.
+    - websites:: [mikebifulco.com](https://mikebifulco.com), [protect.earth](https://protect.earth), [apisyouwonthate.com](https://apisyouwonthate.com)
+    - Company:: 
+        - current:: Google
+        - past:: Aquent, Microsoft, smpl (acquired by Proximity May '20)
+- Fleeting Notes:: 
+- Literature Notes:: 
+    - [[Introduction]]
+        - 
+    - [[Chapter 1. Motivation]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]

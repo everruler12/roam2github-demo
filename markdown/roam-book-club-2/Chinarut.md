@@ -1,0 +1,1369 @@
+- Greetings! ^^Please **sign in** and leave a message.^^ Would love to hear what resonates with you. (visitor counter just like the 90s may come soon :)
+    - Start a new block (newest at the top) with `[[your name]]`, `[[date]]`, and `your comment` (block references encouraged and welcome!)
+    - 
+    - 
+    - [[Henry Finkelstein]], [[November 29th, 2020]]
+        - Love your goals and how you're going about your Zettels. Well done sir!
+            - #Reply-from [[Chinarut]] thank you for dropping by and the complements! you motivated me to review [my goals](((9rOs4QMsG))) and remind myself why I’m here (not to mention fix lots of typos :) I am really curious, is there anything in particular you feel I’m doing right with my zettels? sometimes I feel lost in a zettelstorm :D I’m glad to provide inspiration! 🙏🏼
+    - #Chat  [[Jason Kleinberg 🎻]] I was wondering about the links you place just under the chapter links for the book. Are these pages for concepts you've already been thinking of? Or things that you want to think more about? Please elaborate. Thanks!
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FL6wjdxjdCY.png?alt=media&token=636493c2-eee2-4c4b-8a17-d7c354f48d8a)
+        - #Reply-from [[Chinarut]] thanks for inspiring me to document the "Process I use to create my literature notes" below. The list of concepts is inspired by "12.1 Develop Topics:" [[@[[Jason Kleinberg 🎻]]]]
+            - "Put some thought into the keywords that index your notes so they can be found in the context of what interests you most. #[[Literature Notes]]"
+- :hiccup [:hr {:style {:border-top "3px solid black"}}]
+- About me:: I love creating tools that solve open, goal-directed problems
+- **Twitter:** [@chinarut](https://twitter.com/chinarut)
+- **Website:** http://www.chinarut.com
+- **Digital Garden:** http://wiki.chinarut.com 
+- **Company:** [[Weave Your Legacy]]: http://www.weaveyourlegacy.com
+- **Favourite books:** Wherever You Go, There You Are
+    - [my Goodreads shelf](https://www.goodreads.com/user/show/5870412-chinarut-ruangchotvit) for what I’m actively reading & my reviews
+- **Link to something you find interesting:** [Maintenance & Care: Fixing a Broken World](https://placesjournal.org/article/maintenance-and-care/)
+- **Book Club 1 member? (y/n):** n
+- **Have you purchased the book?:** y
+- "[[Goals for Book Club]] {{[[POMO]]: 15}} "
+- **Intended Outcome:** [[Statement of Purpose]] (1500 words)
+- Book Club Notes::
+    - [[Book Club Live Session 1]]
+        - intro
+            - [[Directory]]
+        - breakout
+            - present
+                - [[Bart Lubaszka]]: read book in 2-3 days initially to help with dissertation. used Tinderbox
+                - (unknown name, female): experience with Roam 5-6 months.
+                - [[Jon Crowell]]: software engineering "hesistant at first" “jumped into trial” "life changing... you have my subscription!" :D #related
+            - intentions
+                - Chinarut
+                    - goal: use Roam to support writing Statement of Purpose #academia 
+                    - experience multi-player
+                    - learn [[Zettelkasten]] #goal
+                    - implement [[Zettelkasten in Roam]] #goal
+            - questions
+                - assuming we are using Roam daily over the next week, what should we have accomplished in Roam?  what might this look like?
+            - "not practical" - book is more theory (and uses Slip Box method)
+        - issues
+            - iPadOS won't scroll page #bug-reports
+                - reported on Slack
+            - case-sensitivity (eg. [[goal]] vs [[Goal]])
+            - pluralization (eg. [[Goal]] vs[[Goals for Book Club]])
+            - can’t make minor edits to fix spelling
+                - [[Beau Haan 📌]] [[Meetup]] “Atending” -> “Attending”
+        - opens
+            - {{[[TODO]]}}  how do I connect ideas from the roam-book-club-2 graph to my home graph? #open
+                - I want to cross-link to my Statement of Purpose
+        - {{[[DONE]]}} put all future sessions in calendar 
+        - group chat with [[Sönke Ahrens]]
+            - "changing higher education"
+            - "think in an interdisciplinary way"
+            - "counteract informtaon bias"
+            - "new ideas are not necessarily better"
+            - "written for #academic.s"
+                - "works for a wide variety of professions"
+            - "think about how to make it work for yourself"
+            - "computer background" "know how to store information"
+            - "my experience with Roam is different
+            - "ignorant of new features"
+                - "as long as it doesn't get in the way of my writing and thinking"
+            - comments on paper
+                - "benefit of not having a screen on at all"
+                    - "source of #distraction"
+                    - "net benefit is with software"
+            - on #routine "#warning looking for the perfect system"
+                - acknowledges the nature of routine is #flow
+                - #flexibility over rigid
+            - intentions
+                - multi-player "collective" Zettlekasten #experiment
+                    - "see dialogue between notes"
+                    - "how are people going to interact?" #inquiry
+                - Soren: "like to answer questions myself"
+            - intended outcomes
+                - encourage block referencing
+                - dialogue around book blocks
+        - post Soren
+            - [[Charlie Mead]]
+                - [[roam/js]]
+                - [[Writing Prompts]]
+        - [[Goals for Book Club]] {{[[POMO]]: 15}} 
+            - draft my [[Statement of Purpose]]
+            - support a part-time position at Roam Research
+                - support my search for sustainable, part-time income
+            - understand what works about multi-player mode in Roam
+                - support global, multi-player experiments
+                    - support large-scale open collaboration
+            - learn from the best
+            - be with the best
+            - have a support structure for what I'm up to
+                - peer support
+                - company support
+                - emotional support
+                    - like-minded people
+                        - researchers
+                        - professors
+                        - writers
+                        - authors
+                        - anyone passionate about writing and #synthesis
+            - support the #future
+                - honor my number 1 strength: #Futuristic
+                    - honor my strengths
+                        - 2: #Input
+                            - the book itself ([[How to Take Smart Notes]])
+                            - the author ([[Sönke Ahrens]]
+                            - the tool ([[Roam Research]])
+                            - [[Zettelkasten]]
+                            - the [[Roam Research]] community
+                            - the writing community
+                            - the research community
+                        - 3: #Strategic
+                            - participate in one of the biggest #experiment.s at [[Roam Research]]
+                                - get up to speed quickly on #execution
+                        - 4: #Learner
+                            - read a book
+                            - read a book in a book club
+                            - read a book and be supported in a way that makes sense to me #future
+                        - 5: #Activator
+                            - provide unconditional support and participation
+                            - be a #YES to life
+                                - follow through
+                            - the time is #now
+                            - #experiment with group #synthesis
+                - be part of the future
+                - be part of **creating** the future
+            - make things happen
+            - have fun!
+            - be with what is
+            - learn what works asynchronously
+            - have #integrity
+            - solve big problems
+                - enable experts to solve big problems
+            - learn how to onramp the rest of society
+                - #democratization equal access
+                - make it easy for those who are not at home with #technology
+        - group discussion around goals
+            - (German)
+                - master [[Zettelkasten]] #goal
+                - comfortable sharing with 100+ participants given he prefers 10!
+            - (2nd share)
+                - linking graphs #metoo
+                    - open / private sharing
+                    - "this brings some #theory to the cost of our personal, private graph being separate from the book club graph and creating a case for linking graphs.  trying to reduce #complexity by siloing individual graphs adds complexity by not enabling book club participants to discover the surprising connections between our private notes and our book club notes #multiplayer #usecase"
+                - technical process of reading a book
+            - [[Izzy Blue]]
+                - speech
+                - integration with my existing life notes
+            - [[Michael Nieman]]
+                - "output of my thoughts"
+                    - seeking to be a results-producers
+                - 65 - "my life will be incomplete"
+                    - "don't want until you're my age"
+            - [[Bill Petro]]
+                - "read the book at different levels"
+                    - "looking for the big ideas"
+                - "what are the limitations" (there wasn't a uniformly positive response)
+            - "ideas form from networks" #wisdom [[Roam Book Club Principles]]
+                - Connected Mind
+        - wrap up
+            - request
+                - share in daily notes
+                    - remember to nest inside your name
+                    - alternative is to tag date
+            - action items
+                - join a [[Meetup]]
+                - read book and take highights
+                    - Readwise
+    - [[Book Club Live Session 2]]
+        - **Reflection on first reading phase of the book **
+            - __I’m about halfway through the book__
+            - **What ideas resonate with you from the book**
+                - What is the gist of the book? 
+                    - I think the gist of the book is that writing can be a natural process (and not sheer willpower) if we use some tried and true methods for collecting our ideas and synthesizing them together
+                - that we are creating an idea generator
+                - that there is no reason to “summarize” an idea generator
+                    - you do your “thinking” in the slip box itself
+                - that there is a process for sequencing ideas, assembling into drafts and getting into final form
+                - that there is light at the end of the tunnel in regards to how to bring all the ideas I have scattered around together!
+            - **Discuss the fleeting note phase**
+                - What does the concept of fleeting notes mean to you? 
+                    - notes that just come up while reading the text (the first time) - in the moment, stream of consciousness
+                - Define a fleeting note in your own words. 
+                    - a fleeting note are notes that occur to you as you read the book the first time
+                - How did you take fleeting notes? Discuss your method.
+                    - I mostly spent my time highlighting the book (40% through)
+                    - I did attempt to rephrase a few paragraphs I highlighted
+                        - my biggest block is converting my list of highlights from Kindle and mapping them into text in Roam.
+                - What is the value of fleeting notes?  For this book, and for previous books you have read? 
+                    - I have notes in my own words, not just a bunch of quotes.
+        - "Breakout Group Number - 7"
+        - group sharing around the nature of fleeting notes
+            - debate around limited space on flash card slip notes vs the ability to capture **everything** in Roam (and other digital tools)
+            - “strive for higher quality writing”
+        - session w [[Luca Dellanna]] published book in Roam [[Ergodicity]]
+            - “so reader could do more with it” “more engaged” “dig deeper into arguments”
+            - book as a separate graph vs importing book into personal graph “endless possibilities”
+            - rather than “knowledge” providing “building blocks”
+            - editing book in Roam
+                - “editing with a sidebar is more efficient”
+            - in response to Luca sharing about access to a private graph of the book readers get access to
+                - Matt: “user block transclusion”
+            - http://roam-books.com
+        - "{{[[DONE]]}} **Section 4 Graph meditation **"
+            - "Graph Meditation #[[Graph Meditation]]"
+            - [[Graph Meditation]]
+                - how do we structure this is a way that is useful for people? #inquiry
+                - is it useful for people to edit the original text and hyperlink pages?
+                    - eg. [[David Allen]] and #GTD in [[1. Everything You Need to Know]]
+            - how do we make this accessible for beginners?
+                - ack: overwhelm
+            - options for exploration
+                - CHOICE: explore individual pages
+                - learn how other people structure their data
+            - SEEMING: “difficult to set overarching goal over so many people”
+            - how to Zettle collectively
+            - “try to get an much optionality to people”
+                - creates room for emergence
+        - setting up next week
+            - use alias so you can paraphrase text
+            - see [[Matt Brockwell]] how to extract highlights
+            - going through your highlights as a “barrier to entry” to making [[Literature Notes]]
+    - [[Book Club LIve Session 3]]
+        - "{{[[DONE]]}} **Section 1 Writing Session**"
+            - "{{[[POMO]]: 15}}"
+                - "Pick from the prompts below"
+                    - "Define a literature note in your own words."
+                        - a literature note is a careful distillation of your fleeting notes [encapsulating the overall ideas from the author]
+                    - "How do you take literature notes? Discuss your method."
+                        - I found it particularly useful to skim my fleeting notes (and highlights) and capture a set of concepts I thought encapsulated all of them.  I then crafted a sentence or two (or three) that captures all the concepts.
+                            - example for chapter 1: "[[getting unstuck]] [[value of adaptive structure]] [[idea process as structure]] [[cost of compartmentalization]] [[transforming GTD]] [[starting from abundance]] [[nature of control]] [[limitations of our brains]]"
+                    - "Have you found value in taking literature notes already?"
+                        - it forces me to take random notes and highlights that just sit dust and actually **process** them and reword things in **my own words**.  This creates my own insight useful in future dialogue whether it is my own writing or future conversation with someone (or a group)
+                    - "What struggles have you had implementing literature notes?"
+                        - I wouldn’t call it a struggle. I think we’re winging it so I was inventing to process as I went.  In the beginning I was just taking highlights (and adding the occasional note in Kindle), then I tried block highlighting specific paragraphs and making fleeting notes in my own words as I went.  fundamentally I funneled everything into summarizing an entire chapter (at least up to chapter 4 which is how far I got by today)
+                    - "Describe any enlightening moments you had while taking literature notes."
+                        - just seeing relationships of concepts I’ve developed and seeing who else has the same concepts in their sub-graph creates awesome jumping in points for getting to know others in the book club.  seeing other people’s notes around common block references is very insightful, too. I’m excited to see where this goes...
+        - "{{[[DONE]]}} **Section 2 Breakout rooms**"
+            - "{{[[POMO]]: 5}}"
+                - "Read everyone in your room's answers to the prompts above"
+                    - [[Juan Caicedo]]
+            - "{{[[POMO]]: 15}}"
+                - "Discuss each other's answers"
+        - "{{[[DONE]]}} **Section 3 Block References**"
+            - "Demonstration of block references for literature notes in Roam"
+            - "Group block reference exercise"
+        - "{{[[TODO]]}} ~~Section 4 Breakout rooms 2~~"
+            - "{{[[POMO]]: 10}}"
+                - "Literature note writing exercise"
+                    - "Take any 2-3 blocks from the book and summarize them"
+            - "{{[[POMO]]: 10}}"
+                - "Teach everyone else in your room what you learned from the blocks you summarized and the exercise"
+        - "{{[[DONE]]}} **Section 5: This coming week**"
+            - "Finish taking literature notes this week"
+                - "If you are done, and want to start zetteling, just use the `#zettel` tag on any block you want to make a zettel"
+            - "We will discuss zetteling next session!"
+    - [[Book Club Live Session 4]]
+        - "{{[[DONE]]}} **Section 1** [[Writing practice]]"
+            - "{{[[POMO]]: 15}}"
+            - 
+                - "Pick from the prompts below and write in your own page for 15 minutes."
+                    - "Reflect on the book.  What are you impressions? "
+                        - I love the book!  I love books that are not only transformational at a personal level and are also clear at a societal impact level - it’s clear [[Sönke Ahrens]] is out to alter the way we go about writing and help every sift through the noise in today’s deluge of information.  I love the difference he wants to make with students and academics and raise the bar with non-fiction writers.  it just leaves me curious where he feels the traction really is right now (if not with us :)
+                    - "Reflect on literature notes- useful? Did they help you understand the book in a different way? "
+                        - absolutely!  it took a concerted effort to be able to use my own words, rearrange concepts (yet stay true to what he was saying). Forced me to “think” rather than just passively highlight :)
+                    - "Reflect on the work and timeline- has it been easy/hard to get through the phases so far? "
+                        - while I clearly share this feeling with others - the feeling of “being behind” and it is quite an investment learning the process the first time.  I can tell the way I highlight and write fleeting notes will continue to evolve and it will be great to create the habit of writing a [[Literature Note]] or even permanent notes right off the bat!
+                    - "How is your progress towards your initial goals? Or have they changed?"
+                        - I think I might been a tad unrealistic about having the kind of permanent notes in my slipbox to drive assembling a [[Statement of Purpose]] for grad school by 11/29. What does seem realistic is a statement of purpose in the context of the book which I think, in 1500 words, will give a sense of my overall experience with the method, the presentation of the book, what it is doing for my writing and perhaps thoughts on the role I plan to take, personally, to champion what resonates most about this work into my everyday life.  All that said, I reviewed my first draft of my [[Statement of Purpose]] I wrote in the beginning of book club and I’m clear the 2nd draft will be completely different with a different kind of focus.  I think this is in part to witnessing how Sonke writes.
+                    - "Explore the concept of permanent notes/zettels."
+                        - "Explain what a permanent note is in your own words?"
+                            - A permanent note takes literature notes away from the source materials. Permanent notes are the meat & bones of one’s slipbox containing arguments to create the kind of discourse that is unique to the person.
+                        - "What is holding you back from creating zettels?"
+                            - feeling like my [[Literature Note]]s are already complete (when in fact, I’m well aware many of my notes are in the context of the book)
+                        - "What are you unsure about? "
+                            - 🤔
+                    - "Do you have any questions for [[Sönke Ahrens]]?"
+                        - not at this time. I would like to get my slipbox created and go from there!
+            - "{{[[DONE]]}} **Section 2** [[Breakout Rooms]]"
+                - "Read everyone in your room's answers to the prompts above and discuss"
+                    - "{{[[POMO]]: 25}}"
+            - {{[[TODO]]}} **Section 3 Block References**
+                - Demonstration of block references for literature notes in Roam
+            - "{{[[DONE]]}} **Section 3** "
+                - "[[Graph Meditation]]"
+                    - "Look around the graph, explore what has being created."
+                        - "{{[[POMO]]: 8}}"
+                    - "{{[[POMO]]: 10}}"
+                    - "Demonstration from [[Dharam Kapila]] of [[Roam Portal]]"
+                        - "{{[[POMO]]: 15}}"
+                        - mind blown! 🤯
+                        - I’ll try [Roam Portal](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe/) on my Mac mini (and 2007 MacBook) to see to what degree it blows up. another nudge to get an M1 mac 😅 god dammit, i’m gonna hold the fort on the iPadPro 🤓
+            - "{{[[DONE]]}} **Section 4** [[Book Club member talk]]"
+                - "Book Club member talk through by [[Mike Kramer]] "
+                    - "{{[[POMO]]: 15}}"
+                - "Zettel discussion "
+            - "{{[[TODO]]}} **Section 5: This coming week**"
+                - "Proposed Zettel process"
+                - "Timeline to come"
+    - Process I use to create my literature notes
+        - For each chapter (if it was short) or sub-chapter, I reviewed all my fleeting notes and Kindle highlights
+            - #[[Question]]  So for now, you are reviewing fleeting notes and then creating literature notes when you are done with __each__ chapter, yes?
+            - #Reply-from [[Chinarut]] To be clear, each chapter is a distinct set of literature notes. I discovered my brain needed a break and was taxed if I attempted to do multiple chapters in one sitting (esp a multi-section chapter like 12 comes to mind!)
+                - "cramming might not be so hot as exercise aids the learning process (by alleviating stress hormones that flood the brain) #[[Fleeting Notes]]"
+            - I am guilty of old habits and did the classic highlight the whole book.
+                - ^^Watching others reading books and doing nothing other than underlining some sentences or making unsystematic notes that will end up nowhere will soon be a painful sight.^^ [*](((4hIM0I_l_)))
+            - For the next book, I am likely to take on processing fleeting notes __after__ each chapter knowing that there is __some__ value in creating my literature notes in the frame of the entire book (esp if one highlights the whole book in less than a week like I did!) with this in mind:
+                - ^^Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later.^^ [*](((wmFEVrD5o)))
+        - In the spirit of [[designing for retrieval]], I started listing concepts/contexts the literature note I am working on I would like to find later (inspired from my fleeting note/highlight review)
+            - "Put some thought into the keywords that index your notes so they can be found in the context of what interests you most. #[[Literature Notes]]"
+        - The resultant set of concepts facilitated the summarization process. My goal was find words to connect all the concepts listed (in any order) and produce a concise literature note. [[progressive summarization]]
+        - I repeated this process for the next sub-chapter.
+            - #Reply-from. [[Jason Kleinberg 🎻]] This is great. The concept breadcrumbs at the top almost feel like [[proto-permanent notes]] or seeds. Thanks [[Chinarut]] 🙏
+    - Coaching Session summary with [[Beau Haan 📌]]
+        - first attempt at writing a permanent note **prior** to session in fact created a tighter version of the same literature note (looking back, in retrospect!)
+            - Context decides whether everything or nothing empowers the next step #[[Literature Notes]]
+                - "Man’s greatest inventions come from “nothing,” thus we are drawn to draw on a blank canvas or write on a blank page. It is the preparation of notes that externalize our thinking that allows us to go beyond willpower when it comes to writing. #[[Literature Notes]]"
+        - My big takeaway is to bring my WHY (ie. [[Goals for Book Club]]) to make my literature notes more relevant to my own interests
+            - ^^think about how they relate to what is relevant for your own research, thinking or interests.^^ This can soon be done by looking into the slip-box–it only contains what interests you anyway. The idea is not to collect, but to develop ideas, arguments and discussions. Does the new information contradict, correct, support or add to what you already have (in the slip-box or on your mind)? Can you combine ideas to generate something new? What questions are triggered by them? [*](((y5dDNqTm7)))
+        - output: [[Chinarut/Zettels]]
+    - [[Book Club Live Session 5]]
+        - "{{[[DONE]]}} **Section 1** [[Writing practice]]"
+            - "{{[[POMO]]: 10}}"
+            - "Pick from the prompts below and write in your own page for 15 minutes."
+            - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+                - The book has been great!  Book club has been essential in keeping a structure to get the book read quickly, learn to highlight and take fleeting notes with an intent to create literature notes and zettel.  it’s been very insightful to learn how to take material I’ve worded in my own words and project it into a context that is relevant to my interests.
+                - it’s been great inventing and envisioning how communication might work in multiplayer mode - this has been a great way to dive head first into Roam and put using the tool into practice (kind the best of “hands on” learning - by just jumping into the deep end :)
+            - "Reflect on your Zettel process"
+                - still in progress.  happy [[Chinarut/Zettels]] came forth. I’ve got about ~30 Zettels and I think my primary concern is whether I need to worry about the **number** of Zettels because as I learned from my session with Beau, one can create a powerful Zettel out a single paragraph! So I’d want to ask [[Sönke Ahrens]] how to best best deal with dense texts rich with ideas.
+            - (reflect on goal for Zettlekasten)
+                - aside from [[Goals for Book Club]], I want to be able to synthesize my notes effectively
+                - I’m being successful transforming my literature notes into Zettels that are contextualized in my primary research interests which include `collective action` and `wellbeing`
+        - 
+        - "{{[[DONE]]}} **Section 2** Zettel writing session with [[Beau Haan]]"
+            - {{[[POMO]]: 10}
+            - "Template - Apply children as text"
+                - "#Zettels [[Many have an endless array of notes related to our wellbeing that go unprocessed. We have the opportunity to transform how people take input from health practitioners, advisors, coaches and take meaningful and relevant action]] z47"
+                    - "#[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))"
+                        - "In a world where we create an endless stream of unprocessed quotes, we have the opportunity to transform how people read and contribute meaningful insight."
+                    - "#[[Fleeting Notes]] <snip>"
+                        - "not forcing outcomes"
+                        - "how to focus on reading vs “capturing”"
+                        - "it is okay to craft permanent notes off the bat"
+                        - "very NLP :P)"
+                        - "end of endless “highlight” noise"
+                        - "more meaningful public information"
+        - "{{[[DONE]]}} **Section 3** [[Break Out Rooms]]"
+            - "{{[[POMO]]: 25}}"
+            - "Explore the Zettels in the #Zettels   page, and discuss your own Zettel technique so far.  "
+            - [[Lloyd Williams]] 
+                - was in first book club, read [[How to Take Smart Notes]] 1.5 years ago and joining us for the first time today
+                - {{[[TODO]]}} https://www.nateliason.com/blog/everything
+                    - quality of podcast content comes from Zettlekasten
+                    - worth subscribing
+                - Lloyd’s editor complements him on how the quality of his writing has shifted since starting this slipbox! 🎉 
+                - How to Take Smart Notes blog post on Medium -> Michael
+                    - be a change agent and influence next generation of writers
+                    - I can only find this article (which is way too long to get my friend’s attention) https://fortelabs.co/blog/how-to-take-smart-notes/
+                    - much shorter and gets into the mechanics too quickly: https://medium.com/@ankitmundada/key-takeaways-how-to-take-smart-notes-by-dr-sönke-ahrens-86c6fdb73ab6
+                    - I may just need to use my slipbox to generate an article! (after my [[Statement of Purpose]] which is the context of my current zettels)
+                - {{[[DONE]]}} Lloyd’s blog post on Notion (https://lloydwilliams.co/para/)
+                - “stability over bells & whistles”
+                    - data would be missing until hitting “update”
+                        - data is not reproducible
+                    - focus on stabiity, we shouldn’t have to worry about backing up database everyday
+                    - #goal Roam as a platform for business
+                    - users coming from Evernote, Notion, (Google Docs) expect a certain uptime
+        - "{{[[DONE]]}} **Section 4** Graph Meditation"
+            - ""
+            - 
+            - "[[Dharam Kapila]] to use [[Roam Portal]] to show us what's happened in the graph this week"
+        - "{{[[DONE]]}} **Section 5** [[Matt Brockwell]] to explore spaced repetition tools"
+            - "{{[[POMO]]: 15}}"
+        - "{{[[DONE]]}} **Section 6** What's next"
+            - "{{[[POMO]]: 5}}"
+            - "A discussion about what to plan for next week as [[Sönke Ahrens]] joins us. "
+    - [[Book Club Live Session 6]]
+        - "{{[[DONE]]}} **Section 1** [[Writing practice]]"
+            - "{{[[POMO]]: 25}}" {{[[POMO]]: 25}}
+            - "Pick from the prompts below and write in your own page for 25 minutes."
+            - "Questions for us from [[Sönke Ahrens]]"
+                - "What have you learnt about note taking that I (Sönke) should know about?"
+                    - to really UNDERSTAND the source material so much that you can write `Literature Notes` - this requires [[real thinking]] (it’s all to easy to think you have when you have not!)
+                    - a renewed focus on bottom-up thinking
+                    - to have patience with the process [[building awareness]]
+                        - know when to take a break
+                        - know when to stop writing
+                        - know when to follow insight
+                        - know when to sleep on it
+                        - listen to my body!
+                        - know when to shift my focus and intentionally “distract” myself (eg video games!)
+                        - know when to go for a walk
+                        - know when to attend to self-care
+                    - to discover I can offload my conversations with others to the slipbox and work out details in the slipbox itself and present more fully formed ideas with those who are short on time or need one to get to the point quickly (and do not have time for co-processing)
+                - "Are there any additions to the process described in the book?"
+                    - I’m writing this after book club and would have to agree with a walkthrough of a [[model slipbox]] in such a way that it does not distract from a novice coming up with something completely novel
+                    - what a fully formed Zettel looks like (or at least examples)
+                        - maybe a section with a few examples with commentary of the pros & cons of each type
+                    - perhaps some guidelines on the number of Zettels - like is it a funnel?  what is an **example** ratio of fleeting to literature to zettel?
+                        - how do these numbers adjust depending different styles of thinking and/or writing (or processing!)
+                        - "Your book is wonderfully dense with great ideas (testament to your slipbox!) 🙏🏼"
+                    - how to apply Zettlekasten to other types of “media”
+                        - like how would the MIT Media Lab react to your book?
+                            - have you approached them?
+                        - how does this work in a transmedia world?
+                            - are there certain guidelines or strategies?
+                        - what if one is a visual thinker?  more of an artist?
+                - "Discuss your impression of the range of possibilities and limitations of a Zettelkasten?"
+                    - the possibilities are endless. I think I was just unclear how to link notes - all notes seem related to other in some form or another.  how do you make the decisions about which zettels to associate with what if we’re trying to suspend our impetus to organize up-front and allow clusters to “emerge” - maybe describe [[emergent clusters]] more fully?
+                    - I’m having a hard time considering limitations.  perhaps that it might get in way of just **flowing** with a book or material - that there is something to be said  to not be distracted by taking and processing notes?
+                        - perhaps effective strategies for preventing this from happening?
+                - "(what use cases does it work for? Are there any examples it doesn't work for?)"
+                    - it seems to be working for the context of a [[Statement of Purpose]] and [[graduate school]] and [[wellbeing commons]]
+                    - I just started implementation - I’ll let you know when it doesn’t work :)
+            - "General review questions "
+                - "Reflect on your impressions of the book "
+                    - EXCELLENT book. the book is an expression of how well a book can be written using zettels
+                        - which begs to ask, how many zettels were gathered to write the book just to get a sense of scope?
+                        - what does the slipbox for the book we are holding look like?
+                            - this would be an **excellent** example slipbox!
+                - "Reflect on your note taking and reading. What if anything, has changed?"
+                    - I will be focused on a clear purpose when reading non-fiction
+                    - I will write permanent notes directly when possible
+                    - I will be more selective about highlights that fit this purpose
+                    - I will focus on rewording the author’s words in my own words when writing `Literature Notes`
+                    - I have a process that breaks down the specific parts of the writing process into manageable pieces
+                    - I’ve upgraded my own research process with something very exciting!
+                    - I am bringing a method that transforms my relationship to [[graduate school]] and my writing
+                        - I feel I don’t need to fear my thesis (not that I feared it, but it feels more palpable now!)
+                    - willingness to learn publicly at a whole new level
+                        - the experience of having raw development thoughts
+                        - the experience of typing in real-time (very dual simultaneous chat from 1991 like!)
+                - "Do you plan to continue your Zettelkasten from here?  "
+                    - absolutely!  this is just the beginning.  I plan to export and import my slipbox into the next book club.
+                        - in fact, I really think we should be with the chaos and build upon our existing slipbox and connections!
+                    - I am still very curious as to how [[Collective Zettelkasten]] is to unfold!
+                    - preach the HtTSM cult whenever possible!
+                        - teachers
+                        - young adults
+                        - anyone in the field of education
+                        - other researchers
+                        - other roamsters
+        - "{{[[DONE]]}} **Section 2** Talk with [[Sönke Ahrens]]"
+            - "{{[[POMO]]: 45}}"
+            - "[[Dharam Kapila]] to use [[Roam Portal]] to show us around the graph"
+            - "Group discussion and questions"
+            - "Exploring the #Zettels   tag"
+        - "{{[[TODO]]}} **Section 3** [[Break Out Rooms]]"
+            - "{{[[POMO]]: 30}}"
+        - "{{[[TODO]]}} **Section 4** Reflections and Graph decisions"
+            - "{{[[POMO]]: 15}}"
+    - [[Questions for Sönke]]
+        - Your book is wonderfully dense with great ideas (testament to your slipbox!) 🙏🏼
+            - Assuming the birth of a slipbox starts with your book (ie. no previous Zettels):
+            - What do you feel (just a guess) is the average # of Zettels that should come out of your book assuming the book resonsates highly with the reader?
+            - I ask because:
+                - I started the process writing `Literature Notes` that summarize **entire chapters** and sections and
+                - I was introduced to the experience of being able to derive a very insightful Zettel from focusing on a **single** paragraph in your book (primarily due to the richness of `Fleeting Notes` mirrored back to me by [[Beau Haan 📌]])
+                    - "#Zettels [[Passionate people can support each other in the process of recovering from burnout in such a way that it energizes everyone to solve problems that matter to the collective]] z1"
+            - Therefore, I feel the range could easily be as few as the number of chapters in your book (**14**) (one could argue **1** for the entire book!) to the number of paragraphs in your book (**hundreds**?) (on the low side assuming 1:1 mapping)
+    - [[Book Club Live Session 7]]
+        - "{{[[TODO]]}} **Section 1** [[Writing practice]] " {{[[POMO]]: 25}}
+            - "You start a conversation with a stranger in the street. They ask you what is a Zettelkasten. What do you say? "
+                - A conversation partner
+                - A trendy way to take notes :)
+                - an idea generator
+                - a place to store your notes that is self-organizing (provided you maintain it)
+                - a place to organize your notes based on your interests such that you are able write with purpose in an unbiased a way as possible
+                - it was a means to help me stay focused on the goal of my main writing task - a [[Statement of Purpose]]
+            - "Reflect on your reading and writing habit through Book Club. Did the emphasis and exploration of Sonke's book change your reading and writing habits?"
+                - it’s clear when I choose to, I will take notes with an intent to create `Zettels` - with an intent for my notes to have a “conversation” with them (not not just any old notes)
+                - definitely a more bottom-up approach that isn’t as overwhelming as crates and creates of raw fleeting notes
+                - knowing the difference between fleeting, literature and permanent notes
+                - being mindful of “unanswered questions”
+                - being mindful of a “linear argument” to create/derive [from one’s zettel’s]
+                - a reminder of the value of learning/writing/thinking publicly, as a group!
+            - "The book promotes a bottom up approach to note taking, which we have used in Book Club. Reflect on this. How did this feel? "
+                - resist old habits to use a blank page :)
+                - it’s a lot of deprogramming and rewiring!
+                - it feels good and at the same time to resist old habits can feel challenging, not wanting to “change”
+                - felt good to focus on **connecting** zettels together rather than the zettels themselves
+                    - it was a lot easier to look for gaps in the argument
+                    - it feels good for future research to be directed
+            - "What's your favourite blocks (or quotes) from the book?"
+                - wow - i feel so far removed from the book, I can’t remember!
+                - I know there are good quotes in my fleeting notes :)
+        - "{{[[TODO]]}} **Section 2** [[Breakout Rooms]]"
+            - "{{[[TODO]]}} {{[[POMO]]: 25}}"
+        - "{{[[TODO]]}} **Section 3** [[Graph Meditation]]"
+            - "{{[[POMO]]: 10}}"
+            - "We went through the process fleeting notes, literature notes, zettels. But the real power comes from connecting them.  "
+                - "How do we link? "
+                    - "Note to Note "
+                    - "By Topic?"
+                        - this is a good question. I’ve been grappling with this one and because I’ve been taking a course on [[Knowledge Graphs]] during book club - I think a lot of our answers lies in many of the standards that exist around the semantic web (primarily due to the immense though put into how machine agents can execute semantic logic and reasoning on the statements we humans make :)
+            - "Reflect on Roam Book Club"
+                - awesome support structure!  clearly not for the faint-hearted 😅  I look forward to refining this process and I think the means in which our community “enters the fold” is a critical one - one part being how we take our slipboxes to  deduce where are “gaps” are, where we are on the fringes, to bolster our dialogue/discourse
+            - "Comment on your impressions of the shared graph"
+                - I’m glad we jumped in head first. I don’t think it was a surprise we would run into performance issues (my desktop Safari for book club is officially dead even after resetting the cache!)
+                    - "{{[[TODO]]}} #support book-club-2 graph hung loading on iPadOS from 12/7-12/10 daily"
+            - ""Q: What were the most effective and/or useful conventions arrived at for making multiplayer work in the club?""
+                - working in our own pages and seeing the interconnectedness of all our work
+            - "Were you surprised by anything in the graph?"
+                - the interconnectedness!  I hadn’t had this feeling since ~2007 with Tiddlyspace
+            - "Reflect on the shared multi-player zettelkasten of Book Club"
+                - let’s keep going!  but rather than implement more “rules” - let’s acknowledge, as a group, what the gaps are and dialogue inside of that
+                    - The idea to move the chat from Zoom to Roam is an excellent one! 👍
+            - "Refer to the #Zettels page. Any favourites? Any why?"
+                - (not enough time)
+            - "Have we finished? Do you feel you have clarity about the Zettelkasten process in Roam? "
+                - I got my [[Statement of Purpose]] **and** “published” my insight from what is clearly the beginnings of a [[Statement of Research]]!
+                    - very fulfilling :)
+        - "{{[[TODO]]}} **Section 4** [[Breakout Rooms]]"
+        - "{{[[POMO]]: 25}}"
+        - "{{[[TODO]]}} **Section 4** Final review and next steps"
+            - "Final thought for Twitter- What's something you have learnt from How to Take Smart Notes / Roam Book Club. Please feel free to mention your twitter handle (@name) in your response. "
+                - @chinarut 
+        - "{{[[POMO]]: 15}}"
+- Fleeting Notes:: 
+    - onboarding noise
+        - {{[[DONE]]}} what are fleeting notes? #question 
+            - "highlighting things that appeal to you"
+            - next: integrating highlights -> concepts
+        - {{[[DONE]]}}  curious who appended this list of block references to all the chapters of the book containing “Write your notes here” to [[Chinarut]]?  thanks to whoever did it :)
+            - now that I see it as part of other people’s pages, I’m convinced it was part of the template
+        - #Chat [[Chinarut]] {{[[DONE]]}} I’m up to chapter 9 of the book and it sounds like any notes we take on the book should be in our Literature Notes sub-graph?  ~~Someone had pasted block references to the book in my page (or maybe it was erroneously~~ part of the template ~~when I copied it?) so I moved it into Fleeting Notes.~~  what is the difference between taking book notes around block references to chapter headings vs book notes around page references to chapter headings? #complete
+            - this got resolved by our 2nd call. Fleeting Notes are untethered for the most part and Literature Notes make specific references to the text (via block references in Roam) 
+            - I decided to combine by fleeting and literature notes under one set of book block references
+                - I won’t be taking notes in the Literature Notes template
+                - I’m making liberal use of block reference aliases
+                - I am using quotes so it doesn’t get confused with book copy
+                    - {{[[TODO]]}}  #support means to restrict search space to official book text when searching text for block references
+                        - IssueType:: #[[enhancement request]]
+                        - ISSUE: duplication of book text makes it difficult to block to reference
+                            - Readwise Kindle highlights
+                            - duplicate text (see screenshot: which is the actual book block?)
+                            - #workaround - Ctrl-shift-9 pulls up Advanced Block Search [[Brandon Toner]] /[[November 15th, 2020]]
+                            - #workaround - the last entry ending in an attribute `::` happens to reliably be the book header block reference:
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FhzOLjKmAtM.png?alt=media&token=4e3d2fcf-7c37-45f8-a58e-ea2122d9c62f)
+                - I’ll be tagging my literature notes
+            - I also see the same “template” part of other people’s pages so I can only deduce it was part of the template
+                - I actually find it useful and a bigger fan of a unified fleeting/literature note structure around referenced blocks
+        - Literature Notes:: (section not used: about a third through the book club, I decided to combine all my book notes into a single book section below. I still use the fleeting note section for notes not directly tied to a reference in the book) This way, I only reference the source text once to maintain some level of [[traceability]] between my fleeting and literature notes (which arguably I am using an “archive” model for old fleeting notes rather than “trashing!”)
+            - [[Introduction]]
+            - [[Chapter 1. Everything You Need To Know]]
+            - [[Chapter 2. Everything You Need to Do]]
+            - [[Chapter 3. Everything You Need to Have]]
+            - [[Chapter 4. A Few Things to Keep in Mind]]
+            - [[The Four Underlying Principles]]
+                - [[Chapter 5. Writing is the Only Thing That Matters]]
+                - [[Chapter 6. Simplicity is Paramount]]
+                - [[Chapter 7. Nobody Ever Starts From Scratch]]
+                - [[Chapter 8. Let the Work Carry You Forward]]
+            - [[The Six Steps to Successful Writing]]
+                - [[Chapter 9. Separate the Interlocking Tasks]]
+                - [[Chapter 10: Read for Understanding]]
+                - [[Chapter 11. Take Smart Notes]]
+                - [[Chapter 12. Develop Ideas]]  
+                - [[Chapter 13. Share Your Insight]]
+                - [[Chapter 14. Make it a Habit]]
+            - [[Afterword]]
+    - quick bibliography brainstorm: https://www.notion.so/communitygarden/Bibliography-621180d94ada44a29ff67db5b87df76b
+    - #random set up a private instance of Tiddlyspace https://github.com/TiddlySpace/tiddlyspace
+    - ""11.2 Think Outside the Brain::""
+        - #tangent - TheBrain & Zettlekasten
+            - https://forums.thebrain.com/post/wake-up-call-for-thebrain-team-its-time-to-move-forward-10582939?pid=1312046419&highlight=zettelkasten
+        - [[research question]] what proposals to UBI exist? if it's such a good idea, why doesn't it exist on a large scale? what are the issues?
+    - ""11.4 Adding Permanent Notes to the Slip - Box::""
+        - {{[[TODO]]}} Zettlekasten software
+    - [[November 16th, 2020]]
+        - "#[[Kindle-Highlights]] import"
+            - well I don’t think there was any doubt you have already read the book, it’s great to see your highlights here
+        - "Feeling constricted thinking in this space (can't connect to my own graph, transfer insights over easily), not too different from what [[Sue Borchardt]] mentions:"
+            - good news is Bardia announced “true #multiplayer” #intergraph support is coming which will allow for block references across graphs.  yeay!
+            - I’m glad to hear an #experiment you ran in regards to block refs worked.  I think my plan is maybe to keep my personal slip-box in my personal graph (but I will feel out what a #multiplayer slip-box feels like)
+        - {{[[TODO]]}} "[[RoamFM]] episode with [[Joel Chan]]"!
+        - "I've been developing my own model with slightly different terms:"
+            - love seeing insight into what making Zettlekasten your own looks like!
+                - "Understanding why a tool works empowers you to develop the tool rooted in its underlying principles and improve upon it. #[[Literature Notes]]" [[Chinarut]]
+        - {{[[TODO]]}} "Relevant quotes from [[gruberDarwinManPsychological1974]] (one of my favorite books right now on creative [[synthesis]])"
+            - "It is important to know how to shift our focus. Play has a role maintaining floating attention which in turn, supports idea exploration which helps reduce cognitive bias. By establishing a flexible structure and **not** planning, it channels focused attention to concepts and makes writing easier. #[[Literature Notes]]" [[Chinarut]]
+        - "The fleeting note is a bit more nebulous for me. For me, fleeting notes are the "[chaos stream](https://www.listennotes.com/podcasts/roamfm/joel-chan-knowledge-0CcxF23g1OS/)" or "magic junkyard". They're like the sparks and hunches that could coalesce into a **literature note **(a cogent distillation of a contextualized claim from a source) or a **zettel/persistent/evergreen note** (a cogent distillation of a generalizable idea that I might use as a building block for synthesis)"
+            - I’m really glad to see you found a moment to participate and share - this is very much in alignment with where I believe the group is as of today.
+    - [[December 5th, 2020]]
+        - #inquiry how will Roam handle internationalization?
+            - December is a different word in different languages
+                - Wikidata has encoded tokens for property names (eg. P239)
+                    - [[semantic web]] [[Knowledge Graphs]]
+            - dates are formatted differently
+                - [[Clock of the Long Now]]
+            - dateline shifts every hour by timezone
+                - page name created by `/today` does not encode timestamp or timezone (or does it?)
+                    - #whatif a researcher in Germany imports a page of daily notes written in a lab in the United States?
+    - [[December 6th, 2020]]
+        - {{[[TODO]]}} page shows up blank when it had hundreds of blocks prior #support
+            - IssueType:: #bug
+            - Category:: #stability #enterprise
+            - page in question: `[[Chinarut/Zettels]]` (https://roamresearch.com/#/app/roam-book-club-2/page/maT6C0Bfq)
+            - ^^not reproducible^^
+                - others have encountered the same issue over the past year #notaboutme :)
+            - what happened:
+                - page came up blank and I freaked out 😳
+                - it looked like the db was rolled back to the previous day (or maybe a week)
+                    - another page, [[Chinarut]] was missing blocks referencing `[[Chinarut/Zettels]]`
+                - sync was green
+                - #workaround - refresh the page (others have updated). page comes back
+            - impact
+                - feelings of panic
+                - feelings of paranoia
+                    - constantly wanting to backup page in fear of loss
+                - does not position product for small business or Enterprise use cases
+            - we don’t want these feelings with:
+                - anyone actively evaluating and choosing whether or not to use Roam
+                - anyone (or teams) who depends on Roam for their business
+                - existing paid users
+                    - esp anyone who has been with Roam for over a year
+                - believers
+            - desired results
+                - it just works
+                - Roam is as reliable as you would expect Google Docs
+    - [[December 11th, 2020]]
+- ^^[[Chinarut/Zettels]]^^
+- **Linear Argument** (while Zetteling) [[November 26th, 2020]]
+    - [[abstract]]
+        - "#Zettels [[Many have an endless array of notes related to our wellbeing that go unprocessed. We have the opportunity to transform how people take input from health practitioners, advisors, coaches and take meaningful and relevant action]] z47"
+        - "#Zettels [[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]] z35"
+        - "#Zettels [[We transform how we teach wellbeing by giving up the fallacy of a top-down approach to life and coach students to build a lifelong structure for transformation and use declaration as a means to synthesize diverse experiences in life. When students have access to experiences beyond themselves, wellbeing becomes life itself]] z46"
+    - ^^[[collective wellbeing]]^^
+        - "#Zettels [[Passionate people can support each other in the process of recovering from burnout in such a way that it energizes everyone to solve problems that matter to the collective]] z1"
+        - "#Zettels [[An important step in elevating wellbeing is choosing to do nothing and put the abundance of what’s possible down]] z2"
+        - "#Zettels [[A collective must first choose to accomplish nothing in the face of everything members feel is important to work on as a group]] ~~z3~~ z2/1" 
+        - "#Zettels [[The first step in building a collective is to establish creative flow]] ~~z5~~ z4/1"
+    - [[interdisciplinary wellbeing]]
+        - "#Zettels [[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]] z28"
+            - "#Zettels [[Writing and externalizing notes frees up your brain to perform big picture strategic thinking which in turn, frees you up to attend to physical wellbeing]] z24"
+            - "#Zettels [[Create meaningful connections between differing elements of wellbeing and give the brain space to wander and solve problems at times you otherwise wouldn’t expect]] z18"
+            - "#Zettels [[When we reflect on our wellbeing in abstract terms, we interconnect ideas and concepts unfettered by details. We develop long-term thinking and invent new mental models that make actions elevating our wellbeing intuitive]] z27"
+        - "#Zettels [[Making decisions across multiple areas of life and disciplines is exhausting. Reduce decisions by establishing a predictable note crafting process giving our brain space to store long-term thoughts and create room for new thoughts and ideas]] z19"
+        - "#Zettels [[Wellbeing frameworks do not fit all contexts. The richness of our own wellbeing experience allows us to place differing models into our slipbox. Our network of mental models support us in making sense of new information]] z33 "
+        - "#Zettels [[A slipbox designed around the 5 Elements of Wellbeing encodes a learning process. We deepen our understanding by writing notes about what we read around one element. By retrieving and translating what we experience in one element into another context, we develop our thinking & elevate our wellbeing]] z34"
+        - "#Zettels [[The slipbox acts like an advisory shaped by your life experience in each of the 5 elements of wellbeing. It has the capacity to bring forth new perspectives across elements and it may challenge new ideas you have based on past ideas that matter to you]] z31/1"
+    - [[reflecting on wellbeing]]
+        - "#Zettels [[When we embrace wellbeing as a lifelong journey, it becomes an rewarding adventure making sense of input along our path]] z13"
+            - "#Zettels [[If we treat life as a discovery, we notice what interests cluster up and develop our lives in a way that is bottom-up. Rooting ourselves in reality, we free ourselves of shortcuts our brains make due to best of plans]] z39"
+            - "#Zettels [[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]] z41"
+        - "#Zettels [[Understanding why wellbeing matters lets you build on what works and improve upon it]] z8"
+            - "#Zettels [[Have a goal in mind to guide your wellbeing explorations. Let the mental models and theories you’ve developed be challenged. Your dialogue and perception of wellbeing will go in directions you had not imagined]] z20"
+        - "#Zettels [[Feeling in control of your wellbeing is part of creative flow, not something you plan out]] z4"
+            - "#Zettels [[Let the structure of wellbeing emerge. One way to eliminate mental blocks and get unstuck is to switch elements of wellbeing and flow with your interests]] z42"
+        - "#Zettels [[Reveal the underlying nature of your wellbeing through writing. When we write, we begin to externalize our thinking and open ourselves up to a more objective view]] z26"
+        - "#Zettels [[We design our wellbeing from the bottom up based on what is actually happening not what is in our heads]] z11"
+        - "#Zettels [[Stay in the moment and develop your intuition and gut. Let patterns guide your experience of wellness]] z17"
+            - "#Zettels [[Pay attention to what pulls your attention away from your wellbeing]] z14"
+            - "#Zettels [[Feeling in control of your wellbeing is part of creative flow, not something you plan out]] z4"
+            - "#Zettels [[Multitasking is a myth. Create a structure to maintain focus and flow]] z15"
+            - "#Zettels [[A sense of play makes discovering new ideas around wellbeing fun]] z16"
+        - "#Zettels [[When we fail to bring awareness to wellbeing, we risk introducing bias to wherever our focus lies. The slipbox is a gatekeeper helping our conversation stay unbiased, robust and improve wellbeing outcomes]] z32"
+    - [[value of partnership]]
+        - "#Zettels [[Wellbeing is not just about you]] z12" 
+        - "#Zettels [[Be curious about the wellbeing in others and write about it]] z6"
+        - "#Zettels [[Develop a knack for listening for the differences in how others perceive wellbeing and reframe what you hear in the context of your own personal experience]] z22"
+        - "#Zettels [[Find the conversation for wellbeing in the gap of understanding between you and your conversation partner (slipbox or person)]] z23"
+        - "#Zettels [[Wellbeing is not a set of rules. We experience what we learn sufficiently to have questions worth comparing and contrasting our experience with others]] z9"
+        - "#Zettels [[Next time you stumble into an opportunity to learn from another’s failure, listen up. Interdisciplinary work demands we combine ideas by thinking in concepts. Take this opportunity to abstract and generate new ideas in an area of wellbeing that matters to you]] z36"
+        - "#Zettels [[By maintaining an easy to retrieve set of permanent notes around various aspects of our wellbeing, we set ourselves to share with others what we believe are the keys to elevate wellbeing]] z10"
+        - "#Zettels [[The slipbox is a perfect conversation partner shaped by your current reality of wellbeing yet has no qualms challenging new ideas against ideas that mattered to you in the past]] z31"
+            - "#Zettels [[When we fail to bring awareness to wellbeing, we risk introducing bias to wherever our focus lies. The slipbox is a gatekeeper helping our conversation stay unbiased, robust and improve wellbeing outcomes]] z32"
+    - [[collective slipbox]]
+        - "#Zettels [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]] z28/1"
+        - "#Zettels [[A wellbeing commons supports emergent thinking. As participants add to existing lines of thought, a collective slipbox is a valuable thinking tool to recognize patterns at both an individual and group level]] z29"
+        - "#Zettels [[Choose keywords to index your wellbeing notes so relevant information is present in the context(s) of what matters to you and your collective the most]] z30"
+        - "#Zettels [[A collective that successfully implements a tool to ongoingly transform raw wellbeing thoughts into meaningful well-written notes enhances their collective intelligence]] z7"
+    - [[slipbox in action]]
+        - "#Zettels [[In an age of exponential information, every human being has a unique blueprint with unlimited opportunities and next steps which can prove to be paralyzing at times. Focusing on the dialogue in your slipbox will help you choose the next step relevant to you and your life]] z38"
+        - "#Zettels [[Envisioning your wellbeing outcome helps you see the steps in between. Then it becomes a matter of focusing on the immediate next step towards your end goal]] z43"
+        - "#Zettels [[Tinker around with your wellbeing like there is no wrong path. Start with resources you already have including your notes]] z40"
+        - "#Zettels [[Be willing to let go of explorations that do not serve your primary focus. Keep your vision for the future lean and on purpose]] z44"
+        - "#Zettels [[The root of our wellbeing is in who we are being. The moment we feel in control puts a false predictability in the space which is, in fact, **not** control. Let new habits replace old habits rather than just dropping them completely]] z45"
+        - "#Zettels [[Be present to the dialogue in your slipbox and declare a future for wellbeing distinct from the past **after** gathering data and drawing conclusions]] z21/1"
+    - 
+    - out there (aka. not fitting linearly above - a good thing, this gives the slipbox lots of wiggle room :)
+        - "#Zettels [[The function of money in The Burning Man Project is to acquire the resources and build the foundation required to organize and run an annual 1 week experiment capable of containing a gift economy of 70k people (as of 2019). A sustained 7-day experience of collective abundance (opposed to scarcity) permanently alters one’s experience of life and rewrites the future of the community]] z37"
+    - these seem like orphans (currently)
+        - "#Zettels [[Eliminate bias by developing a linear case for wellbeing **after** gathering data and drawing conclusions]] z21"
+        - "#Zettels [[Measure the interconnectedness of the 5 Elements of Wellbeing by counting the number of notes added over time]] z25"
+- **Linear Argument** (post Zetteling, selected Zettels, extract concepts) [[December 5th, 2020]]
+    - "#Zettels [[The root of our wellbeing is in who we are being. The moment we feel in control puts a false predictability in the space which is, in fact, **not** control. Let new habits replace old habits rather than just dropping them completely]] z45" [[human being]] [[nature of being]]
+        - [[Power of Being]]
+    - 
+    - "#Zettels [[Many have an endless array of notes related to our wellbeing that go unprocessed. We have the opportunity to transform how people take input from health practitioners, advisors, coaches and take meaningful and relevant action]] z47" [[why a new approach]] [[the problem]]
+    - 
+    - "#Zettels [[Passionate people can support each other in the process of recovering from burnout in such a way that it energizes everyone to solve problems that matter to the collective]] z1" [[collective action]] [[collective use case]]
+    - 
+    - "#Zettels [[Reveal the underlying nature of your wellbeing through writing. When we write, we begin to externalize our thinking and open ourselves up to a more objective view]] z26" [[why writing]]
+    - "#Zettels [[Tinker around with your wellbeing like there is no wrong path. Start with resources you already have including your notes]] z40" [[why slipbox]] [[getting started]]
+    - "#Zettels [[When we reflect on our wellbeing in abstract terms, we interconnect ideas and concepts unfettered by details. We develop long-term thinking and invent new mental models that make actions elevating our wellbeing intuitive]] z27" [[why thinking]] [[elevating wellbeing]]
+    - 
+    - "#Zettels [[Create meaningful connections between differing elements of wellbeing and give the brain space to wander and solve problems at times you otherwise wouldn’t expect]] z18" [[why different elements]]
+    - "#Zettels [[A slipbox designed around the 5 Elements of Wellbeing encodes a learning process. We deepen our understanding by writing notes about what we read around one element. By retrieving and translating what we experience in one element into another context, we develop our thinking & elevate our wellbeing]] z34" [[how it works]] [[why different elements]]
+    - "#Zettels [[The slipbox acts like an advisory shaped by your life experience in each of the 5 elements of wellbeing. It has the capacity to bring forth new perspectives across elements and it may challenge new ideas you have based on past ideas that matter to you]] z31/1" [[why different elements]] [[Wellbeing 5 Advisory]] [[advisory analogy]]
+    - 
+    - "#Zettels [[Be curious about the wellbeing in others and write about it]] z6" [[why others]]
+    - "#Zettels [[Wellbeing is not a set of rules. We experience what we learn sufficiently to have questions worth comparing and contrasting our experience with others]] z9" [[why others]]
+    - "#Zettels [[Next time you stumble into an opportunity to learn from another’s failure, listen up. Interdisciplinary work demands we combine ideas by thinking in concepts. Take this opportunity to abstract and generate new ideas in an area of wellbeing that matters to you]] z36" [[why others]]
+    - "#Zettels [[Develop a knack for listening for the differences in how others perceive wellbeing and reframe what you hear in the context of your own personal experience]] z22" [[why others]]
+    - 
+    - "#Zettels [[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]] z35" [[collective breakthrough]] [[why commons]]
+    - 
+    - "#Zettels [[A collective that successfully implements a tool to ongoingly transform raw wellbeing thoughts into meaningful well-written notes enhances their collective intelligence]] z7" [[why tools]] [[collective intelligence]]
+    - -> [[money as a tool]]
+    - "#Zettels [[The function of money in The Burning Man Project is to acquire the resources and build the foundation required to organize and run an annual 1 week experiment capable of containing a gift economy of 70k people (as of 2019). A sustained 7-day experience of collective abundance (opposed to scarcity) permanently alters one’s experience of life and rewrites the future of the community]] z37" [[why experiment]] [[why large-scale]]
+    - 
+    - "#Zettels [[A wellbeing commons supports emergent thinking. As participants add to existing lines of thought, a collective slipbox is a valuable thinking tool to recognize patterns at both an individual and group level]] z29" [[why others]] [[how it works]]
+    - "#Zettels [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]] z28/1" [[collective wellbeing]] [[how it works]]
+    - "#Zettels [[We transform how we teach wellbeing by giving up the fallacy of a top-down approach to life and coach students to build a lifelong structure for transformation and use declaration as a means to synthesize diverse experiences in life. When students have access to experiences beyond themselves, wellbeing becomes life itself]] z46" [[how it works]]
+        - #[[Literature Notes]] A tool is useful when we know how it works **and** why it works #post-zettel
+        - #[[Fleeting Notes]]
+            - If we try to use a tool without putting any thought into the way we work with it, even the best tool would not be of much help. [*](((yIlbxuFst)))
+            - it is indeed crucially important not only to know how it works or how to work with it, but also why it works. [*](((yIlbxuFst)))
+            - a [[wellbeing commons]] works because... [[why it works]]
+                - it is an open resource
+                - people show up to do the thinking to help each other
+                - participants explore the [[space in between]]
+    - 
+    - "#Zettels [[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]] z41" [[keeping it fun]] [[following our curiosity]]
+    - "#Zettels [[In an age of exponential information, every human being has a unique blueprint with unlimited opportunities and next steps which can prove to be paralyzing at times. Focusing on the dialogue in your slipbox will help you choose the next step relevant to you and your life]] z38" [[why slipbox]] [[dealing with overwhelm]] [[choosing a next step]] [[next step in the face of overwhelm]]
+        - need to ack that adding more people creates more overwhelm if a structure is not in place that is grounded
+    - "#Zettels [[Envisioning your wellbeing outcome helps you see the steps in between. Then it becomes a matter of focusing on the immediate next step towards your end goal]] z43" [[envisioning an outcome]]
+- **Linear Outline** (sort major concepts/themes derived from Zettels)
+    - [[nature of being]]
+    - [[the problem]]
+    - [[why a new approach]]
+    - case for [[collective action]]
+    - 
+    - [[why writing]]
+    - [[why slipbox]] [[getting started]]
+        - [[bottom up]] - start with your notes
+        - these notes are not about you
+    - [[why thinking]]
+    - interconnectedness in life
+        - elements as (concept as domain) to connect
+    - [[why different elements]] [[advisory analogy]]
+    - 
+    - [[why others]]
+        - creating relatedness
+    - [[why commons]] [[collective breakthrough]]
+    - [[why tools]] [[collective intelligence]]
+    - money as a tool
+    - [[why experiment]] [[why large-scale]]
+    - 
+    - [[how it works]]
+    - [[collective wellbeing]]
+    - 
+    - [[getting started]]
+    - [[keeping it fun]] [[following our curiosity]]
+    - [[dealing with overwhelm]]
+    - [[envisioning an outcome]]
+    - [[choosing a next step]]
+- [[How to Take Smart Notes]] (`Literature Notes` w attached `Fleeting Notes`)
+    - "[[Introduction]]"
+        - [[nature of creation]] [[creating from nothing]] [[externalizing our thinking]] [[beyond willpower]]
+            - Man’s greatest inventions come from “nothing,” thus we are drawn to draw on a blank canvas or write on a blank page. It is the preparation of notes that externalize our thinking that allows us to go beyond willpower when it comes to writing. #[[Literature Notes]]
+                - highlights (raw)
+                    - highlight | Page: 1
+                    - nonfiction writers, who are the third group of people this book is aiming to help,
+                    - Yellow highlight | Page: 1
+                    - Every intellectual endeavour starts with a note.
+                    - Yellow highlight | Page: 1
+                    - Writing plays such a central role in learning, studying and research
+                    - Pink highlight | Page: 1
+                    - very few give guidance for the everyday note-taking that takes up the biggest chunk of our writing.
+                    - Blue highlight | Page: 1
+                    - formal requirements: style, structure or how to quote correctly.
+                    - Yellow highlight | Page: 2
+                    - the process of writing starts much, much earlier than that blank screen
+                    - Blue highlight | Page: 2
+                    - how to efficiently turn your thoughts and discoveries into convincing written pieces
+                    - Blue highlight | Page: 2
+                    - use this pool of notes not only to make writing easier and more fun for yourself,
+                    - Blue highlight | Page: 2
+                    - learn for the long run and generate new ideas.
+                    - Blue highlight | Page: 2
+                    - write every day in a way that brings your projects forward.
+                    - Yellow highlight | Page: 2
+                    - Writing is not what follows research, learning or studying, it is the medium of all this work.
+                    - Blue highlight | Page: 2
+                    - those who take smart notes will never have the problem of a blank screen again.
+                    - Pink highlight | Page: 3
+                    - If we take notes unsystematically, inefficiently or simply wrong, we might not even realise it until we are in the midst of a deadline panic and wonder why there always seem to be a few who get a lot of good writing done and still have time for a coffee every time we ask them.
+                    - Yellow highlight | Page: 3
+                    - good, productive writing is based on good note-taking.
+                    - Blue highlight | Page: 3
+                    - Getting something that is already written into another written piece is incomparably easier than assembling everything in your mind and then trying to retrieve it from there.
+                    - Orange highlight | Page: 3
+                    - what you have done in writing before you even made a decision on the topic.
+                    - Blue highlight | Page: 4
+                    - key to successful writing lies in the preparation,
+                    - Yellow highlight | Page: 4
+                    - the way they do their everyday work.
+                    - Yellow highlight | Page: 4
+                    - Doing the work required and doing it in a smart way leads, somehow unsurprisingly, to success.
+                    - Blue highlight | Page: 5
+                    - Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long- and short-term interests.
+    - "[[Chapter 1. Everything You Need To Know]]"
+        - [[getting unstuck]] [[value of adaptive structure]] [[idea process as structure]] [[cost of compartmentalization]] [[transforming GTD]] [[starting from abundance]] [[nature of control]] [[limitations of our brains]]
+            - The key to getting unstuck is giving up planning and seeing the creative flow of ideas as our source of control. By implementing an adaptive structure for our writing starting from a place of abundance, we free our brains from using tricks like compartmentalization and embrace creativity at its core. #[[Literature Notes]]
+                - highlights (raw)
+                    - Yellow highlight | Page: 5
+                    - “I never force myself to do anything I don’t feel like. Whenever I am stuck, I do something else.”
+                    - Blue highlight | Page: 5
+                    - move seamlessly from one task to another – without threatening the whole arrangement or losing sight of the bigger picture.
+                    - Blue highlight | Page: 6
+                    - A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep on going as the work becomes effortless
+                    - Pink highlight | Page: 6
+                    - As students, researchers and nonfiction writers, we have so much more freedom than others to choose what we want to spend our time on. Still, we often struggle the most with procrastination and motivation.
+                    - Blue highlight | Page: 6
+                    - A good, structured workflow puts us back in charge and increases our freedom to do the right thing at the right time.
+                    - Pink highlight | Page: 6
+                    - To keep going according to plan, you have to push yourself and employ willpower.
+                    - Blue highlight | Page: 6
+                    - unsuitable for an open-ended process like research, thinking or studying in general, where we have to adjust our next steps with every new insight, understanding or achievement
+                    - Yellow highlight | Page: 6
+                    - How do you plan for insight, which, by definition, cannot be anticipated?
+                    - Orange highlight | Page: 6
+                    - structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward.
+                    - Pink highlight | Page: 7
+                    - planning will get you through your exams if you stick to them and push through. But it will not make you an expert in the art of learning/writing/note-taking
+                    - Blue highlight | Page: 7
+                    - Experts, on the other hand, would not even consider voluntarily giving up what has already proved to be rewarding and fun: learning in a way that generates real insight, is accumulative and sparks new ideas.
+                    - Pink highlight | Page: 7
+                    - it is usually the best students who struggle the most.
+                    - Yellow highlight | Page: 7
+                    - it means having fewer ideas to work with, because you know that others have already thought of most of them.
+                    - Blue highlight | Page: 7
+                    - a system is needed to keep track of the ever-increasing pool of information, which allows one to combine different ideas in an intelligent way with the aim of generating new ideas.
+                    - Blue highlight | Page: 8
+                    - Good students, on the other hand, constantly raise the bar for themselves as they focus on what they haven’t learned and mastered yet.
+                    - Pink highlight | Page: 8
+                    - high achievers who have had a taste of the vast amount of knowledge out there are likely to suffer from what psychologists call imposter syndrome, the feeling that you are not really up to the job, even though, of all people, they are
+                    - Blue highlight | Page: 8
+                    - writing is not only for proclaiming opinions, but the main tool to achieve insight worth sharing.
+                    - Pink highlight | Page: 9
+                    - Most people try to reduce complexity by separating what they have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated. Plus, it reduces the likelihood of building and finding surprising connections between the notes themselves, which means a trade-off between its usability and usefulness.
+                        - Note:this brings some #theory to the cost of our personal, private graph being separate from the book club graph and creating a case for linking graphs. trying to reduce #complexity by siloing individual graphs adds complexity by not enabling book club participants to discover the surprising connections between our private notes and our book club notes #multiplayer #usecase #chat
+                    - Pink highlight | Page: 11
+                    - that most distractions do not come so much from our environment, but our own minds.
+                    - Pink highlight | Page: 11
+                    - GTD relies on clearly defined objectives, whereas insight cannot be predetermined by definition.
+                    - Blue highlight | Page: 11
+                    - Writing that aims at insight must therefore be organised in a much more open manner.
+                    - Pink highlight | Page: 11
+                    - Writing is not a linear process. We constantly have to jump back and forth between different tasks. It wouldn’t make any sense to micromanage ourselves on that level. Zooming out to the bigger picture does not really help, either, because then we have next steps like “writing a page.” That does not really help with navigating the things you have to do to write a page, often a whole bunch of other things that can take an hour or a month. One has to navigate mostly by sight. These are probably the reasons why GTD never really caught on in academia,
+                    - Yellow highlight | Page: 11
+                    - What we can take from Allen as an important insight is that the secret to a successful organization lies in the holistic perspective.
+                    - Yellow highlight | Page: 12
+                    - There is no point in having great tools if they don’t fit together.
+                    - Yellow highlight | Page: 12
+                    - this is the other insight of David Allen: Only if you can trust your system, only if you really know that everything will be taken care of, will your brain let go and let you focus on the task at hand.
+                    - Blue highlight | Page: 12
+                    - ^^we need a note-taking system that is as comprehensive as GTD, but one that is suitable for the open-ended process of writing, learning and thinking.^^
+                    - Blue highlight | Page: 13
+                    - His slip-box became his dialogue partner, main idea generator and productivity engine.
+                    - Blue highlight | Page: 13
+                    - helped him to structure and develop his thoughts.
+                    - Yellow highlight | Page: 13
+                    - it led him to enter academia.
+                    - Blue highlight | Page: 13
+                    - he put together a doctoral thesis and the habilitation thesis in less than a year
+                    - Yellow highlight | Page: 14
+                    - In 30 years, he published 58 books and hundreds of articles,
+                    - Yellow highlight | Page: 14
+                    - some career-oriented academics try to squeeze as many publications out of one idea as possible, Luhmann seemed to do the opposite. He constantly generated more ideas than he was able to write down.
+                    - Blue highlight | Page: 14
+                    - His texts read as if he is trying to squeeze as much insight and as many ideas as possible into one publication.
+                    - Blue highlight | Page: 15
+                    - Luhmann’s only real help was a housekeeper who cooked for him
+                    - Blue highlight | Page: 16
+                    - Even hard work can be fun as long as it is aligned with our intrinsic goals and we feel in control.
+                    - Blue highlight | Page: 16
+                    - to stay in control, it's better to keep your options open during the writing process rather than limit yourself to your first idea.
+                    - Blue highlight | Page: 16
+                    - Only if the work is set up in a way that is flexible enough to allow these small and constant adjustments can we keep our interest, motivation and work aligned
+                    - Blue highlight | Page: 17
+                    - It is the way Luhmann and his slip-box worked together that allowed him to move freely and flexibly between different tasks and levels of thinking.
+                    - Blue highlight | Page: 18
+                    - I wonder how long it will take until the advantages of Luhmann’s slip-box and work routines become equally obvious to everyone.
+                    - Yellow highlight | Page: 19
+                    - like a translation where you use different words that fit a different context, but strive to keep the original meaning as truthfully as possible.
+                    - Pink highlight | Page: 20
+                    - it would be rather misleading to think of his slip-box as a personal Wikipedia or a database on paper. The similarities are obviously there, but the subtle differences are what makes this system unique.
+                    - Yellow highlight | Page: 20
+                    - the best way to understand this is to understand a little bit about the way we think, learn and develop ideas.
+                    - Yellow highlight | Page: 20
+                    - We need a reliable and simple external structure to think in that compensates for the limitations of our brains.
+                - “Most people try to reduce complexity by separating what they have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated. Plus, it reduces the likelihood of building and finding surprising connections between the notes themselves, which means a trade-off between its usability and usefulness.” [*](((FfwvQnsGs)))
+                    - this brings some #theory to the cost of our personal, private graph being separate from the book club graph and creating a case for linking graphs.  trying to reduce #complexity by siloing individual graphs adds complexity by not enabling book club participants to discover the surprising connections between our private notes and our book club notes #multiplayer #usecase
+                        - 2nd person who shared during our "group discussion around goals" made a request for linking graphs and a permissions model for private/public blocks
+                - "That is why we need a note-taking system that is as comprehensive as GTD, but one that is suitable for the open-ended process of writing, learning and thinking. Enter the slip-box."
+                    - what is the analogy or relationship between [[open-ended problems]] and [[open-ended process]]? #inquiry
+                    - #Chat [[Chinarut]] love how he shares the pros & cons of #GTD! anyone else run also into walls attempting to tackle #open-ended problems and goals over the years using GTD?
+    - "[[Chapter 2. Everything You Need to Do]]"
+        - [[framing worldview as listening]] [[writing as core to ideation]] [[curiosity is the source of inquiry]] [[transformed process for idea generation]]
+            - A transformed process for idea generation uses curiosity as the source of inquiry, frames one’s own worldview while listening/reading, and combines writing as core to this process. #[[Literature Notes]]
+                - “If you want to really understand something, you have to translate it into your own words.”
+                    - in other words, translate what is said into your frame, your worldview #listening
+                - “Thinking, reading, learning, understanding and generating ideas is the main work of everyone who studies, does research or writes.”
+                    - sounds like a researcher’s manifesto!
+                - “The more you become interested in something, the more you will read and think about it, the more notes you will collect and the more likely it is that you will generate questions from it.”
+                    - key is to dive into your interests and naturally allow one’s curiosity to surface and ask questions
+                - "2.1 Writing a paper step by step:"
+                    - 1. fleeting notes - “should not cause distraction”  use capture tool and save for processing later.
+                        - ^^They only function as a reminder of a thought and are not meant to capture the thought itself, which requires time to phrase proper sentences and check facts.^^ [*](((SkzQQNXXK)))
+                    - 2. literature notes - making notes on content. short, selective, in your own words - your reference system
+                    - 3. permanent notes
+                        - “Go through the notes you made in step one or two (ideally once a day and before you forget what you meant) and **think about how they relate to what is relevant for your own research, thinking or interests**.”
+                        - “develop ideas, arguments and discussions.”
+                        - “Does the new information contradict, correct, support or add to what you already have (in the slip-box or on your mind)?”
+                        - ”Can you combine ideas to generate something new?”
+                        - ”What questions are triggered by them?”
+                    - 4. add permanent notes to slip-box - relating new notes. linking new notes. ensuring note is in index or can be navigated from entry points from index
+                    - 5. “Develop your topics, questions and research projects bottom up from within the system.”
+                        - ^^Do not brainstorm for a topic. Look into the slip-box instead to see where chains of notes have developed and ideas have been built up to clusters^^ [*](((erCjnBgLf))) #post-lit
+                        - ^^Don’t cling to an idea if another, more promising one gains momentum. The more you become interested in something, the more you will read and think about it, the more notes you will collect and the more likely it is that you will generate questions from it. It might be exactly what you were interested in from the beginning, but it is more likely that your interests will have changed–that is what insight does.^^ [*](((erCjnBgLf))) #post-lit
+                    - 6. decide on topic to write about - “Your topic is now based on what you have, not based on an unfounded idea about what the literature you are about to read might provide.”
+                    - 7. turn notes into rough draft - be sure to **translate** notes and embed them in the context of one’s argument (while you build argument concurrently)
+                    - 8. edit & proofread manuscript
+    - "[[Chapter 3. Everything You Need to Have]]"
+        - [[nature of focus]] [[enhancing thinking]] [[reinforcing disciplined process]] [[generating meaningful thoughts]]
+            - A tool that works increases focus and enhances your process (in this case, thinking). The slipbox is a tool that reinforces a disciplined process transforming your raw thoughts into meaningful well-written notes. #[[Literature Notes]]
+                - highlights (raw)
+                    - Pink highlight | Page: 29
+                    - Every little step suddenly turns into its own project without bringing the whole much further forward.
+                    - Blue highlight | Page: 29
+                    - ^^Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is **thinking**.^^ [*](((vbI8TekIe)))
+                    - Yellow highlight | Page: 29
+                    - an undistracted brain to think with and a reliable collection of notes to think in is pretty much all we need.
+                    - Yellow highlight | Page: 30
+                    - These notes are not meant to be stored permanently.
+                    - Yellow highlight | Page: 30
+                    - They only function as a reminder of a thought and are not meant to capture the thought itself, which requires time to phrase proper sentences and check facts.
+                - {{[[DONE]]}}  Zotero.org
+                    - [Zotero for Google Docs](https://www.zotero.org/support/google_docs) requires Chrome
+                    - https://www.zotero.org/downloadbookmarklet
+    - "[[Chapter 4. A Few Things to Keep in Mind]]"
+        - [[what makes a good tool?]] [[extensible tools]]
+            - Understanding why a tool works empowers you to develop the tool rooted in its underlying principles and improve upon it. #[[Literature Notes]]
+    - "[[The Four Underlying Principles]]"
+        - "[[Chapter 5. Writing is the Only Thing That Matters]]"
+            - [[nature of learning]] [[purpose of writing]] [[juice of research]] [[public deliberation]]
+                - Learning is not rote fact memorization. Learning is diving into the material and understanding sufficiently that questions show up worth writing about - this is the real juice of research and worth deliberating with others in public. #[[Literature Notes]]
+        - "[[Chapter 6. Simplicity is Paramount]]"
+            - [[designing for retrieval]] [[publishable insight]] [[externalizing our thinking]] [[improving quality of notes over time]] [[impermanence of notes]]
+                - Take notes with an intent to find them later and share publishable insight. The goal is to leverage our brain for thinking, not remembering, and maintain a set of permanent notes to give us the freedom to let go (or archive or trash) old notes so the quality of our notes improve over time. This includes old project notes (like todos, drafts, etc) once the project is complete. #[[Literature Notes]]
+                    - {{[[embed]]: ((rcVoux2u6))}}
+                    - highlights (raw)
+                        - Blue highlight | Page: 40
+                        - In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?
+                        - Yellow highlight | Page: 41
+                        - Instead of focusing on the in-between steps and trying to make a science out of underlining systems, reading techniques or excerpt writing, everything is streamlined towards one thing only: insight that can be published.
+                        - Yellow highlight | Page: 41
+                        - The slip-box is designed to present you with ideas you have already forgotten, allowing your brain to focus on thinking instead of remembering.
+                        - Pink highlight | Page: 42
+                        - One of the major reasons for not getting much writing or publishing done lies in the confusion of these categories.
+                        - Pink highlight | Page: 42
+                        - ^^As he treats every note as if it belongs to the “permanent” category, the notes will never build up a critical mass.^^ [*](((7GWVsCHA5))) #post-lit
+                            - absolutely guilty as charged!
+                        - Pink highlight | Page: 42
+                        - ^^the strict chronological order does not offer any help to find, combine or rearrange ideas in a productive sense.^^ [*](((7GWVsCHA5)))
+                        - Pink highlight | Page: 43
+                        - collecting unprocessed fleeting notes inevitably leads to chaos.
+                            - sounds like my #Evernote system!
+                        - Pink highlight | Page: 43
+                        - the benefit of note-taking decreases with the number of notes you keep.
+                            - oh boy.. so clearly 20,000 notes in Evernote is **not** a good thing if they have not been fully processed and synthesized...
+                                - it is the opposite if you keep meaningful permanent notes “playing” together #post-lit
+                            - ^^More notes will make it more difficult to retrieve the right ones and bring related ones together in a playful way. But it should be just the opposite^^ #post-lit
+                        - Blue highlight | Page: 43
+                        - ^^**The more you learn and collect, the more beneficial your notes should become**^^
+                            - the more ideas can mingle and give birth to new ones–and the easier it should be to write an intelligent text with less effort #post-lit
+                        - Yellow highlight | Page: 43
+                        - Fleeting notes are there for capturing ideas quickly while you are busy doing something else.
+                        - Orange highlight | Page: 44
+                        - Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later.
+                        - Blue highlight | Page: 44
+                        - Permanent notes, on the other hand, are written in a way that can still be understood even when you have forgotten the context they are taken from.
+                        - Blue highlight | Page: 45
+                        - Some notes might disappear into the background and never catch his attention again, while others might become connection points to various lines of reasoning and reappear on a regular basis in various contexts.
+                        - Blue highlight | Page: 45
+                        - because every note is in the same format at the same place can they later be combined and assembled into something new and **no thought is ever wasted** on the question of where to put or label it.
+                        - Orange highlight | Page: 46
+                        - When you close the folder for your current project in the evening and nothing is left on your desk other than pen and paper, you know that you have achieved a clear separation between fleeting, permanent and project-related notes.
+        - "[[Chapter 7. Nobody Ever Starts From Scratch]]"
+            - [[creating from nothing]] [[following our curiosity]] [[source of ideas]] [[writing is non-linear]] [[synthesis-driven choice]]
+                - Deciding what to write before you write is not always a good idea. In fact, many ideas come from outside your head. A bottom-up approach to synthesizing your notes drives the kind of curiosity that leads you to your interests in a non-linear manner. #[[Literature Notes]]
+        - "[[Chapter 8. Let the Work Carry You Forward]]"
+            - [[rewarding source of energy]] [[natural motivation]] [[cultivating excellence]] [[cognitive bias]] [[growth strategy]] [[ways to make feedback pleasant]] [[writing as understanding]] [[Idea generation]] [[idea networks]] [[sensemaking]]
+                - We cultivate excellence in understanding in how we take notes and write. The slip box is an idea generator and network of ideas that motivates us to be lifelong learners. It rewards us with a source of energy and natural source of motivation. The organic nature of the process makes receiving feedback pleasant and directs our ability to make sense of the input we receive along our journey. #[[Literature Notes]]
+    - "[[The Six Steps to Successful Writing]]"
+        - "[[Chapter 9. Separate the Interlocking Tasks]]"
+            - "9.1 Give Each Task Your Undivided Attention:"
+                - [[dwindling attention span]] [[source of attention]]
+                    - Pay attention to the source of your distractions and what pulls your attention. #[[Literature Notes]]
+            - "9.2 Multitasking is not a good idea:"
+                - [[myth of multitasking]] [[attention types]] [[effortless flow]] [[structure to maintain focus]]
+                    - Multitasking is a myth and researchers have discovered a wide variety of attention types including effortless flow. The slipbox serves as a structure to maintain focus. #[[Literature Notes]]
+            - "9.3 Give Each Task the Right Kind of Attention:"
+                - [[cognitive bias]] [[focused vs floating attention]] [[writing around a flexible structure]] [[nature of play]] [[idea exploration]] [[demise of planning]]
+                    - It is important to know how to shift our focus. Play has a role maintaining floating attention which in turn, supports idea exploration which helps reduce cognitive bias. By establishing a flexible structure and **not** planning, it channels focused attention to concepts and makes writing easier. #[[Literature Notes]]
+            - "9.4 Become an Expert Instead of a Planner:"
+                - [[be in the moment]] [[following your gut]] [[letting patterns guide your experience]] [[intuition comes from experience]]
+                    - Experts stay in the moment and let patterns guide their experience and develop their intuition and gut. #[[Literature Notes]]
+            - "9.5 Get Closure:"
+                - [[creating connections]] [[creating meaning]] [[giving the brain space]] [[space for unexpected outcomes]]
+                    - Intentionally create meaning and connections. Give the brain a structure to let it wander and solve problems at times you otherwise wouldn’t expect. #[[Literature Notes]]
+            - "9.6 Reduce the Number of Decisions:"
+                - [[decision fatigue]] [[process for decision reduction]] [[giving the brain space]] [[maintenance]]
+                    - Making decisions is exhausting. The slip box reduces decisions by establishing a predictable process to craft our permanent notes. This allows our brain to focus on problem solving and gives the brain space to store long-term thoughts creating room for new thoughts and ideas. #[[Literature Notes]]
+        - "[[Chapter 10: Read for Understanding]]"
+            - "10.1 Read With a Pen in Hand:"
+                - [[goal orientation]] [[personal development]] [[shifting mental models]] [[interconnectedness]]
+                    - Having a goal in mind to dialogue around lets the slip box guide your development. Let it challenge your mental models and the theories you’ve developed and your notes will interconnect. #[[Literature Notes]]
+                        - highlights (raw)
+                            - Orange highlight | Page: 74
+                            - To get a good paper written, you only have to rewrite a good draft; to get a good draft written, you only have to turn a series of notes into a continuous text. And as a series of notes is just the rearrangement of notes you already have in your slip-box, all you really have to do is have a pen in your hand when you read.
+                            - Yellow highlight | Page: 74
+                            - ^^The series of notes in the slip-box develops into arguments, which are shaped by the theories, ideas and mental models you have in your head.^^
+                            - Yellow highlight | Page: 75
+                            - They are ^^constantly changing and challenged by the surprising connections with which the slip-box confronts you.^^
+                            - Blue highlight | Page: 75
+                            - The slip-box is an ^^idea generator that develops in lockstep with your own intellectual development.^^
+                            - Orange highlight | Page: 75
+                            - you can turn previously separated or even isolated facts into a ^^critical mass of interconnected ideas.^^
+                            - Yellow highlight | Page: 75
+                            - While the notes themselves are formulated so that they can be understood on their own, they are at the same time ^^embedded in one or more contexts that enrich their meaning.^^
+                            - Orange highlight | Page: 75
+                            - ^^Drawing from the slip-box to develop a draft is more like a dialogue^^ with it than a mechanical act.
+                            - Blue highlight | Page: 75
+                            - the idea is not to copy, but to have a meaningful dialogue with the texts we read.
+                            - Yellow highlight | Page: 75
+                            - When we extract ideas from the specific context of a text, we deal with ideas that serve a specific purpose in a particular context, support a specific argument, are part of a theory that isn’t ours or written in a language we wouldn’t use.
+                            - Orange highlight | Page: 75
+                            - ^^translate them into our own language to prepare them to be embedded into new contexts of our own thinking,^^
+                            - Pink highlight | Page: 75
+                            - the mere copying of quotes almost always changes their meaning by stripping them out of context, even though the words aren’t changed. This is a common beginner mistake, which can only lead to a patchwork of ideas, but never a coherent thought.
+                            - Yellow highlight | Page: 75
+                            - literature notes will be stored within the reference system together with the bibliographic details, **separate from the slip-box**, but still close to the context of the original text, they are already written with an eye towards the lines of thoughts within the slip-box.
+                            - Orange highlight | Page: 76
+                            - read with an eye towards possible connections in the slip-box.”
+                            - Yellow highlight | Page: 76
+                            - Sometimes it is necessary to slowly work our way through a difficult text
+                            - Orange highlight | Page: 77
+                            - ^^reflect as much on what is not mentioned as what is mentioned.^^
+                            - Pink highlight | Page: 77
+                            - ^^Without a clear purpose for the notes, taking them will feel more like a chore than an important step within a bigger project.^^
+                            - Yellow highlight | Page: 78
+                            - ^^Literature notes are short and meant to help with writing slip-box notes.^^
+                            - Yellow highlight | Page: 78
+                            - Handwriting is slower and can’t be corrected as quickly as electronic notes.
+                            - Blue highlight | Page: 78
+                            - students can’t write fast enough to keep up with everything that is said in a lecture, they are forced to focus on the gist of what is being said, not the details.
+                            - Yellow highlight | Page: 78
+                            - to be able to note down the gist of a lecture, you have to understand it in the first place.
+                            - Yellow highlight | Page: 78
+                            - Handwriting makes pure copying impossible, but instead facilitates the translation of what is said (or written) into one’s own words.
+                            - Pink highlight | Page: 78
+                            - focused on completeness.
+            - "10.2 Keep an Open Mind:"
+                - [[confirmation bias]] [[nature of discovery]] [[bottom up linear argument development]]
+                    - Our priority is to establish our slip-box and contribute by developing our arguments from the bottom-up. Be open to discovery. Be willing to depart from preconceived notions of what dialogue is present and eliminate the bias our brains introduce. Construct a linear argument **after** gathering data and drawing conclusions. #[[Literature Notes]]
+                        - highlights (raw)
+                            - Pink highlight | Page: 79
+                            - our brains are not very smart in selecting information by default.
+                            - Pink highlight | Page: 79
+                            - ^^The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, which is neither a good way to learn nor research.^^
+                            - Yellow highlight | Page: 79
+                            - The classic role model would be Charles Darwin. He forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories.
+                            - Yellow highlight | Page: 80
+                            - With a good system, the mere necessities of the workflow will force us to act more virtuously without actually having to become more virtuous.
+                            - Pink highlight | Page: 80
+                            - The linear process promoted by most study guides, which insanely starts with the decision on the hypothesis or the topic to write about, is a sure-fire way to let confirmation bias run rampant.
+                            - Pink highlight | Page: 80
+                            - Then ^^you artificially create a conflict of interest between getting things done (finding support for your preconceived argument) and generating insight, turning any departure from your preconceived plan into a mutiny against the success of your own project.^^
+                            - Blue highlight | Page: 81
+                            - ^^Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight.^^
+                                - but what does it mean to develop a [[Statement of Purpose]] “bottom-up”? #inquiry
+                            - Yellow highlight | Page: 81
+                            - We should be able to focus on the most insightful ideas we encounter and ^^welcome the most surprising turns of events without jeopardizing our progress^^ or, even better, because it brings our project forward.
+                            - Orange highlight | Page: 81
+                            - ^^postpone the decision on what to write about specifically and focus on building a critical mass within the slip-box.^^
+                                - this pretty much says to get the slip-box built and **then** discover what unfolds!
+                            - Orange highlight | Page: 81
+                            - focus on understanding the text we read,
+                            - Yellow highlight | Page: 81
+                            - ^^the only criterion is the question of whether something adds to a discussion in the slip-box.^^
+                            - Orange highlight | Page: 81
+                            - One of the most important habitual changes when starting to work with the slip-box is ^^moving the attention from the individual project with our preconceived ideas towards the open connections within the slip-box.^^
+                            - Yellow highlight | Page: 81
+                            - as soon we focus on the content of the slip-box, ^^disconfirming data becomes suddenly very attractive, because it opens up more possible connections and discussions within the slip-box^^, while mere confirming data does not.
+                            - Blue highlight | Page: 82
+                            - The experience of how one piece of information can change the whole perspective on a certain problem is exciting.
+                            - Blue highlight | Page: 82
+                            - Contradictions within the slip-box can be discussed on follow-up notes or even in the final paper.
+                            - Pink highlight | Page: 82
+                            - it is almost impossible to write anything interesting and worth publishing (and therefore motivating) if it is based on nothing else than an idea we were able to come up with up front before elaborating on the problem.
+                            - Yellow highlight | Page: 82
+                            - ^^It is after reading and collecting relevant data, connecting thoughts and discussing how they fit together that it is time to draw conclusions and develop a linear structure for the argument.^^
+            - "10.3 Get the Gist:"
+                - [[listening for distinctions]] [[reframing]] [[clarifying speaking through writing]] [[developing critical thinking]]
+                    - Develop critical thinking by listening for distinctions and reframing what is heard. Notice your speaking improves alongside your writing. #[[Literature Notes]]
+                        - good writing clarifies speaking
+                        - listening for frames, categories, assumptions, patterns
+            - "10.4 Learn to Read:"
+                - [[speaking in the listening of others]] [[dealing with gaps in understanding]]
+                    - While sharing with others, one often discover gaps in understanding. Make the choice to make your slip box your conversation partner. #[[Literature Notes]]
+                        - ^^it would be helpful to involve other people at all stages of the writing process, because then we can see in their faces how well we have put something or how convincing our arguments are, but that is rather impractical.^^ [*](((Y0GWqkFs2)))
+                            - I would argue that evaluating clarity in the response of others is a way of life!
+            - "10.5 Learn by Reading:"
+                - [[effort of learning]] [[experiential learning]] [[being on the court]] [[learning theory]] [[value of exercise]] [[physical wellbeing]] [[priming the brain]] [[writing as a form of elaboration]] [[optimizing externalization]] || [[giving the brain space]]
+                    - Making an effort to elaborate your writing is an optimal way to externalize your long-term memory. By making this effort, it frees you up to attend to self-care as it frees your brain to do the big picture strategic thinking it does best. #[[Literature Notes]]
+                        - “it helps to remember how much effort teachers still put into the attempt to make learning easier for their students by prearranging information, sorting it into modules, categories and themes. By doing that, they achieve the opposite of what they intend to do. **They make it harder for the student to learn because they set everything up for reviewing**, taking away the opportunity to build meaningful connections and to make sense of something by translating it into one’s own language.” [*](((EB85TMeP7)))
+                            - experiential learning
+                                - nothing to "remember"
+                            - [[being on the court]]
+                                - Landmark Worldwide
+                        - realizing I am fascinated by learning theory which speaks to my 4th strength: learner
+                        - ^^exercise reduces stress, which is good, because stress floods our brains with hormones that suppress learning processes^^ (Baram et al. 2008). [*](((ffg7NqyjO)))
+                            - cramming might not be so hot as exercise aids the learning process (by alleviating stress hormones that flood the brain) #[[Fleeting Notes]]
+                        - freeing up the brain to do what it does best: focus on the bigger picture, deeper understanding, creativity
+                            - innovation
+                            - my 3rd strength strategic
+        - "[[Chapter 11. Take Smart Notes]]"
+            - [[reading with purpose]] [[reframing]] &&
+                - Bringing a clear purpose to your reading allows you to reframe ideas in your own thinking. #[[Literature Notes]]
+            - "11.1 Make a Career One Note at a Time::"
+                - [[inter-project synergy]] [[measures of progress]]
+                    - Discovering the interconnectedness of projects is a natural outcome of using the slip box. A measure of progress is the number of notes you add over time. #[[Literature Notes]]
+                        - notes per day is a realistic measure
+            - "11.2 Think Outside the Brain::"
+                - [[ordering our thoughts]] [[independent thinking]] [[thinking through distancing]] [[cognitive bias]] [[reframing]] [[writing reveals underlying concepts and theories]]
+                    - When we write, we reveal underlying concepts and theories. We distance ourselves from the original argument to reduce the risk of cognitive bias. By reframing our thoughts, we do the kind of independent thinking invaluable to others. #[[Literature Notes]]
+                        - ^^it is not possible to think systematically without writing (Luhmann 1992, 53).^^ [*](((BernhIBab)))
+                            - this implies that writing about your wellbeing is what allows one to reframe their situation.
+                        - “ “Any comprehensive analysis of social inequality must include the cognitive effects of scarcity. Cf. Mullainathan and Shafir 2013.” “ [*](((6UwlWjiRr)))
+                            - example of one of his first notes
+            - "11.3 Learn by not Trying::"
+                - [[ways to facilitate long-term learning]] [[systems that maintain relevancy]] [[shedding details]] [[thinking in abstract terms]] [[interconnectedness]] [[creating meaning]] [[strategic memory recall]] [[thinking leads to elaboration]] [[value of understanding]] [[cost of order]] [[process of classification]] [[creating space for new thinking]]
+                    - By thinking in abstract terms, we shed details, elaborate on what is relevant, and create space for new thinking. We interconnect notes facilitating long-term thinking and the development of our own classification system by focusing on similarities and differences between notes. This level of understanding allows us to recall information in strategic and timely manner. #[[Literature Notes]]
+                        - ^^for academic thinking and writing, the gift of being able to remember everything is a serious liability.^^ [*](((v4uTJLRFT)))
+                            - great...I’m in **real** trouble now - all the reason why a slipbox is important to implement...
+                        - slipbox as a means to create space for new thinking
+            - "11.4 Adding Permanent Notes to the Slip - Box::"
+                - [[network of mental models]]
+                    - #[[Literature Notes]] A slip box is a network of mental models. Every time we add a note, we expand the richness of our interconnected concepts and abstractions
+                        - #[[Fleeting Notes]] #quote “Latticework of Mental Models” [*](((5Sn3gQkxy)))
+        - "[[Chapter 12. Develop Ideas]]  "
+            - [[lines of thought]] [[value of networks]] [[thinking tools]] [[emergent thinking]] [[designing for the unknown]] [[natural order]] &&
+                - The slipbox is a space for emergent thinking. As we expand and add new lines of thought, we discover the slipbox is very valuable to us as a thinking tool. #[[Literature Notes]]
+                    - ^^the slip-box is not intended to be an encyclopedia, but a tool to think with, we don’t need to worry about completeness.^^ [*](((iXpbFQLs4)))
+                    - ^^The note sequences are the clusters where order emerges from complexity.^^ [*](((wGGcv4ThN)))
+                    - ^^shake it until new patterns emerge^^ [*](((wGGcv4ThN)))
+                        - sounds like [[simulated annealing]]
+            - "12.1 Develop Topics:"
+                - [[designing for retrieval]] 
+                    - Put some thought into the keywords that index your notes so they can be found in the context of what interests you most. #[[Literature Notes]]
+                        - ^^Keywords should always be assigned with an eye towards the topics you are working on or interested in, never by looking at the note in isolation.^^ [*](((UhUikcAob)))
+                            - keywords for **retrieval**
+            - "12.2 Make Smart Connections:"
+                - Our slipbox is the perfect conversation partner shaped by how we think yet also keeping us in check based on past ideas. #[[Literature Notes]]
+                    - “The slip-box is like a well-informed but down-to-earth communication partner who keeps us grounded.” [*](((Xs1fLmaxP)))
+                        - insight into why i enjoy thinking thru things w others
+            - "12.3 Compare, Correct and Differentiate:"
+                - [[system removing redundancy]] [[illusions of progress]] [[contradiction as a good thing]] [[continuous improvement]] [[present moment bias]]
+                    - We create illusions of progress when we allow our present moment biases to flavor our thinking. By rigorously comparing our notes to those in our slipbox, we give ourselves the opportunity to discover contradictions which creates new thinking. When we discover new notes are **not** new ideas, our work continuously improves because we remove what otherwise would be redundant. #[[Literature Notes]]
+                        - "the value of “clearing” with a coach before an important meeting/event - you are not bringing emotional “charge” to your network of thoughts that can indeed throw things off if the meeting is intended to be unbiased"
+            - "12.4 Assemble a Toolbox for Thinking:"
+                - [[power of context]] [[context creates meaning]] | [[sensemaking]] [[value of differing perspectives]] [[value of experience]] [[nature of wisdom]] [[network of mental models]] [[long-term learning structures]] [[learning theory]]
+                    - Not all mental models fit all contexts. The richness of our experience allows us to place various models into our slipbox. We draw upon the long-term wisdom of differing perspectives to allow us to make sense and learn in new situations. #[[Literature Notes]]
+                        - “A scientific term or concept only becomes meaningful within the context of a theory–otherwise it would just be a word.” [*](((ZCqW4TrXP)))
+                            - my experience w [[Knowledge Graphs]] - i feel like im just learning a bunch of terms sometimes.
+                        - “some theories or theoretical models are surprisingly versatile, which is why it makes sense to assemble a toolbox of useful mental models (Manktelow and Craik 2004) that could help with our daily challenges and make sense of the things we learn and encounter.” [*](((nD7ENZrJ2)))
+                            - various mental models for wellbeing, productivity and performance
+                            - [toolbox in Notion](https://www.notion.so/communitygarden/Toolbox-89b20bed30ad4181af021bb8a3bcb8aa)
+                            - sensemaking
+                        - ^^”You’ve got to hang experience on a latticework of models in your head.”^^ (Munger 1994). [*](((jbhsgjkso)))
+                        - “A truly wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation schemes.” [*](((kB0DxNvn3)))
+                            - my key to giving being a know it all!
+                        - “practice learning not as a pure accumulation of knowledge, but as an attempt to build up a latticework of theories and mental models to which information can stick, we enter a virtuous circle where learning facilitates learning.” [*](((dljL9oLzm)))
+                            - #inquiry  what mental models am i building?
+                        - ^^“to remember what you have learned, you need to build effective long-term memory structures.” (Sachs 2013, 26)^^ [*](((PWK_O3mj5)))
+                            -   brings context to TheBrain and personal wikis!
+                    - The slipbox encodes a learning process. We deepen our understanding by writing notes about what we read. Different contexts, some unplanned, allow us to project our notes into an array of possible connections. Our intentional efforts drive us to further elaborate and develop our thinking further. #[[Literature Notes]]
+                        - ^^We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), ideally with the help of chance ([[contextual interference]]) and with a deliberate effort (retrieval). The slip-box not only provides us with the opportunity to learn in this proven way, it forces us to do exactly what is recommended just by using it. We have to elaborate on what we read just to be able to write it down and translate it into different contexts. We retrieve information from the slip-box whenever we try to connect new notes with old notes. Just by doing this, we mix up contexts, shuffle notes and retrieve the information in irregular intervals. And along the way, we further elaborate on the information, which we always retrieve deliberately.^^ [*](((3alXROjys)))
+                            - understanding -> broader implications (elaboration) <- writing
+                            - retrieve at different times (spacing) <- (connecting)
+                            - different contexts (variation) <- translation
+                            - chance (contextual interference) <- (unplanned mix of contexts)
+                            - deliberate effort (retrieval) <- (further elaboration)
+            - "12.5 Use the Slip - Box as a Creativity Machine:"
+                - [[creativity is making connections]] [[holding space for transformation]] [[nature of transformation]] [[value of experimental spaces]] [[open collaboration]]
+                    - Experimental spaces foster open collaboration and making connections. Making connections is the art of creativity. #[[Literature Notes]]
+                        - “Even sudden breakthroughs are usually preceded by a long, intense process of preparation.” [*](((8OsaRd7c8)))
+                            - 10 years of interfacing support teams via email, 13 years of inquiring into multi-player wiki, 18 years inquiring into dance innovation & analogies, 5 years of tinkering w Wellbeing 5 as a way of life, 25 years of professional experience, 19 years listening for transformation, 39 years personal computing
+                        -  “the importance of experimental spaces where ideas can freely mingle (Johnson 2011). A laboratory with open-minded colleagues” [*](((m6DITkv3w)))
+                            - roam book club!
+                            - [[Dance Labs]]
+                            - [[Digital Garden]]
+            -  "12.6 Think Inside the Box:"
+                - [[value of abstraction]] [[thinking in concepts]] [[combining ideas]] [[analogical innovation]] [[interdisciplinary work]] [[generating ideas]] [[cognitive bias]] [[survivorship bias]] [[learning from failure]][[learning from others]] [[what is possible]] [[inquiring into the gap]] [[nature of transformation]]
+                    - #[[Literature Notes]] Rather than focus on societal issues stemming from money exchange, we can learn the function of money if we become curious how we might deliver services without the use of money
+                        - #[[Fleeting Notes]] It is easier to learn about the function of money in a society if we wonder how strangers would exchange [[healthcare services]] without using money than if we just focus on the obvious problems we have in a society based on money exchange
+                            - “^^It is easier to learn about the function of money in a society if we wonder how strangers would exchange goods without using money than if we just focus on the obvious problems we have in a society based on money exchange.^^” [*](((6TKwoaoFV)))
+                                - barter
+                                - [[gift economy]]
+                                - Burning Man Project
+                                - The Venus Project
+                                    - Zeitgeist
+                                    - [[resource-based economy]]
+                                - [[Universal Basic Income (UBI)]]
+                    - #[[Literature Notes]] Interdisciplinary work demands we combine ideas by abstracting and thinking in concepts. We also generate ideas when we have a willingness to learn from others and our failures. By inquiring into the gap, we explore what is possible and develop new insight
+                        - “The better an engineer is at abstracting from a specific problem, the better and more pragmatic his solutions will be–even for the very problem he abstracted from (Gassmann and Zeschky, 2008, 103).“ [*](((pFJj_C203)))
+                            - value of art/dance in an engineer's life
+                        - “Abstraction is also the key to analyse and compare concepts, to make analogies and to combine ideas; this is especially true when it comes to interdisciplinary work (Goldstone and Wilensky 2008).” [*](((pFJj_C203)))
+                            - [[analogical innovation]]
+                            - Carnegie Mellon University
+                        - “The ability to generate new ideas has more to do with breaking with old habits of thinking than with coming up with as many ideas as possible.” [*](((szZVctiOS)))
+                            - [[cognitive bias]]
+                        - “survivorship bias” [*](((ybXRYhjkL)))
+                            - #[[Literature Notes]] Looking at who survived often does not tell us nearly as much as looking at the more relevant data of those who failed
+                        - “rarely does a product developer show any interest in learning from the experience of others.” [*](((FzeaxGF4w)))
+                            - learning what attempts at a wellbeing commons have been made (and perhaps failed)
+                        - “(failed managers unfortunately rarely write biographies)” [*](((48BXqArTk)))
+                            - all the reason to write about TenFold, Rational, Orbital, Dance Labs, Squid & Squash, Team Minutemen, FIBO, Japan, West LA, mediaglyph, Omada Health, [[Weave Your Legacy]]!
+            - "12.7 Facilitate Creativity through Restrictions:"
+                - [[role of structure]] [[dealing with indecision]] [[decision making systems]] [[cutting through noise]]
+                    - The next time you are faced with indecision, consider the constraints of the slipbox gives you the ability to be more discerning and decide what is relevant. This increased focus gives you the freedom to **choose**. #[[Literature Notes]]
+                        - “The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions.” [*](((cEY7Tb21M)))
+                            -  i think of how long ive lived without a strong "constraint" of a "calendar"
+                            - a driving-function for making decisions!
+                        - { end: Nov 9th 18:43 }
+        - "[[Chapter 13. Share Your Insight]]"
+            - "13.1 From Brainstorming to Slip - box - Storming:"
+                - [[bottom up linear argument development]] [[cognitive bias]] [[cognitive fixation]] [[discovering as you go]]
+                    - Cognitive bias from ourselves and cognitive fixation through others get in the way of the best of plans. If choose to discover our writing as we go, we will notice what clusters up and develop arguments bottom-up in a focused manner. #[[Literature Notes]]
+                        - The brain more easily remembers information that it encountered recently, which has emotions attached to it and is lively, concrete or specific. [*](((TNZTnyXIC)))
+                            - the value of “clearing” with a coach before an important meeting/event - you are not bringing emotional “charge” to your network of thoughts that can indeed throw things off if the meeting is intended to be unbiased
+                        - “More people in a brainstorming group usually come up with less good ideas and restrict themselves inadvertently to a narrower range of topics” (Mullen, Johnson, and Salas 1991).[ 38] [*](((hPc8a-oN6)))
+                            - wow - this is beyond profound - this is like the end of [[brainstorming]]!  is the assertion really the way the world is going about generating ideas incorrect? 🤯 how do we interface the rest of world that “likes” brainstorming then? #inquiry
+                                - [[mind mapping]]
+                                - [[Business Model Canvas]]
+                        - “more about working on the questions we generated **by** writing.” [*](((cb49wJYtV)))
+                            - the **action** of writing produces great questions [[Literature Note]]
+                        - “Those who start with a plan and an idea about what to write will probably encounter that truth somewhere along the way. They then might be able to correct an unfortunate choice once or twice, but will have to stick with what they have chosen at one point, otherwise they will never finish their project.” [*](((yxiVJbBCB)))
+                            - it seems to me this is what the [[study design]] paper I am reading is proposing I do is start with choosing a [[research question]]. (I do acknowledge that it proposes an iterative process and it will be interesting to look back upon this book and resolve debates arguments as to how to best go about choosing a topic for one’s thesis)  I am aligned with what is being proposed here, bottom-up in this context makes so much sense!
+            - "13.2 From Top Down to Bottom Up:"
+                - [[starting with what we have]] [[unattachment]] [[cognitive bias]] [[nature of transformation]]
+                    - Start with the notes you already have with an unattached mindset. #[[Literature Notes]]
+                        - “If open-mindedness is all that is needed, the best artists and scientists were hobbyists.” [*](((HGeH0pymd)))
+                            - #FTW! dance and technology were always “hobbies” that by attempting to make both my career/work has resulted in a lot of disappointment when it stops being fun (something for me to notice and inquire what I can do about these plateaus)
+            - "13.3 Getting Things Done by Following Your Interests:"
+                - [[staying connected to personal goals]] [[keeping learning fun]] [[building autonomy]] [[maintaining curosity]] [[value of your interests]]
+                    - We maintain curiosity and build autonomy by keeping learning fun. Following what interests us sets us up to be connected to our personal goals. #[[Literature Notes]]
+                        - __(Bnode aka. “blank node” :)__
+                            - “even highly intelligent students fail in their studies, it’s most often because they cease to see the meaning in what they were supposed to learn (cf. Balduf 2009), are unable to make a connection to their personal goals (Glynn et al. 2009)” [*](((hKJOIwEyi)))
+                                - clutch!  feeling like you’ve lost purpose or the work that you’re working on has lost purpose or is not inherently what you care about is depressing. [[mental health]]
+                                - learning ceases to be fun and perhaps put another way, one ceases to see process from time spent/invested in learning.
+                            - ”lack the ability to control their own studies autonomously and on their own terms (Reeve and Jan, 2006; Reeve, 2009).” [*](((hKJOIwEyi)))
+                                - when students want to move towards learning something different when they may feel stuck even though putting together and navigating their own learning plan is what they intuitively know what is right.
+                                    - [[Universal Basic Income (UBI)]] would be a step to enable this kind of freedom amongst the most committed of students (of life)
+                        - “The risk of losing interest in what we do is high when we decide upfront on a long-term project without much clue about what to expect.” [*](((tHtvri2mR)))
+                            - this is exactly how I feel about committing to a multi-year PhD
+                        - “It would be quite sad if we did not change our interests during research.” [*](((-Cl18HUNX)))
+                            - finding an advisor committed to Zettlekasten and allowing the journey of what is being discovered to unfold in our respective slip boxes
+            - "13.4 Finishing and Review:"
+                - [[context is decisive]] [[emergent structure]] [[linearity emerges when entropy decreases]] [[value of multitasking]] [[eliminating mental blocks]] [[getting unstuck]]
+                    - Let the structure of your document emerge. One way to eliminate mental blocks and get unstuck is to switch documents and flow with your interests. #[[Literature Notes]]
+                        - “Instead of not knowing how to fill the pages, we have so much at hand that we have to curb our impulse to mention everything at the same time.” [*](((9TWMLIhQ4)))
+                            - this feels like my experience attempting to post [my final Facebook Note](https://www.facebook.com/notes/chinarut-ruangchotvit/facebook-notes-has-come-to-an-end/10164316715575118/). My task was to be focused as almost everything I else I wanted to say could be found in my [[Digital Garden]]. even this attempt to make no more than 3 points, resulted in 5 (with 15 (!) sub-points)
+                                - (1) Facebook blog is ending
+                                    - (1a) photos got lost in conversion
+                                - (2) personal wiki
+                                    - (2b) reluanched personal wiki
+                                    - (2c) done mourning last 2 implementations
+                                    - (2d) thanks for participating
+                                - (3) updates/blog feel like a river
+                                    - (3b) wiki is easily updatable
+                                    - (3c) tweaking over 4 months
+                                    - (3d) will look prettier soon
+                                    - (3e) happy
+                                    - (3f) open notebook
+                                    - (3g) current
+                                    - (3h) best way to reach me
+                                - (4) vision to build a learning community
+                                    - (4b) participation (not consumption)
+                                    - (4c) welcome to comment about something you want me to write about
+                                - (5) belated thanks for birthday wishes
+                                    - (5b) healthy
+                                    - (5c) gratitude 🙏🏼
+                        - “it allows us to switch to other projects whenever we get stuck or bored.” [*](((yCbbkHB85)))
+                            - I love it!  a process/methodology/container that is designed to love the creative soul roam!
+                            - it’s not too often a system acknowledges “boredom” is a healthy part of the process
+                                - [[Underbelly: The Art of Slowing Down]]
+            - "13.5 Becoming an Expert by Giving up Planning:"
+                - [[traps focusing on outcomes]] [[keys to motivation]] [[value of feedback]] 
+                    - Envisioning the end goal only helps if you envision the steps in between. Then it becomes as simple as focusing on the immediate next step towards accomplishing that outcome. #[[Literature Notes]]
+                        - [[overconfidence bias]]
+                        - “be generally sceptical about planning, especially if it is merely focused on the outcome, not on the actual work and the steps required to achieve a goal.”  [*](((i-J1kvZAs)))
+                            - hmm - my way of going about committing to a [[Statement of Purpose]] by 12/9 and all the sub-outcomes kinda sounds like me not understanding all the steps in-between
+                        - ”We know from sports that it doesn’t help when athletes imagine themselves as winners of a race, but it makes a big difference if they imagine all the training that is necessary to be able to win.” [*](((i-J1kvZAs)))
+                            - this is fascinating as it relates to the [[science of motivation]]
+                            - I’ve also been trained to think in terms of [[desired outcomes]] which may, in fact, be part of the reason I am overextended in the [[world of possibility]] #wellbeing
+                                - [[Landmark Worldwide]]
+                        - “we can only learn from our experiences if feedback follows shortly afterwards” [*](((MF_V6jgLX)))
+                            - the importance of an advisor
+                            - immediate feedback on the support graph video that was the culmination of last week and getting immediate feedback and driving setting up the next meeting is clear feedback
+                            - getting immediate input on the `# support` page is immensely useful to updating the page with other people’s ideas
+                        - ^^It is much easier to get started if the next step is as feasible as “writing a note,” “collect what is interesting in this paper” or “turning this series of notes into a paragraph” than if we decide to spend the next days with a vague and ill-defined task like “keep working on that overdue paper.”^^
+                            - the power of the “next action” [[GTD]]
+            - "13.6 The Actual Writing:"
+                - [[keeping development focused]]
+                    - Keep your writing lean and on purpose. If you find parts of your writing that do not serve your main line of development, get rid of it! #[[Literature Notes]]
+                        - ^^One of the most difficult tasks is to rigorously delete what has no function within an argument^^ [*](((Gz-S3DnUJ)))
+                            - notice I’m getting better while composing email to let go of part of the email that feel weak and seemingly no purpose (if anything it feels like it’s coming from a “know it all”)
+        - "[[Chapter 14. Make it a Habit]]"
+            - [[roots of intention]] [[nature of control]] [[nature of habits]]
+                - The root of intention is in who we are being. The moment we feel in control puts a false predictability in the space which is, in fact, not control. Let new habits replace old habits rather than dropping them completely. #[[Literature Notes]]
+                    - ^^researchers struggle to find any measurable connection between our intentions and our actual behaviour^^ (Ji and Wood 2007; Neal et al. 2012). [*](((DAESrQc3M)))
+                        - intentions need to be rooted in who we’re **being**
+                        - the space needs to be clear for the manifestation of said intention to happen
+                            - "the value of “clearing” with a coach before an important meeting/event - you are not bringing emotional “charge” to your network of thoughts that can indeed throw things off if the meeting is intended to be unbiased"
+                        - [[behavior change]]
+                    - Behavior change is challenging because the moment we feel in control, we have less control. [*](((x5hx3y9ay)))
+                        - [[nature of control]]
+                    - “^^When we perform an action repeatedly, its familiarity seems to bleed back into our judgments about that behavior. We end up feeling we have more control over precisely the behaviours that, in reality, we have the least control over.^^” (Dean 2013, 22) [*](((uOQBxSUdK)))
+                        - {{[[DONE]]}}  all i know this is something for me to sleep on! 🤔
+                        - is this the nature of complacency?
+                    - ^^The trick is not to try to break with old habits^^ [*](((4hIM0I_l_)))
+                        - don’t drop habits cold turkey. let new habits **replace** old habits.
+    - "[[Afterword]]"
+        - [[transforming education]] [[fallacy of top-down organization]] [[why teach synthesis]] [[being a network of conversations]] [[writing as transformation]] [[learning theory]] [[writing as a system]] [[long-term learning structures]] [[simple solutions]] || [[how transformation works]] [[source of transformation]]
+            - We transform education by giving up the fallacy of top-down organization of curricula and teach students to see writing as a system to synthesize diverse information. We encourage them to build a simple long-term learning structure through writing. When a student sees beyond themselves, they shift their thinking and writing becomes the source of transformation. #[[Literature Notes]]
+                - ()
+                    - ^^the long-term, cross-topic organization of notes, which is guided only by one’s own understanding and interest, is very much at odds with the modular, compartmentalised and top-down approach in which the curricula of universities and colleges are organised.^^ [*](((QVfNEbAfL)))
+                        - so how is someone supposed to choose what dept to apply for their studies? #inquiry
+                    - ^^Teaching is still set up for review, and students are not really encouraged to [[independently build a network of connections between heterogeneous information]] – despite the radical change in our understanding on how our memory and learning works.^^ [*](((QVfNEbAfL)))
+                        - this sounds like a requirement as a student!
+                - ()
+                    - ^^The slip-box does not put the learner in the centre. Quite the contrary: It allows the learner to let his or her own thinking become [[decentralised within a network of other ideas]].^^ [*](((AEToJgvmY)))
+                        - important element of becoming objective
+                    - ^^Learning, thinking and writing should not be about accumulating knowledge, but about becoming a different person with a different way of thinking.^^ [*](((AEToJgvmY)))
+                        - i would argue “different way of **being**!” [[nature of transformation]]
+                        - absolutely hear being open to “blind spots” and [[embracing the unknown]]
+                - ^^the basis for that is a deep understanding on how and why it works and how the different steps and tasks of writing fit together.^^ [*](((ID232vsr4)))
+                    - understanding writing at a really fundamental level - just like mathematics!
+                - ()
+                    - ^^most students only realise the need for a good system when they already struggling with their writing^^ [*](((SF8pUW-gw)))
+                        - I’m struggled to write my a [[Statement of Purpose]] (and [[one-page proposal]]s)
+                        - I did have the insight to know I use sheer willpower to synthesize and that I am burnt out by the way I’ve been doing it. I had the insight to know starting over with a blank piece of paper every time was part of the problem (that is was causing fragmentation). I had the insight to know there was a better way but little did I know I would have the luck to have this book land in my hands!
+                    - ^^it would have helped much more if one started earlier – very much like saving for retirement.^^ [*](((SF8pUW-gw)))
+                        - *sigh* I can relate to **feeling** like I haven’t saved up for retirement “early” enough...
+                        - this makes me feel it is imperative students learn this method **now**
+                            - {{[[DONE]]}}  insist Fisher pick this book up now!
+                    - ^^It is also difficult to change behaviour in times of stress.^^ [*](((SF8pUW-gw)))
+                        - yes, it seems absolutely crazy to pick up Zettlekasten when I feel I should just sit in front of a blank page and just write (which we know doesn’t work very well - old habits die hard!)
+                    - ^^Change is possible when the solution appears to be simple.^^ [*](((SF8pUW-gw)))
+                        - yes - this seems simple enough indeed!  I am wondering what it will take to learn what are mostly fleeting notes into literature notes...
+- 

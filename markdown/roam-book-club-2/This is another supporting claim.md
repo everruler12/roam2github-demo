@@ -1,0 +1,10 @@
+- Relevant Notes:: 
+    - "#Zettel [[This is Matt's claim]]"
+    - "#Zettel [[This is Lindsey's claim about something else]]"
+    - Permanent:: [[This is in support because fo this claim]]
+- Work is done here
+- But it's added after
+    - Literature
+        - Test
+        - Fleeting
+            - test

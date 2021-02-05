@@ -1,0 +1,9 @@
+- keywords::#Zettel[[Stuart Kauffman]][[adjacent possible]]
+- source:: see p115
+- relevant links::
+- ------------------------------
+- notes::
+    - this is one instantiation of the more general statement:
+        - [[analogous Darwinian principles explain the functioning of both the biosphere and a well-formed [[Zettelkasten]]]]
+- ------------------------------
+- change log::

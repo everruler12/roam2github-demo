@@ -1,0 +1,46 @@
+- Breakout Group Number - X
+(34)
+    - Who was in this group on 11.1.20::
+    - What did your group talk about?::
+    - Any questions for the book club as a whole?::
+    - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+- Website
+- 
+- Fleeting Notes:: 
+    - He is making the fundamental point that really creative writing is not about expressing something already thought, but discovering one's thoughts. Is this because of the help provided by distributed cognition?
+    - "...why not root the course of action in reality instead?" pointing out the fact that self help books on writing are not based on what then reality of writing is.
+    - pen and paper as a form of distributed cognition
+    - These insights partly join up with the idea that we are not isolated individuals bounded by our skin.
+    - "brainstorming" often recommended. "If you haven't written along the way, the brain is indeed the only place to turn to"...but it is "neither objective or reliable."
+    - "the fictional linearity is the problem in itself." He is here referring to published attempts to help people with their writing, which assume that it is a linear process from "topic" to product.
+    - The effortlessness which Ahrens mentions repeatedly as a hallmark of a truly useful system reminds me of Shunryu Suzki's coment about meditation that the best way to keep your cow in the pasture is to give it a really large pasture.
+    - This book is really about attention, cognition, creativity, individuality. The specific information about note-taking is, not secondary to, but indistinguishable and inseparable from a particular view of the individual, what creativity is, what a mind is.
+    - a lot of his suggestions for improving one's approach to writing have to do with taking a different stance toward the ego.
+    - The sub chapter titled, "become an expert, not a planner' comments directly on my main idea about the insufficiency of "conscious decision making' or "analytic rationality." Of course many people already understand this, but do they understand it as the crux of the modern problem? To reintegrate at a higher level, not to go backward.
+    - On page 78-79 a discussion of confirmation bias. "Even the best scientists and thinkers are not free from it. What sets them apart is the mere fact that they are aware of the problem and do something about it."
+    - It strikes me that being aware of one's own confirmation bias and attempting to do something about it is 1) similar to or the same as Keats' "Negative Capability" and 2) one of the main hallmarks of true (emotional?)intelligence.
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - I am far too addicted to praise. The description of the "gifted and talented" person who has been "praised for what they are...rather than for what they do", rendering them stuck to "safe, proven areas", describes one huge aspect of my character perfectly.
+            - The "slip-box", whatever it is (which I still don't know), is evidently a form of distributed cognition. Again, we slip the bounds of our skin.
+            - 
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword
+    - [[Goals for Book Club]]My goal is to learn a method for accessing and expanding thoughts I have which are inspired by and generated from my reading, in a way that results in a constantly evolving coherent world view, and to easily produce writing that can be shared. I want to leave a record of what it felt like, how it was to be me, living in the time and place that I have lived, thinking the thoughts that I have thought. I believe my thoughts and feelings are a unique experience God is having of himself, and therefore it is my responsibility to intensify and interiorize them as much as possible. I believe it is also the case that I do not exist apart from others and the world, so that it is also my responsibility to continually communicate what it is to experience existence as myself, whatever that is.
+    - 

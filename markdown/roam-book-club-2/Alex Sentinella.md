@@ -1,0 +1,71 @@
+- Name:: Alex Sentinella
+- Website:: 
+- About Me::
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+            - "Even doctoral students sometimes just collect de-contextualised quotes from a text–probably the worst possible approach to research imaginable."
+                - I see the irony of copying these quotes 
+            - "Without understanding information within its context, it is also impossible to go beyond it, to reframe it and to think about what it could mean for another question."
+            - Summarise the main points of text
+                - AND think about how they connect with other ideas and contexts
+            - How do new ideas change the context of other thoughts and notes
+            - __11.1 Make a Career One Note at a Time__
+            - "the sum of the slip-box content is worth much more than the sum of the notes"
+            - "Luhmann’s slip-box contains about 90,000 notes, which sounds like an incredibly large number. But it only means that he wrote six notes a day from the day he started to work with his slip-box until he died."
+            - "you could settle for three notes a day and still build up a significant critical mass of ideas in a very reasonable time"
+            - "In contrast to manuscript pages per day, a certain number of notes a day is a reasonable goal for academic writing."
+            - "Taking a note and sorting it into the slip-box can be done in one go, while writing a manuscript page could involve weeks and months of preparation involving other tasks as well. "
+            - "You could therefore measure your daily productivity by the number of notes written."
+            - __11.2 Think Outside the Brain__
+            - "Taking literature notes is a form of deliberate practice"
+                - "it gives us feedback on our understanding or lack of it" 
+                - "the effort to put into our own words the gist of something is at the same time the best approach to understanding what we read."
+            - "Taking permanent notes of our own thoughts is a form of self-testing as well:
+                - do they still make sense in writing? 
+                - Are we even able to get the thought on paper? 
+                - Do we have the references, facts and supporting sources at hand? "
+            - "And at the same time, writing it is the best way to get our thoughts in order." 
+            - "Writing here, too, is not copying, but translating (from one context and from one medium into another). "
+            - "No written piece is ever a copy of a thought in our mind."
+            - 
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+            - Intention predicts behaviour only in the short term.
+                - That association breaks down over the long term.
+                    - Except when you have already been doing it.
+                    - __"Eating makes an appetite"__
+            - We tend to do what we always have.
+            - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013)."
+            - "When we perform an action repeatedly, its familiarity seems to bleed back into our judgments about that behavior."
+                - "We end up feeling we have more control over precisely the behaviours that, in reality, we have the least control over."
+            - "The trick is not to try to break with old habits and also not to use willpower to force oneself to do something else, but to strategically build up new habits that have a chance to replace the old ones. "
+    - [[Afterword]]
+        - "Learning, thinking and writing should not be about accumulating knowledge, but about becoming a different person with a different way of thinking. This is done by questioning one’s own thinking routines in the light of new experiences and facts."
+        - "It is then often used simply as an archive where you just take out what you put in earlier. This, of course, will lead to disappointment."
+        - "To reap its benefits, we need to change our working routines. "
+        - "It is also difficult to change behaviour in times of stress. "
+            - "The more pressure we feel, the more we tend to stick to our old routines–even when these routines caused the problems and the stress in the first place. "
+            - "This is known as the tunnel effect (Mullainathan and Shafir 2013). But Mullainathan and Shafir, who examined this phenomenon thoroughly, also found a way out of it: Change is possible when the solution appears to be simple."
+        - "The slip-box is as simple as it gets. 
+            - Read with a pen in your hand, 
+            - take smart notes and make connections between them. 
+            - Ideas will come by themselves and your writing will develop from there. 
+            - There is no need to start from scratch. 
+            - Keep doing what you would do anyway: Read, think, write.
+            - Just take smart notes along the way."
+- Fleeting Notes:: 
+    - 

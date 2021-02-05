@@ -1,0 +1,11 @@
+- Live session notes:
+    - "Define a literature note in your own words."
+        - My own summarization and "so what" of someone else's idea encountered while consuming information from a source e.g book, article, podcast etc.
+    - "How do you take literature notes? Discuss your method."
+        - I used to copy the piece in a roam page and then summarize it. One bullet for the text from the source on bullet for my summary. I also linked it to other literature notes i thought were related. I came to realize i was (wrongly) using literature notes as permanent notes. My structure was a bit all over the place. Looking to formalize it after this bookclub. 
+    - "Have you found value in taking literature notes already?"
+        - I feel comfort in knowing i somehow extracted the most important pieces from the books i read, relieving myself of the mental burdain going back periodically and checking my notes from those books but i have yet to find value in turning my notes into a system for better thinking and creation. 
+    - "What struggles have you had implementing literature notes?"
+    - "Describe any enlightening moments you had while taking literature notes."
+    - 
+- 

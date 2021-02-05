@@ -1,0 +1,46 @@
+- Twitter:: https://twitter.com/jckyeh
+- Website:: 
+- Company:: Roam
+- Favourite books:: 
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: n
+- Chat::
+    - "Have anyone here engaged with [[Awakening from the Meaning Crisis]]? I think it's a really fascinating piece of work, full of deeply networked references - I'd love to collaborate with others on a book club, or even trying to build some interesting networked artefacts based on it. How about [[Matt Brockwell/MJB]], would love your thoughts as a psychiatrist. Here are my notes on the most recent episode I listened to - [[Notes on Awakening from the Meaning Crisis 11]] (I decided to paste it in here, since who knows, maybe I can find some connections to this book club). All the yellow highlights are my own thoughts and questions."
+        - #sub I'd be interested in joining!
+- [[Book Club Live Session 1]]
+    - [[[[Goals of Book Club]]]]
+        - To develop a Zettelkasten process on Roam for my personal workflows
+- [[Live Session 2]]
+    - "{{[[DONE]]}} **Section 1 Writing task** "
+        - "Define a fleeting note in your own words. "
+            - Fleeting notes are notes noted as a placeholder for an idea in your knowledge management system to be elaborated on later (within a day or two). 
+        - "Discuss the fleeting note phase"
+            - "How did you take fleeting notes? Discuss your method."
+                - In a specific Roam page for the book, under the chapter heading. I note down the idea in my own words, and include a "Quote" section to capture the quote from the book whenever I feel the quote adds to the note itself.
+                    - I type in the quote itself to increase the friction, such that I don't use quotes as a crutch for writing in my own words to encode in my own memory and understanding of the concept.
+                - Disadvantages of my method is that it is high friction, and I do need to be in front of my computer. Would like to find a quicker, lower friction method that doesn't interrupt the flow of my reading. 
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::

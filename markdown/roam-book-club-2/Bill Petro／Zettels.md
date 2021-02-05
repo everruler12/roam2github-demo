@@ -1,0 +1,9 @@
+- "Template - Apply children as text"
+    - #[[Zettels]] [[As the disadvantages of instant gratification wears thin, the powerful force that comes from the incentive reward system habitualizes the difficulty of adopting a new habit and engages us to help those still suffering.]] #Zettel [[*]]
+        - __Being informed by Q1 and Q2, what is a clear statement about what I synthesized, the greatest clarity__: 
+        - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_))) I'm abstracting what the author has said and now __synthesizing__ it in my own words. This proves that I understand what the author has said. #Zettel
+            - My desire to change something, to achieve something new, to form a new habit -- must be driven by my own intrinsic motivation.
+        - #[[Fleeting Notes]] Starting a new habit need not be painful and difficult. #Zettel 
+            - __What resonated with me__: make it easy by developing a new habit. It becomes routine. Rewards? Advantages? 
+            - When it becomes automatic, it's much easier, less friction.
+            - Seedlings, Budding Notes, Evergreen Notes

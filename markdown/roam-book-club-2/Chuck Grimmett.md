@@ -1,0 +1,6 @@
+- [[Directory]]
+    - **Name:** Chuck Grimmett
+    - **Website:** https://cagrimmett.com
+    - **Company:** [[Automattic]]
+    - **Email:** chuck@grimmett.co
+- **Literature Notes:**

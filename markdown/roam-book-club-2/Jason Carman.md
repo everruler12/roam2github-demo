@@ -1,0 +1,432 @@
+- About Me
+    - A lifelong learner. I'm going through a bit of a career rethink so no job description at the moment. [[Directory]]
+    - Here's a [link to my EPK](https://drive.google.com/file/d/13rB1v7TPWeZSstezx7Zi184dtvsRPQXh/view?usp=sharing) if you're curious about what I've been doing this past year.
+        - P.S. The email in that PDF is broken. My current email is jason@joyride.biz
+- Website
+    - www.instagram.com/jasonjoyride
+    - joyride.biz
+- Notes
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - [[Luhmann]] had two file-boxes: The [[slip-box]] and his [[reference system]]
+            - After reading and writing the info on the cards he would shortly after ponder their relevance for his own thinking and writing.
+                - He would limit himself to one index card and only write on one side to keep his idea brief, sometimes it would extend onto another card.
+    - [[Chapter 2. Everything You Need to Do]]
+        - [[Ahrens]] presents a lovely [[thought experiment]] in which we are asked to imagine that the notes, then the draft of a paper itself has already been done for us by an omniscient assistant. This, of course, is a demonstration of what the [slip-box] does for you.
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+            - It's the simple and small ideas ideas that often cause big change.
+            - In the normal notetaking style it's about topic labeling.
+            - In the new system it's about the context in which you want to stumble upon the note again. 
+                - E.g. you wouldn't think to find the pants with the bleach you bought on a specific date. Why would you remember, or know to look for, a note made on a specific date?
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - Ahrens asks why not start in reality, understanding that writing is rarely linear or goes as it's promised to go if you follow the self help book plan.
+            - Intellectual endeavors start from existing preconceptions which can then be transformed by further endeavors [[definition]] [[Hermeneutic Circle]]
+            - We should be reading with a pen in hand.
+            - The goal is that when we look into our slip-box clusters we see topics we have already worked on and are developing naturally. 
+            - If we take this seriously, taking smart notes, we never have to start from scratch again. 
+                - Taking smart notes is the way to break the problem of information being too early or too late - breaking the linear order of writing.
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - We want our work to motivate our current and future work.
+                - {{[[TODO]]}} [[block ref]] "the more control we have in steering" from 13.3
+            - [[Michelle Segar]] a renowned exercise coach, focuses on creating satisfying repeatable exercises with sports [[motivation]]
+                - This motivates further positive action 
+                - If you incentivize work with watching TV we'll eventually just skip the work and go to the TV after awhile - it's how we tick.
+            - [[quote]] "nothing motivates us better than the experience of becoming better at something we do."
+            - Psychologists used to think our brains fill up as we get older and we can no longer take in information
+                - In reality it's easier as we get new information has pre-existing info to rest upon [[latticework of mental models]]
+                    - This is also how the [[slip-box]] works.
+                        - Our slipbox uses our own [[mental models]] so it's a perfect match for our mind! Unlike a wikipedia or something.
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+            - [[9.1 Give Each Task Your Full Attention]]
+                - Email and texts cut our [[productivity]] by 40% and makes us at least 10 IQ points dumber
+                - Distraction is commonplace now - training our attention span is hard.
+            - [[9.2 Multitasking is Bad]]
+                - Multitasking decreases productivity
+                    - It's not focusing on multiple things but instead shifting our attention very quickly. [[definition]]
+                        - This fatigues us and makes it harder to focus on more than one task.
+                - The [[mere-exposure effect]] doing something many times makes us think we're good at it despite performance (Bornstein 1989)
+                    - Familiarity does not equal skill, we constantly make it
+                - Writing a paper focuses on many tasks at a time: typing, structuring, picking proper words, reading, researching
+            - [[9.3 Give Each Task The Right Kind of Attention]]
+                - [[Proofreading]] requires a distant and objective critic mindset that will impede your writing process, however it's very useful when editing!
+                - [[Outlining]] is about changing the argument, we may have to dive back into this to adjust our argument as we write
+                - There is also the creative play that is useful when developing thoughts when you combine them
+                    - That's where you play with the [[slip-box]]
+                - [[Reading]] requires a different approach depending on the text
+                    - It's not professional to adhere to one technique no matter what flexibility is key
+                - A race car driver's skills don't matter if he's stuck on rails. [[Metaphorical Thinking]]
+            - [[9.4 Become An Expert Instead of a Planner]]
+                - As soon as we stop planning our writing we start learning.
+                - Experts rely on "embodied" experience to reach the state of [[virtuosity]] - an acquired intuition.
+                - The [[writing process]] should be open to the whim of the writer...
+                    - To read something else, review a passage, or change the outline should be allowed at any moment.
+                - Experts rely on their intuition as a result of lots of successful and failed experiences. They don't think long rational-analytical thoughts when making a decision, they just "know".
+            - [[9.5 Get Closure]]
+                - Remembering things **we understand** is much easier than random facts or numbers.
+                    - "Things we understand are connected, either through rules, theories, narratives, logic, mental models, or explanations."
+            - [[9.6 Reduce The # of Decisions]]
+                - Next, after attention and short-term memory is "[[motivation]] or [[willpower]]."
+                    - [[Environmental design]] makes a huge difference
+                    - [[willpower]] is a **resource** not a [[character trait]].
+                        - It's much akin to a muscle: It requires recovery after use - [[ego depletion]]
+                        - [[ego depletion]] is a temporary reduction in self want to engage in __doing__ (controlling environment, self, making choices, initiating action) caused by prior execution and volition. 
+                            - The best way to deal with this is to cheat:
+                                - Instead of forcing ourself to do what we don't want to we need to find a way to make ourselves feel like moving the project forward
+                                    - This requires "a ruse."
+                                - By using the [[slip-box]] method and therein the same notebook to permanent note system we reduce the number of decisions we must make related to work and increase mental energy.
+        - [[Chapter 10: Read for Understanding]]
+            - Short hints, not full on notes!
+            - [[10.1 Read With a Pen in Hand]]
+                - Good notes --> Rearranging of notes in slip-box --> Good draft --> Rewrite of a good draft is a good paper [[writing process]]
+                - [[Translate]] others work to your own context - the above fiction question is a decent example. 
+                    - This is novelty.
+                - All one must to do to [[write]] with the [[slip-box]] is to **arrange the notes in a linear order**
+                - "Drawing from the slip-box is more like a dialogue than a mechanical act."
+                    - Why?
+                        - "Because there will always be something that surprised you."
+            - [[10.2 Keep an Open Mind]]
+                - Our [[confirmation bias]] makes it hard to pick up valuable information and conflicting arguments if it doesn't fit into our pre-existing beliefs.
+                - A general rule of thumb: if [[insight]] becomes a threat to the [[writing process]] - you're doing it wrong.
+                    - Developing ideas [[bottom up]] versus [[top down]] is what you should do to open yourself up to [[insight]]
+                - The [[slip-box]] is agnostic about content - it just wants [[connections]]
+                    - The argument will come later
+            - [[10.3 Get the Gist]]
+                - Getting the [[main idea]] is something that takes [[practice]], sorting through mere supporting details.
+                - ([[Kant]] 1784) - "[[Nonage]] (immaturity) is the inability to use one's understanding without another's guidance... dare to know ([[sapere aude]])"
+            - [[10.4 Learn To Read]]
+                - Rewriting something in our own words ([[translation]]) is hard as we see all of the gaps in our knowledge - this is a must for learning.
+                    - This struggle is the only way to grow our understanding
+            - [[10.5 Learn by Reading]]
+                - [[Deliberate practice]] is a must for learning
+                    - We have to think to connect new ideas to old things in our heads
+                - The most researched and successful learning method is: [[elaboration]]
+                    - [[elaboration]] is simply thinking about what we're learning. How does it combine with knowledge we already have? 
+                        - The [[slip-box]] method of taking notes and turning them into [[permanent notes]], thinking about how they connect with other ideas in the slip-box is the perfect way to go about [[elaboration]].
+                - The [[slip-box]] acts as the detailed, referencing, unaltered long term memory bank which frees up our [[brain]] to "focus on the gist" and be creative. 
+        - [[Chapter 11. Take Smart Notes]]
+            - [[Kirsti Lonka]] an educational psychologist compared reading process of above average doctoral candidates and less successful students. The clear difference was "the ability to think beyond the given [[frame]] of a text." ([[Lonka]] [[2003]] 155f)
+            - It's crucial to remember the overall [[argument]] and [[context]] of the text you're reading.
+            - [[Kirsti Lonka]] suggests what [[Luhmann]] does: write brief recounts of the main text instead of collecting q
+            - [[11.1 Make a Career One Note at a Time]]
+                - [[Luhmann]] still managed to beat [[Anthony Trollope]] in total books and articles. [[Ahrens]] attribute's this to the [[slip-box]]
+                    - The [[slip-box]] is as to [[pages per day]] as investing with compound interest is to a piggy bank.
+                        - [[the fictional slip-box]] [[the narrative slip-box]]
+                    - The slip-box, unlike pages per day or notes, has an [[exponential ]]amount of connections as things can be reused and reconnected. 
+                    - Luhmann's slip-box contained ~90,000 notes which is only 6 notes per day from the day he started working with his slip-box.
+                        - [[notes per day]] is a reasonable goal for [[academic writing]]
+                            - [[what's measured gets managed]] [[habits]] [[daily]]
+                            - I could do [[pages per day]] and [[notes per day]], on off days I could just do the notes
+            - [[11.2 Think Outside the Brain]]
+                - an [[argument]] must be written down as our minds need the fixedness of an unchanging passage to begin to even ponder the argument
+                - "The [[brain]] is a machine for jumping to conclusions." ([[Kahneman]] 2013, 79) [[how the brain works]]
+                    - You want a system that doesn't rely on the brain when it comes to facts & rationality. This is Luhmann says "it's not possible to think systematically without writing." ([[Luhmann]] [[1992]], 53)
+                - The differences and specifities of the thinking (writing) must be kept track of if the writing is to serve as "models or theories" to give __"meaning and continuity"__ for continued thinking. ([[Luhmann]], [[1992]], 53)
+            - [[11.3 Learn by not Trying]]
+                - Selection in memory is what it's all about. If we remembered everything it would take us a ton of time to recall anything. ([[Wiliam James]] [[1890]], 680)
+                - Out [[literature notes]] would be lost in our [[reference system]] if we didn't transfer them into the [[slip-box]], our [[external memory]]
+                - [[Understanding]], which is **connecting** new information to previous knowledge, is the most surefire way to learn.
+            - [[11.4 Adding Permanent Notes to the Slip-Box]]
+        - [[Chapter 12. Develop Ideas]]  
+            - Ideally new notes are written with reference to already existing ones.
+            - These sequences of notes are the backbone of [[development]]
+                - They combine the advantages of abstract to topic related order
+            - "The [[slip-box]] is the medium we think __in,__ not something we think __about__.
+            - [[12.1 Develop Topics]]
+                - All we are looking for from the index is **entry points**
+                - The quicker we move from index to notes, the quicker we move from preconceived ideas to interconnected content where our dialogue with the slip-box starts.
+                - It's important to look at [[keyword]] creation through the lens of how you'll want it to [[resurface]] rather than "which keyword best describes this."
+                - The assigning of keywords is a crucial part of the thinking process.
+            - [[12.2 Make Smart Connections]]
+                - Making good cross-references requires serious thinking and is a crucial part of [[thought development]]
+            - [[12.3 Compare, Correct and Differentiate]]
+                - Ahrens claims that once you start using the slip-box more, you'll discover that any great new idea you have is already in the slip-box. Chances are the idea isn't even yours but someone else's.
+                - Ahrens finds that the addition of a new note oftern leads to a correction, addition, or improvement of old ideas.
+                - The [[slip-box]] not only shows us disconfirming information but also helps with the [[feature-positive effect]] (Allison and Messick 1988; Neman, Wolff, and Hearst 1980; Sainsbury 1971)
+            - [[12.4 Assemble a Toolbox for Thinking]]
+                - [[Charlie Munger]] stresses the important of having a [[theoretical toolbox]] to have a good pragmatic grip on reality.
+                    - How can I expand or practice mental models? Having this seems like it would even help with my recovery. [[daily]] [[learning plan]]
+                    - Munger thinks people should "look out for the most powerful concepts in every discipline and try to understand them so thoroughly that they become part of our thinking."
+                    - Once you start combining [[mental models]] and attaching experience to them you gain [[worldly wisdom]]
+                        - You have to be careful not to become too attached to a few of them otherwise you'll see everything through them [[man with a hammer]]
+                    - You must hang your experience (both vicarious and direct) on this [[latticework of mental models]] [[daily]] [[learning plan]]
+                        - God it feels good to have read this before and now see it in such an esteemed context.
+                - A truly wise person is someone who is able to make sense of things from an "extended resource of interpretation schemes."
+                    - [[Z: Vicarious learning is better than direct learning]]
+                - [[Helmut D. Sachs]] recommendations for learning:
+                    - 1. Pay attention to what you want to remember.
+                    - 2. Properly encode the information you want to keep. (This includes thinking about suitable cues.)
+                    - 3. Practice recall.(Ibid., 31) [[daily]] this is a section that's key and that's there is currently no great system for
+                - We learn something not only when we connect it to prior knowledge and try to understand its broader implications ([[elaboration]]), but also when we try to retrieve it at different times ([[spacing]]) in different contexts ([[variation]]), ideally with the help of chance ([[contextual interference]]) and with a deliberate effort ([[retrieval]]).
+            - [[12.5 Use the Slip-Box as a Creativity Machine]]
+                - Being experienced with a problem and intimately familiar with the tools and devices we work with, ideally to the point of virtuosity, is the precondition for discovering their inherent possibilities. [[Ludwik Fleck]] (Fleck 2012, 12
+                - Differences or connections between different ideas used to be the meaning of the word new. "Novus" in [[latin]] used to mean "different," "unusual," not so much "genuinely new."
+            - [[12.6 Think Inside the Box]]
+                - Creative people are better at recognizing connections, creating associations and seeing things in an original way - "seeing things that others cannot see" ([[Andreasen]] 2014)
+                - [[Abstraction]] is the key to analyze and compare concepts, to make analogies, combine ideas, this is especially true with interdisciplinary work. (Goldstone and Wilensky 2008)
+                - [[problem solving]] problems rarely get solved - most often the crucial step is to redefine the problem in such a way that an already existing solution can be employed.
+                - "Sometimes the breakthrough in a scientific process is the discovery of a simple principle behind a seemingly very complicated process."
+                    - Think of all the attempts of humans achieving flight. After all the tries of flapping wings it all game down to the relatively simple idea of the subtle bending of the wing.
+                - "Simple ideas can be tied together into consistent theories and build up enormous complexity. This just doesn’t work with complicated ideas."
+            - [[12.7 Facilitate Creativity through Restrictions]]
+                - Treat notes in the slip-box as if there is a limited space.
+                - The slip-box being such a standardized process is actually a good thing because it frees up our brain to focus on the contents.
+        - [[Chapter 13. Share Your Insight]]
+            - Instead of picking a [[topic]] out of thin air, all one must do is look into the slip-box and finder where [[cluster]] have already built up.
+            - Upon laying out the various [[slip-box]] notes it will be visibly clear which questions are unanswered and where there are gaps in the argument - where work is needed will become clear.
+                - Now, instead of finding as many lines of thought as possible, it's about making a decision on one topic and cutting back everything that doesn't directly contribute.
+            - [[13.1 From Brainstorming to Slip-box-Storming]]
+                - Ahrens explains that [[brainstorming]] is an outdated and non effective means of coming up with ideas because it does not rely on any external tools.
+                - People who have been taking notes along with their reading no longer have a need for [[brainstorming]].
+                - Instead of brainstorming we can now look into the [[slip-box]] where we can see what proved to be interesting overtime, unaffected by our brain's recent memory recall.
+            - [[13.2 From Top Down to Bottom Up]]
+                - Another advantage of bottom-up development: is that we become **more open** to new ideas.
+            - [[13.3 Getting Things Done by Following Your Interests]]
+                - [[motivation]] and "the feeling of being in control of one's own learning course" are the key factors in successful students
+                    - When highly capable students [[fail]] in studies it tends to be because they cease to see meaning in what they're learning.
+                        - They're unable to make a [[connection]] to their personal [[goals]]
+                    - The risk of losing interest is high when we decide on a long-term project with knowing what to expect.
+                    - The risk of losing interest can be mitigated by **applying a flexible organization scheme that allows to change course whenever necessary** [[learning plan]]
+                    - The __more__ control we have in steering our work towards what we think interesting the __less__ [[willpower]] required.
+                        - **Only then** can the work become the source of [[motivation]] which is __crucial__ to make sustainable.
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - [[Luhmann]] had two file-boxes: The [[slip-box]] and his [[reference system]]
+            - After reading and writing the info on the cards he would shortly after ponder their relevance for his own thinking and writing.
+                - He would limit himself to one index card and only write on one side to keep his idea brief, sometimes it would extend onto another card.
+    - [[Chapter 2. Everything You Need to Do]]
+        - [[Ahrens]] presents a lovely [[thought experiment]] in which we are asked to imagine that the notes, then the draft of a paper itself has already been done for us by an omniscient assistant. This, of course, is a demonstration of what the [slip-box] does for you.
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+            - It's the simple and small ideas ideas that often cause big change.
+            - In the normal notetaking style it's about topic labeling.
+            - In the new system it's about the context in which you want to stumble upon the note again. 
+                - E.g. you wouldn't think to find the pants with the bleach you bought on a specific date. Why would you remember, or know to look for, a note made on a specific date?
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - Ahrens asks why not start in reality, understanding that writing is rarely linear or goes as it's promised to go if you follow the self help book plan.
+            - Intellectual endeavors start from existing preconceptions which can then be transformed by further endeavors [[definition]] [[Hermeneutic Circle]]
+            - We should be reading with a pen in hand.
+            - The goal is that when we look into our slip-box clusters we see topics we have already worked on and are developing naturally. 
+            - If we take this seriously, taking smart notes, we never have to start from scratch again. 
+                - Taking smart notes is the way to break the problem of information being too early or too late - breaking the linear order of writing.
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - We want our work to motivate our current and future work.
+                - {{[[TODO]]}} [[block ref]] "the more control we have in steering" from 13.3
+            - [[Michelle Segar]] a renowned exercise coach, focuses on creating satisfying repeatable exercises with sports [[motivation]]
+                - This motivates further positive action 
+                - If you incentivize work with watching TV we'll eventually just skip the work and go to the TV after awhile - it's how we tick.
+            - [[quote]] "nothing motivates us better than the experience of becoming better at something we do."
+            - Psychologists used to think our brains fill up as we get older and we can no longer take in information
+                - In reality it's easier as we get new information has pre-existing info to rest upon [[latticework of mental models]]
+                    - This is also how the [[slip-box]] works.
+                        - Our slipbox uses our own [[mental models]] so it's a perfect match for our mind! Unlike a wikipedia or something.
+    - [[The Six Steps to Successful Writing]]
+        - 
+        - 
+        - 
+        - [[Chapter 12. Develop Ideas]]  
+            - Ideally new notes are written with reference to already existing ones.
+            - These sequences of notes are the backbone of [[development]]
+                - They combine the advantages of abstract to topic related order
+            - "The [[slip-box]] is the medium we think __in,__ not something we think __about__.
+            - [[12.1 Develop Topics]]
+                - All we are looking for from the index is **entry points**
+                - The quicker we move from index to notes, the quicker we move from preconceived ideas to interconnected content where our dialogue with the slip-box starts.
+                - It's important to look at [[keyword]] creation through the lens of how you'll want it to [[resurface]] rather than "which keyword best describes this."
+                - The assigning of keywords is a crucial part of the thinking process.
+            - [[12.2 Make Smart Connections]]
+                - Making good cross-references requires serious thinking and is a crucial part of [[thought development]]
+            - [[12.3 Compare, Correct and Differentiate]]
+                - Ahrens claims that once you start using the slip-box more, you'll discover that any great new idea you have is already in the slip-box. Chances are the idea isn't even yours but someone else's.
+                - Ahrens finds that the addition of a new note oftern leads to a correction, addition, or improvement of old ideas.
+                - The [[slip-box]] not only shows us disconfirming information but also helps with the [[feature-positive effect]] (Allison and Messick 1988; Neman, Wolff, and Hearst 1980; Sainsbury 1971)
+            - [[12.4 Assemble a Toolbox for Thinking]]
+                - [[Charlie Munger]] stresses the important of having a [[theoretical toolbox]] to have a good pragmatic grip on reality.
+                    - How can I expand or practice mental models? Having this seems like it would even help with my recovery. [[daily]] [[learning plan]]
+                    - Munger thinks people should "look out for the most powerful concepts in every discipline and try to understand them so thoroughly that they become part of our thinking."
+                    - Once you start combining [[mental models]] and attaching experience to them you gain [[worldly wisdom]]
+                        - You have to be careful not to become too attached to a few of them otherwise you'll see everything through them [[man with a hammer]]
+                    - You must hang your experience (both vicarious and direct) on this [[latticework of mental models]] [[daily]] [[learning plan]]
+                        - God it feels good to have read this before and now see it in such an esteemed context.
+                - A truly wise person is someone who is able to make sense of things from an "extended resource of interpretation schemes."
+                    - [[Z: Vicarious learning is better than direct learning]]
+                - [[Helmut D. Sachs]] recommendations for learning:
+                    - 1. Pay attention to what you want to remember.
+                    - 2. Properly encode the information you want to keep. (This includes thinking about suitable cues.)
+                    - 3. Practice recall.(Ibid., 31) [[daily]] this is a section that's key and that's there is currently no great system for
+                - We learn something not only when we connect it to prior knowledge and try to understand its broader implications ([[elaboration]]), but also when we try to retrieve it at different times ([[spacing]]) in different contexts ([[variation]]), ideally with the help of chance ([[contextual interference]]) and with a deliberate effort ([[retrieval]]).
+            - [[12.5 Use the Slip-Box as a Creativity Machine]]
+                - Being experienced with a problem and intimately familiar with the tools and devices we work with, ideally to the point of virtuosity, is the precondition for discovering their inherent possibilities. [[Ludwik Fleck]] (Fleck 2012, 12
+                - Differences or connections between different ideas used to be the meaning of the word new. "Novus" in [[latin]] used to mean "different," "unusual," not so much "genuinely new."
+            - [[12.6 Think Inside the Box]]
+                - Creative people are better at recognizing connections, creating associations and seeing things in an original way - "seeing things that others cannot see" ([[Andreasen]] 2014)
+                - [[Abstraction]] is the key to analyze and compare concepts, to make analogies, combine ideas, this is especially true with interdisciplinary work. (Goldstone and Wilensky 2008)
+                - [[problem solving]] problems rarely get solved - most often the crucial step is to redefine the problem in such a way that an already existing solution can be employed.
+                - "Sometimes the breakthrough in a scientific process is the discovery of a simple principle behind a seemingly very complicated process."
+                    - Think of all the attempts of humans achieving flight. After all the tries of flapping wings it all game down to the relatively simple idea of the subtle bending of the wing.
+                - "Simple ideas can be tied together into consistent theories and build up enormous complexity. This just doesn’t work with complicated ideas."
+            - [[12.7 Facilitate Creativity through Restrictions]]
+                - Treat notes in the slip-box as if there is a limited space.
+                - The slip-box being such a standardized process is actually a good thing because it frees up our brain to focus on the contents.
+        - [[Chapter 13. Share Your Insight]]
+            - Instead of picking a [[topic]] out of thin air, all one must do is look into the slip-box and finder where [[cluster]] have already built up.
+            - Upon laying out the various [[slip-box]] notes it will be visibly clear which questions are unanswered and where there are gaps in the argument - where work is needed will become clear.
+                - Now, instead of finding as many lines of thought as possible, it's about making a decision on one topic and cutting back everything that doesn't directly contribute.
+            - [[13.1 From Brainstorming to Slip-box-Storming]]
+                - Ahrens explains that [[brainstorming]] is an outdated and non effective means of coming up with ideas because it does not rely on any external tools.
+                - People who have been taking notes along with their reading no longer have a need for [[brainstorming]].
+                - Instead of brainstorming we can now look into the [[slip-box]] where we can see what proved to be interesting overtime, unaffected by our brain's recent memory recall.
+            - [[13.2 From Top Down to Bottom Up]]
+                - Another advantage of bottom-up development: is that we become **more open** to new ideas.
+            - [[13.3 Getting Things Done by Following Your Interests]]
+                - [[motivation]] and "the feeling of being in control of one's own learning course" are the key factors in successful students
+                    - When highly capable students [[fail]] in studies it tends to be because they cease to see meaning in what they're learning.
+                        - They're unable to make a [[connection]] to their personal [[goals]]
+                    - The risk of losing interest is high when we decide on a long-term project with knowing what to expect.
+                    - The risk of losing interest can be mitigated by **applying a flexible organization scheme that allows to change course whenever necessary** [[learning plan]]
+                    - The __more__ control we have in steering our work towards what we think interesting the __less__ [[willpower]] required.
+                        - **Only then** can the work become the source of [[motivation]] which is __crucial__ to make sustainable.
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- [[🎤 Live Sessions 🎤]]
+    - [[Live Session 3]]
+        - [[Live Session 3]] Writing Prompts
+            - Define a literature not
+            - "Define a literature note in your own words."
+                - A descriptive note that contains bibliographic reference to its sources and/or includes your own translation of a note
+            - "How do you take literature notes? Discuss your method."
+                - I haven't gotten to this point yet, yep still behind.
+            - "Have you found value in taking literature notes already?"
+                - In the past, yes.
+            - "What struggles have you had implementing literature notes?"
+            - "Describe any enlightening moments you had while taking literature notes."
+        - [[Break Out Room 7]]
+            - [[Jason Carman]] how is our group defining a literature note?
+                - [[Brandon Toner]] Defined fleeting notes as short quick notes, Defined literature notes as ??? [[@[[Brandon Toner]]]] missed part of your definition.
+                - [[Coleman Foley]] A literature note is a summary of a chapter
+                - [[JanP]] A literature note comes after you read a section and the key is writing. 
+            - [[Brandon Toner]] shared his screen and shared his person Zettelkasten system
+                - [[@[[Brandon Toner]]]] can you share your template here?
+                    - Fleeting note starts on daily page.
+                        - It will show up in queries and eventually it will show up in his [[Zettelkasten]]
+                    - Here's my template from in this graph (more universal) "My Zettelkasten:: #Highlight"
+            - [[Brandon Toner]] shared the idea of a "tag system" where you have a limited number of tags you can assign to notes.
+            - [[Brandon Toner]] suggested that the book may not actually need to be read fully to get the benefit.
+                - Read and write as you feel
+            - [[Jason Carman]] asked if the roam no character or word limit would inhibit or have a negative effect long term in a way that the written slip box wont?
+                - [[Brandon Toner]] asks how will resurfacing happen? 
+                    - Using [[tags]] 
+                        - How important is it that I see this information again? 
+                        - [[Brandon Toner]] tags notes with wide date ranges using the date picker for [[resurfacing]]. 
+        - [[Live Session Notes]]
+            - [[How to]] block ref
+                - Copy block refs
+                - add a [] in front of the block ref and that will act as a hyperlink back to the block ref
+                    - e.g. 
+                        - "Until now, writing and note-taking techniques were usually taught without much regard to the overarching workflow. This book aims to change that. It will present you with the tools of note-taking that turned the son of a brewer into one of the most productive and revered social scientists of the 20th century. But moreover, it describes how he implemented them into his workflow so he could honestly say: “I never force myself to do anything I don’t feel like. Whenever I am stuck, I do something else.” A good structure allows you to do that, to move seamlessly from one task to another–without threatening the whole arrangement or losing sight of the bigger picture."
+                        - "A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas. By breaking down the amorphous task of “writing a paper” into small and clearly separated tasks, you can focus on one thing at a time, complete each in one go and move on to the next one (Chapter 3.1). A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep on going as the work becomes effortless (Csikszentmihalyi, 1975). Something like that does not happen by chance."
+                - You can also do CTRL or CMD shift 9 to pull up a block search feature and link it
+                    - You can then alias it after with the (*)
+            - Someone asked [[Bardia Pourvakil]] how to do literature notes on physical plane
+                - Suggested [[Readwise]] OCR which automatically inputs it into Roam
+                - [[Brandon Toner]] recommended Memex WorldBrain for articles
+            - writing exercise [[Literature Note]]
+                - [*](((x5hx3y9ay)))
+                    - If we'd like to change our behavior we need to know how difficult behavioral change is.
+            - It was just today that I was pondering how I might setup my [[zettelkasten]] now I have a great guide to go off of thanks to [[Brandon Toner]]
+                - "#Reply-from [[Brandon Toner]] I agree! [[assertions]] are a maturity step in my notes. Almost everything starts as an idea, or a question. As those accumulate I form [[opinions]]. And eventually, those opinions strengthen. [[@[[Jason Kleinberg 🎻]]]] #[[My Zettelkasten Workflow]]
+
+I use `#[[Zettel Questions]]` to address this. Feeling better about this very thing this week. And had a great day in the [[zettelkasten]] in my personal database. I'll be reflecting further on that in here. 
+
+Here is my working array of note tags. 
+
+[[reference notes]] — the bibliographic material and direct highlights
+
+[[seedlings]] — bits of original inspiration, loose in format and tone-of-voice. More informal. 
+
+[[fleeting notes]] — [[assertions]] start here. These are statements and claims. But not well thought out, yet.
+
+[[literature notes]] — these are summaries of the author's main points. In my own words.
+
+[[evergreen notes]] or [[permanent notes]] — these are the accumulation of [[fleeting notes]], [[seedlings]], and [[literature notes]] into a stronger idea [[synthesis]]. Densely linked and referenced, ideally. This is peak maturity of an [[atomic idea]].
+
+[[zettel questions]] — these are questions I think of. Captured curiosities. Anything I'm wondering about. This may get noisy and I may need a tier for refined questions. Not yet, though.
+
+[[project ideas]] — writing & creative projects — where I put the [[zettelkasten]] to work.
+
+[[queries]] — this is where I find stray notes of these categories from around my database to gather the originals back here. Most of these notes form in some other [[context]].
+"
+                    - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FrP76Z9wEcq.png?alt=media&token=271505a3-2826-415a-aec1-f150a2fba6b7)"
+    - [[Live Session 6]]
+        - "[[Live Session 6]] Starting 12:00 PST"
+            - "[Zoom Link](https://us02web.zoom.us/j/89124754465?pwd=R2VIUnFlVVZMVEptcktZdEc2MisyQT09)"
+            - "{{[[DONE]]}} **Section 1** [[Writing practice]]"
+                - ((xue-ufV35))
+                - "Pick from the prompts below and write in your own page for 25 minutes."
+                - "Questions for us from [[Sönke Ahrens]]"
+                    - "What have you learnt about note taking that I (Sönke) should know about?"
+                        - When reading on deadline or as students refer to it, [[cramming]], I found a best of both worlds approach that allowed me to gather interesting notes while getting my reading done in time for [[book club]]: 
+                            - 1. Reading through the chapter and highlighting interesting bits 
+                            - 2. Reviewing the chapter and [[Translating]] highlights into notes.
+                        - For me, this sped up my reading considerably and while allowing me to gather interesting [[Fleeting notes]]
+                    - "Are there any additions to the process described in the book?"
+                    - "Discuss your impression of the range of possibilities and limitations of a Zettelkasten?"
+                        - Throughout reading the book and hearing the value of the slip-box method for [[Non fiction ]] and [[academic]] writers I wondered if a version of the slip-box could be adapted for [[Fiction ]] writing.
+                            - I imagined a use-case in which show writing or novel collection writing could be developed in a new [[graph]] within Roam and treated with rules similar to the [[Slip-box]] method.
+                    - "(what use cases does it work for? Are there any examples it doesn't work for?)"
+                - "General review questions "
+                    - "Reflect on your impressions of the book "
+                        - I found the book helpfully simple in it's description and presentation of the [[Slip-box]] [[Process]]. I enjoyed the vast amount of [[research]] citations and subtle yet appropriate deviations from the "selling" of the [[Slip-Box]].
+                    - "Reflect on your note taking and reading. What if anything, has changed?"
+                        - Having already been in the market for:
+                            - A "proper way" to take notes
+                            - A systematic approach to [[reading]]
+                            - A review method [of notes] that has purpose beyond review.
+                            - A way to catalogue & store learning
+                        - I was presently surprised to find a solution and additional value in the [[Slip-box]] system. I plan to fully adopt the system into my own education.
+                    - "Do you plan to continue your Zettelkasten from here?  "
+                        - 100%.
+            - "{{[[DONE]]}} **Section 2** Talk with [[Sönke Ahrens]]"
+                - 
+                - "[[Dharam Kapila]] to use [[Roam Portal]] to show us around the graph"
+                - "Group discussion and questions"
+                - "Exploring the #Zettels   tag"
+            - "{{[[TODO]]}} **Section 3** [[Break Out Rooms]]"
+                - "{{[[POMO]]: 30}}"
+            - "{{[[TODO]]}} **Section 4** Reflections and Graph decisions"
+                - "{{[[POMO]]: 15}}"
+                - 
+        - [[Sonke Ahrens Interview]] [[Live Session Notes]] [[translation]] scribe notes by [[Jason Carman]]
+            - Do you have multiple [[Zettelkasten]] running?
+                - No. I thought about having a personal one for journaling style things.
+                    - This will change if I partake in collaboration 
+            - Do you have a specific approach for reading the first pass of a book with [[Fleeting notes]] and then the second pass for [[Literature notes]]?
+                - The question I approach every book with: "What's the gist?"
+                - I think [[Luhmann]] never went through something he read a second time.
+            - How much time do you spend in your [[Zettelkasten]]?
+                - I am always using my [[Zettelkasten]] with a purpose.
+                - I don't review notes just to review notes.
+            - Now that you’re a Roam user with no pen in hand, how has Roam changed your work (process and content) as well as your sense of the possibilities for note taking? 
+                - Difficult to describe as the differences are small but have a big impact in the long run.
+                - "Much easier to get into the ideas again."
+                    - "All about a very low threshold."
+            - Where have you struggled to take notes in [[Zettelkasten]] now that you're in Roam? 
+                - Less with Roam and more with struggle to publish.
+            - Where do you see people struggling with this?
+                - I would now stress the balance between [[bottom up]] [with topic creation] and [[top down]] hierarchical development in the [[Zettelkasten]].
+                - When you feel you're no longer sure what you're talking about that's a good hint to go back and focus on the hierarchical structure.
+            - [[Ahrens]] asked if too many back links could dilute?
+            - [[Ahrens]] asked if there was anything that the group wished we'd known when we started?
+                - [[Henry Finkelstein]] expressed that having an example [[Zettelkasten]] would be helpful.
+            - "I think less output is better. It's better to increase the density of insight in the body of work... We spend way too much time going through articles and books that aren't very dense in insight." [[my graph export]]
+                - Reading your book certainly has inspired me to read more research and studies.
+            - "Explore the connection and turn it into another note... explain the connection as explicitly as possible as if to someone else." [[my graph export]]
+                - [[ELI5]] Explain it like I'm 5 years old

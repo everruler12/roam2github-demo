@@ -1,0 +1,2 @@
+- I have just started my own consultancy on digital competences and capabilities, in support of the digital transformation of organisations.
+    - Chapter 1

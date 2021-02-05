@@ -1,0 +1,2 @@
+- #Consideration [[Consideration allows us to leverage unique strengths to make more meaningful interactions]]
+    - #

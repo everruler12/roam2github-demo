@@ -1,0 +1,56 @@
+- Favourite books:: Guns, Germs, and Steel
+- Link to something you find interesting:: https://www.bighistoryproject.com/home
+- Book Club 1 member? (y/n):: n
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::
+- Live session notes
+    - Define a Literature Note in your words
+        - A note taken in our own words that summarizes the idea that we have taken from another source
+    - How do you take literature notes? Discuss your method.
+        - A make an entry in a Resonance Calendar. In that entry I copy literally the notes that I take from my source material.
+        - Later I review the notes and higlight or embold the most important sections
+        - Finally, I add my notes to the **Literature Notes** section of my Resonance Calendar entry. If I think that it is appropiate I create an Evergreen note from the note
+            -  
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - I would like to come up with a structure and a process for creating my PKM system.
+        - I would like to compare what I am doing now, with what other people are doing
+        - I want to apply all these concepts to the reading of the book and see how it helps or not in the comprehension of the concepts, the memorization of them, and see if having the notes helps  in the future to the actual implementation of them
+- [[Live Session 4]]
+    - Reflect on the book
+        - "Reflect on literature notes- useful? Did they help you understand the book in a different way? "
+            - Yes. It made me think more thoroughly on the material and try to find the "nugget" of knowledge on what I was reading
+            - Having to transfer that nugget in my own words, also made me think more widely about the meaning of what I was reading and made me actively think on how it would apply to my circumstances
+        - "Explain what a permanent note is in your own words?"
+            - It is the elaboration of one idea in my own words. It uses as support all the literature notes that I have written and it should also link to other related notes (permanent notes usually) to indicate future elaborations
+        - "What are you unsure about? "
+            - I would like to find a way to organize/improve the searching capabilities of my notes so they are more easily found when I need them. For example, to be able to review all the related information to a topic that I a working on.  
+            - I would like to read a bit more about the concept of a Second Brain and the PARA methodoloy and apply it to my note-taking
+            - 
+- "[[Live Session 5]] Start 12:30 PST "
+    - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+        - The whole process has been a great change on the way I read and write. Before this I just used to take notes in One Note and leave them there for "later review". The idea of having a process from taking a note to producing something out of it is a complete change to my workflow.
+        - Trying to follow the Zettelkasten process and the Second Brain ideas has meant a complete new way of reading. It has become a more active process, with a more conscious follow up. And the best thing is that I have concrete products from that work, now.

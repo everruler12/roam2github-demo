@@ -1,0 +1,606 @@
+- These will be default-sorted below by first name - first letter 
+- To repeat this 'sort', if needed, just do this: select all the blocks as a group below the line, right click, then you have the option to "sort".   - MB
+- Tips to get the most out of the "Directory" (see collapsed and nested below this bullet point)
+    - As the directory inevitably gets crowded, it can quickly be searched by using the "filter" icon at top right.
+    - ^^QUICK TIP^^: It's tempting to nest your personal details here, but even better is to nest them under a bullet labelled [[Directory]] under your home page.
+        - if you do that, we'll all see them in linked references, which can be filtered and sorted. 
+    - ^^QUICK TIP NUMBER TWO^^: if you want to find someone quickly, first right click the title of this page above, and select "collapse all" to close all the open bullets and get a list-view
+- :hiccup [:hr {:style {:border-top "5px solid purple"}}]
+- [[@P_Trulli]]
+- [[Adam Bartley]]
+    - Favorite Book:: [[Flow: The Psychology of Optimal Experience]]
+    - Interests:: [[Alternatives for Higher Education]] [[Self-Education]] [[Course Creation]] 
+    - Twitter:: @bartadamley
+    - Website:: www.bartadamley.com
+- [[Adam Krivka]]
+- [[Adil Bulkool Bernstein]]
+- [[Adrian Brookes]]
+- [[Alberto]]
+- [[Alex Sentinella]]
+- [[Alex Shchedrin]]
+- [[Alex Yao]]
+- [[Alexandra Westhoff]]
+- [[Aman Thakur]]
+- [[Andrew Bowley]]
+- [[Andy Etzler]]
+- [[Andy Henson]]
+- [[Annemarie Munk]]
+- [[Annette Zeelenberg]]
+- [[Anthony Pica]]
+- [[Antonette Laderas]]
+    - {{[[embed]]: ((((fDaXwO1qc))))}}
+- [[Antonio]]
+- [[Art Assoiants]]
+- [[Asaf Dafna]]
+- [[Asha N]]
+- [[Ashish]]
+- [[Atif Shaikh]]
+- [[Zach Lewis]]
+- [[Ayush Verma]]
+- [[Bart Lubaszka]]
+- [[Batapha]]
+- [[Beau Haan 📌]]
+    - Favourite books::
+        - [[Book/Crime And Punishment]] by [[Fyodor Dostoevsky]]
+            - #Chat [[Joshua Gerald Butler]] Ohh i'm just about to read Crime and Punishment. 
+        - [[Book/The Prophet]] by [[Kahlil Gibran]]
+    - Interests:: Community, story-telling, and motorcycles (loud motorcycles 😈)
+        - Are you a Harley Davidson rider? My husband rides a Ducati and a Triumph
+    - Profession:: Actor
+    - Twitter:: [@beauhaan](https://twitter.com/beauhaan)
+- [[Ben Grimes]]
+- [[Ben Willmore]]
+- [[BenH]]
+- [[Bill Petro]]
+    - :hiccup [:hr {:style {:border-top "5px solid purple"}}]
+    - Currently reading:: [[How to Take Smart Notes]]
+    - Email:: [billpetro@billpetro.com](mailto:billpetro@billpetro.com)
+    - Favourite books:: [[Lord of the Rings]], [[Foundation]], [[Bible]]
+    - Interests:: [[Productivity]],[[History]],[[Technology]]
+    - Profession:: Technology Sales Training Exec
+    - Twitter:: [@billpetro](http://twitter.com/billpetro)
+    - Website:: [billpetro.com](billpetro.com)
+    - [[Book Club Live Session 1]]
+        - "Chance favors the prepared mind." - Louis Pasteur
+        - Check out [[Charlie Mead]] [[Book Prompts]] "plugins/(rand)"
+            - (rand)
+        - Notes from [[Sönke Ahrens]]
+            - [[Questions for Sönke]] How do you feel about being the Patron Saint of Roam? Conor was inspired by it, Roamans have read your book, this community sees you as a visionary.
+            - [[Questions for Sönke]] What inspired you to write the book originally, beyond the history of zettelkasten?
+            - Origin: __thinking about thinking. __
+                - How to systematically represent heterogeneous thoughts.
+                - But the book got little attention: dismissed as the musings of an old professor sitting in his room.
+                - My brain cannot hold too many ideas at the same time -- so a spin off personally and professionally. Had tried:
+                    - Paper
+                    - HTML
+                    - Other apps
+                - The moment when we have to make a decision between two nodes we wrote at different times. With a tool like Roam: is it an addition, contradiction, or something else? **A dialog partner**
+                    - This helps make things fit, be more humble, contrast with confirmation bias.
+                - I'd originally conceived this for academics or professional non-fiction writers. I now see this has much broader applicability. Coders have a natural connection for how to store information, but it's applicable to other disciplines.
+                - Paper or software? Both. As long as the app doesn't steal your focus onto the software. Roam doesn't get in the way of your thinking. Removes friction.
+                - Patron Saint of Roam: I get the benefit that what I wrote has helped people. I developed a theory, but was not able to create a context for it. I wasn't really interested in the academic community itself, but the ability to create an idea with broader audience is enormously encouraging.
+                - How should we read the book?
+                    - Do you want to put it into practice? Might not need to take many notes, rather, think about __how__ to put it into practice. Not create a paper you want to write, but practicum. But if you want to develop your own theories and concepts, then write notes.
+                - Note sequences are important. One note asserts something. The next note might say "In contradiction to the previous note..." **Dialog between notes.** 
+                - There are "index" or collection pages: collective. Others might be standalone notes. The magic of "block references."
+                - Sönke on individual vs collective Zettling: You need a **firewall** as you get familiar with your own Zettelkasten and that can’t happen in a collective process; but what kind of experiences do you have when there is so much possible, when you do something collectively that is impossible when you do it on your own?
+        - [[Goals for Book Club]]
+            - Read book on different levels: Big Ideas, Concepts, Insights
+            - Super-heterodyne with other participants on various applications of the learning -- what can I learn from others?
+            - Use methodology of book to create notes about book
+            - What are the lessons and limitations of only academic application of this methodology?
+    - [[Book Club Live Session 4]]
+        - #Zettels Zettels are Atomic ideas for future use. Zettle: distillation. Meta-level. Core idea to be mixed or matched with other ideas, well-referenced. An extension of literature notes. = #[[Evergreen Notes]] According to [[Andy Matuschak]] https://notes.andymatuschak.org/Evergreen_notes
+    - [[Book Club Live Session 5]]
+        - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+            - I've found that the book starts slowly and encouragingly. I haven't gotten all the way through the book.
+            - Neverthless, I'm committed to completing it and adopting the methodology.
+        - "Reflect on your Zettel process"
+            - Many people have praised [[Beau Haan]] for helping them. Perhaps it's time for me to set up a 1-on-1 coaching session with him.
+            - The #[[Fleeting Notes]] was easy enough, a simple reminder
+            - The #[[Literature Note]] was not tough, it was a paraphrase in my own language.
+            - The #[[Zettelkasten]] note is more difficult: is a #Zettel the same as an #[[Evergreen Note]] or how does it differ?
+        - 
+    - "Template - Apply children as text"
+        - #[[Question 3]] 
+            - #[[Question 2]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
+                - 
+            - #[[Question 1]] 
+                - 
+- [[Blair Dowding]]
+- [[Boaz Nazar]]
+- [[Bradley Everett]]
+- [[Brand Venter]]
+- [[Brandon Toner]]
+- [[Brent Bitz]]
+    - **LinkedIn:** [brentibitz](https://www.linkedin.com/in/brentbitz/)
+    - **Location:** [[Denver, CO]]
+    - **Twitter:** @brentbitz
+- [[Brian J Brennan]]
+- [[Briar Harvey]]
+- [[Bruno d'Abreu]]
+- [[Cal Waits]] 
+    - **Email:** cal.waits@hey.com
+    - **Twitter:** [@calwaits](https://twitter.com/calwaits)
+    - [[Caroline Nash]]
+- [[Calvin Robert Lee]]
+    - Check out my [Roam Themes](https://github.com/calrobertlee/roam-css-styles)! Favorite of a lot of Roamers!
+    - Contact::
+        - Website:: [calrobert.com](https://www.calrobert.com/)
+        - GitHub:: [@calrobertlee](https://github.com/calrobertlee)
+        - Twitter:: [@calrobert_](https://twitter.com/calrobert_)
+        - Location:: [[San Francisco]]
+    - Favorite Books:: [[The Body Keeps the Score]], [[Sapiens]], [[__Thinking in Systems: a Primer__]], [[Sacred Economics]], [[Philosophy for Life and Other Dangerous Situations]], [[Be Here Now]]
+    - Favorite Music:: [[Tool]], [[Radiohead]], [[Santana]], [[Daft Punk]], [[Bon Iver]]
+    - Interests:: [[Productivity]], [[Art]], [[Philosophy]], [[Design]]
+    - Visual & Product Designer for a [[cryptocurrency]] platform #[[Design]] #[[Profession]]
+- [[Casey Gollan]]
+- [[Carol Leather]]
+- [[Carolina Brum]]
+- [[Charlie Mead]]
+- [[Catherine Rickwood]]
+- [[Cherry Sun]]
+- [[Chin-Chau Low]]
+- [[Chinarut]]
+- [[Chris Duell]]
+- [[Chris Mendis]]
+- [[Christine N]]
+- [[Christopher Boone]]
+- [[Chuck Grimmett]]
+- [[Coleman Foley]]
+- [[Conroy Michel]]
+- [[Dan Allosso]]
+- [[Dan Slattery]]
+- [[Darin Buzon]]
+- [[Dave Friedman]]
+- [[Daniel Souza]]
+- [[David Bieber]]
+- [[David Hunter]]
+- [[David Lin]]
+    - From:: France
+    - Interests:: [[Alternatives for Higher Education]] [[Self-Education]] [[Course Creation]][[Personnal Finance]] [[Investment Management]]
+    - Twitter:: @D4vslin
+    - Website:: www.cercledali.fr
+- [[Denise Todd]]
+    - **Company:** Author, Non-fiction, and Fiction- Thriller/mystery 
+    - **Favorite Authors:** John Irving, Salman Rushdie, Philip Roth
+    - **Interests:** critical thinking, learning, writing, reading, software, drawing
+    - **Twitter:** @denisehtodd
+    - **email:** peaceful.az@gmail.com
+    - **website:** https://denisetodd.com]
+    - [[Questions for Sönke]] Would love to hear more about collective Zettling. I'm hung up on the concept that thought groups that grow organically within the [[zettelkasten]] are because of what interests me. So how does that integrate with others? I can see the benefits of seeing things from a different perspective, just don't understand the pragmatics of it. 
+- [[Directory]]
+- [[Doc Ayomide]]
+- [[Djuddah Leijen]]
+- [[Dominic Edmunds]]
+- [[Dustin Hopkins]]
+- [[Eben Halford]]
+- [[Edlin]]
+- [[Eilidh Geddes]]
+- [[Eric Janto]]
+- [[Eric Sinclair]]
+- [[Doc Ayomide]]
+- [[Erik Engelhardt]]
+- [[Erik Newhard]]
+- [[Federico Gaggio]]
+- [[Fernando C.]]
+- [[Floor Scheffer]]
+    - **LinkedIn**: https://www.linkedin.com/in/floorscheffer/
+    - **Twitter**: @jjfscheffer
+- [[Fábio Lopes]]
+    - **favorite book**: man's search for meaning
+    - @[notfbkz](notfbkz)
+- [[Forrest Perry]]
+- [[Gandeevan Raghuraman]]
+- [[Genelle Heim]]
+    - Michael Nieman:: @genelleheim
+    - Website:: www.graysonhayden.com, TheSantaCruzCo.com
+    - Company:: Grayson Hayden Group, The Santa Cruz Company
+    - Favourite books:: 
+    - Link to something you find interesting:: www.farnamstreet.com
+    - Book Club 1 member? (y/n):: N
+    - "template 🧩: report back from small group"
+        - 
+    - How to Take Smart Notes::
+        - [[Introduction]]
+        - [[Chapter 1. Everything You Need To Know]]
+            - write your notes here 
+        - [[Chapter 2. Everything You Need to Do]]
+            - write your notes here 
+        - [[Chapter 3. Everything You Need to Have]]
+            - write your notes here 
+        - [[Chapter 4. A Few Things to Keep in Mind]]
+            - etc 
+        - [[The Four Underlying Principles]]
+            - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - [[Chapter 6. Simplicity is Paramount]]
+            - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - [[Chapter 8. Let the Work Carry You Forward]]
+        - [[The Six Steps to Successful Writing]]
+            - [[Chapter 9. Separate the Interlocking Tasks]]
+            - [[Chapter 10: Read for Understanding]]
+            - [[Chapter 11. Take Smart Notes]]
+            - [[Chapter 12. Develop Ideas]]  
+            - [[Chapter 13. Share Your Insight]]
+            - [[Chapter 14. Make it a Habit]]
+        - [[Afterword]]
+    - Fleeting Notes:: 
+    - Literature Notes::
+    - 
+- [[George Menhorn]]
+- [[Gregor]]
+- [[Guia Carmona]]
+- [[Shreyas Prakash]]
+    - Linkedin: https://www.linkedin.com/in/shreyasprakash/
+    - Company: [dVerse Innovation Labs](https://www.dverselabs.com/)
+    - Website: [Shreyas Prakash](http://bit.ly/shreyas-prakash)
+    - Link to something you find interesting: https://twitter.com/azlenelza/status/1328594861575049220?s=20
+    - Favourite Books: Navalmanack by Eric Jorgensen, Crime and Punishment by Fyodor Dostoyevsky
+    - 
+- [[Habib Sayah]]
+    - Book Club 1 member? (y/n):: N
+    - Company:: Rhizom
+    - Favourite books:: Communication Power, by Manuel Castells
+    - Link to something you find interesting:: 
+    - Michael Nieman:: @rhizomyx
+    - Website:: 
+- [[Haikal Kushahrin]]
+- [[Heath Raftery]]
+- [[Henry Finkelstein]]
+- [[Henry Harboe]]
+- [[Hua Z]]
+- [[Ian Mack]]
+- [[Ian Vasquez]]
+- [[Ilham Talab]]
+- [[Ivan Meidika Kurnia]]
+- [[Izzy Blue]]
+- [[Jack Poole]]
+- [[Jackson Kaib]]
+- [[Heather Gill]]
+- [[Jack Yeh]]
+- [[Jake Schaeffer]]
+- [[Jaros]]
+- [[Jason Blosser]]
+- [[Jason Carman]]
+- [[Jason Caro]]
+    - Favourite Books:: [[Light In August]], [[The Structure of Scientific Revolutions]], [[How to Take Smart Notes]] 😉
+    - Profession:: Mechanical Engineer
+- [[Jason Edleman]]
+- [[Jason Griffing]]
+- [[Jason Kleinberg 🎻]]
+    - Favourite books:: [[Cat's Cradle]], [[Being Aware Of Being Aware]], [[Sapiens]]
+    - Interests:: Online education, meditation, Dancing
+    - Michael Nieman:: @fiddlehed
+    - Profession:: Musician, teacher
+- [[Jasper Götting 🧬🦠]]
+- [[Javier Gonzalez]]
+- [[Javier Soto]]
+- [[Jean Pierre]]
+- [[Jeff Begley]]
+- [[Jeffrey Landau]]
+    - 
+    - **Favourite books:** Slaughterhouse Five by Kurt Vonnegut
+    - **LinkedIn:** https://www.linkedin.com/in/jeffreylandau/
+    - Book Club 1 member? N
+    - Company:: www.agritecture.com
+    - Twitter:: [@jeffreylandau](https://twitter.com/JeffreyLandau)
+- [[JanP]]
+- [[Jeffrey West]]
+    - "Website:: [jeffreybwest.com](http://jeffreybwest.com/)"
+- [[Jenn Harding]]
+    - 
+- 
+    - **Linkedin**: https://linkedin.com/in/jeremie-rykner
+    - **Twitter**:: @JeremieRykner
+    - Currently reading:: [[How to Take Smart Notes]]
+    - Email:: jrykner@gmail.com
+    - Interests:: [[Productivity]],[[History]],[[Technology]],'[[Psychology]]
+    - Profession:: [[Business Consultant]] [[Lecturer]]
+- [[Jeremy Caplan]]
+    - "Twitter: [@jeremycaplan](http://twitter.com/jeremycaplan)"
+    - "Site: [jeremycaplan.com](http://jeremycaplan.com) and [LinkedIn](http://linkedin.com/in/jeremycaplan)"
+- [[Jesse J. Anderson]]
+- [[Jim Stanczak]]
+- [[Job Quiroz]]
+- [[Joe Gianoli]]
+- [[Joel Dignam]]
+    - {{[[embed]]: ((SCCVgFE8T))}}
+- [[Joel L]]
+- [[Joey Harris]]
+    - "Everybody writes. Especially in academia. Students write and professors write. And nonfiction writers, who are the third group of people this book is aiming to help, obviously write as well. And writing doesn’t necessarily mean papers, articles or books, but everyday, basic writing. We write when we need to remember something, be it an idea, a quote or the outcome of a study. We write when we want to organise our thoughts and when we want to exchange ideas with others. Students write when they take an exam, but the first thing they do to prepare even for an oral examination is to grab pen and paper. We write down not only those things we fear we won’t remember otherwise, but also the very things we try to memorise. Every intellectual endeavour starts with a note."
+        - [[Joey Harris]] Everyone writes and all serious thinking begins with a note. 
+    - {{[[embed]]: ((xhRxGq3Ml))}}
+- [[Johann Joubert]]
+- [[Johannes Fritz]]
+- [[John Guerrero]]
+- [[John Lepore]]
+- [[John Wang]]
+- [[Jon Crowell]]
+- [[Jordan Thevenow-Harrison/jtth]]
+- [[Josh Kader]]
+- [[Joshua Gerald Butler]]
+- [[Juan Caicedo]]
+- [[Juan Rios]]
+- [[Judith Stewart ]]
+- [[Julio Padilla]]
+- [[Justin Johnson]]
+- [[Justin Quek]]
+- [[KaMeng Lao]]
+- [[Kaitlyn Dennis]]
+- [[Kara Monroe]]
+- [[Karaminder]]
+- [[Karson Chrispens]]
+- [[Kate Foy 🌱]]
+- [[Kevin Gyori]]
+- [[Kika]]
+- [[Kris Nolte]]
+- [[Kristen Pavle]]
+- [[Kristian Borglund]]
+- [[Lars Schöbitz]]
+- [[Latham Turner]]
+    - Currently reading:: [[Become What You Are]]
+    - Interests:: deep technology, health, learning, parenting
+    - Michael Nieman:: @lathamht
+    - Send me a message:: feel free to email me at lhturner06@gmail.com
+- [[Laura Banhidi]]
+- [[Linda Koomen]]
+- [[Lindsey Johnston✨]]
+    - {{[[embed]]: ((HDHGHbzzV))}}
+- [[Lisa Benson]]
+- [[Lukas Donkers]]
+- [[Lukas Urwyler]]
+- [[Madhav Bhatia]]
+- [[Maile]]
+    - 
+    - **Currently Reading:** [Everything In Its Place](https://www.amazon.com/Everything-Its-Place-Mise-En-Place-Organize-ebook/dp/B06Y2PFG5Q/ref=sr_1_2?dchild=1&keywords=everything+in+its+place&qid=1604365393&sr=8-2) 
+    - **Interests:** [[Productivity]], [[Self Improvement]], [[Parenting]], [[Writing]], [[Personal Knowledge Management]], [[Organization]], [[Home Management]]
+- [[Majid Sayani]]
+- [[Malek Kazdaghli]]
+    - 
+    - **Twitter**:: [@MalekKazdaghli](https://twitter.com/MalekKazdaghli)
+    - Interests:: [[Agile]], [[Behavioral economics]], [[Psychology]]
+- [[Marco Zanchi]] 
+    - Currently reading:: [[Shape Up]]
+    - Email:: mzanchi@gmail.com
+    - Interests:: [[Language]], writing, people, [[cognition]].
+    - Michael Nieman:: @maszanchi
+    - Profession:: [[Engineering Manager]]
+- [[Mario M.]]
+    - **Currently Reading:** [[No Mud, No Lotus]]
+    - **Interests:** [[Buddhism]], [[meditation]]
+    - **Profession:** Researcher ([[Ophthalmology]] & [[Psychiatry]])
+    - **Pronouns:** he/him
+    - **Twitter:** none
+    - Feel free to #Chat with me about anything!
+- [[Mario Pinto]]
+- [[Marisol Im]]
+- [[Mark Fishman]]
+- [[Luke Miller]]
+- [[Mark Maletsky]]
+- [[Martin Lagrange]]
+- [[Mary Chipman]]
+- 
+- [[Matej Vrzala]]
+    - **Interests: ** [[meditation]] [[rationality]] [[forecasting]] [[conversations]]
+    - **Profession: ** Software Engineer @ metaculus.com
+    - **Website**: www.matejv.com
+- [[Matt Brockwell/MJB]] 
+
+- [[Matt Clark]]
+- [[Matt McKinlay]]
+- [[Matthew Vogel]]
+    - "Favorite Books::"
+    - "#[[Literature Notes]]"
+        - "[[Introduction]]"
+        - "[[Chapter 1. Everything You Need To Know]]"
+        - "[[Chapter 2. Everything You Need to Do]]"
+        - "[[Chapter 3. Everything You Need to Have]]"
+        - "[[Chapter 4. A Few Things to Keep in Mind]]"
+        - "[[The Four Underlying Principles]]"
+            - "[[Chapter 5. Writing is the Only Thing That Matters]]"
+            - "[[Chapter 6. Simplicity is Paramount]]"
+            - "[[Chapter 7. Nobody Ever Starts From Scratch]]"
+            - "[[Chapter 8. Let the Work Carry You Forward]]"
+        - "[[The Six Steps to Successful Writing]]"
+            - "[[Chapter 9. Separate the Interlocking Tasks]]"
+            - "[[Chapter 10: Read for Understanding]]"
+            - "[[Chapter 11. Take Smart Notes]]"
+            - "[[Chapter 12. Develop Ideas]]  "
+            - "[[Chapter 13. Share Your Insight]]"
+            - "[[Chapter 14. Make it a Habit]]"
+        - "[[Afterword]]"
+    - "#[[Fleeting Notes]]"
+    - "Profession:: [[Architect]]"
+    - "Twitter:: [@todayIwasbetter](https://twitter.com/todayIwasbetter)"
+- [[Max Kunzelmann]]
+- [[Mellisa Waltzer]]
+- [[Michael Allen]]
+- [[Michael Lehner]]
+- [[Michael Nieman]]
+- [[Michał Parkoła]]
+- 
+- [[Michelle Y]]
+- [[Miguel Marcos Martinez]]
+- [[Mika Mauger]]
+    - Favourite books:: __Needful Things__, Stephen King ; __L'Arabe du Futur__, Riad Sattouf ; __Atomic Habits__, James Clear 
+    - Interests:: Art, philosophy and science.
+    - LinkedIn:: https://www.linkedin.com/in/maugermika/
+    - Location:: France
+    - Profession:: Engineering student at [IMT Mines Alès](https://www.mines-ales.fr/)
+- [[Mike Bifulco]]
+- [[Mike Kramer]]
+    - **Currently Reading**: Oliver Lovell. Sweller's Cognitive Load Theory in Action. 
+    - **Interests:** hiking the Appalachian Trail, how expressing ideas and feelings affects the person who expresses them. 
+    - **Pronouns:** he/him
+- [[Mircea Sibana]]
+- [[Moira]]
+- [[Moritz Bierling]]
+- [[Myles Orme]]
+- [[Nick B. @ Tribe]]
+    - **Role**: Managing Partner @ Tribe (Startup Tech Program)
+    - Favorite Books:: 
+        - [[Competitive Advantage]] by [[Michael E. Porter]]
+        - [[Deep Work]] by [[Cal Newport]]
+        - [[Never Split the Difference]] by [[Chris Voss]]
+        - [[The Autobiography of Malcom X]] by [[Malcom X]] & [[Alex Haley]]
+    - Interests:: [[Early Stage Startups]] [[Education]] [[Future of Food]] [[Fashion]] 
+    - Location:: [[San Francisco]]
+    - Twitter Handle:: [@thetribegroup](https://twitter.com/thetribegroup)
+    - Website:: [www.thetribe.group]
+- [[Nicole Drumhiller]]
+    - Background:: academic/researcher leadership psychology, threat management, extremism
+    - Company:: American Public University System
+    - Currently Reading:: Finding Atlantis: A True Story of Genius, Madness, and an Extraordinary Quest for a Lost World; The 7 Habits of Highly Effective People; Fierce Conversations
+- [[Nikki Huang]]
+- [[Noah Fancyson]]
+- [[Omar Basha]]
+- [[Osly Salinas]]
+    - Twitter: @oslykj
+- [[Palash]]
+- [[Patricia Pimenta Fernandes]]
+    - Currently reading:[[How to Take Smart Notes]], [[Machines like me]], [[L'Autre comme soi même]], [[Thinking, fast and slow]]
+    - Email: patriciapim@gmail.com
+    - Favourite books:[[Invisible Cities]][[The Myth of Sisyphus]][[A Ilusão da Alma]]
+    - Instagram: mmepimenta
+    - Interests: [[Humanities]], [[ICTs]],[[NeuroScience]]
+    - Occupation: Professor and Intercultural Consultant
+- [[Patrick Diehr]]
+- [[Patrick Mikulak]]
+- [[Patrick Pope]]
+- [[Patrick Robertson]]
+- [[Paul Hacker]]
+    - Email:: [billpetro@billpetro.com](mailto:billpetro@billpetro.com)
+    - Favourite books:: [[Lord of the Rings]], [[Foundation]], [[Bible]]
+    - Interests:: [[Productivity]],[[History]],[[Technology]]
+    - Currently reading:: [[Book/Tiny Habits]] by B.J. Fogg
+    - Profession:: Pallliative Care physician
+    - Located:: Ottawa, Canada
+    - Twitter:: [@PallDrPaul](https://twitter.com/PallDrPaul)
+- [[Peggy McElgunn]]
+- [[Petr Johanes]]
+- [[Phil Denhoff]]
+- [[Pierce Manlangit]]
+- [[Philip Skogsberg]]
+- [[Prabu Rajasekaran]]
+- 
+- [[Rahul Prakash]]
+- [[Ramses Oudt]]
+- [[Sally Mudiamu]]
+- [[Sam Suh]]
+- [[Remberg]]
+- [[Saoussen CHAABNIA]]
+    - "Interests:: [[Artificial Intelligence]], [[Astonomy]], [[Psychology]], [[NeuroScience]]"
+    - "Favourite books :: [[Think like a Rocket Scientist]], [[Focus: The Hidden Driver of Excellence]], [[Deep Work]]"
+    - "Profession :: [[Machine Learning Engineer]]"
+- [[Ricardo Martínez]]
+- [[Rika Sukenik]]
+    - [[Interests]]
+        -  [[Writing]] [[Short Stories]] [[Science Fiction]] [[Neuroscience]] [[Meditation]] [[Reading]] [[Tennis]]
+    - [[Favorite Books]] [[How Emotions Are Made]] [[Man's Search for Meaning]] [[How to Read A Book]] [[How To Take Smart Notes]]
+    - [[Profession]] [[Roam Cybrarian]] [[Researcher]]
+- [[Sarah Moens]]
+- [[Sari Siyam]]
+- [[Rita Carvalho]]
+- [[Rodulfo]]
+- [[Scott Fry]]
+- [[Scott M]]
+- [[Ronaldo Batista]]
+- [[Ronda Davis]]
+- [[Shana Pote]]
+    - Company:: Aurorae Group LLC - [[Executive Coach]]; [[Corporate Innovation Catalyst]]
+    - Interests:: Professional - arts-based learning, human and adult development, leadership development, workplace culture, innovation, K-16 education; Personal - fiber crafts including spinning, tatting, knitting, raising angora rabbits, teaching spinning to 4-H animal clubs; visual arts including Zentangle, watercolor, graphic facilitation and sketchnoting
+    - LinkedIn:: https://www.linkedin.com/in/shanapote/
+    - Location:: Philadelphia ("Bad Things Happen Here!")
+    - Michael Nieman:: @shanapote
+    - Pronouns:: she/her
+    - Send me a message:: shana.pote@gmail.com
+- [[Shanley Weston]]
+- [[Ross Shepstone]]
+    - 
+- [[Ryn Gonzales]]
+- [[Shashank]]
+- [[Siva Arunagiri]]
+- [[Sabine]]
+- [[🌅 Skye White ]]
+- [[Sahil]]
+- [[StephanC]]
+- [[Stephen Albert]]
+- [[Stian Håklev]]
+- [[Sue Borchardt]]
+- [[Suraj Deshmukh]]
+- [[Swapnil Tamse]]
+- [[Tales Pinheiro]]
+- [[Tali Lerner]]
+- [[Tanner Potter]]
+- [[Thomas B.]]
+- [[Thomas Görblich]]
+- [[Thomas Minéo]]
+- [[Solo]]
+- [[Todd DeDecker]]
+    - **Currently Reading**: Hit Refresh!
+    - **Interests:** Learning, thinking, family history, genealogy, technology
+    - **Pronouns:** he/him
+    - **Twitter:** [@__todd](https://twitter.com/__todd)
+- [[Tomáš Baránek]]
+    - Interests:: #lifehacking #publishing #reading
+    - Location:: [[EU/Czech Republic]]
+    - Profession:: #book #publisher
+    - Twitter:: @tombarys @janmelvil
+- [[Tony Tong]]
+- [[Tracy Winchell]]
+- [[Transport Phenomena]]
+    - profession: chemical engineer, researcher 
+- [[Travis Mann]]
+- [[Untitled]]
+- [[Utkarsh Gupta]]
+- [[Vincent Tam]]
+- [[Wade Dominic]]
+- [[Wilbert Dimaculangan]]
+- [[Tobias Funk]]
+- [[William Njau]]
+- [[Yingyue Liu]]
+    - Name:: Yingyue Liu
+    - Website:: 
+    - Company:: Michigan State University
+    - Favorite Books: [[The Pomodoro Technique]], [[晨间日志的奇迹]]
+- [[Zach Haigney]]
+- [[Zee Ali]]
+    - Book Club 1 member? (y/n):: No.
+    - Company:: ZSwag.com
+    - Favourite books::  The 21 Irrefutable Laws Of Leadership
+    - Link to something you find interesting:: 
+    - Website:: ZeeAli.com + ZSwag.com
+- [[Zia Taha]]
+- [[Ziad Munson]]
+- [[Zsolt Arkossy]]
+- [[[[Kristin Brownstone]]]]
+    - 
+    - **Company:** [[Illuminate]] 
+    - **Fleeting notes:** 
+    - **Literature notes:**
+    - **Website:** - [Illuminateacttwo.com](https://Illuminateacttwo.com)
+        - Comment: added url link for you #[[Calvin Robert Lee]]
+    - Favorite Books: [[The Untethered Soul]], [[Steering by Starlight]], [[The Tao of Abundance]], [[The Alchemist]] [[The Crossroads of Should and Must]]
+    - Instagram: illuminateacttwo
+    - Profession: [[Executive Coach]], [[Actor]], [[Writer]]
+- [[andygoodman]]
+- [[ed marsh]]
+- [[omarmgs]]
+    - Interests:: Mental Models, Note-Taking
+    - Profession:: Mechanical Engineer
+    - Twitter:: [@omarmgs](https://twitter.com/omarmgs)
+- [[slckdrsn]]
+- [[zakk]]
+    - "Favorite Books:: [[Zen and the Art of Motorcycle Maintenance]]"
+    - "Website:: https://www.zkf.io"
+    - "Twitter:: [@zfleischmann](https://twitter.com/zfleischmann)"
+    - "Twitter:: [@zfleischmann](https://twitter.com/zfleischmann)"
+- [[pkared]]
+    - Interests:: CAD, Writing, Photography
+    - Profession:: CAD Designer
+    - Twitter::@paularm16553134
+    - Favorite Books::[[The Road]], [[The Old Man and the Sea]], [[The Lonely Silver Rain]], [[Valdez is Coming]], [[The Quick and the Dead]]
+- [[Viv]]
+- [[Ankit Ruparel]]
+- {{[[drawing]]}}
+- [[Drew Mueller]]

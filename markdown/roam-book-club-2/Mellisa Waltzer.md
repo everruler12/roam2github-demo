@@ -1,0 +1,165 @@
+- [[Interests]] 
+    - I'm a professional [[tutor]] living and working in the greater [[Austin, TX]] area. I'm interested in using Roam and Roam-like thinking as a cornerstone for building a micro-high school and (eventually) a turn-key K-12 [[microschool]]. 
+    - I'm interested in equipping students with the skills to learn on their own, for the sake of learning (personal development and world-disclosure) as well as for more productive ends. 
+        - Contact: hello@mellisawaltzer.com, DM on Twitter
+- [[Twitter:]] [@mellisawaltzer](https://twitter.com/mellisawaltzer)
+- Website:: https://www.mellisawaltzer.com/
+- Book Club 1 member? (y/n):: no
+- How to Take Smart Notes::
+    - [[Introduction]]
+        - [[workflow]] is one of the key dimensions of creativity that is utterly overlooked in modern [[Education]]
+        - for most of us, our learning workflow is decided for us the day we arrive at Kindergarten
+            - we're just following a plan thereafter
+            - teachers are taught to teach through planning
+                - lesson plans, scheduled exams, standardized tests
+            - this is a very modernist way of transmitting information that is out of sync with technology and information availability
+            - teacher-planners create student planners, not experts
+            - when [[writing]] our aim should to be creating something VALUABLE 
+    - [[Chapter 1. Everything You Need To Know]]
+        - [[Work routine]] 
+            - One of the biggest obstacles we run into when trying to overcome procrastination and motivation isn't the lack of interested topics, but rather our lack of work routines that give us the agency to steer them rather than them steering us. 
+            - "Having a clear structure to work __in__ is completely different from making plans __about__ something."
+                - Have been so guilty of this in the past. 
+            - Aim to become an expert and not a planner. Planners can only work within the confines of the plan, they are inflexible and not situated to take advantage of insight as it pops up. 
+                - 1.1 | Good Solutions are Simple - and Unexpected 
+                    - This requires a simple change in organization but, more importantly, a change in working habits which can be difficult to do long-term. 
+                    - "Routines require simple, repeatable tasks that can become automatic and fit together seamlessly."
+                        - It's about the overarching workflow that you create - 
+                            - ref: [[David Allen]] [[Getting Things Done]]
+                        - However, his focus isn't on creating a chemistry set for insight, which cannot be predetermined by definition. 
+                        - [[Writing]] 
+                            - that is intended for insight generation must be organized in a more open manner
+                            - is not a linear process. 
+                - 1.2 | The Slip-Box
+                    - "The best way to maintain the feeling of being in control is to stay in control. And to stay in control, it's better to keep your options open during the writing process rather than limit yourself to your first idea."
+                    - "It's about having the right tools and knowing how to use them -- and very few understand that you need both."
+                        - This is the aim of [[Grounded to Grow]] -- to teach the tools and how to use them from an early age. 
+                - 1.3 | The Slip-Box Manual
+                    - Discusses the mechanics of Luhmann's slip-box system for note-taking. 
+    - [[Chapter 2. Everything You Need to Do]]
+        - Think. Read. Understand. Ideas.
+        - For [[Grounded to Grow]] this goal is to impart high literacy across multiple domains. 
+        - [[Reading]] 
+            - You must learn how to read and how to read well in order to have the acumen required to understand what you're reading, think about what you're reading, connect the ideas you're reading about with others in an insightful way. 
+                - This is truly the goal of [[education]] - learners who can read and comprehend well, but also who are cognizant of the workflows involved in bridging information with thought and reflection to generate insight and new ideas in new ways. 
+                    - I might call this the Recombination Theory of [[education]].
+        - [[Note-taking]] 
+            - Notes are an accompaniment to thinking, learning, and understanding. Without reflecting on what we are reading as we are reading it, without chunking out the information encoded in it that resonates with us strongly and then connecting it with a __why__ we fail to actualize the potential our reading has to change the universe that exists within our own mind. 
+                - This isn't to say that all reading, thinking, and learning must be for purely productive ends; certainly not! 
+                - It can be used for those ends, but this is about idea generation to ends that you yourself get to determine. 
+                - It can illuminate much more about yourself, help you develop yourself, be a fun distraction, an exploration, an end to a mean. Whatever the point, we must exercise what we are doing in a way that makes sense and helps us to navigate the fire hose of information that we are currently subjected to.   
+        - 2.1 | Writing a Paper Step-by-Step
+            - [[Note-taking]]
+                - Fleeting notes
+                    - These are the notes that come to you as you read, not to be saved but rather sifted through 
+                - Literature notes
+                    - The key concepts you want to takeaway from what you're reading. Be selective about using quotes.
+                - Permanent notes
+                    - Gather the notes from the two previous kind and connect them to other thoughts and notes and ideas. 
+                    - How does what I'm reading relate to something else? 
+            - [[Idea generation]] 
+                - Create a system that allows you to generate topics and ideas of interest to you - where do you find idea clusters? How are they related? What is missing? What questions stand out to me from the connections I do or do not see? 
+                - Now you are free to write on what content you already have, not on some undiscovered trove yet to be read. 
+                - Turn your notes into a rough draft through translation of notes. 
+                - Edit and proofread.
+    - [[Chapter 3. Everything You Need to Have]]
+        - [[workflow]]
+            - Building out a workflow is, again, the critical aspect to note-taking, retention, and idea generation. This extends well beyond just academic research.
+            - The goal is to focus on __thinking__ above all else - let the system manage everything else.
+        - 3.1 | The Tool Box
+            - A writing apparatus
+            - A reference management system
+            - Slip-box
+            - An editor
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - "[[Chapter 5. Writing is the Only Thing That Matters]]"
+        - Understanding how the system works is necessary to using it wisely. You don't want ideas to collect and then essentially rot in a graveyard. 
+        - [[The Four Underlying Principles]]
+    - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Writing]]
+            - often taught as a separate, compartmentalized skill that is the end result process that:
+                - represents preceded performance
+                - demonstrates what they've learned
+                - prepares them for independent research 
+            - An overly idealized process results from this
+        - [[Studying]]
+            - __is__ [[independent research]], not a discrete process that prepares students for it.
+                - This is the focus of [[Grounded to Grow]]: to create independent researchers that follow their own learning paths.
+        - [[Writing]] 
+            - as your main focus should change __how__ you do everything else that surrounds it. If it is done in the pursuit of [[truth]] then everything you do is imbued with that purpose and narrow focus. 
+    - [[Chapter 6. Simplicity is Paramount]]
+        - A brief anecdote about [[Malcolm McLean]] and the creation of shipping containers
+            - the point being that in order to make this simple idea work, both the infrastructure and routines had to change to adapt
+            - you have to let go of what you're used to
+            - define your problem space well and then align your delivery chain to achieve the solution as defined by your problem space
+        - [[second-order effects]]
+            - what are the consequences of the consequences of this?
+        - [[self-reinforcing positive feedback loop]]
+            - positive feedback is [[in phase with]] the input, making it larger
+                - can lead to system instability
+                    - re: [[Donella Meadows]] [[__Thinking in Systems: a Primer__]] and [[__The Limits to Growth__]]
+        - [[note-taking]]
+            - differentiate between fleeting, permanent, and project notes
+            - highlighting and margin notes are useful to snapshot a quick idea or connections, but they are of little value without elaboration
+                - review fleeting notes with quickly and with consistency to transition them to permanent notes or discard
+    - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Gadamer's hermeneutic circle]]
+            - develop your thinking through [[writing]] and watch as thoughts cluster around ideas
+            - this can be regulated through process; reading, thinking, and writing
+    - [[Chapter 8. Let the Work Carry You Forward]]
+        - "A good workflow can easily turn into a virtuous circle, where the positive experience motivates us to take on the next task with ease, which helps us to get better at what we are doing, which in return makes it more likely for us to enjoy the work, and so on."
+            - Establish a positive feedback loop within your [[workflow]]
+        - The work itself needs to be rewarding in order to perpetuate itself. 
+        - But work requires [[feedback]]
+            - Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself. 
+        - Growth mindset + feedback enabled [[learning]] system
+            - if you see a behavior that persists over time, there is likely a mechanism creating that consistent behavior
+            - a [[positive feedback loop]] is a closed chain of causal connections from a stock, through a set of decisions or rules or physics laws or actions that are dependent on the level of the stock, and back again through a flow to change the stock
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+            - Give each task your undivided attention
+            - Multitasking is not a good idea 
+            - Give each task the right kind of attention 
+            - Become and expert instead of a planner
+            - Get closure
+            - Reduce the number of decisions 
+        - [[Chapter 10: Read for Understanding]]
+            - [On: Keeping an Open Mind](((plLlaCMzc)))
+                - 
+            - 
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+            - [The most crucial determinant of a system's behavior is often the least obvious part of the system: its function or purpose. A change in purpose changes a system profoundly, even if every element and interconnection remains the same.](((x5hx3y9ay)))
+    - [[Afterword]]
+    - Live Session 3 Notes
+        - "Define a literature note in your own words."
+            - (Literature notes emerge from purposeful highlights extracted from raw reference material that are then remixed with process-generated ideas and aesthetic or informational connections. This remixing transforms them into more complex reflections on the topical level. )
+        - "How do you take literature notes? Discuss your method."
+            - Literature notes are slowly accumulated from raw reference material. While reading a reference resourc()e, I add bracket-notes that link to ideas, persons, definitions, etc. as they are catalyzed and then expand upon these connections in the literature notes with ample back-linking. 
+        - "Have you found value in taking literature notes already?"
+            - I have been using them rather extensively. While the connections made to other concepts/people, etc. are often tenuous or not quite encompassing in this form, I find that I've captured the phenomenological essence of the thought holistically.
+        - "What struggles have you had implementing literature notes?"
+            - Sometimes I read content that best serves as reference material rather than something to codify into literature notes for some time after reading it. Accepting not everything needs to be a literature note or requires that level of attention is something I'm working on recognizing better.
+        - "Describe any enlightening moments you had while taking literature notes."
+            - The most enlightening moments seem to happen outside of the note-taking process but are codified therein, after the fact.
+- Fleeting Notes:: 
+- Literature Notes::
+- [[Book Club Live Session 1]]
+    - [[Goals]]
+        - My goals in this book club is to create a deeper understanding of the concepts underlying approaches to note-making and information processing/generation. 
+        - My intention is to use these insights in building out a micro school that focuses on teaching and guiding students in "learning how to learn" 
+            - that means, how to read a book, how to take notes, how to connect ideas, how to study properly for the subject at hand, how to share that information, etc. 
+
+        - the goal here is to create students that are equipped to learn, process, and synthesize different types of information from different resources on their own while allowing them to explore topics in a self-directed manner 
+        - this is reliant on a K-6 education that is largely focused on building literacy, that is, a strong understanding of the words and concepts that form the basis of a wide swath of topics, including but not limited to:
+            - civics 
+            - history
+            - science
+            - math
+            - literature
+        - Children do require guidance and as Aeschylus says, "memory is the mother of all wisdom." 
+        - In our drive to posit understanding > mastery we've lost the ability to execute.
+- [[Meetup]]
+    - If anyone is interested in talking with me about using some of the methods inclusive to Roam and [[How to Take Smart Notes]] in [[Education]] (in particular creating a [[microschool]] and separate study course modules) reach out to me via email: hello@mellisawaltzer.com and I'll set something up!

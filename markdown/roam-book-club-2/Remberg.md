@@ -1,0 +1,32 @@
+- Name:: Martin Remberg
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+    - [[Fleeting Notes]]
+        - [[Kapitel 1]]
+            - En god struktur avlastar kognitivt genom att hålla koll så att man kan fokusera på det viktiga: innehållet, idéerna. En god struktur möjliggör [[Flow]] 
+            - Genom att bryta ner en uppgift i mindre bitar kan de hanteras en i taget. 
+            - Att ha en plan för arbetet är inte samma sak som att ha ett effektivt arbetsflöde. Insikt per definition går i princip inte att planera. Utmaningen ligger i att strukturera arbetssättet så att insikt och nya idéer främjas.
+            - En god struktur medger också att vi kan minimera [[procrastination]]. Det är aldrig bristen på intressanta uppgifter eller ämnen som begränsar, det är förmågan att fokusera.
+            - Endast om jobbet är upplagt för små, korta steg är det hanterbart. Att bestiga ett berg är svårt, att ta ett steg i taget kan vem som helst göra. Då behåller vi intresset, motivationen och [[procrastination]] mindre
+            - [[GTD]]
+                - Tanken är att ha ett så robust system som medger att hjärnan kan släppa allt annat och veta att det kommer att hanteras.
+                - Mind like water - när vi kan fokusera vad vi har framför oss för vi vet att vi inte kommer att störas av konkurrerande tankar.
+        - [[Kapitel 2]]
+            - sad

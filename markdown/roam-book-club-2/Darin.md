@@ -1,0 +1,316 @@
+"~template 🧩: 11.8.20 report-back from small group"
+    - Breakout Group Number - YOURNUMBERHERE
+        - Who was in this group on 11.8.20::
+        - Any struggles or challenges identified?:: 
+        - Anything you are excited about?::
+        - Does the concept of a "Fleeting Note" make sense to you?::
+Website:: [ucalgary.ca/people/darin-flynn](https://www.ucalgary.ca/people/darin-flynn)
+Company:: [UCalgary](https://www.ucalgary.ca)
+Location:: [[Calgary]]
+    - Studied in [[Vancouver]] and [[Ottawa]]
+    - Raised in [[Pointe-Noire]] (Congo)
+Bought book[*](((GHaiqslvY)))
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FVe-pui2QQ_.png?alt=media&token=bf9401e0-558c-4ade-aba7-421920e19cdc)
+[[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - More clarity of the relationship of [[Zettelkasten]]'s main features ([[index card]] and [[index]]) to Roam's main features (pages, blocks, [[transclusion]]s, etc.)
+        - Some articulation of what [[Sönke Ahrens]] described as a [[firewall]] that might mediate between our individual notes/graph and collective ones
+            - #[[multiplayer Zetteling]]
+[[Book Club Meeting #2]]
+    - #Announcement [[Matt Brockwell/MJB]] if you want to use the template to "report back" from the small groups today, please do. 
+
+INSTRUCTIONS HERE - jump to this link: [[instructions for filling out the small group template]] if you are unsure of what to do.
+
+**(it's optional)** however - if you do, please make sure you use the template with today's date, not last week's. Thanks!
+    - Reflection on first reading phase of the book 
+        - What ideas resonate with you from the book
+            - What is the gist of the book? 
+                - My sense of the gist of the book:
+                    - 
+        - Discuss the fleeting note phase
+            - What does the concept of fleeting notes mean to you? 
+                - 
+            - Define a fleeting note in your own words. 
+                - 
+            - How did you take fleeting notes? Discuss your method.
+                - 
+            - What is the value of fleeting notes?  For this book, and for previous books you have read? 
+                - 
+[[Book Club Live Session 3]]
+    - "{{[[DONE]]}} **Section 1 Writing Session**"
+        - "{{[[POMO]]: 15}}"
+            - "Pick from the prompts below"
+                - "Define a literature note in your own words."
+                    - A sourced idea, argument, or example re-written in your own words
+                - "How do you take literature notes? Discuss your method."
+                    - I write the literature note in my own words using hashtags in my sentences
+                        - Hashtags (page names) that don't fit naturally in a sentence are added at the end of a sentence
+                    - If the writing, diagram, or animation in the source is clear or striking in some way, I include the relevant quote/picture/etc. in my literature note. 
+                - "Have you found value in taking literature notes already?"
+                    - 
+                - "What struggles have you had implementing literature notes?"
+                    - A technical problem is relating my literature notes in Roam to my reference management system (Endnote)
+                    - A personal problem is rendering the source in my own words without distorting it according to my own understanding or biases
+                - "Describe any enlightening moments you had while taking literature notes."
+    - "{{[[DONE]]}} **Section 2 Breakout rooms**"
+        - "{{[[POMO]]: 5}}"
+            - Read everyone in your room's answers to the prompts above
+        - "{{[[POMO]]: 15}}"
+            - "Discuss each other's answers"
+    - "{{[[DONE]]}} **Section 3 Block References**"
+        - "Demonstration of block references for literature notes in Roam"
+        - "Group block reference exercise"
+            - ""We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013).""
+            - #[[Literature Notes]] There's a documented persistent human failure to predict our own medium-to-long term behaviors, one that can in fact be remedied through the force of habit - which lends more certainty to our own predictions about what we are going to be doing. [*](((uOQBxSUdK)))
+            - #[[Literature Notes]] It is more powerful to try to establish new good habits that will displace the old habits than it is to try to break ourselves of whatever we habitually did before. [*](((4hIM0I_l_)))
+            - 
+    - "{{[[TODO]]}} ~~Section 4 Breakout rooms 2~~"
+        - "{{[[POMO]]: 10}}"
+            - "Literature note writing exercise"
+                - "Take any 2-3 blocks from the book and summarize them"
+        - "{{[[POMO]]: 10}}"
+            - "Teach everyone else in your room what you learned from the blocks you summarized and the exercise"
+    - "{{[[DONE]]}} **Section 5: This coming week**"
+        - "Finish taking literature notes this week"
+            - "If you are done, and want to start zetteling, just use the `#zettel` tag on any block you want to make a zettel"
+        - "We will discuss zetteling next session!"
+[[Live Session 4]] Starting 12:30 PM PST [*](((NPIQadYhw)))
+    - [Zoom link](https://us02web.zoom.us/j/89237673554?pwd=SGM0WkZpd1ZFTndIa3ZuZEFyemxnQT09)
+    - {{[[DONE]]}} **Section 1** [[Writing practice]]
+        - {{[[POMO]]: 15}}
+        - 
+            - Pick from the prompts below and write in your own page for 15 minutes.
+                - Reflect on the book.  What are you impressions?  [*](((iZsTZyr3i)))
+                    - "#Reply-from[[Yingyue Liu]]"
+                        - "The book provides an overarching as well as detailed description of the Smart Notes technique. "
+                        - "At the same time, the readers don't have enough chance to know more about Professor Luhmann. And I even doubt if the author ever tried to understand Professor Luhmann first before he markets this note-taking system to the readers. So it's like a toolbox with not enough context."
+                        - "Therefore, to make the most out of the book, the readers have to intentionally reflect about their own life objects and why they are writing."
+                    - "#Reply-from [[Alan Laidlaw]]"
+                        - "I wonder how applicable Luhmann's process is to our lives. It was a good solution for him and the way he worked. We have different demands though. Perhaps our engine doesn't allow for the same gestation period. So I'm curious how others are finding the notes at a 6mo and 5yr timeline."
+                    - "#Reply-from [[Tanner Potter]]"
+                        - "The impression I've had about the book is that I need to decrease consumption, while increasing processing and sharing. The best way for me to do that is via writing."
+                        - "Something else that has really struck me is the broken nature of the current process of writing. Picking a topic in advance, and then finding evidence to support that. That style is too end-first. I often end up with thoughts that are longer than a tweet but shorter than a blog post. By using a structure with some rails but lots of optionality, I have the opportunity to increase quantity of output and quality of content.  "
+                - Reflect on literature notes- useful? Did they help you understand the book in a different way?  [*](((I1HxFz57Q)))
+                - Reflect on the work and timeline- has it been easy/hard to get through the phases so far?  [*](((WUmnRACGi)))
+                - How is your progress towards your initial goals? Or have they changed? [*](((DQX6BrRPZ)))
+                - Explore the concept of permanent notes/zettels.
+                    - Explain what a permanent note is in your own words? [*](((vSRq-nT_U)))
+                        - "A permanent note is a piece of independent and precise summary of an idea. The permanent notes are often written in a way that they can be later connected with other permanent notes. At the same time, they are meaningful alone at anytime."
+                    - What is holding you back from creating zettels? [*](((FGx7lEAHK)))
+                        - The term 'permanent' is intimidating; Ahrens says we have to lower our expectations in order to write, so the notion that a zettel is permanent raises the stakes in a way that isn't helpful (so I use the term 'essay notes' instead, but unfortunately that overlaps a bit with 'project note' -- because essays can be projects)
+                    - What are you unsure about?  [*](((NWs_b4xIQ)))
+                        - "Any way I can develop my standards for a good permanent note and good practice to create good connections between notes to make the slip-box smarter. "
+                - Do you have any questions for [[Sönke Ahrens]]? [*](((1CmrIwbDC)))
+                    - "When should I delete or at least simplify a note? How can I decide the right size of a slip-box? I suppose to keep the system working, we need to maintain and update the slip-box."
+        - {{[[DONE]]}} **Section 2** [[Breakout Rooms]]
+            - Read everyone in your room's answers to the prompts above and discuss
+                - {{[[POMO]]: 25}}
+        - {{[[TODO]]}} **Section 3 Block References**
+            - Demonstration of block references for literature notes in Roam
+        - {{[[DONE]]}} **Section 3** 
+            - [[Graph Meditation]] [*](((Hn-hSaw_S)))
+                - Look around the graph, explore what has being created. [*](((RE7av57Yn)))
+                    - {{[[POMO]]: 8}}
+                - {{[[POMO]]: 10}}
+                - Demonstration from [[Dharam Kapila]] of [[Roam Portal]]
+                    - "{{[[POMO]]: 15}}"
+        - {{[[DONE]]}} **Section 4** [[Book Club member talk]]
+            - Book Club member talk through by [[Mike Kramer]] 
+                - "{{[[POMO]]: 15}}"
+            - Zettel discussion  [*](((UYkfu0Koi)))
+        - {{[[TODO]]}} **Section 5: This coming week**
+            - Proposed Zettel process [*](((IHsLytF9S)))
+            - Timeline to come
+    - [[Book Prompts]]
+        - (rand)
+    - [[Writing Prompts]]
+        - (rand)
+    - Fleeting Notes:: 
+        - [[Sönke Ahrens]]:
+            - "two major differences with programs that don't have block reference feature:
+                - if I tag somthing as just one word, this is like an index where you collect stuff
+                    - it allows you to jump to a big note and decide where you want to go next
+                - more descriptive titles, more than one word long, are stand-alone notes
+                    - they may become entry points or clusters, which are different from clusters
+                    - I would actually describe what is on that page"
+            - "individual vs. collective difference in graphs or even notes within graphs
+                - there ought to be a firewall between collective vs. individual
+                    - you get more familiar with your own zettelkasten"
+    - Link to something you find interesting::
+    - {{[[embed]]: ((n4Ha7TZ4O))}}
+[[Live Session 5]] Start 12:30 PST 
+    - ## [Zoom Link](https://zoom.us/meeting/84562143126)
+    - ## 📌 [Alternate Link](https://cwhitesullivan.lt.acemlna.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ1czAyd2ViLnpvb20udXMlMkZqJTJGODQ1NjIxNDMxMjYlM0Zwd2QlM0RlSGRyZDAwMFN6WldlaTlOWjNOdlRURmtXVm94UVQwOQ==&a=66602312&account=cwhitesullivan%2Eactivehosted%2Ecom&email=tBXusL5fv0hAR0H8uVp5Y7XEf05QuHANew5jWIBp84o%3D&s=7b8a74316fe38cf4af40d6bdba25fec0&i=164A1010A20A846)
+        - 
+            - I'm in.
+            - 
+            - 
+            - 
+            - we can just start on the prompts :)
+            - 
+            - 
+    - {{[[TODO]]}} **Section 1** [[Writing practice]]
+        - {{[[POMO]]: 10}}
+        - Pick from the prompts below and write in your own page for 15 minutes.
+        - "Pick from the prompts below and write in your own page for 15 minutes."
+        - Reflect on your own reading and writing practice and habits with this book over the last month. 
+        - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+            - Making #[[Literature Notes]] (mostly in my own graph) has slowed my reading process tremendously and helped me to realize that [[Sönke Ahrens]]'s writing is deceptively rich. I say deceptively because his writing style is accessible, informal, and even humorous, but his paragraphs pack a punch. His brief mention of Charles Munger, for instance, sent me down a rabbit hole, and when I came out of that rabbit hole and returned to Ahren's mention, I got to see how he had deftly summarized Munger's general approach in that very paragraph that sent me down the rabbit hole.
+        - Reflect on your Zettel process
+        - "Reflect on your Zettel process"
+            - I made a few #[[Permanent notes]] but tried creating a couple of [[Zettles]] only today. I was immediately struck by how the Zettel I created lead to my creating another Zettel, and both were anchored to [[Literature Notes]]
+        - Why do you want a Zettelkasten?
+        - "Why do you want a Zettelkasten?"
+            - To write more
+    - {{[[TODO]]}} **Section 2** Zettel writing session with [[Beau Haan]]
+        - {{[[POMO]]: 20}}
+    - {{[[TODO]]}} **Section 3** [[Break Out Rooms]]
+        - {{[[POMO]]: 30}}
+        - Explore the Zettels in the #Zettels   page, and discuss your own Zettel technique so far.  
+    - {{[[TODO]]}} **Section 4** Graph Meditation
+        - {{[[POMO]]: 20}}
+        - Explore the graph individually for 8 minutes
+        - [[Dharam Kapila]] to use [[Roam Portal]] to show us what's happened in the graph this week
+    - {{[[TODO]]}} **Section 5** [[Matt Brockwell]] to explore spaced repetition tools
+        - {{[[POMO]]: 20}}
+    - {{[[TODO]]}} **Section 6** What's next
+        - {{[[POMO]]: 20}}
+        - A discussion about what to plan for next week as [[Sönke Ahrens]] joins us. 
+[[Live Session 6]] Starting 12:00 PST 
+    - [Zoom Link](https://us02web.zoom.us/j/89124754465?pwd=R2VIUnFlVVZMVEptcktZdEc2MisyQT09)
+    - {{[[TODO]]}} **Section 1** [[Writing practice]]
+        - {{[[POMO]]: 30}}
+        - Pick from the prompts below and write in your own page for 25 minutes.
+        - Questions for us from [[Sönke Ahrens]]
+            - What have you learnt about note taking that I (Sönke) should know about? [*](((ETNAuQKcO)))
+                - A practical tip, c/o [[Joel Chan]]: [[Copy small screenshots rather than text during note-taking]]. This helps with turning [[Fleeting Notes]] into [[Literature Notes]]: "it avoids wasting time fixing up text (OCR mistakes, formatting, etc.)"; it offers ""easier handling of images/figures/tables" ([[Joel Chan]], p.c.)"; "it forces you to paraphrase, hashtag, and interpret the source (else the screenshot-note will be lost)"; "it fills your graph with your own writing"; and it affords ""the freedom to be a bit more sloppy and inclusive in the context of the quote (vs. very precisely specifying something)" ([[Joel Chan]], p.c.)".
+            - Are there any additions to the process described in the book? [*](((oMJY9A4Qo)))
+                - The process seems rather inwardly focused. Most writing is outwardly focused, with a specific group of readers in mind. Writing can be close to useless if it isn't valuable to its target audience. IMO this aspect of the process is insufficiently addressed, pace chap. 13. E.g., #quote "A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it?" [*](((37ECJavSi))) A reader-focused writer might also ask: What is the value of this note to my readers/audience? What particular set of readers might find this note valuable? Could this note be used to convince my readers to pay attention to my writing/research, e.g., "here's why you shouldn't ignore the point I'm making — it could cost/benefit you in this way: [note]"?
+            - Discuss your impression of the range of possibilities and limitations of a Zettelkasten [*](((4nPAlPxzA)))
+                - "It seems to work especially well for journaling, thinking-through-writing, and personal research (including very technical work), but it may be less efficient at generating writing/research that is aimed at a particular set of readers, unless we try very hard to make sure our notes are valuable to each such set of readers, but it's not obvious that this is doable for each note — or even that this is a good idea. Maybe it's better to reflect posthoc on how a given note could be valuable for a particular set of readers. The point remains: the Zettelkasten method isn't especially concerned with readers, IMO."
+            - (what use cases does it work for? Are there any examples it doesn't work for?) [*](((hZWxdSphZ)))
+                - It seems to work especially well for journaling, thinking-through-writing, and personal research (including very technical work), but it may be less efficient at generating writing/research that is aimed at a particular set of readers, unless we try very hard to make sure our notes are valuable to each such set of readers, but it's not obvious that this is doable for each note — or even that this is a good idea. Maybe it's better to reflect posthoc on how a given note could be valuable for a particular set of readers. The point remains: the Zettelkasten method isn't especially concerned with readers, IMO.
+        - General review questions 
+            - Reflect on your impressions of the book  [*](((um5AVO25g)))
+                - Hugely impressed; I've strongly recommended it to colleagues and graduate students, e.g. ▾
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2Fm09UNnbVvL.png?alt=media&token=9e905c40-86f9-4ff5-89d6-6b8b55420f0e)
+                - I also include its advice directly in my syllabi for courses that require students to write research papers, e.g. ▾
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2F7tjmixJ8dD.png?alt=media&token=30a66d7b-bbc0-4f12-816b-daae64b44061)
+                - ""Making #[[Literature Notes]] (mostly in my own graph) has slowed my reading process tremendously and helped me to realize that [[Sönke Ahrens]]'s writing is deceptively rich. I say deceptively because his writing style is accessible, informal, and even humorous, but his paragraphs pack a punch. His brief mention of Charles Munger, for instance, sent me down a rabbit hole, and when I came out of that rabbit hole and returned to Ahren's mention, I got to see how he had deftly summarized Munger's general approach in that very paragraph that sent me down the rabbit hole." By contrast, a couple of weeks ago a book clubber in a breakout room described how her note-taking on a Malcolm Gladwell book revealed it to be light on details or "meat" — kind of like fast food, she said."
+            - Reflect on your note taking and reading. What if anything, has changed? [*](((KAlXq7jGc)))
+                - "Making #[[Literature Notes]] (mostly in my own graph) has slowed my reading process tremendously and helped me to realize that [[Sönke Ahrens]]'s writing is deceptively rich. I say deceptively because his writing style is accessible, informal, and even humorous, but his paragraphs pack a punch. His brief mention of Charles Munger, for instance, sent me down a rabbit hole, and when I came out of that rabbit hole and returned to Ahren's mention, I got to see how he had deftly summarized Munger's general approach in that very paragraph that sent me down the rabbit hole." By contrast, a couple of weeks ago a book clubber in a breakout room described how her note-taking on a Malcolm Gladwell book revealed it to be light on details or "meat" — kind of like fast food, she said.
+                - cf. [[Matt Brockwell]] #quote "Read fewer books but understand each book more deeply is one thing I am planning to do as a result of this episode of book club"
+            - Do you plan to continue your Zettelkasten from here?   [*](((tQ_ZjsamZ)))
+                - Definitely; I'm hooked. Ahrens notes that at a certain point the slip-box becomes addictive, in a good sense — as I put it in this Ahrens-derived Zettel: [[Are you experienced? Give yourself the experience of connecting ideas, facts, and arguments across your notes so you develop an urge for that experience, and you're golden]]
+    - "{{[[DONE]]}} **Section 2** Talk with [[Sönke Ahrens]]"
+        - #quote "I use one graph for everything. Having [my notes] in different places would be weird."
+        - #quote (c/o [[Matt Brockwell]]) “No need to go through all the steps if you just KNOW what stage it is supposed to be"
+        - #quote (c/o [[Matt Brockwell]]) “Beginners often make too many notes”
+        - re: [[Roam]] #quote "The most immediate difference is that I feel it's much easier to get into the ideas again; it's all about this very low threshold which has a huge impact when compared to pen and paper. I'm not sure yet if that's also a risk of being too focused on too many connections and possibilities instead of focusing on an argument and writing. From a practical standpoint, I use pages as representations of note sequences. Before these would have been divided across different notes, but now I feel more free to put them all in a single page, and use the granularity of blocks as notes. This allows me to focus on my arguments."
+        - [[Forrest Perry]] tip c/o [[Matt Brockwell]]: [useful relations between notes](https://medium.com/@nickmilo22/in-what-ways-can-we-form-useful-relationships-between-notes-9b9ec46973c6)
+    - {{[[POMO]]: 45}}
+    - [[Dharam Kapila]] to use [[Roam Portal]] to show us around the graph
+    - Group discussion and questions
+    - Exploring the #Zettels   tag
+    - {{[[TODO]]}} **Section 3** [[Break Out Rooms]]
+        - {{[[POMO]]: 30}}
+    - {{[[TODO]]}} **Section 4** Reflections and Graph decisions
+        - {{[[POMO]]: 15}}
+[[Live Session 7]] Starting 12:30 PST
+    - [Zoom Link](https://us02web.zoom.us/j/83436580997?pwd=eFhSNXpNMzMyR3h3ZjgzM0Jta3ROQT09
+)
+    - {{[[DONE]]}} **Section 1** [[Writing practice]] 
+        - {{[[POMO]]: 25}}
+        - Pick from the prompts below and write in your own page for 25 minutes. [[test]]
+            - You start a conversation with a stranger in the street. They ask you what is a Zettelkasten. What do you say?  [*](((0r8HLcQQ8)))
+                - It's a simple technique developed by a German social theorist named [[Niklas Luhmann]] that allowed him to write several dozens of influential books.
+                - It's about good notetaking.
+                    - If you improve your written notes and your ability to connect them, you’ll be able to consult them when choosing a topic, as opposed to choosing a topic blindly and hoping it turns out to be as interesting as it first promised.
+                    - As your written notes grow in number and connections, they will supply you with more than enough material for your presentations and writings, as opposed to starting from scratch.
+                - Two types of notes are especially valuable:
+                    - [[Literature Notes]]
+                        - Source/reference information
+                        - Data, diagram, or inimitable quote
+                        - Express ideas in your own words
+                            - to remember them better
+                            - to improve your understanding
+                            - to avoid overquoting
+                            - to avoid plagiarizing
+                    - [[Permanent Notes]]
+                        - Full sentences in response to questions like:
+                            - What does this literature note mean for my project?
+                            - Does one literature or permanent note contradict or correct another?
+                            - Does one literature or permanent note validate or complement another, and if so, should their ideas be combined?
+                        - Your permanent notes should be written in such a way that they make sense on their own, with little or no context, and they should be hashtagged or indexed in such a way that you can easily find and use them when preparing your presentation or written piece.
+            - Reflect on your reading and writing habit through Book Club. Did the emphasis and exploration of Sonke's book change your reading and writing habits? [*](S08Xes1Qk)
+                - It has really slowed me down, in a good way. These dual requirements are time-consuming: rendering [[Literature Notes]] in my own words; and providing enough content for [[Permanent Notes]] to make sense out context while also keeping each note succinct ("atomic").
+            - The book promotes a bottom up approach to note taking, which we have used in Book Club. Reflect on this. How did this feel?  [*](((0Zn1oqjha)))
+                - It's been a valuable exercise and experience, but it's impossible to apply the full process ([[Fleeting Notes]] → [[Literature Notes]] → [[Permanent Notes]] → [[Connections]]) to each paragraph, let alone each sentence, over the course of the Book Club, so it leaves you with the impression that a lot remains to "mine" in the book, which isn't a bad impression.
+            - What's your favourite blocks (or quotes) from the book? [*](((Bm9sTSx-G)))
+                - "The slip-box is not a collection of notes. ... The idea is not to collect, but to develop ideas, arguments and discussions. Does the new information contradict, correct, support or add to what you already have (in the slip-box or on your mind)? Can you combine ideas to generate something new? What questions are triggered by them?" [*](((y5dDNqTm7)))
+    - {{[[DONE]]}} **Section 2** [[Breakout Rooms]]
+        - {{[[POMO]]: 25}}
+    - 
+    - {{[[TODO]]}} **Section 3** [[Graph Meditation]]
+        - {{[[POMO]]: 25}}
+        - Reflect on Roam Book Club [*](((LIfhRtttz)))
+            - I'd read [[How to Take Smart Notes]] a couple of times in the past but I didn't fully appreciate or "get" it until [[Roam Book Club 2]], which is ironic, given that the Book Club's bottom-up approach left me with the impression that we covered only a small part of the book. I mean: "It's been a valuable exercise and experience, but it's impossible to apply the full process ([[Fleeting Notes]] → [[Literature Notes]] → [[Permanent Notes]] → [[Connections]]) to each paragraph, let alone each sentence, over the course of the Book Club, so it leaves you with the impression that a lot remains to "mine" in the book, which isn't a bad impression."
+        - Comment on your impressions of the shared graph [*](((UoXT4uNBN)))
+            - It was inspiring. I had a sense that we were all contributing bits and pieces to the graph, but [[Dharam Kapila]]'s fly-over revealed the graph to be more expansive and connected that I ever imagined. But it also feels incomplete — there's still so much more writing and connecting to do.
+        - Were you surprised by anything in the graph? [*](((Y6pzgdIZ8)))
+            - [[Literature Notes]] involve putting the source in your own words, but I underestimated just how differently a given source can be read and understood by intelligent individuals. I knew this but the shared graph really drove it home for me like never before. The parable of the blind men and the elephant misled me into thinking that this phenomenon is restricted to larger objects of inquiry, but this Book Club and the resulting graph demonstrate that even small pointed ideas have varied interpretations. Again, I knew this, but I didn't know-know it; it hadn't fully hit me.
+        - Can we create a shared zettelkasten?  [*](JErtYI4Id)
+            - Sure we can but it's not necessarily a good idea. From the beginning of Roam, many have been eager to connect with pages and blocks in others' graphs, as Roam has promised, but I think it's a blessing that this isn't doable at present. Sonke's book has convinced me that a personal zettelkasten is a prerequisite to sorting out and even confront one's thinking, and only then should roamcast your ideas to the world, and only then start connecting to others who have gone through the full zettelkasten process individually.
+        - Refer to the #Zettels page. Any favourites? Any why? [*](((DIEcyB09S)))
+            - I discovered something about myself: I especially value figurative/metaphorical Zettels, e.g. [[Matt Brockwell/MJB]]'s "#Zettels [[The discovery of, and the presentation of knowledge, are two inter-braided threads, of the same strand of rope]]"
+        - Have we finished? Do you feel you have clarity about the Zettelkasten process in Roam?  [*](((rULvEzaJb)))
+            - Absolutely. I began the [[Book Club 2]] with the notion that [[Zettels]] should correspond to [[Pages]] in [[Roam]] but I now see [[Zettels]] as blocks with [[Literature Notes]] indented as examples or arguments. Crucially, such [[Zettels]] can be connected as reference blocks in a page, with simple connective words/phrases like "however" or "therefore."
+    - {{[[DONE]]}} **Section 4** [[Breakout Rooms]]
+        - {{[[POMO]]: 25}}
+    - {{[[TODO]]}} **Section 4** Final review and next steps
+        - {{[[POMO]]: 15}}
+Literature Notes::
+    - [[Introduction]]
+        - Everybody writes. Especially in academia. Students write and professors write. And nonfiction writers, who are the third group of people this book is aiming to help, obviously write as well. And writing doesn’t necessarily mean papers, articles or books, but everyday, basic writing. We write when we need to remember something, be it an idea, a quote or the outcome of a study. We write when we want to organise our thoughts and when we want to exchange ideas with others. Students write when they take an exam, but the first thing they do to prepare even for an oral examination is to grab pen and paper. "#quote We write down not only those things we fear we won’t remember otherwise, but also the very things we try to memorise." Every intellectual endeavour starts with a note. [*](((hG7TRPF5I)))
+            - #quote We write down not only those things we fear we won’t remember otherwise, but also the very things we try to memorise.
+                - Worse: if you don't write such things down, your brain will constantly prompt you with them — as you take a shower, try to sleep, etc.
+                - #[[Literature Notes]] Notetaking is a memory aid in two ways: it helps to remember things and to memorize things.
+        - The available books fall roughly into two categories. "#quote The first teaches the formal requirements: style, structure or how to quote correctly." And then there are the psychological ones, which teach you how to get it done without mental breakdowns and before your supervisor or publisher starts refusing to move the deadline once more. What they all have in common, though, is that they start with a blank screen or sheet of paper.[1] But by doing this, they ignore the main part, namely note-taking, failing to understand that improving the organisation of all writing makes a difference. They seem to forget that the process of writing starts much, much earlier than that blank screen and that the actual writing down of the argument is the smallest part of its development. This book aims to fill this gap by showing you how to efficiently turn your thoughts and discoveries into convincing written pieces and build up a treasure of smart and interconnected notes along the way. You can use this pool of notes not only to make writing easier and more fun for yourself, but also to learn for the long run and generate new ideas. But most of all, you can write every day in a way that brings your projects forward. [*](((baDCUDIxD)))
+            - #quote The first teaches the formal requirements: style, structure or how to quote correctly.
+                - One of the best such books is [[Steven Pinker]]'s [The Sense of Style](https://www.amazon.ca/Sense-Style-Thinking-Persons-Writing/dp/0670025852)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FbVlcxbJPjM.png?alt=media&token=40ea645a-69c2-44a7-8bf9-381c238c3a74)
+        - With that in mind, it is not surprising that the single most important indicator of academic success is not to be found in people’s heads, but in the way they do their everyday work. In fact, there is no measurable correlation between a high IQ and academic success–at least not north of 120. Yes, a certain intellectual capacity helps to get into academia, and if you struggle severely with an IQ test, it is likely that you will struggle to solve academic problems, too. But once you are in, a superior IQ will neither help you to distinguish yourself nor protect you from failure. "#quote What does make a significant difference along the whole intelligence spectrum is something else: how much self-discipline or self-control one uses to approach the tasks at hand (Duckworth and Seligman, 2005; Tangney, Baumeister, and Boone, 2004)." [*](((KqvBsDubC)))
+            - #quote What does make a significant difference along the whole intelligence spectrum is something else: how much self-discipline or self-control one uses to approach the tasks at hand (Duckworth and Seligman, 2005; Tangney, Baumeister, and Boone, 2004).
+            - 
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+            - [*](((x5hx3y9ay)))
+                - We need to be fully aware that change isn't easy, not least because it involves letting go of the sense of control afforded by familiar behaviors. 
+    - [[Afterword]]
+    - We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.) [*](((x5hx3y9ay)))
+        - 
+
+>#[[Daily Writing Prompt]]
+"What have you learnt about note taking that [[Sönke Ahrens]] should know about? ▶ A practical tip, c/o [[Joel Chan]]: [[Copy small screenshots rather than text during note-taking]]; this helps with turning [[Fleeting Notes]] into [[Literature Notes]]"
+"Are there any additions to the process described in the book? ▶ Most writing has a specific group of readers or audience in mind. This aspect of the process is insufficiently addressed IMO. E.g., #quote "A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it?" [*](((37ECJavSi))) Reader-focused alternatives include: What is the value of this note to my readers/audience? What particular set of readers might find value in this note? Could this note be used to convince my readers to pay attention to my writing/research (e.g., "ignore it at your risk" and/or "it could be of benefit to you")?" 
+"Discuss your impression of the range of possibilities and limitations of a [[Zettelkasten]] (what use cases does it work for? Are there any examples it doesn't work for?) ▶ It seems to work especially well for journaling, thinking-through-writing, and personal research, but (as mentioned in the previous question) it may be less efficient at generating writing/research aimed at a particular set of readers, unless we try hard to make sure our notes are valuable to particular groups of readers, but it's not obvious how to do this for each note."[*](((_9YYIHkfd)))
+    - What have you learnt about note taking that [[Sönke Ahrens]] should know about? ▶ A practical tip, c/o [[Joel Chan]]: [[Copy small screenshots rather than text during note-taking]]; this helps with turning [[Fleeting Notes]] into [[Literature Notes]]
+    - Are there any additions to the process described in the book? ▶ Most writing has a specific group of readers or audience in mind. This aspect of the process is insufficiently addressed IMO. E.g., #quote "A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it?" [*](((37ECJavSi))) Reader-focused alternatives include: What is the value of this note to my readers/audience? What particular set of readers might find value in this note? Could this note be used to convince my readers to pay attention to my writing/research (e.g., "ignore it at your risk" and/or "it could be of benefit to you")?
+    - Discuss your impression of the range of possibilities and limitations of a [[Zettelkasten]] (what use cases does it work for? Are there any examples it doesn't work for?) ▶ It seems to work especially well for journaling, thinking-through-writing, and personal research, but (as mentioned in the previous question) it may be less efficient at generating writing/research aimed at a particular set of readers, unless we try hard to make sure our notes are valuable to particular groups of readers, but it's not obvious how to do this for each note.

@@ -1,0 +1,16 @@
+- analogy proposed by [[Beau Haan 📌]] during [[Live Session 5]] where we think of these 3 phases of matter as our **fleeting → literature → permanent notes**
+    - vs. digital gardening verbiage that has the natural association with TIME (i.e. seedlings take time to grow, etc.)
+    - we want to quickly get through the phases so we can start having the discussion with this conversation partner at the permanent note level
+- :hiccup [:hr]
+- **more detailed notes below:**
+    - Imagine if the [[Zettelkasten]] concept was a pot where you're throwing in your vegetables etc, and while the lid was open, other people have thrown other ideas in as well - one idea, in particular, is the verbiage used in the digital gardening community (seedling, budding, evergreen)
+        - the terms substantiate meaning that's not beneficial for zettelkasten- the idea of time- seedlings take time to grow, budding notes take time to grow, evergreen notes take time to grow
+    - **the whole point of zettelkasten is to slam all 3 of these together as quickly as possible so our conversation happens at the zettel-level**
+    - ### New analogy: ^^3 phases of all matter^^
+        - imagine you have fast moving gas particles
+        - if you can start capturing those fast-moving fleeting notes to slow down the molecules, it starts becoming a liquid, and it will start dropping
+        - but liquid without a container is useless. so if we have a container called evidence (or the container is the source material/bibliography), you can capture these fast-moving particles and slow down these thoughts into a liquid (contained in a container called the reference notes)
+        - then if you're able to take this liquid, slow-down/crystallize these thoughts even more into a solid-state permanent note 
+        - you want to __quickly__ get from **gas → liquid → solid**
+fleeting → literature → permanent notes
+        - so you can start having the discussion that everyone desires, or this conversation partner at the permanent note level

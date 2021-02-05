@@ -1,0 +1,66 @@
+- #[[Relevant Notes]]
+    - #Zettels [[Flow state is the desired state of working where you get energized by the work itself and having control over the choice of your own work increases the chances of being in flow state]]
+        - #[[Literature Notes]] [Chapter 8. Let the Work Carry You Forward](((RK0T2uHBh)))
+            - Flow of work is like thermodynamics. Some work needs you to spend energy and other work energizes you. 
+            - The second one with flow state is what we want. And having control on the kind of work we can involve ourselves with gives a better chance of choosing work that will be energizing. 
+        - #[[Fleeting Notes]] Having control on what I choose to work on is important because having that choice allows me to work on things I am interested in. I can then achieve flow state that leaves me energized and more satisfied by my work. 
+            - Achieving flow state
+                - It's energizing instead of depleting
+                - Engrossed in the work, there is no sense of time
+                    - Where did the time go by?
+                        - Not focused on anything else
+                        - Distractions don't have power
+                - When it's done, you don't feel drained
+                    - They just rest and recharge
+                - You finish that and feel energized
+            - This is something I would like to pursue
+                - I would like to make sure that the activities that I am ending up involving, allows me achieve this flowstate
+                - In bigger organizations, they define my work
+                    - Which may or may not help achieve that state
+                - I want to choose, since the chances are higher
+                - More satisfying
+                    - More output
+            - In general when I am involved in work, if I'm not intrinsically engaged in
+                - It's difficult
+                    - I do a poor job
+                    - It sucks my energy 
+                        - It takes more energy to do it
+            - Compared to flow state
+                - Polar opposite
+                    - Anti-flow
+            - Emotional why, this is a good example of that
+                - I want control over my choices, so I can choose to make sure I'm involved in activities where flow state is possible
+                    - I don't know how else to explain, this is the crux of the conversation until now
+                    - There is a desire to make sure that I am part of activities that energize me
+                        - More possible with more control
+                            - Bigger organizations, diminish for me
+- guided writing exercise
+- This is something I would like to pursue
+    - I would like to make sure that the activities that I am ending up involving, allows me achieve this flowstate
+    - In bigger organizations, they define my work
+        - Which may or may not help achieve that state
+    - I want to choose, since the chances are higher
+    - More satisfying
+        - More output
+- "[[Guided Writing Template - Apply children as text]]"
+- In general when I am involved in work, if I'm not intrinsically engaged in
+    - It's difficult
+        - I do a poor job
+        - It sucks my energy 
+            - It takes more energy to do it
+- 
+- Compared to flow state
+    - Polar opposite
+        - Anti-flow
+- 
+- Emotional why, this is a good example of that
+    - I want control over my choices, so I can choose to make sure I'm involved in activities where flow state is possible
+        - I don't know how else to explain, this is the crux of the conversation until now
+        - There is a desire to make sure that I am part of activities that energize me
+            - More possible with more control
+                - Bigger organizations, diminish for me
+- 
+- the [[nature of work]] is quite like thermogenic reactions. Most times you have to spend energy to get the work done. But, sometimes, when you get into a flow state, it feels different and you are actually getting energized by the doing of the work itself. This flow state is what we are looking to achieve [*](((RK0T2uHBh)))
+    - __This happens most of the time to me when I am interacting with an idea or a piece of content that I am really interested in. And what happens is that I can concentrate for a long time without losing interest or feeling a drain on my energy. If all the reading could be so, and I can convert my writing to this flow state, the creation process would be so much more smoother.__
+- 
+- 

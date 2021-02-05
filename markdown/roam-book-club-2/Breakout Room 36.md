@@ -1,0 +1,25 @@
+- HIDDEN
+    - Breakout Group Number - 36
+        - Who was in this group on 11.1.20:: 
+            - [[Paul Hacker]] [[Beau Haan 📌]] [[Tamera Martens]] [[Conroy Michel]]
+        - What did your group talk about?::
+            - Usage level so far: 
+                - {{[[slider]]}}
+        - Any questions for the book club as a whole?::
+            - What are tips to get the most out of this
+            - Questions about [[Roam]] as a tool
+            - What happens with the __"stuff"__ that we put inside of [[Roam]]
+            - How can we expand our writing into this tool
+            - 
+        - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+            - How does [[Roam]] fit into how the [[Zettelkasten]] functions
+            - How many failed attempts did [[Sönke Ahrens]] have before discovering the [[Zettelkasten in Roam]]
+            - How does an analog slip-box "card" translate to [[Roam]]'s "blocks"?
+- 
+- Level 1
+    - Level 1A
+        - Level 2
+            - Level 3
+                - I can add infinite amount of doors leading to infinite amount of rooms
+                    - "HIDDEN"

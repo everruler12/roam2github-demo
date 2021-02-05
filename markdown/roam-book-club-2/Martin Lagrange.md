@@ -1,0 +1,4 @@
+- [[Book Club Live Session 1]]
+    - [[Goals of Book Club]]
+        - I'd like to learn what Taking smart notes is about, the concepts and learning how to write my notes in Roam so that it is beneficial to me and what I want to achieve.
+        - I want to learn together

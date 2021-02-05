@@ -1,0 +1,90 @@
+- What's your current note taking process? [*](((VdvfhKlFo)))
+    - 
+- [[Directory]]
+    - **Name:** Sari Siyam
+    - **Website:** https://sarisiyam.com 
+    - **Twitter Handle: **@sari_siyam/
+    - **linkedIn**: https://www.linkedin.com/in/sarisiyam/
+    - **Job:** 3rd Year Mechanical Engineering Student 
+    - **Location:** [[Vancouver]]
+- **Live Session Notes:**
+    - [[Live Session 3]]
+        - [*](((jeqrC6H34))) Pick from the prompts below
+            - Define a literature note in your own words. [*](((kHdks4qwM)))
+                - A summary or compilation of notes that encompass the overall content of information
+                    - " Be Bayesian and modify your ideas as new evidence presents itself"
+                        - The idea here is to build off of your notes and see where they connect with each other
+                            - As it compiles, and grows, and more connections are made, a higher resolution of that information exists 
+            - How do you take literature notes? Discuss your method. [*](((f1ODSsQfy)))
+                - I start off with an [[Idea Seed]] and I pour in the essential ingredients 
+                    - Example: [[Rocket Engine]]
+                        - What is a rocket engine? 
+                        - Why is it important? 
+                        - How does it relate to the past, present, future?
+                        - How are rocket engines designed? 
+                - I like to start off my seed with a couple of questions to get the idea creation process going 
+                    - Once a seed has roots or linked nodes, that information becomes "permanent" or "DNA" to that seed. 
+                        - It only grows from here into whatever that seed represents
+            - Have you found value in taking literature notes already? [*](((Ps2snuEuK)))
+                - Yes, because I am actively cultivating [[Idea Seed]], all the roots intermingle and connect in some way
+                    - Its permanent, it will never change, only grow :) 
+            - What struggles have you had implementing literature notes? [*](((SIN62h-E3)))
+                - Content Creation 
+                    - I used these websites to help with idea creation, by adding the keyword or [[Idea Seed]], the platform will provide you with questions 
+                    - Alsoasked.com
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2F_T71Hvigbv.png?alt=media&token=f060517c-3131-4f87-bdec-7a9436ee3093)
+            - Describe any enlightening moments you had while taking literature notes. [*](((FWJ5P3PcV)))
+                - Eureka moments are always great, I sometimes feel that when I connect something that isn't too obvious
+                    - Once I was trying to write about the (mis-behaviour) of the stock market and I had a hard time looking for the one quote that would summarize my writing. 
+                        - I so happen to have grown a #quote seed 
+                            - Found the quote that would work, only because I was able to create that connection in the first place
+                                - By adding your favourite quotes to roam, you are likely to find a good use for it later on
+    - [[]]
+    - [[Live Session 4]]
+        - Pick from the prompts below and write in your own page for 15 minutes. [*](((b6b6xyeKF)))
+            How is your progress towards your initial goals? Or have they changed? [*](((DQX6BrRPZ)))
+                - My goal originally was to improve my writing skills and explore new ideas
+                    - By participating in RBC2, I get to be inspired by many awesome individuals with like minded efforts
+                        - I get to answer questions like this and put words to "roam" (paper) lol
+                    - I have been implementing a range of tools and new skills that I learned throughout the past two sessions
+                - Explore the concept of permanent notes/zettels. [*](((XfdAP--fC)))
+                    - Explain what a permanent note is in your own words? [*](((vSRq-nT_U)))
+                        - A permanent note is an [[Idea Seed]] that begins with a low resolution meta information that later becomes permanent as more and more information connects
+                            - The [[Idea Seed]] never changes, only new useful information is added
+                    - 
+- Fleeting Notes::
+    - [[Breakout Session]]
+        - 
+    - 
+- **Response to Writing Prompt:**
+    - What's your current note taking process? [*](((VdvfhKlFo)))
+        - 
+- Literature Notes::
+    - [[Introduction]]
+        -  Everybody writes. Especially in academia. Students write and professors write. And nonfiction writers, who are the third group of people this book is aiming to help, obviously write as well. And writing doesn’t necessarily mean papers, articles or books, but everyday, basic writing. We write when we need to remember something, be it an idea, a quote or the outcome of a study. We write when we want to organise our thoughts and when we want to exchange ideas with others. Students write when they take an exam, but the first thing they do to prepare even for an oral examination is to grab pen and paper. We write down not only those things we fear we won’t remember otherwise, but also the very things we try to memorise. Every intellectual endeavour starts with a note. [*](((hG7TRPF5I)))
+            - "Every intellectual endeavour starts with a note" #quote
+        - 
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+            - We tend to think that big transformations have to start with an equally big idea. But more often than not, it is the simplicity of an idea that makes it so powerful (and often overlooked in the beginning). Boxes, for example, are simple. Malcom McLean, the owner of a trucking company and a former trucker himself, regularly got stuck in traffic on the crowded coastal highways. When he came up with an idea to circumvent the congested roads, it was a simple one. He had no clue that it would tip the world in a new direction. He did not foresee that his simple idea would reshape the political landscape, let some nations rise to the top and other fall behind, make century-old professions redundant, give birth to new industries, and would barely leave a single person on earth unaffected by it. I am speaking, of course, of the shipping container, which is basically just a box. When McLean converted the tanker Ideal X to be able to carry 58 containers and set it to sail on 26 April 1956, it was just because it made more sense to ship parts of a lorry than the whole lorry itself, which in itself made more sense than to have them stand in traffic for days. He certainly did not aim to turn world trade upside down and pave the way for Asia to become the next big economic power. He just didn’t want to get stuck in traffic anymore. [*](((Zo2Uaa6y3)))
+                - This reminds me of chaos theory or even simpler than that, the flap of a butterfly wing resulted in a tornado in TX. 
+                    - Small actions with great potential yields to exponential growth of many actions.
+                - Simplicity is also viewed as aesthetic and attractive.
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+            - We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.) [*](((x5hx3y9ay)))
+                - Behavioural change is not an easy thing to do on a large scale because normal behaviour is embedded in society and requires a shift in ideology to create a change in behaviour?
+                - Behavior change is a singular act out of the norm. When others participate in that act, it compounds and the power of normal is increased. 
+    - [[Afterword]]

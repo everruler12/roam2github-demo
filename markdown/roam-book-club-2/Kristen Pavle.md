@@ -1,0 +1,94 @@
+- **Twitter:** [@khpavle](https://twitter.com/KHPavle)
+- **website** (one place I keep my writing): [newsletter](https://scoop.substack.com/people/5234490-kristen-pavle)
+- **Location**: Oakland, CA
+- I've spent over a decade of my life as a professional qualitative researcher, writer, program designer and evaluator - with a focus on the health care space, most of my work has been working with state and federal government leadership entities.
+    - I work very idiosyncratically, and How to Take Smart Notes is VERY motivating for me to get a bit more habituated in nailing down some rituals and techniques for how I work.
+    - Especially now that I'm trying to find my way beyond the health care system, looking to build my own independent research collective/studio eventually. That's the dream as of today (changes daily! 🙃)
+- **Literature notes** #[[Literature Notes]]
+    - Preface note: I don't like restricting myself to the chapter `literature` notes system, it doesn't make intuitive sense to me... it's also too burdensome for me to link notes to blocks of text from the book, too many extra steps, too linear. My brain doesn't work this way (at least it's not efficient nor effective for me). If there is a specific quote or section, I'll note the specific location. 
+    - The easiest and most fun way to write is to set yourself up for success by taking smart notes. Write notes to your [[future self]].
+        - #notetaking about insights generated, about what you've learned (as a reader or researcher), and how we understand things. This will leave you better prepared in any written endeavor.
+        - Not to mention, if you plan for insight as a writer, new ideas are what sustains our energy, attention, and motivation - in a way that is more #endergonic than #exergonic.
+        - Writing helps us confront ourselves - understand ourselves.
+            - writing yourself free. [[Johannes Niederhauser]]
+            - Even if you "fail", this helps with increasing your understanding of self
+    - #notetaking can be a kind of personal blindspot, if our #notetaking system is not designed with a built-in feedback mechanism, we won't know if we're taking horrible notes or fantastic notes. We'll be working in alignment with our confirmation biases.
+        - Part of this is due to the way the brain works - perceiving and interpreting information simultaneously. Taking a step back to formulate notes in our own thinking gives us space to look closely at our thinking and where we may be encountering blindspots.
+        - "...to see what we see instead of what we expect to see..." (p.126) requires a kind of trickster approach of viewing our blindspots.
+        - We can only break patterns of thinking when we become aware of them.
+    - Our goal, as writers, is to create a kind of #ecosystem within which we can be flexible, creative, associative, playful. Indeed, we are not attempting to bootstrap our writing on the backs of #self-discipline and #self-control 
+        - The **structure** of the ecosystem must take into account our limited resources in [[short-term memory]], #attention, and #motivation (#willpower).
+            - One way of doing this is to reduce the number of decisions we have to make, every step along the way. For example - always taking fleeting notes in the same notebook, using the same process for moving from fleeting to permanent notes, and regularly taking breaks (potential to tie in [[pomodoro technique]])
+            - Another way, outside the scope of this book, is writing down all of the little things we have to do in our lives, so our brains, our [[working memory]] are not thinking about what we need to do or worrying about what's not yet done. [[David Allen]] [[getting things done]] or #GTD is one such workflow to manage these types of tasks. The goal being to have a "mind like water" - flowing through the day.
+- **Fleeting Notes**
+    - encourage block reference (on MacOS - option-drag)
+        - Highlight passages that resonate
+- [[Book Club Meeting #1]]
+    - Group gatherings
+        - [[Bill Petro]] - inspired by [[Sönke Ahrens]]: reading at different levels, don't have to go deep, can also look for the "big ideas"
+            - This is very good advice for me! 🙃
+        - Post in daily notes as much as we'd like, but nest under your name
+    - **First breakout (11/1/20)**
+        - Jim S. - Boston
+            - part of the first book club
+                - Where Good Ideas Come From - Steven Johnson
+            - came up in Windows so Roam is real hard to get used to 
+            - Group Roam - investment club, tried this approach but it didn't work well because others weren't familiar with Roam
+            - don't organize your Roam, just chuck it in there 
+        - [[Patrick Diehr]]- Milwaukee
+            - recent college grad
+            - didn't take a lot of notes in school, and finding that a lot of what he read wasn't absorbed
+            - entertainment vs learning - note taking can help bridge from entertainment to learning
+        - [[Brian J Brennan]] - Brooklyn 
+            - software engineer
+            - reading and taking notes so you can produce something from them - doing this as an engineer currently, looking for ways to improve the process
+    - **[[Sönke Ahrens]] notes**
+        - Book released in 2017; slow start
+            - Nice to see how people personalized the use of the book, something experimental and personal - this was his intention
+            - Procrastination project in some ways
+            - Initially written for an academic audience, teachers and students - but has had an evolution in his thinking and can see how the system can be tweaked to work with others' needs
+        - Linear approach to a project was frustrating
+            - Start with a goal and work towards it - doesn't quite work this way
+        - Influenced by systems theory - heterogenous topics being connected in a way that wasn't forced
+            - So many books hyper focus on one idea, and trying to fit everything into that one idea's lens 
+            - Looking for a way to hold more ideas in relation to one another than is usually possible in the mind 
+        - Note taking as a tool for finding ideas that are new and old, finding connections
+            - Without note taking, we're floating on the new ideas and new isn't necessarily better
+            - Note taking to help make decision between two nodes, stages in your own thinking, and seeing/working through that evolution in thinking 
+            - Akin to #Zettelkasten as a dialogue partner
+            - Helps with confirmation bias, overfitting, untethered ego (humbleness)
+        - Note taking - writing vs thinking tool
+            - Handwriting is a way to capture thinking for Sönke vs typing is something he often sees as more permanent
+            - Roam has so little friction to getting thinking out, which is an advantage 
+    - [[Meetup]] - encourage meeting up with others during the week because this is such a big group 
+- [[Writing Session]]
+    - Prompting
+        - see also: [[roam/js]]
+            - child block with parenthesis around "rand" will get a random prompt in these two prompt "libraries"
+        - [[Book Prompts]]
+        - [[Writing Prompts]]
+    - [[Book Club Live Session 1]]
+        - [[Goals for Book Club]]
+            - Explore Roam application in a group setting
+                - I'm particularly interested to see how collaboration around ideas works, how people #vibe in Roam together
+            - Better understand my current note taking technique that is largely (if not completely) intuitive and self-taught
+                - I've been a professional analyst and researcher for over a decade, so I've an underlying assumption that I must be doing something right!
+                - That being said, I have a tendency to make things more difficult than they need to be.
+                - Also, something I've been thinking about a lot lately is how to be more legible to the right people - having my own idiosyncratic way of doing things is great for me but if there's no API with others, or the API is shitty and it's hard for people to port, then I would like to update my process. 
+                - At the root of this line of thinking is my desire to articulate myself better for the sole purpose of finding other people to play with - intellectually throwing ideas around and challenging my thinking, practically in building products, and regardless of stylistically what the play is, having some fun in the process. 
+                    - Just a note that fun can be challenging, and that's ok!
+            - Explore a new mental model for note taking 
+                - I'm curious what Ahrens' way of thinking will feel like, and if it will jive with my way of thinking. If there will be jumping off points from his mental model of note taking that I can integrate with my own 
+                - I'm also a noob when it comes to #Zettelkasten so looking forward to seeing what that's all about, and how I can potentially use this in my life
+            - Find a new perspective on what comes AFTER the notes
+                - I am comfortable with my note taking skills, and while I can always improve these skills, I'm less pleased with what comes after the notes
+                - I don't know if this book club will help push me and my thinking about how to work with my notes/thinking after the fact, but that would be nice
+                - One of the things I've noticed, lately, is that finding a tech/tool stack that works well with my brain and my process is super important
+                - So after Roam, where then?
+                    - Where do draft writings live?
+                    - Where do I publish?
+                    - What style of work do I publish?
+                - Yesterday I had that fleeting moment of clarity when walking with Dave, that I could see new ways of sharing my mind with the world
+                    - And in that fleeting moment, I knew it was fleeting! I said I probably had about a 4-hour window before I lost the clarity
+                    - I don't know that the window even stayed open for 4-hours but Dave said something useful: it may only be 4-hours now, but that window will keep growing.
+                    - I feel like I'm on the path!

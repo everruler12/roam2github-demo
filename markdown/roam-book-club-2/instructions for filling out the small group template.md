@@ -1,0 +1,21 @@
+- **the best place to do this is somewhere (anywhere) on your own page**
+    - 1. ^^First^^, here's a tip that will help you to quickly navigate to your home page in the side-window:
+        - go to the Directory and temporarily “filter” it (top right corner) by typing your own name into the search box so that your name is the only link there. 
+            - Filter it to only include your own name only
+                - This temporarily turns the Directory into a shortcut to your own home page.
+                - You can always turn this off later and make it back into a "Directory" of all members.
+            - Open your own page in the side window by shift-clicking on its link
+    - 2. ^^Second^^, here's how to pull up the template:
+        - You're in your own home page now? Great!
+        - If you opened your home page in the side window ➡️ ➡️ ➡️ you can type in it while you read these instructions
+        - Type `((~tem..` into any blank bullet point in your own page
+        - You should see this in the autocomplete menu happening underneath where you type:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FCi1QdaebjB.png?alt=media&token=be9dd60f-b636-4f0b-aefc-92c4d0b086ea)
+        - click on the greyed-out option you see that reads `~template 🧩: 11.8.20 report-back from small group`
+        - congratulations, you have made a copy of the original block!
+        - now click on that copy (a.k.a. "block reference")
+        - this gives you access to a couple of menus, you want to choose these options, as shown here:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FDoOZvKxilY.png?alt=media&token=5eb26516-8462-411a-8a35-737f43a24b2d)
+        - after you navigate to, and choose, the "apply children as text" option, then the entire template should spring into existence under the bullet you were typing into
+        - if you fill out that template - and, ^^IMPORTANT^^, **please don't change the bolded text at all**,
+        - then you have filled out a working piece, of the group `attribute table`.

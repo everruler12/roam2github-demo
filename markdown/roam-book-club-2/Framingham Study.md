@@ -1,0 +1,3 @@
+- https://framinghamheartstudy.org/fhs-about/research-milestones/
+    - [[2007]] Based on evaluation of a densely interconnected social network of 12,067 people assessed as part of the Framingham Heart Study, network phenomena appear to be relevant to the biologic and behavioral trait of obesity, and obesity appears to spread through social ties
+    - [[2008]] Based on analysis of a social network of 12,067 people participating in the Framingham Heart Study (FHS), researchers discover that social networks exert key influences on decision to quit smoking

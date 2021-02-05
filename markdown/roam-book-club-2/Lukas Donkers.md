@@ -1,0 +1,60 @@
+- Name:: Lukas Donkers
+- Website:: http://www.lukasdonkers.com/
+- Company:: I'm a Freelance Game Programmer
+- Fleeting Notes:: 
+- [[Questions for Sönke]]
+
+    - What has made you switch to Roam, and what did you use previously?
+
+    - Should you take notes in your own words, or copy highlights (quotes)?
+- [[Book Club Live Session 2]]
+    - {{[[embed]]: ((L_yS5Zkrd))}}
+- [[Live Session 6]]
+    - "Questions for us from [[Sönke Ahrens]]"
+        - "What have you learnt about note taking that I (Sönke) should know about?"
+            - There is a lot of power in simplicity. Simplicity makes a system easy and enjoyable to use, thereby reducing friction and allowing you to do more
+                - For this reason, it makes total sense to adapt and change your system to fit your needs. Apply meta reasoning and make the system work for you.
+        - "Are there any additions to the process described in the book?"
+            - I personally adopted a 'voice notes' stage instead of a 'literature notes' stage:
+                - First, I read and highlight passages I find interesting
+                - Second, I go for a 30 minute walk and record my thoughts.
+                    - I apply Free Recall to see what I remembered, but I also 'ramble' and connect what I read with other things
+                - Third, the next day, I listen to my voice notes and turn them into permanent notes
+                    - Doing it the next day allows me to be more selective in what I find important.
+        - "Discuss your impression of the range of possibilities and limitations of a Zettelkasten?"
+            - I'm not yet convinced that 'page title contains a statement or claim' is the best way to go
+                - Personally, I think in subjects, and on a subject page I have 'subtopics' or 'related topics'
+                    - And under those I might have claims
+                - The process of zettling seems very narrow: for better or for worse, I'm not sure
+        - "(what use cases does it work for? Are there any examples it doesn't work for?)"
+            - If I applied zettelkasten, I would not apply it to projects.
+            - For me, projects move too quickly for me to ponder questions for too long
+                - And in many cases, this is a good thing: "when in doubt, build it and see if it works"
+            - I should note that my projects are distinctly different from academia. I am a programmer, after all!
+    - "General review questions "
+        - "Reflect on your impressions of the book "
+        - "Reflect on your note taking and reading. What if anything, has changed?"
+            - I am now more aware of the importance of permanent notes. Previously I would rarely write them, hoping that Roam would surface interesting notes instead.
+                - By being more intentional about them, I end up writing a lot more
+        - "Do you plan to continue your Zettelkasten from here?  "
+    - 
+- Link to something you find interesting::
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]

@@ -1,0 +1,10 @@
+- Author:: [[Greg Wilson]]
+- Reading Status:: #readagain
+- Date Finished:: 
+- Why:: The best book on [[teaching]] in [[Tech]]
+- Tags:: #learning #teaching 
+- Languages:: EN, ES
+- URL:: http://teachtogether.tech/ 
+- Notes::
+- --------------------------------
+- 

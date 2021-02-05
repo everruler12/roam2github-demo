@@ -1,0 +1,85 @@
+- **Work in progress:** [[Nikki Huang]]
+- ----------------------------
+- #[[Relevant Notes]]
+    - #Zettels [[Zettlekasten can be used to build and organise [[mental models]] in such a way that working with them to generate new ideas becomes a [[flow state]] process]] #creativity #productivity
+        - #[[Literature Notes]] [Chapter 8: Let the work carry you forward](((RK0T2uHBh)))
+            - The power of the Zettelkasten system lies in its ability to facilitate entry into flow states where work feels effortless and energising, akin to a spontaneous exothermic reaction.
+        - #[[Fleeting Notes]] **Version 1:** We can draw an [[analogy]] between the dynamics of work and [[thermodynamics]]. Sometimes, we need to put in a lot of energy in order to get keep working, like in an endothermic reaction. At other times, however, work can be an effortless and energising [[positive feedback loop]], akin to a spontaneous exothermic reaction. The latter is what we want to aim for. 
+            - This is more of a paraphrase and less original than what I came up with by asking myself questions like "Why did that resonate with you" and "What else resonated?" #Reflection
+        - #[[Fleeting Notes]] **In-depth version:** Metaphors and appeals to pre-existing popular concepts of flow states and positive feedback loops can be a good way to promote the power of Zettlekasten for making work effortless.
+            - In the process of studying the chemistry
+                - I'm literally doing a chemistry uni course
+                    - I'm studying chemistry right now
+            - I love metaphors and analogies
+                - There's a thrill each time
+                    - When it works
+                    - Really powerful
+                - Honors Thesis was about metaphor theory
+                    - Shaping and shifting the way people think
+                        - A good metaphor can have a lot of motivation power
+                            - And inspiration
+            - Personal experience
+                - Flow state
+                    - Various stages of my studies
+                        - Not like work
+                    - Seeing connections
+                    - When I feel like I'm on to something
+                        - I can see what they mean, when they work gaining momentum
+                    - Everyone experiences the opposite
+                        - Completing the task you don't want to do
+            - Zettelkasten
+                - Hopefully get us into this effortless work state
+                    - That's pretty cool
+                        - I'm thinking beyond to promote this sytem
+                            - To convince them to use this system
+                                - Flow state is a buzzword
+                                    - For a decade or more
+                - This isn't a conscious thought, but if I wanted to promote it--in an educational setting
+                    - Some kind of evidence, showing that this system
+                        - Experiences flow state
+            - Positive feedback loop idea
+                - Joined a community
+                    - It was The Mental Models
+                        - First time coming across positive feedback loops
+                            - Popping up everywhere
+- #[[Relevant Notes]] [*](((oIe9rPDRW)))
+    - "#Zettels [[What approach of learning promotes understanding, retention and [[creativity]] (the capacity to generate new ideas)? An approach that encourages [[elaboration]] (ie. connecting ideas into an evergrowing [[latticework]]) rather than [[memorisation]] of atomic or molecular pieces of knowledge, as per the [[flashcard]] [[spaced repetition]] approach]] " #education #[[Personal Knowledge Management]] #[[connectome]]
+- ----------------------------
+- "Template - Apply children as text"
+    - #[[Question 3]] 
+        - #[[Question 2]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
+            - 
+        - #[[Question 1]] 
+            - 
+- **Process**
+    - 1. Make fleeting notes: 
+        - Purpose:: Remind you of anything that popped up in your mind as you were reading 
+        - Guidelines:: 
+            - quick
+            - don't worry about organising
+            - doesn't need to be in full sentences
+            - don't let it interrupt the flow of reading
+        - Ask:: 
+            - Why did this resonate with me?
+            - What else does it make me think of?
+        - Questions::
+            - Are we meant to try and summarise all of our random thoughts into a single fleeting note before proceeding to the literature notes stage?
+    - 2. Make literature notes
+        - Purpose:: Have a summary of main points that you don't want to forget, or could be useful later
+        - Guidelines::
+            - Be really concise and selective (don't clutter your brain unnecessarily!)
+            - Put things into your own words to check understanding
+        - Ask::
+            - What do I want to remember and why?
+    - 3. Make permanent notes
+        - Purpose:: Have pieces of really useful long-term knowledge that can be connected to other ideas in order to develop arguments, discussions or generate ideas over time.
+        - Guidelines::
+            - Don't just collect ideas: focus on developing arguments and discussions
+            - Write so that another person can easily understand and find sources
+            - Write each new idea or thought in response to the questions below as a separate note!
+        - Ask::
+            - How does this new information support, contradict or shed new light on what I already know?
+            - How can I combine ideas to generate something new?
+            - What questions have been triggered by these new ideas?
+    - 4. Find connections!
+        - Just use [[]] to search for notes with relevant keywords which you may have forgotten 

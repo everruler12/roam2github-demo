@@ -1,0 +1,65 @@
+- 
+- Michael Nieman:: 
+- Website:: 
+- Favourite books:: 
+- Link to something you find interesting::
+- **Interests**
+    - Finance and accounting
+    - Social media and society
+    - Community building
+    - History
+- **Profession**
+    - Public Accountant
+- Book Club 1 member? (y/n)::
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::
+- 
+- [[Book Club Live Session 1]]
+    - [[[[Goals of Book Club]]]]
+        - Meet some new people
+        - Read and understand how others are interpreting the book
+        - See how others are using roam and see if I find inspiration in any of their methods
+        - Improve my writing abilities
+        - Think about the pros/cons of collective thought - what are the other applications for Roam in multiplayer?
+            - what things are technological issues that are holding parts of the group back?
+            - what are inherent limitations to the group's work?
+                - I think this may be better in small groups? 
+                    - Jim talked about how he started a multiplayer experience with his investment club
+        - See the types of internal questions that people have while they read
+            - This is something that I hope to develop and improve over time
+    - [[After Action Report]]
+        - I thought the first session was interesting and was good getting to meet a few new people even if it was brief.
+        - It was interesting to hear Sonke talk about how the book came to be and how he thinks about roam and aspects of collective thought.
+        - I think a lot of people are struggling as Roam is something new to them so we will see how many people will come to future sessions. I hope that they can bridge the gap and we can support those people who are just starting.
+- First Breakout - [[November 1st, 2020]]
+    - Who was in this group
+        - [[Brian J Brennan]]
+        - [[Kristen Pavle]]
+        - Jim S
+- [[Sönke Ahrens]] Notes
+    - There is not a perfect daily system
+        - Thing are flexible so do not expect everything to be a hard and fast rule
+    - There is a good element to the personal thought process vs a collective thought process

@@ -1,0 +1,132 @@
+- Marisol Im:: Gleb Reys
+- **Breakout room:** 
+    - [[Breakout Room 14]]
+    - [[Breakout Room 6]]
+- Location:: [[Dublin]], [[Ireland]]
+- #Directory
+- Website:: 
+    - https://gleb.reys.net
+    - https://www.UnixTutorial.org
+- Company:: Tech Stack Solutions
+- Link to something you find interesting
+- 
+- # [[Goals for Book Club]]
+    - Questions I want Answered
+        - Find out if typing/capturing notes in apps is comparable to hand-writing notes
+            - Must we type or connect notes more when working on computer compared to paper notes?
+        - Old notes (paper and Evernote): should I try and convert them into [[Zettelkasten in Roam]]
+            - Is there an approach to assess relevance/importance of a particular note to decide if it's worth re-taking/migrating into [[Zettelkasten in Roam]]
+                - I'm thinking of picking a tag for such notes. Will re-capture them all but later have a way of reviewing just the subset I had doubts about
+        - Will it help with note taking or writing and reading as well?
+    - Goals
+        - Complete the book, had it recommended by quite a few people
+        - Get started with the [[Zettelkasten in Roam]]
+            - Really liked [[Sönke Ahrens]]'s view that collective and individual graphs of the same thing must be kept separate
+- # [[Live Session 6]]
+    - "Reflect on your note taking and reading. What if anything, has changed?"
+        - I'm bringing the good old paper notebook back into the process.
+        - For the first time in a really long time, merely highlighting in Kindle does not sound future proof enough - making literature notes will be better.
+- # [[Live Session 5]]
+    - Writing
+        - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+        - "Reflect on your Zettel process"
+        - 
+            - I have a natural tendency to collect and organise notes around topics of interest
+                - There was never an expectation that tweaking the process of collecting notes (to form a Zettelkasten) might actually benefit my creativity and thing in multiple ways - so it seems obvious to do it now even for a chance to reap such rewards
+            - It seems great to remember things better just by capturing notes on them in a specific Zettel way
+            - I'm a great believer in trusting a process or a system. Once you build a system that works, you can focus on adding Zettels instead of trying to tweak the system of capturing or maintaining notes all the time.
+- # [[Live Session 4]]
+    - Breakout room:: 4 on [[November 22nd, 2020]]
+        - [[Nico Macdonald]]
+        - [[Carolina Brum]]
+        - [[Adrian Brookes]]
+        - [[Geerrthana]]
+    - "Reflect on the book.  What are you impressions? "
+        - Very interesting book about an even more interesting topic (and person).
+        - It's just about good enough to prompt for further research, but I feel the process could be explained/described a lot better. 
+            - Would really like to see examples/translations of some of the original works of Niklas Luhmann
+        - I feel there's this great approach to reading books and retaining/building knowledge - it was useful to find out about it.
+            - I need a lot more research and practice before I can say I'm a true follower of the principles from the book.
+    - "Explore the concept of permanent notes/zettels."
+        - "Explain what a permanent note is in your own words?"
+            - Summarised impression or piece of knowledge based and built on top of smaller literature notes.
+        - "What is holding you back from creating zettels?"
+            - Mostly lack of literature notes. 
+                - I use highlights from Kindle and they appear to be complete and independent enough - no need to summarise further.
+                    - This said, not all the methods of highlighting provides exact location in the book (page/chapter) - so it's an issue because you don't always see which highlights belong to the same chapter.
+        - "What are you unsure about? "
+            - Should I be trying to convert highlights into literature notes or just bypass/ignore highlights altogether and focus more on creating fleeting and literature notes instead?
+                - [[Gleb Reys]] I started by trying to capture all highlights (a.k.a. underlines) and fleeting notes (a.k.a. marginalia) and only then do a synthesis. About a third of the way through reading I got exhausted by capturing quotes, and realized I could jump straight to writing my own Literature Notes by stopping every few pages to summarize any key ideas. 
+- # [[Live Session 3]]
+    - Prompts for the literary notes: [[Gleb Reys]]
+        - "Define a literature note in your own words."
+            - These are summaries on a particular passage (Kindle highlight) from a book in my own words
+                - naturally this links to the highlight itself for a context
+        - "How do you take literature notes? Discuss your method."
+            - I don't, just yet. I'm closer to permanent notes in my note taking.
+        - "Have you found value in taking literature notes already?"
+            - Yes, there's definitely value in paraphrasing element or clarifying the context without expanding the original (referenced) paragraph or highlight.
+        - "What struggles have you had implementing literature notes?"
+            - Making these atomic is a challenge - I'm still leaning towards multi-paragraph notes that span multiple ideas (potentially provoked by the same single reference note)
+            - Not clear whether I should create literature note per each highlight I'm making in a book or not?
+        - We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.) [*](((x5hx3y9ay)))
+            - I guess it's not about doing the same thing and expecting different outcome upon every iteration. It's about experimenting with different approaches while focusing on getting the same desired outcome.
+- # [[Live Session 2]] notes - section 1
+    - ## On fleeting notes
+        - "What does the concept of fleeting notes mean to you? "
+            - Turns out, these are the notes I use a lot, but almost never for reading or writing. 
+                - To be more specific, I use fleeting notes for both reading and writing, but usually separate from the activity itself
+                    - I can write an idea down while driving, later it will become a blog post
+                    - If I'm running and thinking about an article or a book, I may get an idea that would need to be written down when I'm back home.
+        - "Define a fleeting note in your own words. "
+            - A fleeting note is a time and context sensitive message to yourself.
+            - Without effort made to provide enough context and create complete sentences, a fleeting note may lose most of its value very quickly
+            - I find that fleeting notes are most useful when there's time/datestamp attached - it helps me recall more
+        - "How did you take fleeting notes? Discuss your method."
+            - I haven't taken any fleeting notes while reading the [[How To Take Smart Notes]] book
+            - When I take notes, they're mostly done on a smartphone
+                - Sometimes I revisit and add more context within a month or so
+                    - some notes are useless by then, not enough info and limited context captured
+                    - also very important that the app I use distinguishes between dates when note was created and last modified
+        - "What is the value of fleeting notes?  For this book, and for previous books you have read? "
+            - 99% these are made in my own words - so after reading first few chapters I'm certain even more that this helps my overall understanding of topic at hand
+            - Many notes are calls for action, they simply can't always be made by highlighting a fragment from the book
+            - I think the real value of fleeting notes is unlocked when you delete them upon complete integration
+                - important elements are converted into permanent notes
+                - additional brief research is made to capture or create context
+- # Fleeting Notes:: 
+- #[[literature notes]]
+    - "This book is based on another assumption: Studying does not prepare students for independent research. It is independent research. Nobody starts from scratch and everybody is already able to think for themselves. Studying, done properly, is research, because it is about gaining insight that cannot be anticipated and will be shared within the scientific community under public scrutiny. There is no such thing as private knowledge in academia. An idea kept private is as good as one you never had. And a fact no one can reproduce is no fact at all. Making something public always means to write it down so it can be read. There is no such thing as a history of unwritten ideas."
+    - 
+- [[Breakout Room 6]] on [[November 8th, 2020]]
+    - [[Kaitlyn Dennis]]
+    - [[Myles Orme]]
+    - [[Mika Mauger]]
+    - [[Christopher Boone]]
+    - [[Joshua Gerald Butler]]?
+    - [[Nina Yuchen]]
+    - [[Sam Suh]]
+    - [[Adil Bulkool Bernstein]]
+    - [[Nelson Muniz]]
+- Questions from the breakout room
+    - Fleeting notes are used (and more useful) for other things than just reading/writing
+    - 
+- # Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]

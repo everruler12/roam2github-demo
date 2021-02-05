@@ -1,0 +1,26 @@
+- Marisol Im:: Gregor
+- Website:: 
+- Company:: optional, delete otherwise
+- 
+- Fleeting Notes:: 
+    - [[Book Prompts]]
+- How to Take Smart Notes::
+    - Literature Notes::
+        - {{embed: ((fDWyGkGQL))}}
+        - [[Chapter 1. Everything You Need To Know]]
+            - "There is no need to build a complex system and there is no need to reorganise everything you already have. You can start working and developing ideas immediately by taking smart notes."
+                - Complexity arises out of practice.
+- "Breakout Group Number - 7"
+- #[[question for Soenke]]
+    - Is collective zettelkasten possible? Any recommendations on how to do it? [*](((yZQ91Rxio)))
+        - Can collective zettelkasten enable decentralised knowledge driven organisations, countries, societies,... ? How can it strengthen democracy? [*](((LxVq0gw8n)))
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - {{[[TODO]]}} Improve understanding and practice of the zettelkasten method
+        - {{[[TODO]]}} Explore collective zk and team work
+            - {{[[embed]]: ((H6ycRPTvt))}}
+        - {{embed: ((MoDr2nu1O))}}
+        - 
+- #Zettels When smart notes are taken correctly, a structure emerges
+- 
+- 

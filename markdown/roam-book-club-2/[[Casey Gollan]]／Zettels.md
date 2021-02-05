@@ -1,0 +1,16 @@
+- Todo
+    - {{[[TODO]]}} Refresh memory on how to write Zettels
+    - {{[[TODO]]}} Type Fleeting Notes from Ch. 10 onward into Roam
+    - {{[[TODO]]}} Start by turning Fleeting notes into Zettels
+    - {{[[TODO]]}} Review all Literature Notes and come up with Zettels 
+- "Template - Apply children as text"
+    - #[[Zettels]] [[Change habits by growing alternatives, not fighting against the current.]]
+        - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_))) Old habits die hard. "Breaking" habits wastes willpower. Instead, create new habits and let them take root.
+            - #[[Fleeting Notes]] "#[[Literature Notes]] Instead of exerting [[willpower]] on "breaking" habits, build up and nurture new habits that could replace the old ones. (Ahrens, 146)"
+                - Kind of cheated by pasting in a Literature Note but I think this summarizes my thoughts on the paragraph.
+                - I can't write while listening to somebody talk, lol.
+- 
+- #Zettels
+- #[[Zettels]] A good [[wiki]] page can be understood on its own but is embedded in or linked to one or more contexts which enrich its meaning. (Ahrens, 75)
+    - "[[Chapter 10: Read for Understanding]]"
+    - 

@@ -1,0 +1,2 @@
+- [[physics]]
+    - having the same phase or stage of variation

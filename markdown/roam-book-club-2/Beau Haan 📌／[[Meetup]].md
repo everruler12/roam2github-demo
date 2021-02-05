@@ -1,0 +1,53 @@
+- ## Core concepts of Zettelkasten in Roam (🌙 Midnight)
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 1/Midnight]]
+        - ~~November 4th, 2020 at 12:00 AM (PST)~~
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 2/Midnight]]
+        - ~~November 11th, 2020 at 12:00 AM (PST)~~
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 3/Midnight]]
+        - ~~November 18th, 2020 at 12:00 AM (PST)~~
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 4/Midnight]]
+        - 1-on-1 Coaching Sessions this week
+- ## Core concepts of Zettelkasten in Roam (☀️ Noon)
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 1/Noon]]
+        - ~~November 4th, 2020 at 12:00 PM (PST)~~
+            - ## ☀️ Noon meeting Zoom link→ [Join now!](https://zoom.us/j/96108095481)
+                - Beau Haan is inviting you to a scheduled Zoom meeting.
+                - Topic: [[Meetup]] - Core concepts of Zettelkasten in Roam (Noon)
+                - Time: Nov 4, 2020 12:00 PM Pacific Time (US and Canada)
+                - Join Zoom Meeting
+                - https://zoom.us/j/96108095481
+                - Meeting ID: 961 0809 5481
+                - Beau Haan is inviting you to a scheduled Zoom meeting.
+                - Topic: [[Meetup]] - Core concepts of Zettelkasten in Roam (Noon)
+                - Time: Nov 4, 2020 12:00 PM Pacific Time (US and Canada)
+                - Join Zoom Meeting
+                - https://zoom.us/j/96108095481
+                - Meeting ID: 961 0809 5481
+                - ### ☀️ [Noon meeting - time zone conversion](https://www.timeanddate.com/worldclock/converter.html?iso=20201104T200000&p1=137&p2=250&p3=307&p4=152)
+                    - Atendees:: Add `[[Your Name]]` below for the ☀️ Noon meeting
+                        - [[Stian Håklev]]
+                        - [[Lindsey Johnston✨]]
+                        - [[Ayush Verma]]
+                        - [[Madhav Bhatia]]
+                        - [[Beverly Hall]]
+                        - [[Bruno d'Abreu]]
+                        - [[Erik Newhard]]
+                        - [[Jeremie Rykner]]
+                            - Thoughtful conversation with [[Beau Haan]], [[Matt Brockwell/MJB]]. [[Lindsey Johnston✨]] [[Dan Allosso]]and others
+                            - I'm still contemplating Roam as either a real Second brain that can hold everything, thoughts, info,references,notes,resources,etc or more like a zettel/smart permanent notes only 
+I'm wondering not only what's the right structure but also if Roam can technically hold it without breaking over time #thought
+                            - Ideally I would like to see it as scrapbook for everything , like Leonardo Da Vinci had where you can literally mindump 24/7 
+                            - and the organisation can happen intentionally or by serendipity
+                            - Like a Quantum version of your Digital Brain where you can have multiple simulteanous interconnections of bytes of thoughts and info #thought
+                            - API could help, like you already have with readwise
+of you could go with a walling,evernote,notion as second digital brain
+
+                            - But Roam is the "source code"version that is the closest to a neuron/brain like data thinking structure #thought
+                            - 
+                            - 
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 2/Noon]]
+        - ~~November 11th, 2020 at 12:00 PM (PST)~~
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 3/Noon]]
+        - [[November 18th, 2020]] at 12:00 PM (PST)
+    - ### [[Beau Haan 📌/[[Meetup]]/Week 4/Noon]]
+        - 1-on-1 Coaching Sessions this week

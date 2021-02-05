@@ -1,0 +1,81 @@
+- Twitter:: @ashishbhateja
+- Favourite books::
+- Book Club 1 member? (y/n):: y
+- "Breakout Group number"
+    - "Who was in this group on 11.1.20 :: [[Kathryn]] and [[Ashish]]"
+    - "What did your group talk about? :: "
+        - "use cases Roam"
+        - "Roam background and experience"
+        - "Experience with other note taking softwares"
+    - "Any questions for the book club as a whole? ::"
+        - "How do people apply the note-taking methodology of Zettelkasten in a Roam context?"
+        - "Do we need Zettle references in roam"
+    - "Our group question for Sönke Ahrens:: 
+#[[Questions for Sönke]]"
+        - "Do you have a process of reviewing notes to generate more insights or ideas? "
+        - "While using an online software (e.g. Roam), how to create a slip box"
+        - "Do we write in Roam or use a different editor (does the main writing need to retain the links to the building blocks)"
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - Notes
+    - [[Chapter 2. Everything You Need to Do]]
+        - Notes
+    -    [[Chapter 3. Everything You Need to Have]]
+        - Notes
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - Notes
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        -  [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes::
+- Literature Notes::
+- 
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Meet other participants and know their experience, motivation, style
+        - Overall improve reading and writing skills
+            - Develop a good system for capturing ideas
+            - Concurrently read and write
+            - Good practices in note taking
+            - Smart notes, easy searching and connecting ideas
+            - Making Zettlekasten work for me
+            - Improve my note taking efficiency, develop good reading habits
+        - Deeply understand Sohnke Ahrens book
+            - Making good permanent notes
+            - Using a slip box to write long form
+        - Become more confident about using Roam features
+            - Perhaps write my first essay in Roam

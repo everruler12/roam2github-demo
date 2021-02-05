@@ -1,0 +1,495 @@
+- **About me**
+    - **Location**: [[Brooklyn]], [[New York]] ([[Brooklyn, NY]]), [[United States]]
+    - **Tags:** [[Artist]], [[Designer]], [[educator]]/[[academic]]/[[academia]], [[Business]]
+    - Book Club 1 member? (y/n):: n
+- **Elsewhere**
+    - **Twitter**: [@caseyg](https://twitter.com/caseyg)
+    - Website:: https://cag.wiki
+- **My Zettels:** [[[[Casey Gollan]]/Zettels]]
+- **Book Club Notes**
+    - Week 1
+        - template 🧩: report back from small group
+            - Breakout Group Number - 7
+                - Who was in this group on 11.1.20:: [[Casey Gollan]] [[Jordan Thevenow-Harrison/jtth]] [[Darin]] [[Gregor]]
+                - What did your group talk about?::
+                    - About sync'ing issues at first -- three of us made pages that disappeared as so many created pages simultaneously
+                - Any questions for the book club as a whole?::
+                - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+                    - How do you use Roam? [[Jordan Thevenow-Harrison/jtth]]
+                        - Working on an unpublished doc since July
+                    - What did you do before Zk / how did you arrive at it? [[Casey Gollan]]
+                    - How do you square Index Cards with Blocks and Pages? [[Darin]]
+                    - Does a better pen (e.g. Roam) really make a better writer? Fetishism of productivity and tools. [[Casey Gollan]]
+                    - How could a shared slip box work? Can there even be such a thing? [[Jordan Thevenow-Harrison/jtth]]
+                    - Generalizing beyond/from Luhmann as individual phenom -- who else used similar systems? [[Casey Gollan]]
+                        - How much time do you spend processing? [[Casey Gollan]]
+                    - 
+                    - Is collective zettelkasten possible? Any recommendations on how to do it? [[Gregor]]
+                        - Can collective zettelkasten enable decentralised knowledge driven organisations, countries, societies,... ? How can it strengthen democracy? [[Gregor]]
+        - [[Book Club Live Session 1]]
+            - [[Goals for Book Club]] [[Goals for Book Club]] [[Goals for Book Club]]
+                - Learn about how advanced usage of [[Roam Research]]
+                - Meet members of the [[Roam Research]] community
+                - Experiment with massive multiplayer reading group format!
+                - Practice [[Zettelkasten]] method
+                    - Start a [[slip-box]]
+                    - [[Self-discipline]]
+                - Read [[How to Take Smart Notes]]
+                - Explore interoperability between [[Obsidian]] and [[Roam Research]]
+                - Write a short reflection/review of the book
+    - Week 2
+        - "Pick from any of the prompts below, and write for 20 minutes. "
+            - 
+                - "{{[[POMO]]: 20}}"
+            - "Reflection on first reading phase of the book "
+                - "What ideas resonate with you from the book"
+                    - Most guides for writers and readers give bad advice
+                        - ""the blank screen–is a fundamental misunderstanding” [[Armin Nassehi]] [*](((pA_EX_Gzu)))"
+                    - Notetaking is research and (with the right system) can __be__ writing
+                    - Built strong habits and routines
+                    - Let it be easy
+                        - Lots of [[Motivation]]
+                    - Read and write with a [[system]] and [[framework]]
+                        - [[Non-linear]] does not mean [[structureless]]
+                    - **Conversely**: What ideas don't resonate with you from the book?
+                        - Behavioral science
+                            - "Studies show..." blah blah blah
+                            - [[Carol Dweck]], etc..
+                        - Human potential
+                        - Founder worship/cult of personality re: [[Niklas Luhmann]]
+                        - Lack of examples of others who've used this system (or systems like it) except for Luhmann and [[Sönke Ahrens]] himself -- and what the outcomes have been
+                            - "I'm not convinced of this at all. So many productivity-obsessed people churn out a steady stream of mediocre faux-mindblowing bullshit."
+                        - "[[productivity]] [[fetish]]"
+                    - "What is the gist of the book? "
+                        - Written for students, academics, and nonfiction book writers, [[How To Take Smart Notes]] explains an alternative approach to reading, notetaking, writing, and learning. The key concept is [[Niklas Luhmann]]'s [[slip-box]] and the surrounding [[framework]]. This involves forming sustainable notetaking [[habits]]. [[Motivation]]
+                - "Discuss the fleeting note phase"
+                    - "What does the concept of fleeting notes mean to you? "
+                        - Marginalia, reactions, references, connections.
+                        - Not breaking flow of reading or work.
+                        - Most notes I take are "fleeting notes", and before reading Smart Notes I wouldn't have thought of them as temporary or in need of revision.
+                        - Don't worry about it
+                    - "Define a fleeting note in your own words. "
+                        - Easy, fast, temporary, starting point
+                    - "How did you take fleeting notes? Discuss your method."
+                        -  Writing in the margins
+                    - "What is the value of fleeting notes?  For this book, and for previous books you have read? "
+                        - Flagging points to go back to
+                        - Reducing paragraphs or sections into a single word or phrase
+                        - Dropping the seeds for deeper associative links
+        - "{{[[DONE]]}} **Section 2 Breakout rooms **"
+            - [[Week 2 - Breakout Room 5]]
+                - [[Kristen Pavle]], [[Casey Gollan]], [[Mary Chipman]], [[Jason Kleinberg 🎻]], [[Chris Boyce]], [[Grigori Milov]], [[Lex]]
+                - "Discuss your written notes, and your impressions of the book more generally."
+                - "Pick from any of the prompts below, and write for 20 minutes. "
+                    - 
+                        - "{{[[POMO]]: 20}}"
+                    - "Reflection on first reading phase of the book "
+                        - "What ideas resonate with you from the book"
+                            - "What is the gist of the book? "
+                        - "Discuss the fleeting note phase"
+                            - "What does the concept of fleeting notes mean to you? "
+                                - [[Jason Kleinberg 🎻]] - Way to keep breadcrumb notes, so you don't go down a rabbit hole.
+                                - [[Lex]] Audio dictation on watch
+                                - [[Jason Kleinberg 🎻]] - How do you remember in conversation without getting distracted?
+                                    - [[Mary Chipman]] Audio
+                                    - [[Chris Boyce]] Remembering it's not possible
+                                    - [[Saoussen CHAABNIA]] Going for a walk, thinking, writing. Quick capture.
+                                - [[Mary Chipman]] - Apps for transcription on Windows?
+                                    - [[Casey Gollan]] - [[Otter.ai]]!
+                                - [[Casey Gollan]] [[Write Once Read Never]]
+                                - [[Mary Chipman]] I start in a text file and paste it in, step to go back and connect it. So many half-baked projects.
+                                - [[Kristen Pavle]] - Take way too many notes, and tend to not go back and process them. 
+                                - [[Jason Kleinberg 🎻]] Fleeting notes can happen anywhere but you have to take the next step in a trusted singular system. Drawing on a napkin. But you have to put it somewhere you will find it.
+                                - [[Kristen Pavle]] Need a triage page, to move from fleeting to permanent.
+                                - [[Mary Chipman]] Ended up with a bunch of useless pages via daily words.
+                                - [[Grigori Milov]] Two characteristics of [[Fleeting Notes]]: they make you pause. You have to add something to the note -- a fleeting note to whom? To me in the future. I need a lot of practice to think about what he wants and how he wants to read it.
+                                - [[Jason Kleinberg 🎻]] How are you tagging?
+                                    - [[Grigori Milov]] Some notes are difficult to process, you don't understand exactly why you've written it.
+                                    - [[Saoussen CHAABNIA]] Writing in words you understand in the future.
+                                    - [[Grigori Milov]] Use cases of [[Fleeting Notes]]: surprising facts, related thought, controversial statement, something familiar, something requiring fact check or further exploration. What I write is none of those. So I have to work more on my way of writing.
+                                    - [[Saoussen CHAABNIA]] [[Fleeting Notes]] are supposed to be about a subject you will attend to at some point. I don't use Daily Notes, but put notes in the book page. You need to make it simple to go back to. You need intent to use it at some point. Daily notes can include work, family, ideas, books. You have to sit down and put it into another format.  
+                                        - [[Jason Kleinberg 🎻]] Fleeting notes just have to make sense later. A simple sentence. Doesn't have have to be perfectly connected. Just a good enough breadcrumb or cue.
+                                - [[Casey Gollan]] Struggling with where to put processing energy. Like the idea of not worrying about fleeting notes.
+                                - [[Chris Boyce]] Getting out of my own way, staying in the moment with what I'm trying to learn. I love notecards. In the knowledge world, writing is how we process.
+                                - [[Kristen Pavle]] Liked relying on the external system, freeing up your mind to make associations at a later date.
+                            - "Define a fleeting note in your own words. "
+                            - "How did you take fleeting notes? Discuss your method."
+                            - "What is the value of fleeting notes?  For this book, and for previous books you have read? "
+                - 
+        - "{{[[DONE]]}} **Section 3 Interview with** [[Luca Dellanna]]"
+        - "{{[[DONE]]}} **Section 4 Graph meditation **"
+            - "Explore the graph "
+            - "{{[[POMO]]: 6}}I"
+            - "**Group discussion**"
+                - "Graph Meditation #[[Graph Meditation]]"
+                    - Hm. I don't actually love the [[Roam Research]] Graph, relative to the [[Obsidian]] Graph. It's static (rather than animated), grid-like (rather than force-directed).
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FsbPBWt_UO9.png?alt=media&token=d4ad7d40-fe1e-4628-90c7-23e8f13d1e03)
+                        - It looks like a [[Hairball Visualization]] rather than actually revealing anything useful.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FnmFerVr6as.png?alt=media&token=73365f7f-afc0-49af-93bf-fefdca2db272)
+                        - Highlighting a node
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FI8Lp-lLcwf.png?alt=media&token=a7cd7de8-7c9a-41fe-a1f1-84eca09be3ba)
+                        - This contains very little information, other than that it communicates density of connection?
+                    - "What is the current state of the graph? "
+                        - "State of individual pages?"
+                        - "Are we developing a writing practice? "
+                        - "Do we need a glossary?"
+                        - "What needs work in the graph? "
+                            - "Merging pages?"
+                    - "Are beginners able to make sense of what's going on?"
+                        - Is anyone?
+        - 
+    - Week 3
+        - Make some #[[Literature Notes]]!
+        - Missed this week, but did a bunch of reading.
+    - Week 4
+        - "{{[[DONE]]}} **Section 1** [[Writing practice]]"
+            - "{{[[POMO]]: 15}}"
+            - 
+                - "Pick from the prompts below and write in your own page for 15 minutes."
+                    - "Reflect on the book.  What are you impressions? "
+                        - I've definitely learned something. It's not brand new knowledge, I'm familiar with many of the cognitive biases, pop science, and great white men Ahrens cites -- and I've found the references to be in may cases trite. However, the framework is impactful! For example: through the process of taking Smart Notes on __Smart Notes__ I've been able to clearly observe my own learning.
+                    - "Reflect on literature notes- useful? Did they help you understand the book in a different way? "
+                        - SO much more useful than saving quotes. I'm astonished by how much better I've retained the information in this book just by stopping every few pages to put key ideas it into my own words. They do slow me down a lot. Sb asked me today: "you're STILL reading that book??!" But I think Ahrens makes an effective argument for the longterm efficacy and efficiencies of taking the time to actually understand information and make it retrievable -- as well as the dangers of reading without truly learning.
+                    - "Reflect on the work and timeline- has it been easy/hard to get through the phases so far? "
+                        - It's gotten easier. Today I finished the book. I feel about one week or two behind the group, perhaps. Once you hit a stride, it becomes quite enjoyable to spend time processing, and the effort that goes into a consistent note-taking practice also encourages me to return to reading, because I am less disoriented when I pick things back up. 
+                    - "How is your progress towards your initial goals? Or have they changed?"
+                        - "[[Goals for Book Club]] [[Goals for Book Club]] [[Goals for Book Club]]"
+                            - "Learn about how advanced usage of [[Roam Research]]"
+                                - There is more to learn but I am so much more comfortable!
+                            - "Meet members of the [[Roam Research]] community"
+                                - I've definitely gotten a better lay of the land and met some cool people.
+                            - "Experiment with massive multiplayer reading group format!"
+                                - It's happening! Has been very interesting.
+                            - "Practice [[Zettelkasten]] method"
+                                - ✅
+                            - "Read [[How to Take Smart Notes]]"
+                                - Finished today!
+                            - "Explore interoperability between [[Obsidian]] and [[Roam Research]]"
+                                - Haven't really started yet but not planning to continue with Roam after this bookclub is concluded.
+                            - "Write a short reflection/review of the book"
+                                - To come, I think, once I get some permanent notes in?
+                    - "Explore the concept of permanent notes/zettels."
+                        - "Explain what a permanent note is in your own words?"
+                        - "What is holding you back from creating zettels?"
+                        - "What are you unsure about? "
+                    - "Do you have any questions for [[Sönke Ahrens]]?"
+                    - 
+            - {{[[TODO]]}} **Section 3 Block References**
+                - Demonstration of block references for literature notes in Roam
+            - "{{[[DONE]]}} **Section 2** [[Breakout Rooms]]"
+                - "Read everyone in your room's answers to the prompts above and discuss"
+                    - Breakout Group 7
+                        - Participants: [[Casey Gollan]] [[Eben Halford]] [[Jeremie Rykner]] [[Doug Vahey]] [[Max]] [[Jose Arriaza]]
+                    - Where are you at?
+                        - [[Casey Gollan]] Finished book today and almost done with literature notes but mostly on paper.
+                        - [[Max]] Hard to find time to actually read. 50% or 60% through. Is anyone reading in Roam?
+                            - [[Casey Gollan]] Started in Roam using block refs but realized it's more impactful to do my own summaries.
+                            - [[Eben Halford]] Read in Kindle before bookclub. Didn't want to read it again. Used Readwise into personal graph. Hard to read in bed on a screen. Quite an intense process. Would be great if I was just studying full time.
+                        - [[Jeremie Rykner]] Not yet finished but using Kindle highlights and readies. Hope to translate into permanent notes?
+                        - [[Doug Vahey]] Haven't gotten into it yet but jumping in now.
+                        - [[Jose Arriaza]] Roam is messy with little structure, good thing but not used to it.
+                        - [[Eben Halford]] Wonder if I'll ever see things again when I put them in. How do you do sequence?
+                            - [[Jeremie Rykner]] Can use timestamps.
+                            - (((0mrJMhDVh)))
+                        - [[Max]] How can you do connected structure in physical Zettelkasten?
+                        - [[Eben Halford]] Is it necessary?
+                        - [[Jeremie Rykner]] Digital system has nesting, sorting, etc.
+                        - [[Eben Halford]] Benefit of thinking: where does this note live? You go find the group and re-read. You get re-exposed.
+                            - [[Casey Gollan]] Structured traversal
+                            - Feeling of learning vs. actually learning
+                            - [[Eben Halford]] When you read without taking notes, things still stand out and become integrated. Are recall and learning the same thing? Not being able to recall might make you think you didn't learn. A lot of what I've read shapes the way I see the world. I might not be directly manipulable. Comes back to why we read and why we want to learn?
+                            - [[Casey Gollan]] System has a bias towards non-fiction and academic outputs. Sometimes your life is changed by something you hear in passing on the street.
+                        - [[Doug Vahey]] Interested in connecting big ideas visually. Can Roam help me do that?
+                        - [[Casey Gollan]] Super interesting to see people creating conventions from scratch.
+                        - [[Eben Halford]] 3d graphs of Roam look really cool.
+                            - [[Casey Gollan]] What did you learn?
+                            - [[Max]] Not totally sure what value it has. Need to spend more time.
+                        - [[Doug Vahey]] Not sure I've learned unless I can explain to somebody else. So much in and out. What's important, and how are they connected?
+                            - [[Max]] Do you want to store like Wikipedia?
+                            - [[Doug Vahey]] A structured framework to think about connected concepts.
+                    - "{{[[POMO]]: 25}}"
+            - "{{[[DONE]]}} **Section 3** "
+                - "[[Graph Meditation]]"
+                    - "{{[[POMO]]: 10}}"
+                    - "Look around the graph, explore what has being created."
+                        - "{{[[POMO]]: 8}}"
+                    - "Demonstration from [[Dharam Kapila]] of [[Roam Portal]]"
+                        - Amazing.
+                        - "{{[[POMO]]: 15}}"
+            - "{{[[DONE]]}} **Section 4** [[Book Club member talk]]"
+                - "Book Club member talk through by [[Mike Kramer]] "
+                    - When linking notes together, it's important to specify the nature of the relationship between the notes and the different reasons why you've brought them together: "Observations", "Inference", "Conclusion" 
+                    - "{{[[POMO]]: 15}}"
+                - "Zettel discussion "
+            - "{{[[TODO]]}} **Section 5: This coming week**"
+                - "Proposed Zettel process"
+                - "Timeline to come"
+    - Week 5
+        - "[[Live Session 5]] Start 12:30 PST "
+            - "[Zoom Link](https://zoom.us/meeting/84562143126)"
+            - "📌 [Alternate Link](https://cwhitesullivan.lt.acemlna.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ1czAyd2ViLnpvb20udXMlMkZqJTJGODQ1NjIxNDMxMjYlM0Zwd2QlM0RlSGRyZDAwMFN6WldlaTlOWjNOdlRURmtXVm94UVQwOQ==&a=66602312&account=cwhitesullivan%2Eactivehosted%2Ecom&email=tBXusL5fv0hAR0H8uVp5Y7XEf05QuHANew5jWIBp84o%3D&s=7b8a74316fe38cf4af40d6bdba25fec0&i=164A1010A20A846)"
+            - "{{[[DONE]]}} **Section 1** [[Writing practice]]"
+                - "{{[[POMO]]: 10}}"
+                - "Pick from the prompts below and write in your own page for 15 minutes."
+                - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+                    - I'm definitely retaining waaaaay more from what I take [[Literature Notes]] on, and I feel like I do understand it  better. 
+                        - My "normal" reading style is basically just skimming. 
+                    - I can also already start to see the way I will draw threads together through Zettels, connecting notes, and topic notes.
+                - "Reflect on your Zettel process"
+                    - I started off not using the process until Chapter 10, when I feel like I figured out how to take [[Literature Notes]] -- then I was hooked. 
+                    - I underline as I'm reading and write margin notes. Every few pages (depending on density of the text) I stop to create [[Literature Notes]]. 
+                    - It takes A LONG TIME. 
+                        - I don't know how viable it is to read this way forever.
+                        - I think Im going to get faster as I go.
+                        - "Introductions" are particularly slow to read and notate because of how dense they are, and also because of how unfamiliar I am with 
+                    - I've noticed that when I get tired I start falling back into something more like copying quotes down, rather than paraphrasing and simplifying.
+                    - Sometimes Zettels come to me as I'm reading, so I jot down a few margin notes, to avoid getting too sidetracked.
+                    - I started off using a little notebook about the size of index cards, then ordered actual index cards.
+                        -  I like to do it all analog, and then type it in. But the typing up is a bit grueling. The plus side is that it serves as another translation step, and a chance to refine ideas, turns of phrase, and really simplify -- a few days after I've had time to digest.
+                        - As I read later sections, sometimes I find myself tagging on additional thoughts to earlier [[Literature Notes]]
+            - "{{[[DONE]]}} **Section 2** Zettel writing session with [[Beau Haan]]"
+                - {{[[POMO]]: 10}
+            - "{{[[DONE]]}} **Section 3** [[Break Out Rooms]]"
+                - "{{[[POMO]]: 25}}"
+                - "Explore the Zettels in the #Zettels   page, and discuss your own Zettel technique so far.  "
+                - [[Breakout Room 5]]: [[Petr Johanes]] and [[Casey Gollan]]
+                    - Syncing issues
+                    - Unopinionated about conventions
+                    - Social features with no feed or notifications
+                    - Collective autocomplete
+                    - Traversing phrases
+                    - What's the value of the collective graph?
+                    - Graph overview doesn't really do anything for me
+                        - ""Graph Meditation #[[Graph Meditation]]""
+                        - ""Demonstration from [[Dharam Kapila]] of [[Roam Portal]]""
+                    - Roam, Obsidian, Notion -- not using one tool but using a combination of tools for what they're uniquely good at, and not committing lives to a tool but using it to make sense in different contexts
+                    - Not set up for collaboration as we know it
+                        - So much less opinionated than other collaboration tools
+                        - Two groups could share totally different sets of conventions in the same graph
+                    - Feeling of learning or thinking in a different way vs actually producing new kinds of knowledge
+                        - Most of the stuff on this graph is still preeeeeetty banal
+                        - Better pen does not make you a better writer, etc.
+            - "{{[[DONE]]}} **Section 4** Graph Meditation"
+                - ""
+                - 
+                - "[[Dharam Kapila]] to use [[Roam Portal]] to show us what's happened in the graph this week"
+            - "{{[[DONE]]}} **Section 5** [[Matt Brockwell]] to explore spaced repetition tools"
+                - "{{[[POMO]]: 15}}"
+            - "{{[[DONE]]}} **Section 6** What's next"
+                - "{{[[POMO]]: 5}}"
+                - "A discussion about what to plan for next week as [[Sönke Ahrens]] joins us. "
+        - 
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - There is another reason that note-taking flies mostly under the radar: We don’t experience any immediate negative feedback if we do it badly.  [*](((1NqxVWlvh))) (2)
+            - #[[Fleeting Notes]]
+                - [[Working in Public]]
+                    - [[Work in Public, Reveal Nothing]]
+        - [[Self-discipline]] or [[self-control]] is not that easy to achieve with willpower alone.  [*](((tIetkYe5Q))) (4)
+        - self-control and self-discipline have much more to do with our environment than with ourselves ... Nobody needs willpower not to eat a chocolate bar when there isn’t one around. And nobody needs willpower to do something they wanted to do anyway. ... Having a meaningful and well-defined task beats willpower every time. ... not having to use willpower indicates that you set yourself up for success. This is where the organisation of writing and note-taking comes into play. [*](((tIetkYe5Q)))
+            - #[[Fleeting Notes]]
+                - [[Removing Barriers Mobilizes Resources]]
+        - the tools of note-taking that turned the son of a brewer into one of the most productive and revered social scientists of the 20th century [*](((59-bYYcu-))))
+            - #[[Fleeting Notes]]
+                - [[Entrepreneurialism]] [[Self Help]]
+        - “I never force myself to do anything I don’t feel like. Whenever I am stuck, I do something else.” [*](((59-bYYcu-)))
+        - A good structure ... relieves you from the burden of remembering and keeping track of everything ... you can start focusing on what is important ... A good structure enables flow [*](((N9B8GYzJr)))
+        - How do you plan for insight, which, by definition, cannot be anticipated? [*](((e5t8EGtoY)))
+            - #Chat [[Joshua Gerald Butler]] I suppose what he is saying is that if you create an environment where you aren't searching or waiting for insights to arrive, and instead one in which they can naturally crystallise through your general note taking process, then these insights should come much more naturally. Although that's just what i took from it at the very least. 
+                - #Reply-from [[Casey Gollan]] #@ [[Matt Brockwell/MJB]] Yes! I like "planning for that which cannot be anticipated" as a systems design principle
+            - 
+        - those who are not very good at something tend to be overly confident [*](((LTX79DEgy)))
+            - #[[Fleeting Notes]]
+                - [[Confidence]]
+        - This is why high achievers who have had a taste of the vast amount of knowledge out there are likely to suffer from what psychologists call [[imposter syndrome]], the feeling that you are not really up to the job, even though, of all people, they are. [*](((Y0L49bjII)))
+        - There is no need to build a complex system and there is no need to reorganise everything you already have. [*](((axkSbVLUr)))
+        - Most people try to reduce complexity by separating what they have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated. [*](((FfwvQnsGs)))
+        - It is not about redoing what you have done before, but about changing the way of working from now on. There is really no need to reorganise anything you already have. Just deal with things differently the moment you have to deal with them anyway. [*](((LLzV2bQ35))))
+        - There is no need to reinvent the wheel. We only need to combine two well-known and proven ideas. The first idea lies at the heart of this book and is the technique of the simple [[slip-box]]. I will explain the principle of this system in the next chapter and show how it can be implemented in the everyday routines of students, academics or nonfiction writers. [*](((hCx2F3Siv)))
+        - The importance of an overarching workflow is the great insight of [[David Allen]]’s “[[Getting Things Done]]” (Allen, 2001). [*](((ngW0psLUC)))
+        - His [[slip-box]] became his dialogue partner, main idea generator and [[productivity]] engine. It helped him to structure and develop his thoughts. And it was fun to work with–because it worked. [*](((BjFRHwXXy)))
+        - He wrote on law, politics, economy, communication, art, education, epistemology–and even love. [*](((TPvmVTYdq)))
+        - He wrote on law, politics, economy, communication, art, education, epistemology–and even love. [*](((TPvmVTYdq))))Luhmann’s only real help was a housekeeper who cooked for him and his children during the week, not that extraordinary considering he had to raise three children on his own after his wife died early. [*](((EnfU0Gsfh))) 
+        - Luhmann’s only real help was a housekeeper who cooked for him and his children during the week, not that extraordinary considering he had to raise three children on his own after his wife died early. [*](((EnfU0Gsfh))) 
+            - #[[Fleeting Notes]]
+                - devaluing care work?
+        - Five warm meals a week of course do not explain the production of roughly 60 influential books and countless articles. [*](((EnfU0Gsfh)))
+            - #[[Fleeting Notes]]
+                - [[productivity]] [[fetish]]
+        - “I only do what is [[easy]]. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else.” [*](((j6EyoD7pi)))
+            - #[[Fleeting Notes]]
+                - Seems like this could be very amenable to [[ADHD]]
+        - We are still so used to the idea that a great outcome requires great [[effort]] that we tend not to believe that a simple change in our work routines could not only make us more productive, but the work also more fun. [*](((7HSDsXHqL)))
+            - #[[Fleeting Notes]]
+                - Myth of struggling artist/author OR [[privilege]] of the author(s)
+                - [[Hard Work]]
+        - Studies on highly successful people have proven again and again that success is not the result of strong willpower and the ability to overcome resistance, but rather the result of [[smart working environments]] that avoid resistance in the first place. [*](((hhTaHBEnz)))
+        - having the right tools and knowing how to use them–and very few understand that you need both. [*](((hhTaHBEnz))))
+        - while the notes on the literature were brief, he wrote them with great care...in full sentences [*](((zt7lrN7X2)))
+        - He did not just copy ideas or quotes from the texts he read, but made a transition from one context to another. [*](((iKecBcypp)))
+        - Luhmann was able to add the same note to different contexts...Luhmann developed topics bottom up, then added another note to his slip-box, on which he would sort a topic by sorting the links of the relevant other notes. [*](((k1R5hvOJl)))
+            - #[[Fleeting Notes]]
+                - [[Facets]]
+    - [[Chapter 2. Everything You Need to Do]]
+        - each step is clearly not only within your abilities, but also straightforward and well defined [*](((Gw15Dgxwj)))
+        - 1. Make [[Fleeting Notes]]. [*]()
+        - 2. Make [[literature notes]]. [*](((eRojO1adJ)))
+        - 3. Make [[Permanent Notes]]. ... ideally once a day ... The idea is not to collect, but to develop ideas, arguments and discussions. Does the new information contradict, correct, support or add to what you already have (in the slip-box or on your mind)? Can you combine ideas to generate something new? What questions are triggered by them? [*](((y5dDNqTm7)))
+        - write as if you were writing for someone else [*](((DC7zUzXbl)))
+        - copy them onto your “desktop”[ 6] and bring them in order [*](((WUwVRqAv7)))
+            - #[[Fleeting Notes]]
+                - [[Transclusion]]
+    - [[Chapter 3. Everything You Need to Have]]
+        - By employing often-recommended reading techniques like [[SQ3R]] or [[SQ4R]], they treat every text the same, regardless of the content. [*](((IiLT5pu2L)))
+            - #[[Fleeting Notes]]
+                - [[SQ3R]]: Survey, Question, Read, Recite, Review
+                - [[SQ4R]]: Survey, Question, Read, Reflect, Recite, Review
+        - a reminder of a thought and are not meant to capture the thought itself [*](((SkzQQNXXK)))
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - [[Niklas Luhmann Digital Archive]]
+            - #[[Fleeting Notes]]
+                - https://uni-bielefeld.de/soz/luhmann-archiv/
+                - https://niklas-luhmann-archiv.de/
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - Studying, done properly, is research [*](((5Bxb_J2dj)))
+            - There is no such thing as private knowledge in academia. [*](((5Bxb_J2dj)))
+                - #[[Fleeting Notes]]
+                    - Seems reductive
+            - Having a clear, tangible purpose when you attend a lecture, discussion or seminar will make you more engaged and sharpen your focus. You will not waste your time with the attempt to figure out what you “should” learn. [*](((9LdD6VzxA)))
+        - [[Chapter 6. Simplicity is Paramount]]
+            - Only after aligning every single part of the delivery chain, from packaging to delivery, from the design of the ships to the design of the harbours, was the full potential of the container unleashed. [*](((9eRcB8Tey)))
+                - #[[Fleeting Notes]]
+                    - [[Dark Matter and Trojan Horses]] by [[Dan Hill]]
+            - In which context will I want to stumble upon it again? [*](((qjApgS0oM)))
+            - The slip-box is the shipping container of the academic world. ... everything is streamlined towards one thing only: insight that can be published. ... the slip-box becomes more and more valuable the more it grows, instead of getting messy and confusing. ... The slip-box is designed to present you with ideas you have already forgotten, allowing your brain to focus on thinking instead of remembering. [*](((EVjA9eABJ)))
+            - a critical mass [*](((j2y4NdvQj)))
+            - 1. Fleeting notes [*](((BL5wHnXDF)))
+            - 2. Permanent notes [*](((SWKiDesb1)))
+            - 3. Project notes [*](((yBtPTbb0b)))
+            - The collection of good ideas is diluted to insignificance by all the other notes, which are only relevant for a specific project or actually not that good on second sight.  [*](((7GWVsCHA5)))
+                - #[[Fleeting Notes]]
+                    - Most of my notes are project notes
+            - the strict chronological order does not offer any help to find, combine or rearrange ideas in a productive sense. It is not surprising that my friend has a bookshelf filled with notebooks full of wonderful ideas, but not a single publication to show. [*](((7GWVsCHA5)))
+                - #[[Fleeting Notes]]
+                    - I'm so used to chronology
+            - a permanent reservoir of ideas [*](((HlsQj7ZDO)))
+            - a quick note is the best you can do without interrupting what you are in the middle of doing [*](((wmFEVrD5o)))
+            - comments in the margins are also just fleeting notes and do nothing to elaborate on a text. They will very soon become completely useless–unless you do something with them. [*](((wmFEVrD5o)))
+                - #[[Fleeting Notes]]
+                    - [[Getting Things Done]] by [[David Allen]] 
+            - Permanent notes ... are written in a way that can still be understood even when you have forgotten the context they are taken from. [*](((wmFEVrD5o)))
+                - #[[Fleeting Notes]]
+                    - {{[[TODO]]}}  Look up ASC notes doc
+            - they are not easy to distinguish right away [*](((BRp1QJSON)))
+            - As it is not possible to foresee the development of the slip-box, the fate of the notes is nothing to worry about. [*](((UZ4XCHfSA)))
+            - Only because every note is in the same format at the same place can they later be combined and assembled into something new and no thought is ever wasted on the question of where to put or label it. [*](((XVevLqYUv)))
+            - "Project-related notes can be:"
+                - "comments in the manuscript"
+                - "collections of project-related literature"
+                - "outlines"
+                - "snippets of drafts"
+                - "reminders"
+                - "to-do lists"
+                - "and of course the draft itself."
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+            - "the blank screen–is a fundamental misunderstanding” [[Armin Nassehi]] [*](((pA_EX_Gzu)))
+            - Every intellectual endeavour starts from an already existing preconception ... writing at the same time continues to be taught as if we could start from scratch and move forward in a straight line [*](((kvk3dCa8w)))
+            - By focusing on what is interesting and keeping written track of your own intellectual development, topics, questions and arguments will emerge from the material without force. [*](((2U8Id9Bu8)))
+            - If you haven’t written along the way, the brain is indeed the only place to turn to. [*](((ww64gf_vE)))
+                - #[[Fleeting Notes]]
+                    - Against brainstorming
+            - How can you not feel threatened by an empty page if you have literally nothing at hand to fill it with? [*](((SQRXUZCcv)))
+            - When it finally comes to the decision on what to write about, you will already have made the decision–because you made it on every single step along the way, again and again every day, improving it gradually. [*](((F-jhYj-Pz)))
+                - #[[Fleeting Notes]]
+                    - Mini-rigor
+                    - Daily notes
+            - By doing the work, you can trust that interesting questions will emerge. [*](((F-jhYj-Pz)))
+                - #[[Fleeting Notes]]
+                    - I'm not convinced of this at all. So many productivity-obsessed people churn out a steady stream of mediocre faux-mindblowing bullshit.
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - 12.4
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+            - #[[Literature Notes]] Literature Notes paraphrase without distorting meaning. (Ahrens, 75)
+            - #[[Literature Notes]] As you start your [[Slip-Box]], don't worry about the amount of notes or length of notes. (Ahrens, 75)
+            - #[[Literature Notes]] When writing notes think about: framing, theoretical background, methods, perspective, and what is not mentioned. (Ahrens, 76)
+            - #[[Literature Notes]] Reading without taking notes is as good as not having read at all. Taking notes without a system is as good as not taking notes at all.  (Ahrens, 77)
+            - #[[Literature Notes]] Without a clear purpose, taking notes will feel like a chore. (Ahrens, 77) 
+            - #[[Zettels]] Opposing view: Cooper doesn't really do anything with its big data.
+            - #[[Literature Notes]] The speed of verbatim note taking circumvents understanding. The slowness of handwritten notes forces selection and synthesis. (Ahrens, 78)
+            - #[[Literature Notes]] Work against confirmation bias by writing down [[disconfirming ideas]]: contradictions, questions, differentiations. This will also open up more possible connections. (Ahrens, 80)
+            - #[[Literature Notes]] Synthesis can be learned through deliberate [[practice]]: acquiring a wide array of patterns and then condensing, reformulating, and expressing ideas simply without simplification. "Have the courage to use your own understanding" —Kant (Ahrens, 83)
+            - #[[Fleeting Notes]] Idea for an [[Obsidian]] plugin: `[[Last, First | First Last]]`
+            - #[[Literature Notes]] Feeling like you're learning does not mean you are actually learning. For example: the familiarity of re-reading can be easily confused with understanding. (Ahrens, 85)
+            - #[[Literature Notes]] Using an external system and deliberate practice to verify understanding while studying may feel like a waste of time, but can effectively confront your own future ignorance. (Ahrens, 85)
+            - #[[Literature Notes]] Written [[elaboration]] is the best way to learn. [[Cramming]] (pure re-review) does not build understanding. (Ahrens, 89)
+            - #[[Literature Notes]] Teaching by presenting pre-arranged modules, categories, or themes makes it harder for students to learn, because it discourages [[translation]] into one's own structure. (Ahrens, 88)
+            - #[[Literature Notes]] Modes of teaching which support retention and transfer of knowledge: interruption, variation, spacing, [[contextual interference]], and testing. (Ahrens, 88)
+        - [[Chapter 11. Take Smart Notes]]
+            - #[[Literature Notes]] Experienced readers think beyond the frame or argument of a text, read with questions in mind, and spot limitations and omissions. (Ahrens, 91)
+            - #[[Literature Notes]] Collecting decontextualized quotes is a flawed research method because it makes it difficult both to understand the original context and to think beyond the original frame. (Ahrens, 91)
+            - #[[Literature Notes]] People systematically underestimate the time it takes to "write", between: writing, research, thinking, and tinkering. (Ahrens, 92)
+            - #[[Literature Notes]] Ways to avoid getting overwhelmed about writing: think longterm, break work into manageable and measurable steps, invest in practices and systems that provide "compound interest", and take it one day at a time. (Ahrens, 93)
+            - #[[Literature Notes]] Notes are not a record of thought, but thinking itself externalized. The act of translating texts into your own words creates understanding and serves as a way of [[self-testing]] comprehension. (Ahrens, 94)
+            - #[[Literature Notes]] The brain is unreliable, seeing patterns everywhere and jumping to conclusions. [[External scaffolding]] does not make [[rational thinking]] __easier__, it makes it possible. (Ahrens, 95)
+            - #[[Literature Notes]] A functional [[memory]] depends on [[forgetting]] less important details. (Ahrens, 99)
+            - #[[Literature Notes]] [[Active inhibition]] is a theory that "forgetting" is not the subtractive loss of thoughts, but the additive construction of mental barriers. (MacLeod 2007) (Ahrens, 100)
+            - #[[Literature Notes]] Memory can be measured in terms of "[[storage strength]]" and "[[retrieval strength]]." (Bjork 2011) (Ahrens, 101)
+            - #[[Literature Notes]] Most learning strategies mistakenly focus on improving retention rather than retrieval. (Ahrens, 101)
+            - #[[Literature Notes]] [[Cueing]] techniques can help remember information with no inherent meaning or connection to what you know. For everything else: elaborate, understand, and connect meaningfully. (Ahrens, 104)
+            - #[[Literature Notes]] Too much order can stifle learning. Deliberate disorder can strengthen and even speed up learning in the longer-term. (Ahrens, 106)
+            - #[[Literature Notes]] Make sure notes can be found by connecting them to the main index or a note connected to the index. (Ahrens, 107)
+        - [[Chapter 12. Develop Ideas]]  
+            - #[[Literature Notes]] Alternating numbers and letters, known as [[Fogelzettel]], allows for infinite non-hierarchical sequences and subsequences. (Ahrens, 107)
+            - #[[Literature Notes]] A [[Slip-Box]] is a tool for thinking, not an encyclopedia: don't worry about gaps, completeness, or a unified overview. (Ahrens, 108)
+            - #[[Literature Notes]] Tag notes sparsely based on the titles of projects or topics you're working on or interested in, which are rarely terms in the text itself. (Ahrens, 109)
+            - #[[Literature Notes]] [[Niklas Luhmann]]'s 4 types of links were: topic overviews, cluster overviews, follows/following, and note-to-note. Digital tools make cluster overviews and follows/following less relevant. (Ahrens, 112)
+            - #[[Literature Notes]] Forgetting and remembering an idea rewards the brain with the feeling of learning, but isn't actually moving your thinking forward. The [[Slip-Box]] confronts you with old notes to initiate comparisons, corrections, differentiations, contradictions, paradoxes, or oppositions. (Ahrens, 115)
+            - #[[Literature Notes]] [[Feature-Positive Effect]] theorizes that we overweight the importance of easily available (e.g. recent) information (Allison and Messick 1988; Newman, Wolff, and Hearst 1980; Sainsbury 1971). Externalized structures for thinking help counter [[Cognitive Biases]] such as this.  (Ahrens, 117)
+            - #[[Literature Notes]] With too few mental models, you risk seeing only what fits -- like holding a hammer and seeking only nails. You can add more mental models by seeking to understand a few of the most important concepts in each discipline so thoroughly that they become ways of thinking. (Ahrens, 118)
+            - #[[Literature Notes]] Wisdom is not knowing it all, but being able to make sense of it all by drawing upon vast and varied schemas. (Ahrens, 119)
+            - #[[Literature Notes]] Failing to retain information makes it increasingly difficult to learn. (Ahrens, 120)
+            - #[[Literature Notes]] Sachs model of learning: pay attention, encode with cues, practice recall (Sachs 2013). (Ahrens, 120)
+            - #[[Literature Notes]] Insight comes from intuition, intimate knowledge and practice, "feeling our way" around problems and questions too complex for words. (Ahrens, 121)
+            - #[[Literature Notes]] The [[Slip-Box]] is an environment where ideas can interact and co-mingle, somewhat like a lab or café. (Ahrens, 122)
+            - #[[Literature Notes]] [[Paradigm Shifts]] happen because of many small moves. (Ahrens, 122)
+            - #[[Literature Notes]] [[The 5 Elements of Effective Thinking]] include: feedback loops, grasping main ideas, seeing what is really in front of you (and not what you expect to see), and asking: what is not in the picture? (Burgerand and Starbird 2012) (Ahrens, 125)
+            - #[[Literature Notes]] Perception and interpretation happen simultaneously enough that seeing something for what it is requires mental tricks and training, and is essentially a revision of our first thought. (Ahrens, 125)
+            - #[[Literature Notes]] [[Survivorship Bias]] is the failure to consider that which is no longer present (Taleb 2005). One of the many [[Cognitive Biases]] referenced by Ahrens. (Ahrens, 126)
+            - #[[Literature Notes]] Tracking what is proven not to work can help prevent repeat mistakes (Burkeman 2013). Remember that real failures are not setbacks couched in a success story. (Ahrens, 127)
+            - #[[Literature Notes]] Overcomplicating things can be a way to avoid underlying complexity. (Ahrens, 128)
+            - #[[Literature Notes]] One idea per note facilitates recombination. (Ahrens, 130)
+            - #[[Literature Notes]] Drawing subtle distinctions can feel overly formal and limiting, but indifference throttles insight. (Ahrens, 132)
+        - [[Chapter 13. Share Your Insight]]
+            - #[[Literature Notes]] Clusters of connected notes will emerge within a [[Slip-Box]] and serve as ample starting points for writing. Instead of continuing to expand, decide on one topic and start cutting everything that does not pertain to it. (Ahrens, 133)
+            - #[[Literature Notes]] [[Brainstorming]] was first described in 1919 by [[Alex Osborn]] and popularized in a 1958 book by [[Charles Hutchinson Clark]]. (Ahrens, 133)
+            - #[[Literature Notes]] [[Brainstorming]] fetishizes the brain and the memorization of large quantities of knowledge, regardless of the quality of information or the depth of one's understanding.  (Ahrens, 133)
+            - #[[Literature Notes]] It's hard to let go of a [[first thought]], even when it's irrelevant (Stack and Mussweeiler 1997). (Ahrens, 134)
+            - #[[Literature Notes]] Keys to motivation: understanding the meaning of work, connecting it to personal goals, and feeling in control of one's path (Balduf 2009, Glynn 2009, Reeve and Jan 2009). (Ahrens, 137)
+            - #[[Literature Notes]] Maintaining the ability to change course is a more dynamic form of control than sticking to a plan. (Ahrens, 138)
+            - #[[Literature Notes]] Work requires less [[willpower]] when we have agency and autonomy, for example to steer a project in the direction of our interests. (Ahrens, 138)
+            - #[[Literature Notes]] Meaningful choices can be energizing and irrelevant choices can be draining. (Ahrens, 138)
+            - #[[Literature Notes]] Verbund is a term from the German chemical industry (e.g. [[BASF]]) for the efficiency of recursively integrated byproducts. (Ahrens, 140)
+            - #[[Literature Notes]] Let it be easy. If you hit a wall, switch gears. (Ahrens, 141)
+            - #[[Literature Notes]] [[Overconfidence Bias]] explains insufficient estimation in planning (Kahnemann 2013). [[Pre-visualization]] of the steps in a process (instead of the outcome) and building in reflection throughout the process can serve as correctives. (Ahrens, 142)
+            - #[[Literature Notes]] [[Parkinson's Law]]: work expands to fill the time set aside for it (Parkinson 1957). (Ahrens, 144)
+            - #[[Literature Notes]] [[Zeigarnik Effect]] (1927): the brain is occupied with a task until it is completed or written down. (Ahrens, 144)
+        - [[Chapter 14. Make it a Habit]]
+            - Having a structure is different than making a plan. "Using a plan forces us into things that we don't want and is demotivating" and unsuitable for open ended inquiry. We should build our structure in such a way that idea generation becomes the primary driver. [*](((kL7KTw3Ng)))
+                - Using a plan forces us into things that we don't want and is demotivating
+            - #[[Literature Notes]] Intention and behavior are not measurably connected, except when repeating past actions (Ji and Wood 2007, Neil 2012). (Ahrens, 146)
+            - #[[Literature Notes]] [[Mere-Exposure Effect]] theorizes the counter intuitive relationship between what we feel in control of and what we actually control, specifically with regard to habits and behaviors (Dean 2013) (Ahrens, 146)
+            - #[[Literature Notes]] Instead of exerting [[willpower]] on "breaking" habits, build up and nurture new habits that could replace the old ones. (Ahrens, 146)
+    - [[Afterword]]
+        - #[[Literature Notes]] As opposed to "[[Learner Centric]]" models, the [[Slip-Box]] proposes a decentralized network of ideas. (Ahrens, 150)
+        - #[[Literature Notes]] [[Tunnel Effect]] theorizes how we fall back on old routines under pressure (Mullainathan and Shafir 2013). (Ahrens, 150)
+    - Templates
+        - #[[Literature Notes]]  (Ahrens, )
+- Fleeting Notes:: 
+    - {{query: {and:[[Fleeting Notes]] [[Casey Gollan]]}}}
+- Literature Notes:
+    - {{query: {and:[[Literature Notes]] [[Casey Gollan]]}}}

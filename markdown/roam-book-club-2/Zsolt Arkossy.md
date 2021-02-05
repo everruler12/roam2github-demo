@@ -1,0 +1,5 @@
+- [[Directory]]
+    - Interests:: [[Self-Education]] [[Course Creation]] [[GTD]] [[Roam Research]]
+    - Favorite Book:: [[Principles by Ray Dalio]]
+    - Website:: www.zsoltarkossy.com
+    - Twitter:: @zsoltarkossy

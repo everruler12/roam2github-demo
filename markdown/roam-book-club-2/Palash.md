@@ -1,0 +1,161 @@
+- Twitter:: [@palashkaria](https://twitter.com/palashkaria)
+- Website:: [palash.co](https://palash.co)
+- Book Club 1 member? (y/n):: y
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - This reminds me of how the language was invented, as mentioned in the book [[Sapiens]] [*](((59-bYYcu-)))
+            - initial languages were partial scripts, like mathematical scripts; meant for use in taxation, and other bureaucratic purposes; the modern "full scripts" developed later (which allows humans to write down whatever we can speak)
+                - this allowed knowledge to be transferred, not just to other contemporary humans, but across generations; like the Code of Hammurabi
+        - Holding on to everything is not possible. I should try to focus on one thing at a time, complete that in one go, and move to the next thing [*](((N9B8GYzJr)))
+            - this relates to mindfulness. When I read something, the question should be 'What am I experiencing right now?', and not 'What will I want to experience in the future?'.
+                - These tiny anxieties about the future actually distract me, cause cravings, and increase suffering. If I complete and thought and then move the the next one, it keeps me mindful of the thought. This can produce the best output.
+                    - Example: When I write this, I am constantly thinking about how to make it shorter? How to make it so that it fits into tweet? But why? I don't really plan on tweeting this immediately, and even if I need to do that, I can do it later. 
+                        - to do it later, I can use some `#TweetIdea` convention, **but** that is not the point. We all understand these ideas, these techniques, but they are not the most important things to understand. The most important thing is to be mindful of the current thought, and that will help avoid future anxiety.
+                            - ^^having the ability to write `#meta` thoughts does not mean you always need to write them as they come. If a thought is important enough, it will come back.^^
+                                - [[Roam]] allows me to do this easily, but it's a slippery slope; 
+                                    - I can easily fall into the trap of constantly writing all the meta thoughts threads going on in my head, and basically using the tool for the sake of it. That way I actually lose focus and probably a big chunk of thinking too.
+                                - This is all heavily again inspired from my recent reading of [[Sapiens]], and the part about [[Buddhism]] in that.
+                                    - I sometimes feel like any two books I read at the same time, somehow feel interlinked. 😅 #meta
+        - "[[Roam]] allows me to do this easily, but it's a slippery slope; " (to create structure) [*](((lz_jy3Uyg)))
+            - I think the main problem with roam (and at the same time, advantage of [[Roam]]) is the inherent __lack__ of structure
+                - once I have a few things in place, I won't constantly go back to this slippery slope of making the tool work for me, or constantly figuring out where to put thoughts so that they can be discovered later. [[Roam]] is not [[zettelkasten]], but [[zettelkasten]] can be implemented in [[Roam]]
+        - reading more does not mean you will have more ideas; It actually leaves you with __less__ ideas, as you know that others have already thought of most of them [*](((GRlg3daPc)))
+        - to know your own limitations, you need to know about the amount of knowledge that is available [*](((LTX79DEgy)))
+        - if you don't know enough about something, you might actually be over-confident. At the same time, if you know a lot, you might underestimate yourself. [*](((LTX79DEgy)))
+        - to get anything done, I need to remove the nagging worry about every tiny thing in the back of my head. [*](((ngW0psLUC))) [*](((1OmI74xT0)))
+            - That can happen only if I have a system which lets me schedule, discard, or complete my TODOs. And I need to trust the system too [*](((wAz831-X5)))
+                - It is important to know that everything (big or small) is taken care of. This will clear my working memory and free up mental resources
+                    - this can lead to the experience of 'mind like water' state. Work without distractions.
+                    - interesting reframe of distraction as 'competing thoughts'
+                    - distractions are not from the environment, but from our own minds
+                    - The principle of [[Getting Things Done]] is to collect everything that needs to be taken care of in one place and process it in a standardized way. 
+                        - This doesn’t necessarily mean that we actually do everything we once intended to do, but it forces us to make clear choices and regularly check if our tasks still fit into the bigger picture. 
+                            - Only if we know that everything is taken care of, from the important to the trivial, can we let go and focus on what is right in front of us. 
+                                - Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a “mind like water”-the state where we can focus on the work right in front of us without getting distracted by competing thoughts.
+                                    - The principle is simple but holistic. It is not a quick fix or a fancy tool. It doesn’t do the work for you. But it does provide a structure for our everyday work that deals with the fact that most distractions do not come so much from our environment, but our own minds.
+    - [[Chapter 2. Everything You Need to Do]]
+        - fleeting notes are reminders of what is in my head [*](((pZ1dkTn5N)))
+            - they should not distract, and they can be processed later
+        - literatures notes should be short, selective, and in my own words. They are a part of the reference system, not the main [[zettelkasten]] [*](((eRojO1adJ)))
+            - 
+        - permanent notes are part of the [[zettelkasten]]. They come from a review of fleeting & literature notes (ideally once a day). Look for connections, corrections & contradictions to exisiting ideas. See ideas can be remixed to generate something new.  [*](((y5dDNqTm7)))
+        - 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes::
+    - 
+- 
+- 
+- Literature Notes::
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Get better at remixing ideas and taking notes
+        - Meet some interesting people!
+    - notes
+        - [[Jenn Harding]] is doing writing her PhD in Roam!
+        - [[Guia Carmona]] did the Spanish translation for the book!
+        - session with [[Sönke Ahrens]]
+            - many books have one single idea, and try to blow it up
+                - but, many ideas connect together
+            - ideas pop up in different places
+                - This reminds me of the ideas popping up in multiple places, from the book  [[Books/Where Good Ideas Come From]]
+            - confirmation bias?
+                - "Great to hear Sönke talk about how ‘ideas sometimes have their time’ and how such tools or approaches in education may help us ‘to think in a more inter-disciplinary way and counter-act confirmation bias’
+            - if we don't take new, we are floating on new ideas, and new ideas are not necessarily better.
+                - brain is not too good at new information
+                - two notes at differnt thinking process - you might think it's the same idea, but the moment you write it down, and make an explicit connection,  you ask the questions :
+                    - is it different? contradicting? or just something else?
+            - zettlekasten is a dialouge partner
+                - this helps with "confirmation bias?"
+                - making things fit
+                - being more humble about out lack of understanding
+                - writing it down is a bit like trying to explain to others
+                    - not exactly the same; but the closest approximate
+            - sometimes it might be better to read more, vs to take notes; and also the other way around
+                - taking notes obviously takes more time, but could be more useful
+            - system can be 'tweaked' to different needs
+                - busniess people
+                - programmers/people who write code
+            - handwriting vs typing
+                - risk is, you might think more about the software vs the content.
+                    - how to break out of this trap?
+                    - screens create distraction
+            - reading for luxury - when you can afford to just read a book and not take notes; maybe just highlights
+            - notes can be quite densely connected, where you can actually see some kind of dialogue between the notes, where the second node might refer to the one before explicitly by starting like, but in contradiction to that idea
+            - clusters vs index
+- "template 🧩: report back from small group"
+    - Breakout Group Number - 21
+        - Who was in this group on 11.1.20:: [[Palash]] [[Jenn Harding]] [[Guia Carmona]] [[Latham Turner]]
+        - What did your group talk about?::
+            - "[[Guia Carmona]] did the Spanish translation for the book!"
+            - [[Jenn Harding]] asks - Is there a way to integrate raw data into my zettlekasten system?
+                - raw data like - numbers, excel files, visualizations
+                    - [[Guia Carmona]] suggests that the analysis of this should go into zettlekasten
+                        - put the data into your context
+            - Multiple sources for zettle
+                - [[Guia Carmona]] suggest this is much more useful with contradictions 
+                    -  how to connect two contradicting zettles together?
+                - [[Books/Where Good Ideas Come From]] could've been much shorter - [[Jenn Harding]]
+                    - I agree! - [[Palash]]
+        - Any questions for the book club as a whole?::
+            - " how to connect two contradicting zettles together?"
+        - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+            - Did this book start as lecture notes? [[Palash]]
+- [[November 8th, 2020]]
+    - "{{[[DONE]]}} **Section 1 Writing task** "
+        - "Pick from any of the prompts below, and write for 20 minutes. "
+            - "Reflection on first reading phase of the book "
+                - "What ideas resonate with you from the book"
+                    - "What is the gist of the book? "
+                        - A slip-box/[[zettelkasten]] can help me dramatically improve output when writing. It also provides a structure to work in.
+                        - This whole method can be summarized as [[GTD]] applied to academia
+                        - The book itself is an example of a successful use of slip-box - like how the history of shipping container is referenced due to a note on "acceptance problems" in technology [*](((E6GPQOQKr)))
+                        - The [[zettelkasten]] is __not__ an archive. To get benefits, it is necessary to change our work routines to get the full benefit of it. [*](((ID232vsr4)))
+                            - I feel like the fleeting notes part of this mode of working is very natural to my brain, as there are constant fleeing ideas. The crucial thing is to also review these fleeting notes and convert them into literature/permanent notes
+                - "Discuss the fleeting note phase"
+                    - "What does the concept of fleeting notes mean to you? "
+                        - fleeting notes are reminders for 'what's in my head'
+                        - fleeting notes can be skipped, as [[Sönke Ahrens]] says in th intro
+                    - "Define a fleeting note in your own words. "
+                    - "How did you take fleeting notes? Discuss your method."
+                        - I usually start writing and any connected thought is just indented below the first one
+                            - if there's any references, I link back to it using an alias for the block
+                            - I think having the original source (or at least parts of it) in the same graph, really makes it easier to focus on fleeting notes
+                    - "What is the value of fleeting notes?  For this book, and for previous books you have read? "
+                        - No inherent value in itself, because they are at best a jumbled mess. But a review to convert them into perm notes would help. 
+                            - I also sometimes end up writing [[literature notes]] or [[Permanent notes]] directly, 
+
+                                - "If your thoughts are already sorted and you have the time, you can skip this step and write your idea directly down as a proper, permanent not for your slip-box." [*](((pZ1dkTn5N)))
+                                - 
+    - "~template 🧩: 11.8.20 report-back from small group"
+        - Breakout Group Number - 1
+            - Who was in this group on 11.8.20:: [[Chris Oakley]] [[Art Assoiants]] [[Palash]] [[Andy Henson]] [[Joey Harris]] [[Jack Yeh]]
+            - Any struggles or challenges identified?:: 
+                - we tend to highlight at first, but we might end up higlighting the whole book/too many highlights
+                    - Since reading [[How To Take Smart Notes]], there's been improvements like selective highlighting, knowing what each piece means
+                - first pass of the book was difficult to follow;later the note-taking dramatically improved
+                - writing in your own words is really important [[Chris Oakley]]
+            - Anything you are excited about?::
+            - Does the concept of a "Fleeting Note" make sense to you?::
+    - [[Luca Dellanna]]
+        - tried to make a system in React
+        - 
+- 
+- 

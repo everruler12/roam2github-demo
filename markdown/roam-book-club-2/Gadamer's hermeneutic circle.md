@@ -1,0 +1,3 @@
+- refers to the idea that one's understanding of the text as a whole is established by reference to the individual parts and one's understanding of each individual part by reference to the whole.
+    - calls into question the autonomy of the [[human sciences]]
+        - re: [[What Kind of Problem is the Hermeneutic Circle?]] [[C. Mantzavinos]]

@@ -1,0 +1,838 @@
+- Name:: Juan Caicedo
+- Website:: https://juancaicedo.com/
+- Work::
+    - Company:: [[Calm]]
+        - https://www.calm.com/
+        - Role:: Senior Software Engineer
+        - Team:: B2B and Partnernships
+    - Skills:: 
+        - #[[Javascript]] #ReactJS #expressjs #nodejs #css #html
+- Sign-in Book:: (create nested block below, newest at the bottom)
+    - ^^Please **sign in** and leave a message!^^  Let me know if anything resonates!
+        - Please start a new block with `your name`, `the date`, and `a comment` (to comment on something on my page, use a block ref!).
+        - [[Brandon Toner]] — Love your summary [[literature notes]] and context referencing method [[November 15th, 2020]] 
+            - Would love to read your process for making your literature notes. What happens in what order?
+                - #Reply-from [[Juan Caicedo]] Sure! I've referenced it below
+                    - "How I take notes::"
+                - Ok, I'm gonna guess. 
+                    - In your system, [[fleeting notes]] are the highlights from [[Kindle]] synced via [[Readwise]].
+                    - You copy these into the [[shared graph]] via your [[personal graph]].
+                    - Then, once you finish reading, you open your fleeting notes in the sidebar, and summarize key ideas under the [[literature notes]]. The supporting [[fleeting notes]] get nested underneath.
+                - Comments::
+                    - Interesting! Key differences for me = 
+                        - highlights = [[reference notes]]
+                            - #Reply-from [[Juan Caicedo]]  Yeah that's a good point!
+                        - [[fleeting notes]] = brief assertions or statements
+                            - #Reply-from [[Juan Caicedo]] I think for me a fleeting note would be whenever I add a note to a highlight on kindle. 
+                                - These then get imported by Readwise as blocks below the highlight
+                                - I rarely take any of these
+                        - [[literature notes]] = concept summaries
+                        - [[permanent notes]] = mega summaries from across multiple sources, or stemming from several [[fleeting notes]] and [[literature notes]]. These are closer to original idea. 
+                    - your [[literature notes]] feel like my [[fleeting notes]].
+                        - I imagine [[literature notes]] being the combination of several of those into summaries of key ideas. 
+                        - I think your definition might be better... the it almost seems that due to the way you are effectively preserving context, [[fleeting notes]] as described by [[Sönke Ahrens]] are less necessary! 
+                    - your [[permanent notes]] feel like my [[fleeting notes]]! 
+                        - Interesting!! You've got me thinking now.
+        - [[Alex Shchedrin]] [[November 16th, 2020]] reading about your process for taking notes, thank you for sharing!
+        - [[Jason Kleinberg 🎻]] Thanks for sharing how you work. You have a very clear way of showing how the Zettlekasten process works. 🙏
+        - [[Chinarut]] [[November 22nd, 2020]] Dropping in to say hello!  thanks for sharing how you assemble literature notes into permanent notes. You really opened up a new space for me to get I can pull literature notes from anywhere in the book. How did you automate the numbering of your literature notes? I like how you prefaced each permanent notes with a core concept - this maps pretty well with the way I created my literature notes.
+- How I take notes::
+    - "#Zettels [[How I take notes]] - While I read, I select passages which will be thought provoking later. I set up systems that automatically get these into Roam. I translate the meaningful ones into my own words. I look for ways to group as many of them as possible, then write a bit which I can read later in isolation."
+- Permanent Notes::
+    - #Zettels [[Atomic writing]] - Good writing must be done at a micro level. Notes that are clear enough to require little context can be combined in many ways to build a foundation for any other writing.
+        - #[[Literature Notes]]
+            - The process of writing and learning starts with small units of meaningful and personalized content, which is a note #[[Learn in public]]
+                - Page 1
+            - "Good writing is the tip of the iceberg, with lots of preparation below the surface"
+            - Understanding and then writing is like daily practice to musicians L1512 #[[Daily practice]]
+                - Having a daily goal of creating small pieces of notes is more manageable L2604
+                - The friction for doing this is small L2616 L2635 #[[Make it easy]]
+            - "Make your notes easy to understand, as you will not have the same context in the future"
+            - By doing this we are forced to decide what is worthwhile early, rather than needing to do this later on
+            - As you take notes, you put thought into developing ideas. Culling those notes require you to do more of the same. After doing enough of that with enough notes, a structure starts to form and they coalesce into a finished work
+                - L155
+            - "Translate notes into your own language and include enough context so that they are versatile"
+            - "Permanent notes are standalone, agnostic to the text they come from"
+    - #Zettels [[Creativity is non-linear]] - Ideas are not fully formed on the first go, the require iteration. Creating many opportunities by making iterations frequent rather than perfect. Avoid getting stuck on an idea, instead develop other aspects of it or other ideas. Create opportunities for serendipity by revisiting ideas.
+        - "Ideas transform as you put them into the slip box"
+        - "Don't tie yourself down to a topic before writing, instead let the topics arise as you write"
+        - "The more you struggle with the material, the more that you learn"
+        - "Creativity comes from alternating focused attention and roaming attention"
+        - The themes and structure of a piece of writing change as your own understanding develops. Because of this, it's important to allow that flexibility rather than trying to constrain it.
+            - "to stay in control, it's better to keep your options open during the writing process rather than limit yourself to your first idea" L366
+        - Often the key step towards solving a problem is redefining it in a way that an existing solution can be applied L2323
+        - "Writing is not a linear process" L288
+            - To be creative, you need to be able to switch between a narrow focused analytical mindset and wide open playful mindset
+        - "Don't do it if it feels hard, instead move on to something else that feels easy"
+        - "Use note-taking as an ongoing system to develop your thinking"
+    - #Zettels [[Writing is the medium of learning]] - Creating written knowledge external to your brain is the best implementation of the learning process. It makes knowledge personal and relevant, developing our comprehension. Writing fosters learning, it is no the output of learning.
+        - "Writing is the most important thing, it helps with every other aspect of learning"
+        - "We should all pursue our own learning as the main goal"
+        - An external system of note taking is fundamental to any type of knowledge creation #[[Technology augments the mind]]
+            - For example physics L1764
+        - We learn most effectively by putting things into our own words and creating meaningful connections. Page 2
+            - This also improves recall because the related context now contain cues to remind us of the idea L1273 L1867
+            - Understanding is the same as learning 1927
+        - Learning requires effort and engagement, which writing does as well. By putting in more time to chew on things, we increase the likelihood that it will stick
+            - "The best students struggle the most" L213
+                - Changing our attitude about the discomfort of the learning process and reframing the negative as a path to the positive helps us do it more #reframing
+        - The most effective strategy is to try to put things into your own words. Think of it as translating, trying to find different words to make the same idea fit into a new context #translation L432 L1371 L1389
+        - The point is not to accumulate knowledge, but instead to develop a new way of thinking L2701
+    - #Zettels [[Develop a simple note-taking protocol]] - A streamlined approach is the key for turning external informational into personal knowledge. It allows you dedicate all your attention to one discrete goal at each stage. Simplicity makes it repeatable.
+        - "Rather than improving memory, create ways to surface the note during relevant moments"
+        - "Record the results of your thinking so that you don't need to go through the process again"
+        - "Completing tasks within a timebox and facilitating start stop give us better attention"
+        - "A streamlined and predictable work environment helps combat [[Ego Depletion]]"
+        - "Undone tasks occupy our short term memory and distract us. Fortunately the brain can't tell the difference between finishing them and writing them down to process them later"
+        - "Record the results of your thinking so that you don't need to go through the process again"
+        - "Discrete tasks create a shorter feedback loop"
+        - "A simple system is always better than a complex system"
+        - "Decoupling tasks frees your memory and attention so you can move from one to another with ease"
+        - "Focus deliberately on one thing to increase your attention"
+        - Why
+            - Notes are small and require little willpower, so building a system around them is most likely to enable you to make consistent progress
+                - L170
+                - "Studies on highly successful people have proved again and again that success is not the result of strong willpower and the ability to overcome resistance, but rather the result of smart working environments that avoid resistance in the first place." L366
+                    - This is interesting because the very wording seems to contradict the idea of Resistance in [[The War of Art]]. Are these actually at odds, or do they just appear to be? #Question
+            - The simplicity of this system reduces friction
+                - L184
+                - "The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles" L245
+                - Don't overcomplicate things #overcomplicated
+                    - Trying to solve a problem that's difficult, but could instead be bypassed because it doesn't provide a lot of value, is a waste of time
+                        - There's a famous story about how NASA developed a gravity-proof pen so that they could write in space, while Russia instead just used pencils
+                - Only focus on one thing at each stage of the note-taking process, rather than everything #[[Focused attention]] L1118
+                    - A lack of structure makes this more difficult to do
+                    - Discrete tasks can be completed within a predictable amount of time
+                    - Shorter feedback loops provide you with more learning L2604
+                - [[Ego Depletion]]
+                    - It is harder to exercise willpower the more of it you have already had to exercise L1321
+                    - The more structured our working environment, the less taxing it is on this resource L1337 L1352
+                    - If we have control and autonomy, then work has the opposite effect L2520
+            - Frees up your mental RAM from trying to remember all the things you are thinking about
+                - "Everything needs to be taken care of, otherwise the neglected bits will nag us until the unimportant tasks become urgent" L288
+            - Create a meaningful dialogue with the text that you read L1389
+                - Without a purpose, notes feel like a chore L1418
+            - You will remember it better
+                - Trying to answer a question before knowing the answer makes you more likely to remember it after you learn it L1361
+                - Elaboration is the best learning method L1646
+        - How L505
+            - Make fleeting notes
+                - Don't worry too much about what you write down or how
+                - Meant to serve as a reminder for when you are trying to process later
+                - Review these sooner rather than later, ideally within a day L831
+                - These will vary as the task varies, which is a good thing
+                    - Mastery and professionalism mean being able to tailor your approach based on the constraints, rather than treating everything as the same #[[hammer and nail]] #[[mastery]]
+                    - Teachers tend to overvalue how well a student is able to follow a prescribed procedure, rather than how well they can apply the learning to real life situations L1228
+            - Make literature notes
+                - Distill the important information #[[Less notes is better]]
+                    - Even if you are using digital and therefore have unlimited storage L2368
+                - Does this mean that the notes you take while reading are distinct from literature notes? Or do you flush out fleeting notes into literature notes? #Question
+                - These notes end up actually being stored in your reference system, and because of that it's worth giving them a little more effort
+            - Make permanent notes
+                - Do this frequently, ideally once a day
+                    - Do this daily so that it doesn't start to become a big undertaking
+                - Elaborate on what is there, particularly on how it is relevant to other things that you already are interested in
+                    - What questions does it bring up?
+                    - Is it relevant to previous thoughts? Why did it catch your interest? L1778 L2505
+                    - "By doing this, you will elaborate on the meaning, which will make it much more likely that you will remember it" L732 L1465
+                    - Is something missing from here? L1403
+                        - The white space or negative space patterns are often just as significant because the available info can have [[survivorship bias]]
+                    - Compare against other notes
+                        - Can it be combined?
+                        - Does it contradict anything else that you have previously thought?
+                            - This is good, because disconfirming information creates lots of connections L1495
+                            - "the deliberate creation of variations and contrasts can facilitate learning" L1942
+                        - Comparison is the key element of human perception and understanding L2230
+                            - We notice more things when we are scanning around than when we are focusing intensely L2244
+                - "The idea is not to collect, but to develop ideas, arguments, and discussions" L522
+                - Make these so that they can stand apart from the content L1571
+                    - Distilling ideas to see what is clearly there in front of you is a trait of experts L2292
+                    - Revising our initial interpretation is how we gain understanding L2292
+                        - Holding on to the initial is being close-minded, ironically this happens a lot by those that consider themselves open-minded
+                        - We tend to think that our initial ideas are the best, which makes us blind to how they could be improved L2441
+            - Organize your notes
+                - Determine in what context you would like to stumble on this information again L785 L2014
+                - Permanent notes should be separate from project related notes L882
+                - The organization of your slip-box should represent the way that those ideas are organized in your mind
+                    - The references between permanent notes are much more important than within the literature notes
+                        - Cross references are counter-intuitive, but more valuable L2687
+                - Create notes with summary links
+                    - They point to other relevant notes and include a little summary
+                    - Usually good as part of an overview note
+            - Read what you already have to guide further researching
+                - The more familiar we are with the ideas we already have, the more we are open to new ideas L2472
+            - Create new content from these notes
+                - Why
+                    - "An idea kept private is as good as an idea you never had" L703
+                    - Good questions require effort to answer and are relevant to the material we already have
+                - Create an outline of the new content
+                    - It's easier to write if we don't also need to focus on the structure we have in mind, so it's good to create the outline to keep in front of us later L1150
+                    - This should be a separate task, and we'll need to return to it many times throughout the writing process L1150
+                - Creating a new context is what makes for new ideas L2276
+                - It's useful to work on multiple pieces of content at the same time L2551
+    - #Zettels [[Cultivate a note-taking habit]] - Note-taking is most valuable when you do it consistently over time, as a deliberate practice 
+        - #[[Literature Notes]] "Collect interesting thoughts because they might be relevant to something different from what you are currently searching for "
+        - "Developing the right habits is more important than adopting the right tools"
+        - "Note taking is a daily deliberate practice, like musicians playing an instrument"
+        - "It's easier to notice details with roaming attention than with spotlight attention"
+    - #Zettels [[Create original work as you learn]] - this will solidify your understanding, indirectly improving how well you can retrieve that knowledge. It also creates an opportunity to receive feedback, opening new learning avenues. 
+        - "Always put your ideas out in public, that's the only place they count #[[Learning in public]]"
+        - "Getting feedback is the most important thing you can do to improve"
+        - "Teachers tend to value rule adherence more than competency"
+        - "Elaborating on something is the best way to learn"
+    - #Zettels [[Connect ideas together]] - by creating links between previous knowledge and new knowledge, you increase your understanding of both. Your goal is to create a personal context in which this knowledge will become apparent to you. Identify similarities, differences, and contradictions, as the brain is better able to handle those relationships than isolated facts
+        - "Rather than improving memory, create ways to surface the note during relevant moments"
+        - "Connect your notes to the context in which you would like to think about them again"
+        - "An interconnected network is better able to integrate new knowledge"
+        - "Organize your slip-box based on categories that make sense to you"
+        - "Creating connection between ideas makes them easier to remember"
+        - "Conflicting view points are perfect for the slip box"
+        - "The brain excels at comparisons, so it's good to leverage this in note-taking"
+    - #Zettels [[How I take notes]] - While I read, I select passages which will be thought provoking later. I set up systems that automatically get these into Roam. I translate the meaningful ones into my own words. I look for ways to group as many of them as possible, then write a bit which I can read later in isolation.
+        - Read with Kindle
+            - Highlight things I find interesting
+                - As little as possible while making sure I will understand it without the rest of the context
+                - Often just one sentence, or even a section of a sentence
+                - Rarely a whole paragraph
+                - Always highlight chapter titles
+                    - This helps sort the imports later
+            - Rarely add notes
+        - Sync notes to Roam with Readwise
+        - Process highlights into literature notes
+            - Open the two pages side by side
+            - For each highlight
+                - Feel free to ignore if it feels no longer seems interesting
+                - If there's no literature note that addresses it
+                    - Write a literature note that captures the main idea in my own words
+                    - Cmd-click-drag the highlight below the literature note, so that I have a block reference nested below it
+                - If there's already a literature note that addresses it
+                    - Add a new block reference to the highlight below to that note
+                        - Update the note so that it captures all the highlights now under it
+            - Usually I keep these organized by the chapters of the book I'm reading
+                - This is why having chapter names in my highlights is helpful
+                    - "Always highlight chapter titles"
+            - If a single highlight has multiple good ideas
+                - Make multiple literature notes referring to it
+        - Extract permanent notes
+            - This process is mostly the same as for creating literature notes
+                - Open permanent notes and literature notes side by side
+                - Feel free to ignore a literature note if it feels no longer relevant
+                - After creating a permanent note, cmd-drag literature notes under it
+            - Aim to have as few permanent notes as possible
+                - If two literature notes are related
+                    - Nest them under the same permanent note and update the permanent note to have the ideas of both
+            - Add references to each permanent note
+            - Add a `Related::` block below each permanent note
+                - Add useful keywords
+                - Connect to the title of any new content I'm hoping to create
+        - In my personal graph::
+            - I'll drag each permanent note to a new page with a name that captures the idea
+                - This name could be the title or url if I turn this note into a blog post
+                    - Derek Siver's blog is a great inspiration for great naming
+                - Include a `Permanent notes::` section on that page
+        - What I'd like to improve::
+            - Creating more original content from my permanent notes
+            - Having a quick place to scan when looking for related permanent notes
+                - The linked references to `Permanent notes` is the best in my own graph, but I don't find it as useful in the book club graph
+- meta::
+    - Permanent notes do not need to follow the structure of the content you are reading. Rather, they should represent the structure of ideas that you are developing
+- Literature notes::
+    - [[Introduction]]
+        - A note is the smallest unit from which all other learning is built up
+            - ""["Every intellectual endeavour starts with a note"](((hG7TRPF5I))).". ([Location 117](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=117))"
+        - Writing is the best way to learn and to research
+            - ""Writing is not what follows research, learning or studying, it is the medium of all this work.""
+        - Don't rely on willpower, instead set up systems that make it uneccesary
+            - "Not having willpower, but not having to use willpower indicates that you set yourself up for success."
+    - [[Chapter 1. Everything You Need To Know]]
+        - Good writing is the tip of the iceberg, with lots of preparation below the surface
+            - "the key to successful writing lies in the preparation, ([Location 159](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=159)) "
+            - "The quality of a paper and the ease with which it is written depends more than anything on what you have done in writing before you even made a decision on the topic"
+        - Decoupling tasks frees your memory and attention so you can move from one to another with ease
+            - "A good structure allows you to do that, to move seamlessly from one task to another ([Location 189](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=189))"
+            - "Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a “mind like water” - the state where we can focus on the work right in front of us without getting distracted by competing thoughts. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=277))"
+            - "The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=208))"
+            - "Everything needs to be taken care of, otherwise the neglected bits will nag us until the unimportant tasks become urgent. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=296))"
+        - Developing the right habits is more important than adopting the right tools
+            - "Even the best tool will not improve your productivity considerably if you don’t change your daily routines the tool is embedded in, ([Location 264](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=264))"
+        - The more you struggle with the material, the more that you learn
+            - "those who are not very good at something tend to be overly confident, while those who have made an effort tend to underestimate their abilities. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=231))"
+            - "the best students who struggle the most. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=217))"
+        - Don't tie yourself down to a topic before writing, instead let the topics arise as you write
+            - "If you make a plan, you impose a structure on yourself; it makes you inflexible. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=202))"
+            - "Writing is not a linear process. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=290))"
+            - "it's better to keep your options open during the writing process rather than limit yourself to your first idea. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=374))"
+        - A simple system is always better than a complex system
+            - "Intuitively, most people do not expect much from simple ideas. They rather assume that impressive results must have equally impressively complicated means. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=403))"
+            - "The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=251))"
+        - Don't do it if it feels hard, instead move on to something else that feels easy
+            - "Studies on highly successful people have proven again and again that success is not the result of strong willpower and the ability to overcome resistance, but rather the result of smart working environments that avoid resistance in the first place ([Location 381](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=381))"
+    - [[Chapter 2. Everything You Need to Do]]
+        - Use note-taking as an ongoing system to develop your thinking
+            - "Notes build up while you think, read, understand and generate ideas, because you have to have a pen in your hand if you want to think, read, understand and generate ideas properly anyway. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=495))"
+            - "The idea is not to collect, but to develop ideas, arguments and discussions. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=523))"
+        - Collect interesting thoughts because they might be relevant to something different from what you are currently searching for 
+            - "We constantly encounter interesting ideas along the way and only a fraction of them are useful for the particular paper we started reading it for. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=569))"
+        - Focus on getting thoughts down more than on getting them perfect
+            - "Don’t worry too much about how you write it down or what you write it on. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=511))"
+        - Make your notes easy to understand, as you will not have the same context in the future
+            - "write as if you were writing for someone else: Use full sentences, disclose your sources, make references and try to be as precise, clear and brief as possible. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=525))"
+    - [[Chapter 3. Everything You Need to Have]]
+        - [[Fleeting Notes]] only need to remind you of a thought you were having at the time. Enough to get that thought going in your mind again
+            - "They only function as a reminder of a thought and are not meant to capture the thought itself, ([Location 631](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=631))"
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - We should all pursue our own learning as the main goal
+            - "the professor is not there for the student and the student not for the professor. Both are only there for the truth. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=710))"
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - Writing is the most important thing, it helps with every other aspect of learning
+                - "If writing is the medium of research and studying nothing else than research, then there is no reason not to work as if nothing else counts than writing. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=719))"
+                - "you will elaborate on the meaning, which will make it much more likely that you will remember it. ([Location 735](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=735))"
+            - Always put your ideas out in public, that's the only place they count #[[Learning in public]]
+                - "An idea kept private is as good as one you never had. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=705))"
+            - 
+        - [[Chapter 6. Simplicity is Paramount]]
+            - I don't understand the example of the shipping containers and how they helped the maker avoid getting stuck in traffic. What's the connection? #Question
+                - "He just didn’t want to get stuck in traffic anymore"
+            - Connect your notes to the context in which you would like to think about them again
+                - "In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again? "
+            - [[Fleeting Notes]] are meant to quickly capture ideas to decrease the interruption time
+                - "Fleeting notes are there for capturing ideas quickly while you are busy doing something else. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=838))"
+            - [[Fleeting Notes]] lose their relevance quickly, so you need to process them ASAP
+                - "Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=844))"
+                - "A good indication that a note has been left unprocessed too long is when you no longer understand what you meant or it appears banal. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=851))"
+            - Don't organize your permanent notes by project
+                - "keeps the permanent notes from the project-related notes clearly separated ([Location 895](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=895))"
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - Getting feedback is the most important thing you can do to improve
+                - "To actively seek and welcome feedback, be it positive or negative, is one of the most important factors for success (and happiness) in the long run. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1011))"
+            - An interconnected network is better able to integrate new knowledge
+                - "we know today that the more connected information we already have, the easier it is to learn, because new information can dock to that information. ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1055))"
+                - "if facts are not kept isolated nor learned in an isolated fashion, but hang together in a network of ideas, or “latticework of mental models” (Munger, 1994), it becomes easier to make sense of new information. ([Location 1057](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1057))"
+            - Organize your slip-box based on categories that make sense to you
+                - "We use the same mental models, theories and terms to organise our thoughts in our brains as in our slip-box. ([Location 1061](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1061))"
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+            - Focus deliberately on one thing to increase your attention
+                - "Focused attention is different from “sustained attention,” which we need to stay focused on one task for a longer period ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1124))"
+                - "we can train ourselves to stay focused on one thing for longer if we avoid multitasking, ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1128))"
+                - "A lack of structure makes it much more challenging to stay focused for extended periods of time. ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1131))"
+            - Keep an outline in front of you when you are writing, so that you don't lose brain space to remembering the structure
+                - "a printed outline of the manuscript should be always in front of our eyes. ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1159))"
+            - Outlines are iterative, because you are discovering the structure as you write
+                - "It is important, though, to understand outlining not as the preparation of writing or even as planning, but as a separate task we need to return to throughout the writing process on a regular basis. ([Location 1162](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1162))"
+            - Mastering many reading techniques allows you to understand more types of text
+                - "It is not a sign of professionalism to master one technique and stick to it no matter what, ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1173))"
+            - Creativity comes from alternating focused attention and roaming attention
+                - "The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame.” ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1186))"
+            - Teachers tend to value rule adherence more than competency
+                - "Teachers tend to mistake the ability to follow (their) rules with the ability to make the right choices in real situations. ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1231))"
+            - Discrete tasks create a shorter feedback loop
+                - "It gives you a structure of clearly separable tasks, which can be completed within reasonable time and provides you with instant feedback through interconnected writing tasks. ([Location 1251](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1251))"
+            - Creating connection between ideas makes them easier to remember
+                - "Things we understand are connected, either through rules, theories, narratives, pure logic, mental models or explanations. And deliberately building these kinds of meaningful connections is what the slip-box is all about. ([Location 1282](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1282))"
+                - "Once we make a meaningful connection to an idea or fact, it is difficult not to remember it when we think about what it is connected with. ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1287))"
+            - Useful questions
+                - How does this build on another idea?
+                - Is there another idea that explains this
+                - Is this in conflict with something else?
+                - Is this analogous to something else?
+                - Is this the same argument as something else?
+                - "How does this fact fit into my idea of …? How can this phenomenon be explained by that theory? Are these two ideas contradictory or do they complement each other? Isn’t this argument similar to that one? Haven’t I heard this before? And above all: What does x mean for y? ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1284))"
+            - Undone tasks occupy our short term memory and distract us. Fortunately the brain can't tell the difference between finishing them and writing them down to process them later
+                - "Open tasks tend to occupy our short-term memory – until they are done. That is why we get so easily distracted by thoughts of unfinished tasks, ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1297))"
+                - "The brain doesn't distinguish between an actual finished task and one that is postponed by taking a note. ([Location 1300](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1300))"
+            - Record the results of your thinking so that you don't need to go through the process again
+                - "make sure we always write down the outcome of our thinking, including possible connections to further inquiries. ([Location 1309](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1309))"
+            - [[Ego Depletion]] -> we have less willpower the more that we use it
+                - "“We use the term ego depletion to refer to a temporary reduction in the self’s capacity or willingness to engage in volitional action ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1334))"
+            - A streamlined and predictable work environment helps combat [[Ego Depletion]]
+                - "a reliable and standardised working environment is less taxing on our attention, concentration and willpower, ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1351))"
+                - "By always using the same notebook for making quick notes, always extracting the main ideas from a text in the same way and always turning them into the same kind of permanent notes, which are always dealt with in the same manner, the number of decisions during a work session can be greatly reduced. ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1358))"
+            - Completing tasks within a timebox and facilitating start stop give us better attention
+                - "Being able to finish a task in a timely manner and to pick up the work exactly where we left it has another enjoyable advantage that helps to restore our attention: ([Location 1361](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1361))"
+        - [[Chapter 10: Read for Understanding]]
+            - Ideas transform as you put them into the slip box
+                - "If you understand what you read and translate it into the different context of your own thinking, materialised in the slip-box, you cannot help but transform the findings and thoughts of others into something that is new and your own. ([Location 1382](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1382))"
+            - Use note-taking as a way to engage with the text that you are reading
+                - "meaningful dialogue with the texts we read. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1394))"
+            - Translate notes into your own language and include enough context so that they are versatile
+                - "translate them into our own language to prepare them to be embedded into new contexts of our own thinking, the different context(s) within the slip-box. Translating means to give the truest possible account of the original work, using different words ([Location 1397](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1397))"
+            - Conflicting view points are perfect for the slip box
+                - "He forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories. ([Location 1473](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1473))"
+                - "dis-confirming data becomes suddenly very attractive, because it opens up more possible connections and discussions within the slip-box, while mere confirming data does not. ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1510))"
+            - Note taking is a daily deliberate practice, like musicians playing an instrument
+                - "Extracting the gist of a text or an idea and giving an account in writing is for academics what daily practice on the piano is for pianists: ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1526))"
+            - Permanent notes are standalone, agnostic to the text they come from
+                - "Permanent notes, too, are directed towards an audience ignorant of the thoughts behind the text and unaware of the original context, ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1572))"
+            - Elaborating on something is the best way to learn
+                - "When we try to answer a question before we know how to, we will later remember the answer better, even if our attempt failed ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1633))"
+                - "the best-researched and most successful learning method is elaboration. ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1648))"
+        - [[Chapter 11. Take Smart Notes]]
+            - [[Sönke Ahrens]] considers academic and nonfiction writing unpredictable, yet novel writing predictable. This is completely wrong in my experience. He uses one author as an example, but I bet that many other authors don't follow a linear process
+                - "Academic and nonfiction writing is not as predictable as a Trollope novel ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1706))"
+            - Focus on what's interesting to you about the ideas that you select
+                - "Why did the aspects I wrote down catch my interest? ([Location 1784](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1784))"
+            - Use notes to create triggers for recalling information
+                - "It is about making sure that the right “cues” trigger the right memory, about how we can think strategically to remember the most useful information when we need it. ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1869))"
+            - Thoroughly understanding something helps you learn it 
+                - I think this is what made my studying in university so successful
+                    - I rarely spent time trying to get information into my head, but I went to every lecture and did the readings to be sure I could participate in the discussions.
+                        - That meant that I understood the material well, and therefore could recall it
+                - "If you focus your time and energy on understanding, you cannot help but learn. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1930))"
+            - Coming up with variations on a theme makes the theme easier to learn
+        - [[Chapter 12. Develop Ideas]]
+            - Don't lose brain cycles worrying about how to organize your slip box
+                - "liberating our brains from the task of organizing the notes is the main reason we use the slip-box in the first place. ([Location 2006](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2006))"
+            - Rather than improving memory, create ways to surface the note during relevant moments
+                - "In which circumstances will I want to stumble upon this note, even if I forget about it? ([Location 2023](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2023))"
+            - Create links based on your interests, not on the structure of the content
+                - "Keywords should always be assigned with an eye towards the topics you are working on or interested in, never by looking at the note in isolation. ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2046))"
+            - Create summary notes that serve as as an entry point or guide to other notes
+                - "On a note like this, you can collect links to other relevant notes to this topic or question, preferably with a short indication of what to find on these notes ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2066))"
+            - The brain excels at comparisons, so it's good to leverage this in note-taking
+                - "comparing is our natural form of perception, where our cognitive interpretation is in lockstep with our actual eye movements. ([Location 2243](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2243))"
+            - It's easier to notice details with roaming attention than with spotlight attention
+                - "The brain is more likely to notice details when it scans than when it focuses.” ([Location 2247](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2247))"
+            - Experts are often better at removing their preconceptions of a problem. Though this comes into conflict with the virtue of beginners mind, which points out how we can be blinded by our expertise
+                - "the ability to truly see what is in front of one’s eyes is often listed as a trait of experts. ([Location 2295](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2295))"
+                - "To really understand a text is therefore a constant revision of our first interpretation. ([Location 2303](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2303))"
+            - Reframe a problem so that you can reuse an existing solution
+                - "Problems rarely get solved directly, anyway. Most often, the crucial step forward is to redefine the problem in such a way that an already existing solution can be employed. ([Location 2336](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2336))"
+            - Even digital notes benefit from brevity
+                - "I highly recommend treating a digital note as if the space were limited. ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2371))"
+            - Constraints can be liberating
+                - "The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2403))"
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes::
+    - [[Introduction]]
+        - "["Every intellectual endeavour starts with a note"](((hG7TRPF5I))).". ([Location 117](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=117))
+        - "Writing is not what follows research, learning or studying, it is the medium of all this work."
+        - The quality of a paper and the ease with which it is written depends more than anything on what you have done in writing before you even made a decision on the topic
+            - **Note**: T
+        - Not having willpower, but not having to use willpower indicates that you set yourself up for success.
+            - **Note**: I
+    - [[Chapter 1. Everything You Need To Know]]
+        - the key to successful writing lies in the preparation, ([Location 159](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=159)) 
+        - A good structure allows you to do that, to move seamlessly from one task to another ([Location 189](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=189))
+            - **Note**: *
+        - If you make a plan, you impose a structure on yourself; it makes you inflexible. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=202))
+        - The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=208))
+        - the best students who struggle the most. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=217))
+            - **Note**: I
+        - those who are not very good at something tend to be overly confident, while those who have made an effort tend to underestimate their abilities. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=231))
+        - The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=251))
+            - **Note**: T
+        - Even the best tool will not improve your productivity considerably if you don’t change your daily routines the tool is embedded in, ([Location 264](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=264))
+        - Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a “mind like water” - the state where we can focus on the work right in front of us without getting distracted by competing thoughts. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=277))
+        - Writing is not a linear process. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=290))
+            - **Note**: T
+        - Everything needs to be taken care of, otherwise the neglected bits will nag us until the unimportant tasks become urgent. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=296))
+            - **Note**: T
+        - laconically ([Location 335](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=335)) #vocabulary
+            - **Note**: V
+        - it's better to keep your options open during the writing process rather than limit yourself to your first idea. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=374))
+            - **Note**: T
+        - Studies on highly successful people have proven again and again that success is not the result of strong willpower and the ability to overcome resistance, but rather the result of smart working environments that avoid resistance in the first place ([Location 381](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=381))
+            - **Note**: T
+        - Intuitively, most people do not expect much from simple ideas. They rather assume that impressive results must have equally impressively complicated means. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=403))
+        - he would look at his brief notes and think about their relevance for his own thinking and writing. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=421))
+        - very much like a translation ([Location 432](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=432))
+            - **Note**: I
+    - [[Chapter 2. Everything You Need to Do]]
+        - Notes build up while you think, read, understand and generate ideas, because you have to have a pen in your hand if you want to think, read, understand and generate ideas properly anyway. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=495))
+            - **Note**: Maybe the problem with highlights on kindle is that I need to then take notes afterwards
+                - [[ReadWise]] helps with this a lot!
+        - Don’t worry too much about how you write it down or what you write it on. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=511))
+            - **Note**: T
+        - The idea is not to collect, but to develop ideas, arguments and discussions. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=523))
+        - write as if you were writing for someone else: Use full sentences, disclose your sources, make references and try to be as precise, clear and brief as possible. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=525))
+        - We constantly encounter interesting ideas along the way and only a fraction of them are useful for the particular paper we started reading it for. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=569))
+        - Granted, writing these notes is the main work. ([Location 490](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=490))
+            - **Note**: T
+    - [[Chapter 3. Everything You Need to Have]]
+        - NASA developed a fully functional gravity-independent pen, which pushes the ink onto the paper by means of compressed nitrogen. According to this story, the Russians faced the same problem. So they used pencils ([Location 592](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=592))
+            - **Note**: Q
+        - They only function as a reminder of a thought and are not meant to capture the thought itself, ([Location 631](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=631))
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - the professor is not there for the student and the student not for the professor. Both are only there for the truth. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=710))
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+            - If writing is the medium of research and studying nothing else than research, then there is no reason not to work as if nothing else counts than writing. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=719))
+            - An idea kept private is as good as one you never had. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=705))
+                - **Note**: T
+            - you will elaborate on the meaning, which will make it much more likely that you will remember it. ([Location 735](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=735))
+                - **Note**: T
+        - [[Chapter 6. Simplicity is Paramount]]
+            - lorry #vocabulary
+            - He just didn’t want to get stuck in traffic anymore
+            - abstruse #vocabulary
+            - stevedores #vocabulary
+            - In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again? 
+            - Fleeting notes are there for capturing ideas quickly while you are busy doing something else. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=838))
+                - **Note**: Daily Notes
+            - Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=844))
+            - A good indication that a note has been left unprocessed too long is when you no longer understand what you meant or it appears banal. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=851))
+            - keeps the permanent notes from the project-related notes clearly separated ([Location 895](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=895))
+                - **Note**: Not csure I understand the benefit here
+                - #Reply-from [[Chinarut]] I saw your definition of permanent notes as “atomic” The distinction is we'd want to use our permanent notes across multiple projects/manuscripts/writing.  Soren states specific examples of project notes to be “thrown away” : "Project-related notes can be:" [[@[[Juan Caicedo]]]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - To actively seek and welcome feedback, be it positive or negative, is one of the most important factors for success (and happiness) in the long run. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1011))
+            - Kakorrhaphiophobia #vocabulary
+            - we know today that the more connected information we already have, the easier it is to learn, because new information can dock to that information. ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1055))
+            - if facts are not kept isolated nor learned in an isolated fashion, but hang together in a network of ideas, or “latticework of mental models” (Munger, 1994), it becomes easier to make sense of new information. ([Location 1057](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1057))
+            - We use the same mental models, theories and terms to organise our thoughts in our brains as in our slip-box. ([Location 1061](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1061))
+                - **Note**: T
+            - hermeneutic #vocabulary
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+            - Focused attention is different from “sustained attention,” which we need to stay focused on one task for a longer period ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1124))
+                - **Note**: T
+            - we can train ourselves to stay focused on one thing for longer if we avoid multitasking, ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1128))
+            - A lack of structure makes it much more challenging to stay focused for extended periods of time. ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1131))
+                - **Note**: T
+            - a printed outline of the manuscript should be always in front of our eyes. ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1159))
+                - **Note**: A
+            - It is important, though, to understand outlining not as the preparation of writing or even as planning, but as a separate task we need to return to throughout the writing process on a regular basis. ([Location 1162](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1162))
+                - **Note**: A
+            - It is not a sign of professionalism to master one technique and stick to it no matter what, but to be flexible and adjust one’s reading to whatever speed or approach a text requires. ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1173))
+                - **Note**: T
+            - It is not a sign of professionalism to master one technique and stick to it no matter what, ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1173))
+                - **Note**: T
+            - The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame.” ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1186))
+                - **Note**: T
+            - To be flexible, we need an equally flexible work structure that doesn’t break down every time we depart from a preconceived plan. ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1189))
+            - Teachers tend to mistake the ability to follow (their) rules with the ability to make the right choices in real situations. ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1231))
+                - **Note**: R to Jose
+            - It gives you a structure of clearly separable tasks, which can be completed within reasonable time and provides you with instant feedback through interconnected writing tasks. ([Location 1251](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1251))
+                - **Note**: T
+            - Things we understand are connected, either through rules, theories, narratives, pure logic, mental models or explanations. And deliberately building these kinds of meaningful connections is what the slip-box is all about. ([Location 1282](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1282))
+            - Once we make a meaningful connection to an idea or fact, it is difficult not to remember it when we think about what it is connected with. ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1287))
+                - **Note**: T
+            - How does this fact fit into my idea of …? How can this phenomenon be explained by that theory? Are these two ideas contradictory or do they complement each other? Isn’t this argument similar to that one? Haven’t I heard this before? And above all: What does x mean for y? ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1284))
+            - Open tasks tend to occupy our short-term memory – until they are done. That is why we get so easily distracted by thoughts of unfinished tasks, ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1297))
+            - The brain doesn't distinguish between an actual finished task and one that is postponed by taking a note. ([Location 1300](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1300))
+            - make sure we always write down the outcome of our thinking, including possible connections to further inquiries. ([Location 1309](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1309))
+            - “We use the term ego depletion to refer to a temporary reduction in the self’s capacity or willingness to engage in volitional action ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1334))
+                - **Note**: ?
+            - a reliable and standardised working environment is less taxing on our attention, concentration and willpower, ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1351))
+                - **Note**: A
+            - By always using the same notebook for making quick notes, always extracting the main ideas from a text in the same way and always turning them into the same kind of permanent notes, which are always dealt with in the same manner, the number of decisions during a work session can be greatly reduced. ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1358))
+                - **Note**: T
+            - Being able to finish a task in a timely manner and to pick up the work exactly where we left it has another enjoyable advantage that helps to restore our attention: ([Location 1361](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1361))
+        - [[Chapter 10: Read for Understanding]]
+            - portcullis ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1374)) #vocabulary
+            - If you understand what you read and translate it into the different context of your own thinking, materialised in the slip-box, you cannot help but transform the findings and thoughts of others into something that is new and your own. ([Location 1382](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1382))
+                - **Note**: T
+            - meaningful dialogue with the texts we read. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1394))
+                - **Note**: T
+            - translate them into our own language to prepare them to be embedded into new contexts of our own thinking, the different context(s) within the slip-box. Translating means to give the truest possible account of the original work, using different words ([Location 1397](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1397))
+                - **Note**: A
+            - latticework ([Location 1413](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1413)) #vocabulary
+            - That often means to reflect as much on what is not mentioned as what is mentioned. ([Location 1418](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1418))
+                - **Note**: A
+            - Without a clear purpose for the notes, taking them will feel more like a chore than an important step within a bigger project. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1423))
+                - **Note**: T
+            - surreptitiously ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1462))
+                - **Note**: #vocabulary
+            - He forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories. ([Location 1473](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1473))
+                - **Note**: A
+            - Confirm that we have separated tasks and focus on understanding the text we read, ·    Make sure we have given a true account of its content ·    Find the relevance of it and make connections. ([Location 1495](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1495))
+                - **Note**: T
+            - dis-confirming data becomes suddenly very attractive, because it opens up more possible connections and discussions within the slip-box, while mere confirming data does not. ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1510))
+                - **Note**: A
+            - Extracting the gist of a text or an idea and giving an account in writing is for academics what daily practice on the piano is for pianists: ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1526))
+            - Permanent notes, too, are directed towards an audience ignorant of the thoughts behind the text and unaware of the original context, ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1572))
+                - **Note**: T
+            - When we try to answer a question before we know how to, we will later remember the answer better, even if our attempt failed ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1633))
+                - **Note**: T
+            - the best-researched and most successful learning method is elaboration. ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1648))
+                - **Note**: T
+        - [[Chapter 11. Take Smart Notes]]
+            - Academic and nonfiction writing is not as predictable as a Trollope novel ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1706))
+                - **Note**: Biased
+            - “Notes on paper, or on a computer screen [...] do not make contemporary physics or other kinds of intellectual endeavour easier, they make it possible” ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1764))
+                - **Note**: T
+            - Why did the aspects I wrote down catch my interest? ([Location 1784](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1784))
+                - **Note**: T
+            - It is about making sure that the right “cues” trigger the right memory, about how we can think strategically to remember the most useful information when we need it. ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1869))
+                - **Note**: T
+            - If you focus your time and energy on understanding, you cannot help but learn. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1930))
+                - **Note**: T
+            - the deliberate creation of variations and contrasts can facilitate learning. ([Location 1946](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=1946))
+                - **Note**: T
+        - [[Chapter 12. Develop Ideas]]  
+            - liberating our brains from the task of organizing the notes is the main reason we use the slip-box in the first place. ([Location 2006](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2006))
+                - **Note**: T
+            - In which circumstances will I want to stumble upon this note, even if I forget about it? ([Location 2023](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2023))
+                - **Note**: T
+            - Keywords should always be assigned with an eye towards the topics you are working on or interested in, never by looking at the note in isolation. ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2046))
+                - **Note**: Key to this understanding
+            - On a note like this, you can collect links to other relevant notes to this topic or question, preferably with a short indication of what to find on these notes ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2066))
+                - **Note**: Summary link
+            - comparing is our natural form of perception, where our cognitive interpretation is in lockstep with our actual eye movements. ([Location 2243](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2243))
+                - **Note**: Interesting
+            - The brain is more likely to notice details when it scans than when it focuses.” ([Location 2247](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2247))
+                - **Note**: T
+            - The ability to generate new ideas has more to do with breaking with old habits of thinking than with coming up with as many ideas as possible. ([Location 2281](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2281))
+                - **Note**: ?
+            - the ability to truly see what is in front of one’s eyes is often listed as a trait of experts. ([Location 2295](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2295))
+            - To really understand a text is therefore a constant revision of our first interpretation. ([Location 2303](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2303))
+            - The other planes didn’t make it back because they were hit where they should have had extra protection, like the fuel tank. ([Location 2316](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2316))
+            - Problems rarely get solved directly, anyway. Most often, the crucial step forward is to redefine the problem in such a way that an already existing solution can be employed. ([Location 2336](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2336))
+            - I highly recommend treating a digital note as if the space were limited. ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2371))
+            - The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2403))
+        - [[Chapter 13. Share Your Insight]]
+            - we tend to like our first ideas the best and are very reluctant to let go of them, irrespective of their actual relevance ([Location 2444](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2444))
+            - Every time we read something, we make a decision on what is worth writing down and what is not. ([Location 2457](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2457))
+            - Good questions are in the sweet spot of being relevant and interesting, not too easy to answer but possible to tackle with material that is available or at least within our reach. ([Location 2478](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2478))
+            - we become more open to new ideas the more familiar we are with ideas we have already encountered, ([Location 2487](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2487))
+            - “What is interesting about this?” and everything we read with the question, “What is so relevant about this that it is worth noting down?” ([Location 2513](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2513))
+            - “When people experienced a sense of autonomy with regard to the choice, their energy for subsequent tasks was not diminished. ([Location 2529](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2529))
+            - Try working on different manuscripts at the same time. ([Location 2555](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2555))
+                - **Note**: Counter intuitive
+            - we can only learn from our experiences if feedback follows shortly afterwards ([Location 2610](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2610))
+            - If we instead set out to write, say, three notes on a specific day, review one paragraph we wrote the day before or check all the literature we discovered in an article, ([Location 2618](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2618))
+            - It is much easier to get started if the next step is as feasible as “writing a note,” “collect what is interesting in this paper” or “turning this series of notes into a paragraph” ([Location 2631](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2631))
+            - start by convincing himself he was only writing down some ideas for himself, ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2645))
+        - [[Chapter 14. Make it a Habit]]
+            - First of all, the long-term, cross-topic organization of notes, which is guided only by one’s own understanding and interest, is very much at odds with the modular, compartmentalised and top-down approach in which the curricula of universities and colleges are organised. ([Location 2699](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2699))
+            - Learning, thinking and writing should not be about accumulating knowledge, but about becoming a different person with a different way of thinking. ([Location 2707](https://readwise.io/to_kindle?action=open&asin=B06WVYW33Y&location=2707))
+    - [[Afterword]]
+- Book Club::
+    - [[template]] -> [[Sample page structure]]
+    - [[November 8th, 2020]] #[[Live session 2]]
+        - The main idea that resonates with me in this book is that breaking down writing projects into small units of work helps learn more
+        - Learning in public
+            - The best way to learn anything is by producing new content based on it
+                - This serves as the combination of many units of notes
+                - Other learnings become anchored under this, meaning that it's easier to keep them in mind
+                - It's like installing a hook on a wall that you can hang things off of. It takes effort, but after that the things below it become easier to find
+        - Writing has separate phases with different objectives
+            - [[Fleeting notes]] -> to identify reminders of interesting ideas
+            - [[Literature notes]] -> to translate to your own words so that it can be understood out of context
+            - [[permanent notes]] -> to extract ideas that are relevant to your intellectual journey
+            - [[Content creation]] -> to build new content that leverages your permanent notes and can serve as a source for other people
+        - What are [[Fleeting notes]]?
+            - Reminders of the intellectual experiences you had while reading
+            - Triggers to enable you to re-engage with a thought later
+            - Low effort
+            - All go into the same funnel
+            - These could disappear at any point and you wouldn't really lose anything
+            - There's a negative value to recording everything
+        - How to take [[Fleeting notes]]?
+            - Highlight in my kindle as I read
+                - Sync to Roam using Readwise
+                - Sometimes I add a note of what my thoughts are
+                    - Thought this step feels valuable, I often don't do it because the keyboard on the kindle isn't very nice to use
+                        - Swipe texting would be a big improvement here,
+                        - Also faster autocomplete
+                            - Often this seems to change right as I am going to click on a word
+            - Write down in a notebook
+                - I always carry a Moleskin passport sized notebook
+                    - I like to cover it with stickers to improve the durability
+                - Loosely follow bullet journal style
+                    - Nested bullets similar to Roam
+                    - This tends to become more of a to-do list
+                - A downside is that I tend to not capture as much context
+                - Upside
+                    - Can take notes on anything
+                    - Always with me
+                    - Read through these notes if I am bored, for example waiting for someone or something
+            - Hypothes.is
+                - Allows me to take notes on any article online
+                - Syncs to Roam graph
+        - How to make [[Fleeting notes]] more valuable?
+            - Need to make a habit of processing these quickly and getting them into a format that is more useful
+            - [[Sönke Ahrens]] recommends throwing these away after they have been processed
+                - If they go into Roam, then I don't really ever go back to delete them
+                    - They usually stay in a [[Book (Highlights)]] page that has been created by Readwise. I don't do much effort to remove them
+                - I try to make a literature note which has a block reference to the fleeting note
+                    - After then, I fold the literature note so that the fleeting note is effectively hidden
+                        - Often this leads to a lot of nested bullets
+                            - Collapse all makes it easier to have a fresh working space
+                                - I'm often surprised by how a lot of text folds into very few bullet notes
+            - Habit is the part that I find hardest
+                - Is there a consistent time that I could process my notes?
+                    - Maybe for the first half hour of the work day?
+            - Often my notes feel tied to the context
+                - I only think about notes for a book while I am looking at things for that book
+                - Creating tags and things that tie this to other contexts is the way to make them appear more often
+                    - Having a place to scan through and find relevant notes would be the biggest value add here
+        - [[Graph Meditation]]
+            - Is there a limit to how many references a block can show? I seem to show 23 for everyone, but my own aren't included in there
+                - If I directly go to the chapter, I see that it has many more linked references (240), which makes me think that something might be wrong
+            - I forget about project notes, but I wonder how they are relevant
+            - What are [[second-order effects]]?
+            - Could we list all the chapter text under a bullet?
+                - I would like to be able to collapse it when I am trying to get to the linked references
+    - [[November 15th, 2020]] #[[Live Session 3]]
+    - [[November 22nd, 2020]] [[Live Session 4]]
+        - "Reflect on the book.  What are you impressions? "
+            - This has been a really inspirational book
+                - The idea that you can build original works iteratively lowers the barrier to entry and makes insight feel much more accessible
+            - Being able to do this in Roam extends the iterations, making a permanent notes less final
+                - I like the idea that permanent notes can combine into larger permanent notes
+                    - This doesn't mean that the ideas inside of it stop being valuable
+            - I was surprised to find on a second pass how many chapters I don't find anything interesting in at all
+                - Were these because it was something that seemed obvious to me?
+                - Do they serve a purpose for other readers that I'm missing?
+        - "Reflect on literature notes- useful? Did they help you understand the book in a different way? "
+            - The are great to be able to scan through a book and understand my own thoughts
+            - This is the first place where the practice can break down, so it's important to develop a habit
+        - "Reflect on the work and timeline- has it been easy/hard to get through the phases so far? "
+            - I find myself only dedicating Sunday morning, maybe a little on Saturday, towards the book club graph
+            - Having sessions where I feel like I'm iterating and writing a lot are much more rewarding
+                - This supports the idea that you should always move on to something more interesting if you get stuck
+            - Trying to sort literature notes based on preconceived categories can be difficult. I tried this as I was reading the book by Netflix's CEO, and found that I often felt stuck
+                - It's much better to let the categories arise on their own
+                    - These might not reflect the structure of the book, making for a less useful summary, but the personalization helps build momentum
+        - "How is your progress towards your initial goals? Or have they changed?"
+            - My original goal was to create something that captures how I understand taking notes and that I can refer back to.
+                - The bullet points that I wrote out for Brandon Tanner might be a great starting point
+                    - Though these capture only the how, not much of the why
+        - "Explore the concept of permanent notes/zettels."
+            - "Explain what a permanent note is in your own words?"
+                - Extracts what I find valuable about some ideas and contains enough context that I would find value referring back to it to guide my own thinking
+            - "What is holding you back from creating zettels?"
+                - How can we scan through the graph to connect to other meaningful ideas?
+                    - When I'm reading through the graph, I tend to run into dead ends, and I don't often find good information
+            - "What are you unsure about? "
+                - How to create useful tags that make it easy to grep through the graph when I am searching for connections
+                    - [[Juan Caicedo]] Not sure if this helps, but I liked the concept in (((fLLZkF7eG))): tag notes sparsely based on the titles or codewords of ideas you're working on or interested in, which are rarely terms in the text itself.
+        - "Do you have any questions for [[Sönke Ahrens]]?"
+            - What are some useful tips for building up a note taking habit?
+        - "{{[[DONE]]}} **Section 2** [[Breakout Rooms]]"
+            - Title
+                - It's not about note-taking
+                - It's about atoms of information and connecting them together
+                - The links are as important as the atoms themselves
+            - A systematic way of thinking facilitates your thinking process
+            - How have you felt Roam as a tool for this?
+            - Literatures having snapshots of quotes in other places
+                - Writing is thinking
+                    - Many writers tend to say this
+                    - What's the source of this idea?
+            - Don't be scared to challenge ideas in the text
+            - How many permanent notes?
+            - The value of a short feedback loop
+        - "{{[[DONE]]}} **Section 3** "
+    - [[Live Session 5]]
+    - [[December 6th, 2020]]
+        - What have I learned about note taking that Sonke would like to know about?
+            - Reducing the friction towards processing notes is hugely important
+                - Importing notes automatically into Roam
+                    - Using Readwise
+                - It makes it more likely that you will actually process fleeting notes
+                    - The real value can't happen unless you get past this step
+            - Synthesis and summarization notes are the ones that come most naturally
+                - Unless you make an effort to introduce new materials and thoughts into your notes
+                    - I'm not really sure how to do this part very effectively
+            - Multiplayer Roam involves setting up conventions that make notes more discoverable
+                - The vast majority of our notes end up not being discoverable
+                - Many of these conventions sap my energy and motivation to take notes
+                    - They pull me into the rule adherence mindset 
+                        - Rather than the idea exploration mindset
+        - Are there any additions to the process in the book?
+            - The importance of making connections between ideas
+                - The book establishes the importance, but not any tips to the process
+                - What are some strategies for connecting ideas?
+                    - Having one place that's easy to scan for potential connections
+                        - An index page of all permanent notes
+                        - This is extra hard with the book club
+                    - Habits for reading through the graph
+                    - Tags that connect ideas together
+                - Habits and practices for processing notes
+                    - The more I use Roam, the more I feel like I have a lot of content that I've never made much use of
+                    - Having set times for doing certain things within the graph
+                        - Sunday mornings before the book club
+        - What use cases does Zettlecasten work for and not work for?
+            - I've been trying to come up with a system where this could be applied to other activities
+                - Daily programming
+                    - Planning tickets
+                    - Learnings of how a code bases works
+                    - Pull requests
+                        - Description
+                        - Code level comments
+                        - Context 
+                        - How to test
+                - Music
+                    - Reflections on daily practice
+                        - What's going well
+                        - Where I'm struggling
+                        - Progress
+                    - Understanding of pieces I'm learning
+                        - How certain chords function
+                        - Patterns that show up again and again
+            - General format
+                - Activity
+                    - Does this make sense when the activity has an end result?
+                        - In programming
+                            - the output is a change set
+                                - This is in parallel to whatever notes I could be making
+                        - In music
+                            - There might be a performance
+                - Fleeting notes
+                    - Also called Field notes
+                - Personal notes
+                    - Other names
+                        - Literature notes
+                        - Analysis notes
+                - Permanent notes
+                - Public notes
+                    - Original works
+                        - Blog posts
+                        - Books
+                        - Pull Requests
+        - What I struggle with is
+            - How to make note processing a habit
+                - In my workday
+                    - I take lots of notes at the start
+                    - I take few notes at the end
+                        - The pressure mounts to try to deliver the pull request
+                    - Little reflection after a pull request has merged
+                        - Pressure to get on to the next ticket
+                        - Often I start another ticket before my first one has fully merged
+                - In my life
+                    - Turning my literature notes from the Netflix book into permanent notes
+                    - Sharing my permanent notes
+- Interesting discussion::
+    - "I don't agree we __have__ to write; it might be a preference or suitable for certain subjects or people, but I don't think it suits __everyone__; some people value interaction more, or thinking or feeling or oral form or some embodied practices. "
+        - This is an interesting point, though perhaps it's worth taking a step back to think about _why_ writing is a recommended practice in this system to think about how other activities could be analogous to it.
+            - Forces you to put others' ideas into your own words
+            - Creates a short feedback loop to test understanding
+            - Facilitates comparisons to other information
+    - "Then I might also have to find a way to indicate whether a note is a [[Fleeting Notes]], a [[literature notes]] or a [[Permanent Notes]]."
+        - It's useful to focus on the purpose of each note as you write it
+            - [[Fleeting Notes]]
+                - serve as reminders of the intellectual experiences you have while reading
+                - jump-off points for starting discussions with your slip-box
+            - [[Literature Notes]] 
+                - Translate others' ideas into your own words
+                - Capture enough context from the original work so that you don't need to refer back to it
+            - [[permanent notes]]
+                - These are the only ones that really matter
+                    - The other types of notes are building up to this
+                - The thoughts that have the most relevance to [[your own intellectual journey]]
+- meta::
+    - I don't like having the full text of the book in the Roam graph
+        - I have already taken highlights with Readwise, so it takes an extra step to try to dedupe those exports with where the text is in our graph
+            - It's hard to figure out how to do this effectively
+            - If I add parentheses around my text, most of the time I end up targeting a highlight that someone else has done
+                - #Reply-from [[Brandon Toner]] This is the problem that `ctrl - shift - 9` solves! [[@[[Juan Caicedo]]]]
+                - #Reply-from [[Chinarut]] "{{[[TODO]]}}  #support means to restrict search space to official book text when searching text for block references"
+            - If I do manage to target the text in the book, I get the whole paragraph, not just the sentence that I find meaningful
+            - In the context menu that shows up, I have no idea who's text I am targeting. That means that I can't know if I am getting the text in the book or a highlight that someone else has imported
+        - #Reply-from [[Chinarut]] I want to say I **do** like having the whole book in our graph and this is a question having a more sophisticated mechanism between Kindle, Readwise, and Roam to cite references in a seamless way. [[@[[Juan Caicedo]]]]
+    - Having discussions of what we would like to consider a Permanent Note while using the Roam tag for it means that if you look at that page, you find more discussions about what should be included than takeaways from the box
+        - #Reply-from [[Brandon Toner]] This is something that I'm trying to work through. The way I separate my OWN notes, it to use [[permanent notes]] (lowercase) for meta discussion ABOUT THE CONCEPT, and `#[[Permanent Notes]]` for ACTUAL permanent notes. [[@[[Juan Caicedo]]]]
+            - Would love to see this adopted universally to improve the navigation of the shared graph.
+        - #Reply-from [[Denise Todd]] This is a great idea.  I'm going to adopt it (steal??).  Thanks [[@[[Juan Caicedo]]]]
+        - 
+    - What's the value of our structured Zettel format? 
+        - It would take effort for me to adapt my personal format to fit to it, so I'm not likely to do it
+            - This seems to go against what I consider to be one of the main themes of the book, which is that you should do something that is low friction so that you spend more time trying to work through the information rather than worrying about the format

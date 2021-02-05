@@ -1,0 +1,48 @@
+- Twitter:: [@tamseji](https://twitter.com/tamseji)
+- Website:: [www.swapniltamse.com](https://www.swapniltamse.com)
+- Company:: Renaissance Learning
+- Favorite Books:: Getting Things done, Flowers for Argenon, The Martian, The wealth of nations
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: n
+- 
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::
+- [[Goals for Book Club]]
+    - A tangible goal (Speech/Masterclass at work) for mastering this method
+    - Add a narrative to my ideas
+    - Have more context to my random insights
+    - Document my technical software knowledge and extract some insights
+    - Collaborate with Roam network for an 'Idea management' idea
+- Quotes/affirmations
+    - Feeling overwhelmed is a good way to start improving things - [[Michael Nieman]]
+- Testing:
+    - [[Book Prompts]]
+        - ((rand))
+        - (rand)
+        - 
+- Sample templates:
+{{[[DONE]]}} Writing session   {{[[POMO]]: 15}}
+- 

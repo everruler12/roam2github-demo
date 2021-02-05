@@ -1,0 +1,120 @@
+- [[Live Session 7]] [[December 13th, 2020]]
+    - Questions
+        - 1 - You start a conversation with a stranger in the street. They ask you what is a Zettelkasten. What do you say?  
+        - 2 - Reflect on your reading and writing habit through Book Club. Did the emphasis and exploration of Sonke's book change your reading and writing habits?
+        - 3  - The book promotes a bottom up approach to note taking, which we have used in Book Club. Reflect on this. How did this feel? 
+        - 4  - What's your favourite blocks (or quotes) from the book?
+    - 
+- [[Live Session 6]] [[December 6th, 2020]]
+    - [[Sönke Ahrens]] questions
+        - What have you learnt about note taking that I (Sönke) should know about?
+            - i've learned that I need to make more time for reading because if i'm really processing, it takes time.
+            - reading for edification (business, personal, etc.) is different than reading for academic reseearch. We have to make the time outside of work, as opposed to it being endemic to work. so there's a question about efficiency (amount retained for time spent)
+        - Are there any additions to the process described in the book?
+            - I think it's a bit constraining in that it's described as reading notes. I've come to realize it's browsing, podcast, youtube, meeting, reading - essentially any activity of intellectual engagement - notes
+        - Discuss your impression of the range of possibilities and limitations of a Zettelkasten
+            - it feels to me that the workflow and discipline to periodically review #[[Fleeting Notes]] and #[[Literature Notes]] in order to develop #[[Permanent Notes]] from the amalgamation - vs. simply a linear extrapolation from any single source
+        - (what use cases does it work for? Are there any examples it doesn't work for?)
+            - i haven't encountered, and can't visualize, examples for which it won't work.
+        - [[Questions for Sönke]]
+            - I'm interested in the role of culture in note taking. I'm from #Boston (#Ipswich, MA USA actually - unlike #[[Doc Ayomide]] who's from #[[Ipswich, UK]]! ) but married to a German and have been partners with Hamburg and Munich based Mittelstand Maschinenbauren for 20 years. I'm fascinated by the idea of #Zettelkasten bubbling up ideas from the accumulated knowledge graph because it feels very chaotic and American, and VERY different from the way I've come to know many of my Hamburg colleagues to think about things.
+    - other review questions ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FpFUw8CXqIR.png?alt=media&token=4de50332-d7c2-4fe5-b37c-8d7092e8351f)
+        - 1. it's really interesting to me the synergy between the #Zettelkasten process and the #Roam platform. It will be really interesting to see, in retrospect, in 5 years, what's been created.
+        - 2. i've definitely slowed down. I also feel less pressure to complete a book before starting another because I can process the information and digest it better. don't have to consume it as a single piece to capture the gist since I'm consuming it carefully. this means my natural habit of having 10 books underway at any time is now not as much a liability
+        - 3. yes, absolutely plan to continue from here. I'm out proselytizing now. 
+- [[Live Session 5]] [[November 29th, 2020]]
+    - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+        - for me the key break through was recognizing that it's not just reading. it's all meetings, discussions, webinars, podcasts, etc. they all have to be treated the same way in order to really build a proper [[Zettelkasten]] today
+            - #[[Reply-from]] [[Casey Gollan]] Totally! I am still working on figuring out how best to make this work, though. I was interested that HTTSM says it's not intended for fiction -- for example.
+        - it's slowed my reading down.
+        - it's made me more deliberate in chunks of time to process subtantive information emails that I know I want to digest
+        - 
+- [[Live Session 4]] [[November 22nd, 2020]]
+    - writing prompt 
+        - Reflect on literature notes- useful? Did they help you understand the book in a different way? 
+        - Reflect on the work and timeline- has it been easy/hard to get through the phases so far? 
+    - this has been quite an adventure thus far. {{word-count}}
+        - I'm trying to learn a new tool (which isn't exactly intuitive)
+        - i've had to shift - previously had been trying to get away from computer as much as possible
+        - having to challenge the way i've read for some years.
+        - one of the things that brouhg me here is that my recall from reading has generally been poor - lots of high level themes, but very little specifically that I could apply. clearly that's the goal of zettelkasten. so i've had to slow down (my biggest concern is what this does to the pace of reading.)
+        - i haven't really worried too much about the phases since it's such a big task in front of me - the tool and the methodology (really changing the way I think?
+        - big break through for me this week was realizng that while we're talking about reading notes, we really need to say "notes" - from news, blogs, webinars, podcasts, conversations, etc. etc. and the whole fleeting/literature/permanent note structure works for that. in fact they should all be sythesized.
+        - appreciate the community - 1:1 meeting with [[Alex Shchedrin]] and 2X participating in [[Beau Haan 📌]]'s meetings
+        - big step for me last saturday, I launched 2 #multiplayer graphs. one for a group of CEOs i work wiht on strategy and crisis leadership, and one for B2B marketing
+        - #[[Literature Notes]] are definately helping me. it's like Soehnke says - the zettelkasten is a collection of notes - more significantly, thgouh, it's a roadmap and process (imposed discipline) to actually think, digest - and therefore - ^^**to learn**^^
+        - normally i try really hard to avoid weekend "work" obligations, but i've really looked forward to these sessions. it's more personal development than it is work - but it's also quite engaging and energizing to completely think about how to shift #[[Knowledge Management]] and #Learning
+        - i wish i was better at CSS. have bootlegged some versions to try various techniques. definately like having the visual for different types of notes
+        - next step will be to develop a workflow to review #[[Fleeting Notes]] daily and periodically to absorb them into #[[Literature Notes]]
+        - my biggest next step is to understand more about block references. I get it, but haven't fully wrapped my mind around how to work those into my workflow yet.
+- [[November 23rd, 2020]]
+    - thinking about how #[[Permanent Notes]] tie into [[First Principles Thinking]]
+        - [[first principles thinking]] via [[farnam street]] [article](https://fs.blog/2020/11/how-julia-child-used-first-principles-thinking/)
+            - #[[📓Fleeting Notes]] probably vastly underrated. Understanding why things are important/work is critical to understanding how to do them.
+                - Julia Child cooking example - so true of so many disciplines
+                - feels like a good analog for the process of [[Zettelkasten]]
+- [[Book Club Live Session 3]]
+    - Change is hard. we can't fool ourselves. particularly when we try to change deeply ingrained habits that help us fell like we're in control [*](((x5hx3y9ay)))
+- [[Book Club Live Session 1]]
+    - [[Knowledge Management]] is the biggest challenge facing most individuals and organizations. my goal is to improve my practices
+- [[Daily Notes]] [[November 10th, 2020]]
+    - i feel like I'm surrounded by people who are naturally thinking in a 4th dimension and I'm trying to understand it without the tool set to comprehend 😳
+        - #Chat [[Chinarut]] I notice you don't have any notes from the book here. perhaps a place to start? how is the book for you?
+        - #Reply [[Beau Haan 📌]] Hello, weary traveller... this road is definitely a rocky-road, and even though it may seem like there is a huge gap, trust that [[Sönke Ahrens]] wrote this book only 3 years ago, and this tool called [[Roam]] isn't even a year-old yet (since paywall)
+            - I'd say everyone here is just figuring out the topography of Mars, some have just gone a little past the horizon, but it's still a dark and strange planet~
+            - Hope that helps!
+    - #Question-for [[@[[Beau Haan 📌]]]] - will there be a noon PST session on [[November 18th, 2020]] and [[November 25th, 2020]] as on [[November 11th, 2020]]?
+        - #Reply [[Beau Haan 📌]] Yes! And I'll be posting the videos each week ASAP, with timestamps, but I do recommend the in-person experience! Well, Zoom over the computer... which is the closest we can do at the moment! LOL! 
+    - #Question-for[[@Matthew McKinlay]] - anything on the roadmap to add [[Grammarly]] to roam?
+- 
+- task for [[November 8th, 2020]]
+    - {{[[embed]]: ((((x89XjZVLD))))}}
+        - {{[[POMO]]: 20}} ideas and fleeting notes
+            - most of what i read is for ideas. in my work i primarily work on pulling together high level themes. So I've traditionally read for impressions - make a few highlights in kindle, but not much more. so this is a transition for me. 
+            - i've often had the odd experience of coming back to some of my earlier work and being pleasantly surprised - i belive that generally we should be embarassed by our earlier work, but the insights can be decent.
+            - over time the key is to incorporate more ideas and themes. and to codify them into a model. taking idesa and weaving them into IP is the key.
+            - so in order to do that the fleeting ideas (walking mostly, or riding the bike) have to be captured and indexed so that the structure becomes clear
+            - ^^i think my favorite thing from the book is the concept that the structure and argument comes from the ideas - it emerges organically. it can't be somehow artificially created.^^
+            - i really like the idea of being organized.
+            - i really dislike pretension - one of the things i liked about Sönke was that he didn't seem pretentious
+            - one of my notes problems is that I can't read my handwriting. so the handwriten notes aren't best for me because they are scribble. at the same time I need a few more words than I normally use in order to capture the idea of the fleeting note.
+                - i normally send myself an email. part of it is that I haven't found any tool good that really worked for contemporaneous notes. this seems like a good one, unfortuantely no moble app?
+- 
+- 
+- Twitter::[@edbmarsh](https://twitter.com/edbmarsh)
+- LinkedIn:: [Ed Marsh](https://www.linkedin.com/in/edwardbmarsh/)
+- Website:: [notes.yosevu.com](notes.yosevu.com)
+- Company:: [IntentData.io, Inc.](www.intentdata.io) & [Consilium Global Business Advisors](www.consiliumglobalbusinessadvisors.com)
+- Favourite books:: 
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: n
+- Location:: Boston, MA USA - for the globe [[Dharam Kapila]]!
+- Currently reading:: [[Where is my flying car]] and [[The Messy Middle]]
+- Profession:: consultant and tech CRO
+- Send me a message:: ed.marsh@emarsh.com
+- 
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::

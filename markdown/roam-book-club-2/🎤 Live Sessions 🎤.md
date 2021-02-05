@@ -1,0 +1,40 @@
+- ## **Structure of live sessions**
+    - Each live session is 2 hours.  
+    - **Jettison the monolith **
+        - The live sessions aren't lectures. 
+        - They aren't passive 
+        - They are fun, interactive, small groups, writing, talking, using Roam. We will be doing things like:
+    - **Zoom Breakout Rooms**
+        - We will have small group zoom break out rooms to meet other Roamans
+            - Generally 25-30 minutes. 
+    - **Writing practice**
+        - Summary writing
+        - Journaling sessions
+        - Block remix sessions
+    - **Guest speakers **
+        - The author [[Sönke Ahrens]] joining us in a number of sessions. 
+            - "[[November 1st, 2020]]"
+            - ""
+- ## **Dates**
+    - ## Session 1
+        - [[November 1st, 2020]]
+    - ## Session 2 
+        - [[November 8th, 2020]]
+            - [[Live Session 2]]
+                - 
+    - ## Session 3
+        - [[November 15th, 2020]]
+    - ## Session 4
+        - [[November 22nd, 2020]]
+    - ## Session 5
+        - [[November 29th, 2020]]
+    - ## Session 6
+        - [[December 6th, 2020]]
+    - ## Final Session
+        - [[December 13th, 2020]]
+            - [[Live Session 7]]
+        - 
+- # ^^Meetups^^
+    - During the week, there will be smaller live sessions hosted by community in different timezones
+    - Feel free to attend any meetup, and also feel free to host a meet up. Suggest it to other Bookclub members in the [[Meetup]] page
+- 

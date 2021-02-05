@@ -1,0 +1,2 @@
+- #Zettels
+    - [[Z: It is key to capture thought as quickly as possible and store it somewhere]]

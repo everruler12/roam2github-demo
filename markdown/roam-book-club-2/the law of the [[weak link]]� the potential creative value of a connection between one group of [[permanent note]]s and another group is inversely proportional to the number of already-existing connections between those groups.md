@@ -1,0 +1,10 @@
+- keywords::[[Mark Granovetter]}
+- source::
+- relevant links::
+- ------------------------------
+- notes::
+    - the words "potential" here carries a huge burden since the overwhelming proportion of links will be a waste of time and mental inergy.
+    - a group of [[permanent note]]s is a context. Exaptation  takes a single trait that was in one group and adds it to another group
+        - [[an idea that was originally useful in one context, and which is later used in a different context, has been exapted]]
+- ------------------------------
+- change log::

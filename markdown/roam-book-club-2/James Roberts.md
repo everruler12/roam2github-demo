@@ -1,0 +1,36 @@
+- Chapter 1: Everything You Need to Know
+    - Having read more does not mean that you have more ideas to work with 
+    - A system is needed to keep track of the disparate pools of information to generate new ideas 
+    - Good students are likely to suffer from #[[Imposter Syndrome]] as they focus on what they haven't learned or mastered yet 
+    - #Success is not a result of strong willpower or ability to overcome #Resistance but the smart working environments that avoid resistance in the first place 
+    - Good solutions are **unexpectedly simple**
+        - Reducing complexity by separating topics into smaller stacks quickly becomes complicated + reduced likelihood of rediscovery 
+        - Principle of [[Getting Things Done]] is to collect everything that needs taking care of and storing it in one place 
+            - Forces us to review these items and see if they still fit into the macro picture 
+            - Takes these **strains off our working memory so we can focus on what's in front of us**
+        - Everything needs to be taken care of as the **neglected items will nag us until the unimportant becomes urgent**
+    - The [[Slip-Box]]
+        - Luhmann (began life as a lawyer) took notes on books and turned note-taking on its head by writing all notes on small pieces of paper, putting a # in the corner and putting them in a slip-box
+        - Two slip-boxes
+            - One bibliographical with brief notes on one side and bibliographic info on the other 
+            - One main with notes in his own words with references to the bibliographic information 
+                - New notes would add to the chain of longer notes as he went back and added linkages between the two 
+        - Whenever adding a note, he checked the slip box for other relevant notes either by placing the notes together or linking them numberically like hyperlinks on the inernet 
+- Chapter 2: Everything You Need to Do
+    - Steps to create paper
+        - Edit rough paper to final
+        - Assemble rough paper from prepared notes
+        - Preparing notes from existing notes in file system 
+            - Helps to even have a playful mindset when doing this -> less narrow focus creates new contextual associations
+    - Steps for writing 
+        - 1. Make Fleeting Notes
+            - Write down notes that come to mind 
+        - 2. Make Literature Notes
+            - Make notes about content that are short, selective and in own words 
+        - 3. Make Permanent Notes
+            - Turn to slip-box and combine ideas from 1. and 2. 
+        - 4. Write one note for each idea and write as though writing for someone else 
+        - 5. Develop topics within the system with extra reading and thinking 
+        - 6. Look through connections, collect all relevant notes, and place ideas in order 
+        - 7. Turn notes into rough draft
+        - 8. Edit and proof read 

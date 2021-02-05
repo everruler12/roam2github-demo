@@ -1,0 +1,779 @@
+- # [[Live Session 6]] Starting 12:00 PST
+    - #Chat [[Henry Finkelstein]] Is there a recording of the session today posted somewhere? I see a lot of awesome comments in [[Matt Brockwell/MJB]]'s post below (thanks Matt!!) and would love to see the second half of the session that I missed :D
+        - #Reply-from [[Matt McKinlay]] Hey Henry, thanks for coming in, and thanks for the great ideas too. Video being edited, will be released in the next few days, both in the graph, as well as in the summary email going out later in the week. Look out for it in the graph under the #Video   tag
+            - #Reply-from [[Henry Finkelstein]] Thanks Matt!
+    - Today's live session had lots of interesting references come up in the chat text window during the Zoom. I caught a copy of that chat shortly before the meeting ended. Most of the subsequent comments consisted of thanks and goodbyes, so if you want to peruse the topics that came up in the chat window, find it nested below:
+        - [[Roam Book Club]] mtg six of [[How to Take Smart Notes (book)]] - COPY OF loo TEXT CHAT BELOW
+            - From Beau Haan to Everyone: (12:03 PM)
+                - Hey everyone!!
+            - From Ronaldo da Silva Alves Batista to Everyone: (12:05 PM)
+                - Greetings from São Paulo, Brazil.
+            - From Beau Haan to Everyone: (12:05 PM)
+                - Yes!!!
+            - From Henry Finkelstein to Everyone: (12:05 PM)
+                - Is anyone else seeing the daily note for today as blank?
+            - From Lucas Miranda de Macedo to Everyone: (12:05 PM)
+                - Brazucaa
+            - From Beau Haan to Everyone: (12:05 PM)
+                - We won! Biggest graph!
+            - From Jason Griffing to Everyone: (12:05 PM)
+                - For some reason, I am not seeing anything in my daily notes on the shared graph. This has never happened to me before. Anyone else?
+            - From Johannes Fritz to Everyone: (12:05 PM)
+                - same here
+            - From Beau Haan to Everyone: (12:05 PM)
+                - @Henry maybe refresh?
+            - From Johannes Fritz to Everyone: (12:05 PM)
+                - can someone copy-paste
+            - From Jason Griffing to Everyone: (12:05 PM)
+                - Tried refreshing
+            - From Johannes Fritz to Everyone: (12:06 PM)
+                - thanks
+            - From Alan Laidlaw to Everyone: (12:06 PM)
+                - Still waiting for it to load lol
+            - From Jason Griffing to Everyone: (12:06 PM)
+                - thx
+            - From Alex Shchedrin to Everyone: (12:06 PM)
+                - Copy of the questions
+            - From Beau Haan to Everyone: (12:06 PM)
+                - Hover over the status? Is it Offline, maybe?
+            - From Alex Shchedrin to Everyone: (12:06 PM)
+                - What have you learnt about note taking that I (Sönke) should know about?
+            - From Henry Finkelstein to Everyone: (12:06 PM)
+                - Thanks Alex
+            - From carolleather to Everyone: (12:08 PM)
+                - It is still trying to load the graph for me here
+            - From DewayneC to Everyone: (12:08 PM)
+                - I've tried looking through the graph for the answer, but my internet connection doesn't seem to be able to handle all the information.
+            - From Floor Scheffer to Everyone: (12:09 PM)
+                - do we have sound?
+            - From DewayneC to Everyone: (12:09 PM)
+                - quiet on my end, I think it is muted fro writing
+            - From Floor Scheffer to Everyone: (12:09 PM)
+                - ok
+            - From carolleather to Everyone: (12:10 PM)
+                - I am in but don’t see any text on December 6th
+            - From Joel Chan to Everyone: (12:10 PM)
+                - still loading haha
+            - From Jason Griffing to Everyone: (12:10 PM)
+                - Carol, I don’t see any text either. Several of us have the same problem.
+            - From carolleather to Everyone: (12:10 PM)
+                - Ah ok thank you Jason
+            - From Joel Chan to Everyone: (12:10 PM)
+                - thanks @Alex for pasting the questions in here! writing in my own graph first and will paste back in once it loads up
+            - From Jason Griffing to Everyone: (12:10 PM)
+                - Matthew has the writing prompts up on the screen share for that reason.
+            - From Jeremie Rykner to Everyone: (12:11 PM)
+                - Same,here,still loading, seems our graph got overexcited of Sonke showing up today
+            - From Floor Scheffer to Everyone: (12:12 PM)
+                - no problem with the text on my side: maybe you need to swap screens?
+            - From Jason Griffing to Everyone: (12:20 PM)
+                - My daily notes still aren’t loading. I was using the screen share which is down now. Can someone tell me what the writing prompts are that came after “what about your note taking has changed?"
+            - From Alex Shchedrin to Everyone: (12:21 PM)
+                - Do you plan to continue your Zettelkasten from here?
+            - From Yingyue Liu to Everyone: (12:21 PM)
+                - The same here. Thank you, Alex!
+            - From Jason Griffing to Everyone: (12:21 PM)
+                - Thx Alex.
+            - From carolleather to Everyone: (12:21 PM)
+                - How long do we have left?
+            - From Henry Finkelstein to Everyone: (12:28 PM)
+                - Thank you to this book club
+            - From Henry Finkelstein to Everyone: (12:29 PM)
+                - Why would I go back to horse and buggy when I’ve been gifted a rocket ship?
+            - From carolleather to Everyone: (12:29 PM)
+                - hello
+            - From jason kleinberg to Everyone: (12:30 PM)
+                - @Hwnry: I second the life-changing part…
+            - From Beau Haan to Everyone: (12:30 PM)
+                - Sonke!!!
+            - From William Njau to Everyone: (12:30 PM)
+                - Hi Sonke
+            - From Beau Haan to Everyone: (12:30 PM)
+                - @Henry!!!! LOVE THAT!!!
+            - From Jason Griffing to Everyone: (12:30 PM)
+                - @Henry 💯
+            - From carolleather to Everyone: (12:30 PM)
+                - Perfect, Henry!
+            - From Bill Petro to Everyone: (12:30 PM)
+                - Welcome Sonke!
+            - From Henry Finkelstein to Everyone: (12:31 PM)
+                - Sonke - you are a patron saint in my intellectual pantheon. Thank you for the gifts of the seeds you’ve planted in my garden
+            - From Forrest Perry to Everyone: (12:31 PM)
+                - Rocket fuel is pretty expensive. Fortunately, Roam isn’t as expensive as rocket fuel.
+            - From Henry Finkelstein to Everyone: (12:31 PM)
+                - +1
+            - From Beau Haan to Everyone: (12:32 PM)
+                - 1. What have you learnt about note taking that I (Sönke) should know about?
+            - From Me to Everyone: (12:33 PM)
+                - Great question Bill Petro thanks for asking that
+            - From Beau Haan to Everyone: (12:34 PM)
+                - Get it!
+            - From Kate Foy to Everyone: (12:34 PM)
+                - Yes. I’ve been pondering that one …
+            - From Beau Haan to Everyone: (12:34 PM)
+                - “No need for structure, but a structure is available if you need it there"
+            - From Jeremie Rykner to Everyone: (12:35 PM)
+                - Question:Is there an optimal size for an effective  #Zettelkasten ? Beyond that will give you diminishing returns?
+            - From Me to Everyone: (12:35 PM)
+                - “No need to go through all the steps if you just KNOW what stage it is supposed to be"
+            - From dan allosso to Everyone: (12:36 PM)
+                - Luhmann’s second version (1973-96) was about 67,000 notes.
+            - From Kate Foy to Everyone: (12:37 PM)
+                - The case for spaced repetition in reading a book/article to allow the ideas to emerge?
+            - From Beau Haan to Everyone: (12:37 PM)
+                - 1st Slipbox Luhmann had 108 Top-level parent topics
+            - From Me to Everyone: (12:37 PM)
+                - “Beginners often make too many notes” too true yes I can vouch for that from hard experience
+            - From Thomas to Everyone: (12:38 PM)
+                - QUESTION: Now that you’re a Roam user with no pen in hand, how has Roam changed your work (process and content) as well as your sense of the possibilities for note taking?
+            - From Beau Haan to Everyone: (12:38 PM)
+                - 2nd Slipbox Luhmann had 11 Top-level parent topics
+            - From dan allosso to Everyone: (12:38 PM)
+                - @Kate how much are we reading and keeping notes for big ideas like that, vs. how frequently are we reading for facts.
+            - From Me to Everyone: (12:38 PM)
+                - I saw your question Thomas and I second it, let’s keep that question on the list for Soenke
+            - From Kate Foy to Everyone: (12:39 PM)
+                - @Dan I’m reading and taking notes on a book I’ve read several times. The big idea is just now starting to become clear.
+            - From Beau Haan to Everyone: (12:39 PM)
+                - Purpose!!! Love that
+            - From CatherineRickwood to Everyone: (12:40 PM)
+                - Third vote for Thomas’ question.
+            - From Forrest Perry to Everyone: (12:40 PM)
+                - Maps of content = Nick Milo (he has a course on Obsidian)
+            - From dan allosso to Everyone: (12:40 PM)
+                - @Kate, I agree. And I think there’s evidence Luhmann DID in fact return to books and articles and read them agin, looking for different ideas (Schmidt 2016).
+            - From Beau Haan to Everyone: (12:41 PM)
+                - QUESTION: Now that you’re a Roam user with no pen in hand, how has Roam changed your work (process and content) as well as your sense of the possibilities for note taking?
+            - From Me to Everyone: (12:41 PM)
+                - Thanks Forrest, that looks interesting
+            - From Kate Foy to Everyone: (12:41 PM)
+                - @Dan - can’t believe we wouldn’t return to the source material for verification. “The devil in the detail” :)
+            - From CK Lin to Everyone: (12:42 PM)
+                - How much effort/time/energy do you put in to provide metadata as you read things?
+            - From Me to Everyone: (12:42 PM)
+                - This is the concept Forrest was referring to:
+                    - [In what ways can we form useful relationships between notes? | by Nick Milo | Medium](https://medium.com/@nickmilo22/in-what-ways-can-we-form-useful-relationships-between-notes-9b9ec46973c6)
+                    - [[Nick Milo]]
+            - From dan allosso to Everyone: (12:43 PM)
+                - Luhmann also said he spent more time tending the Zettelkasten than he did writing, so it does sound like he returned to notes and “surfed” the box.
+            - From Bill Petro to Everyone: (12:43 PM)
+                - Thanks @Matt
+            - From Me to Everyone: (12:43 PM)
+                - “Zettelsurfing” 🏄 🏄 🏄
+            - From Beau Haan to Everyone: (12:43 PM)
+                - To get back into the Context!!!
+            - From Me to Everyone: (12:45 PM)
+                - “It’s easier to see the struggles other people are having” too true
+            - From Jason Griffing to Everyone: (12:45 PM)
+                - totally
+            - From Me to Everyone: (12:46 PM)
+                - Noting this: that Soenke is saying that if he were to present it again he’d allow for more “balance” between top-down and bottom-up; the temptation is to really focus on the bottom up because the usual bias is to understate it, but there’s value in both directions
+            - From Beau Haan to Everyone: (12:46 PM)
+                - Yes! More kind to oneself!
+            - From Me to Everyone: (12:47 PM)
+                - +1
+            - From Jason Griffing to Everyone: (12:47 PM)
+                - This is so refreshing to hear. The balance idea between bottom-up and top-down has been the single biggest struggle for me.
+            - From Kate Foy to Everyone: (12:47 PM)
+                - Love this … making a beautiful mess is my learning mantra.
+            - From jason kleinberg to Everyone: (12:47 PM)
+                - That’s helpful Sonke. Kindness 🙏
+            - From dan allosso to Everyone: (12:47 PM)
+                - Yeah, I think the issue might be more USEFUL rather than CORRECT practices, and these can change over time.
+            - From jason kleinberg to Everyone: (12:48 PM)
+                - .
+            - From Gleb Reys to Everyone: (12:48 PM)
+                - QUESTION: if you have new information or alter original idea captured in a permanent note - do you go back to that note and rewrite it, or do you create new note and link to it from the original idea? Want to understand if Zettelkasten is  meant to be “my most refined and final opinion on each topic” or a “collection of ideas, including how my understanding evolved”
+            - From Jason Carman to Everyone: (12:49 PM)
+                - I second that concern/question from. I’ve wondered about the difference and implication between the written slip-box and the roam slip-box.
+            - From Kate Foy to Everyone: (12:50 PM)
+                - “Finding a reasonable logic” in Roam - yes, @Matt
+            - From Jason Griffing to Everyone: (12:50 PM)
+                - Totally agree with the emphasis on block structure, indentation, etc.
+            - From Julie Freyberg to Everyone: (12:50 PM)
+                - Great Question, Sonke…
+            - From Kate Foy to Everyone: (12:51 PM)
+                - Great project @Henry
+            - From dan allosso to Everyone: (12:51 PM)
+                - Had a conversation this week with Mark Robertson about how much stuff goes into Roam. He puts a LOT in and I was thinking of just using it as a literature and permanent note store.
+            - From Joel Chan to Everyone: (12:51 PM)
+                - great point, Matt! another way to think about links: bc Roam's structure is isomorphic to the brain in terms of its associative structure, we can also have some kind of confidence that notes that get "lost" will tend to be less important (bc they are less connected), yet there are still routes back to them if they are linked to at least one other thing: if those ideas become important again, those notes will resurface through the links, similar to human memory.
+            - From dan allosso to Everyone: (12:51 PM)
+                - This would seem to impact the number of tags, ability to backtrace, etc.
+            - From Brandon Toner to Everyone: (12:51 PM)
+                - Being intentional about my tagging conventions was my biggest — what are the rules I follow? (Lowercase vs uppercase, concepts vs collections)
+            - From Nikki Huang to Everyone: (12:52 PM)
+                - Really looking forward to seeing your iterations and thought processes Henry!
+            - From CK Lin to Everyone: (12:52 PM)
+                - Is there an optimal number of talking partners you’ve found?
+            - From William Njau to Everyone: (12:52 PM)
+                - My answer to Sonke: Date everything to the future so that it can surface later
+            - From Nikki Huang to Everyone: (12:52 PM)
+                - Yes, or multiple examples, because as Henry says, we don’t want to be too directive
+            - From Joey Harris to Everyone: (12:53 PM)
+                - yes! important to see examples of actual implementations
+            - From Me to Everyone: (12:53 PM)
+                - I agree William, I think postdating things to automatically surface them later is a great strategy
+            - From StephanC to Everyone: (12:53 PM)
+                - As a beginner, seeing examples indeed helps a lot in finding a way to develop my own
+            - From Jason Carman to Everyone: (12:53 PM)
+                - Having a an example zettelkasten would be very helpful
+            - From Jason Griffing to Everyone: (12:53 PM)
+                - Seeing examples with a corresponding set of explanations as to why certain “design decisions” were made would be an optimal balance.
+            - From Gleb Reys to Everyone: (12:53 PM)
+                - Not just Zettelkasten specific, think it’s about time Roam started a section with templates - examples of how task management, literature notes, to-do lists or reading lists are done for optimal inter-connectedness.
+            - From Nikki Huang to Everyone: (12:54 PM)
+                - That’s a great idea Gleb!
+            - From Jason Griffing to Everyone: (12:54 PM)
+                - That would help people understand the principles
+            - From CatherineRickwood to Everyone: (12:54 PM)
+                - Agree Henry. I’ve spent hours on YouTube, reading and experimenting with a couple of  articles so that I can understand the process before diving in too quickly.
+            - From Henry Finkelstein to Everyone: (12:54 PM)
+                - +1 Jason
+            - From Henry Finkelstein to Everyone: (12:54 PM)
+                - Love the idea of principles vs. prescriptions
+            - From Forrest Perry to Everyone: (12:54 PM)
+                - Just never use tags. Problem solved.
+            - From Jason Griffing to Everyone: (12:55 PM)
+                - 😂
+            - From Brandon Toner to Everyone: (12:55 PM)
+                - +1 on seeing examples and variations. To match concepts and guidelines with how the structure of the zettelkasten might materialize.
+            - From StephanC to Everyone: (12:55 PM)
+                - I also find it insightful to see examples of what didn't work for someone, why and how it was improved
+            - From Nikki Huang to Everyone: (12:55 PM)
+                - @Catherine, did you find any particularly helpful resources?
+            - From Me to Everyone: (12:55 PM)
+                - But tags are so useful when you need them! The trick is to realize that most of the time you don’t need them so don’t stress out over them
+            - From dan allosso to Everyone: (12:55 PM)
+                - Personally, I think it’s valuable to have a physical box and cards, and write down the things I think might be permanent notes. Then look at them regularly and “tend” the garden. But this is an individual rather than a group practice.
+            - From CatherineRickwood to Everyone: (12:55 PM)
+                - Interview with Joel Chan by Robert Haisfield.
+            - From Kristina Wolter to Everyone: (12:55 PM)
+                - Too much control reduces creativity.  Too much creativity often feels too out of control.  Such a sensitive balance to strike - in Roam, work, life...
+            - From Nikki Huang to Everyone: (12:56 PM)
+                - Thank you @Catherine!
+            - From Me to Everyone: (12:56 PM)
+                - Kristina absolutely. Lots of balancing acts for all of us
+            - From Kate Foy to Everyone: (12:56 PM)
+                - Yes @Kristina
+            - From Julie Freyberg to Everyone: (12:56 PM)
+                - Matt B, how do you know when you need/want tags?  What is yr threshold?
+            - From Daniel Zimmermann to Everyone: (12:56 PM)
+                - the tagging system would be less quite hard to implement if Roam would enable either to merge them  or to network them in something which would make sense
+            - From Jason Griffing to Everyone: (12:57 PM)
+                - Unfortunately I have to run. Thank you so much to Sönke and to the whole community here. I hope we can all continue to find creative ways to collaborate once this book club has run its course. 🙏
+            - From Me to Everyone: (12:57 PM)
+                - Julie that’s a great question. I think I tag things if I know they are concepts that I think about often. But it’s totally subjective.
+            - From Julie Freyberg to Everyone: (12:58 PM)
+                - Thanks, matt.  Like that as a marker, what I think about often…
+            - From Me to Everyone: (12:58 PM)
+                - Yay globe view!
+            - From Nikki Huang to Everyone: (12:58 PM)
+                - How do we add location again? Do we just type the place names?
+            - From Me to Everyone: (12:59 PM)
+                - Whoa every continent except Antarctica … love the heat map
+            - From Andrea Chiou to Everyone: (12:59 PM)
+                - That’s pretty cool.
+            - From Me to Everyone: (12:59 PM)
+                - Just add your name and the place name in the same block somewhere
+            - From Beau Haan to Everyone: (1:00 PM)
+                - I love @Dharam
+            - From Nikki Huang to Everyone: (1:00 PM)
+                - Thanks will do it now :)
+            - From Kate Foy to Everyone: (1:00 PM)
+                - OK, @Dharam - mind is officially blown.
+            - From Daniel Zimmermann to Everyone: (1:00 PM)
+                - I am based in Lüttig (Liège) not to far away from Sonke
+            - From Forrest Perry to Everyone: (1:01 PM)
+                - I want a red dot around my city too.
+            - From Thomas to Everyone: (1:01 PM)
+                - Me too love — @Dharam!!
+            - From Beau Haan to Everyone: (1:02 PM)
+                - Yes!!! #RBC for the win!
+            - From Me to Everyone: (1:02 PM)
+                - That curve makes me laugh it is a classic excitement - disillusionment - recommit - triumph curve. Congratulations to all of us who made it to this point!
+            - From Beau Haan to Everyone: (1:03 PM)
+                - Hahaha @Matt! right!
+            - From Kate Foy to Everyone: (1:03 PM)
+                - So true, @Matt
+            - From Beau Haan to Everyone: (1:03 PM)
+                - Apropos
+            - From Alex Shchedrin to Everyone: (1:03 PM)
+                - This was a writing prompt
+            - From Andy Henson to Everyone: (1:03 PM)
+                - Wonder if the more equal fleeting, lit, perm notes are due to Beau’s method in use in the last week or two :)
+            - From Beau Haan to Everyone: (1:05 PM)
+                - Work!!!
+            - From Kate Foy to Everyone: (1:06 PM)
+                - Feeling exposed! :)
+            - From Chinarut - to Everyone: (1:06 PM)
+                - lol
+            - From Me to Everyone: (1:07 PM)
+                - It’s like refrigerator poetry: “also good much fleeting things process even”
+            - From Beau Haan to Everyone: (1:07 PM)
+                - How to take Smart… NOTES!
+            - From Joey Harris to Everyone: (1:07 PM)
+                - Multiplayer Roam + Dharam = Fantastic Teaching Tool for networked knowledge discovery
+            - From Beau Haan to Everyone: (1:08 PM)
+                - Get him! Get him Dharam!
+            - From Sumaiyah Najib to Everyone: (1:09 PM)
+                - my adrenalines shot up high!
+            - From Henry Finkelstein to Everyone: (1:09 PM)
+                - I also have to jump. Thank you again everyone!
+            - From Beau Haan to Everyone: (1:10 PM)
+                - @Henry! See ya my man!
+            - From Matthew McKinlay to Everyone: (1:10 PM)
+                - thanks Henrry
+            - From Henry Finkelstein to Everyone: (1:10 PM)
+                - Is it an option to reach out to Sonke directly? Want to share my write up when it’s done
+            - From Brandon Toner to Everyone: (1:10 PM)
+                - Is this all plain text references??
+            - From Kate Foy to Everyone: (1:10 PM)
+                - This is beautiful @Dharam
+            - From Henry Finkelstein to Everyone: (1:10 PM)
+                - Or route it through whatever channel is most appropriate. Deeply respect privacy
+            - From Kris to Everyone: (1:10 PM)
+                - Can you imagine how much  money a tool like this would cost? Dharam made it available for free. mind blowing.
+            - From [[Darin]] Flynn to Everyone: (1:10 PM)
+                - Bravo Dharam!
+            - From Me to Everyone: (1:10 PM)
+                - Love the 3-D view! WOW
+            - From Bill Petro to Everyone: (1:10 PM)
+                - @Henry, we’d all like to see it. Will it be on Twitter, Slack, where?
+            - From Julie Freyberg to Everyone: (1:10 PM)
+                - agreed, Bill
+            - From Forrest Perry to Everyone: (1:10 PM)
+                - Post a link in the Daily Notes maybe, Matt?
+            - From Shana (shah'na) Pote to Everyone: (1:10 PM)
+                - Dharam, so modest: "That's all I have."
+            - From Henry Finkelstein to Everyone: (1:11 PM)
+                - I’ll share for sure.
+            - From nelsonmuniz to Everyone: (1:11 PM)
+                - Mesmerizing, Dharam!
+            - From Johannes Fritz to Everyone: (1:11 PM)
+                - really helpful
+            - From Julie Freyberg to Everyone: (1:11 PM)
+                - blows me away, Dharam
+            - From David Felsmann to Everyone: (1:11 PM)
+                - Thanks dharam
+            - From Jason Scott to Everyone: (1:11 PM)
+                - Brilliant Dharam!
+            - From David Felsmann to Everyone: (1:11 PM)
+                - !!
+            - From Brandon Toner to Everyone: (1:11 PM)
+                - You’ll find the swearing on Beau’s page ;)
+            - From Darin Flynn to Everyone: (1:11 PM)
+                - Zettel-f*cking-kasten!
+            - From Beau Haan to Everyone: (1:11 PM)
+                - @Brandon… truth!
+            - From Brandon Toner to Everyone: (1:16 PM)
+                - A question I have: Given the group exploration of zettelkasten in ROAM, what parts of the book were MOST important, and which feel LESS relevant to the digital space.
+            - From Me to Everyone: (1:19 PM)
+                - I’m also seeing, Beau, that you’ve block referenced your permanent note in a bunch of places, and then under that permanent note you can bring up all the backlinks at a glance. It’s a really nice way to let the permanent note function as a kind of “center” around which related notes can constellate
+            - From dan allosso to Everyone: (1:20 PM)
+                - @Beau, that was a very cool demo!
+            - From Me to Everyone: (1:20 PM)
+                - This system means that the “hub” happens at the block level, not the page level
+            - From Me to Everyone: (1:21 PM)
+                - That’s the part that takes many beginners a while to “grok” because everybody starts out with Wikipedia as the paradigm and this is not Wikipedia
+            - From Joey Harris to Everyone: (1:21 PM)
+                - Block referencing is the true power of Roam
+            - From Mika Mauger to Everyone: (1:21 PM)
+                - My Zettels <3
+            - From Me to Everyone: (1:23 PM)
+                - Connect OVER Collect!!!
+            - From Julie Freyberg to Everyone: (1:24 PM)
+                - exactly, Matt!!
+            - From Brandon Toner to Everyone: (1:24 PM)
+                - Yea I’d love to see some written work on this! Need to ruminate, but I think I like it
+            - From Jeremie Rykner to Everyone: (1:24 PM)
+                - Like Beau said it's not about collecting anymore it's about digesting
+            - From Joey Harris to Everyone: (1:26 PM)
+                - "The Way of Roam is like the way of Life; it flows eternally in neverending interconnected streams flowing through a collaborative, collective consciousness.
+            - From jason kleinberg to Everyone: (1:26 PM)
+                - The multiplayer aspect is exciting in a sci-fi Borg way, and at the same time overwhelming when trying to learn how ZK works.
+            - From Joey Harris to Everyone: (1:26 PM)
+                - "
+            - From Me to Everyone: (1:26 PM)
+                - Haha totally, Jason
+            - From Kate Foy to Everyone: (1:26 PM)
+                - Yes, @Jason.
+            - From nelsonmuniz to Everyone: (1:26 PM)
+                - Fabulous, Beau! A precise roadmap for the general problem of being drowned in text and data… and starving for insight and meaning!
+            - From Joey Harris to Everyone: (1:26 PM)
+                - We will all be assimilated.
+            - From Brandon Toner to Everyone: (1:27 PM)
+                - A disadvantage I see with the “Block” as the hub is a lack of FILTERING flexibility.
+            - From nelsonmuniz to Everyone: (1:28 PM)
+                - Didn’t get if you’ve written the process/procedure in an article or have explained it in a public video
+            - From Brandon Toner to Everyone: (1:28 PM)
+                - When I consider a highly collaborative zettelkasten, I’d like the ability to filter references BY AUTHOR (or other ways)
+            - From Nikki Huang to Everyone: (1:28 PM)
+                - Question: I still don’t know how to integrate Beau’s method (which was focused on building Zettels using one paragraph of the text at a time) with a permanent note that is based on multiple paragraphs. Do you guys have any thoughts on that?
+            - From Joey Harris to Everyone: (1:28 PM)
+                - It’s all filterable @brandon
+            - From Brandon Toner to Everyone: (1:28 PM)
+                - @joey, the inline block refs are filterable?
+            - From Joey Harris to Everyone: (1:29 PM)
+                - Filtering is precisely what @dhatam’s extension does
+            - From Jeremie Rykner to Everyone: (1:29 PM)
+                - #RoamHackatons where we focus on specific questions/problems could be a way to go
+            - From Me to Everyone: (1:29 PM)
+                - Nikki I think those are two different pathways you can take to get to a permanent note but either path is valid, it’s just whatever works best in the moment
+            - From Brandon Toner to Everyone: (1:29 PM)
+                - +1 Jeremie — I like the time-synced nature of a “hackathon” model
+            - From Joey Harris to Everyone: (1:29 PM)
+                - yes @brandon
+            - From Me to Everyone: (1:29 PM)
+                - “How to optimize collaboration” is a huge and as yet not-completely answered question
+            - From Brandon Toner to Everyone: (1:30 PM)
+                - +1 on that question, Matt
+            - From Markus Zohner to Everyone: (1:30 PM)
+                - +1
+            - From Nikki Huang to Everyone: (1:30 PM)
+                - Ok thanks Matt. It’s just that I really liked the particular linking system Beau had but still have to play around to see how to adapt that to referencing multiple sections of the book at a time.
+            - From Kate Foy to Everyone: (1:31 PM)
+                - Learning Roam + the system - do it every day.
+            - From Jeremie Rykner to Everyone: (1:31 PM)
+                - Using Readwise to bring highlights in would be one common tool/system
+            - From Kate Foy to Everyone: (1:31 PM)
+                - Yes @Jeremie - game-changer.
+            - From Me to Everyone: (1:31 PM)
+                - +1 to using the daily notes the way we did
+            - From Alex Shchedrin to Everyone: (1:31 PM)
+                - +1 to Readwise; and then voice notes (otter.ai) or similar
+            - From Beau Haan to Everyone: (1:32 PM)
+                - Chinarut has his hand up
+            - From Brandon Toner to Everyone: (1:32 PM)
+                - Commonality: using the designated tags to documenting the different classes of zettelkasten notes
+            - From Me to Everyone: (1:32 PM)
+                - +1 to beau’s idea of a writing prompt each day, that was helpful, too
+            - From Julie Freyberg to Everyone: (1:32 PM)
+                - Beau, one thing I hear in your method, I think, is that you are using the conversations with others as…  fodder, grist, info/data and what they spark, to weave into yr zettles
+            - From Joey Harris to Everyone: (1:32 PM)
+                - +1 to Readwise and daily notes
+            - From DewayneC to Everyone: (1:33 PM)
+                - Best Practice for Me: If the computer is on, the graph is open.
+            - From dan allosso to Everyone: (1:33 PM)
+                - I’m still not as sold on the repetition idea, but I DO like the idea of going back to notes and moving from taking them to organizing them to finding permanent ideas in them.
+            - From Brandon Toner to Everyone: (1:33 PM)
+                - Q: How can the question of “how to optimize collaboration” be best continued? Where are we / what’s next?
+            - From Kate Foy to Everyone: (1:33 PM)
+                - Be patient with yourself and the process.
+            - From Beau Haan to Everyone: (1:34 PM)
+                - @Kay Yes!!!
+            - From Joey Harris to Everyone: (1:34 PM)
+                - dharam didn’t collect it...he’s analyzing and expressing what we’ve all produced and collected together
+            - From Beau Haan to Everyone: (1:34 PM)
+                - “You’re doing it right!”
+            - From William Njau to Everyone: (1:34 PM)
+                - Lol so true Matt
+            - From dan allosso to Everyone: (1:34 PM)
+                - I feel like the process of writing is interesting, and is sort-of like collapsing the wave-form of the ideas into a linear path.
+            - From Nikki Huang to Everyone: (1:34 PM)
+                - I’m still trying to find a balance between making fleeting, literature and permanent notes for everything that captures my attention (which tends to be a lot and can get too overwhelming) and being more selective (ie a more feasible and sustainable practice)
+            - From Brandon Toner to Everyone: (1:35 PM)
+                - +1 Matt — what is notable to someone else drives my CURIOSITY and INTRIGUE
+            - From Nicole Drumhiller to Everyone: (1:35 PM)
+                - I see that as being a very key component in the social aspect of writing
+            - From Julie Freyberg to Everyone: (1:35 PM)
+                - Nikki, I so hear you and resonate with that.
+            - From Alex Shchedrin to Everyone: (1:35 PM)
+                - +1 to having a peer group that is learning at the same time
+            - From Christine N - Sydney Aus to Everyone: (1:35 PM)
+                - exactly Matt! seeing how others have worded the same text has been illuminating for me too
+            - From Joey Harris to Everyone: (1:36 PM)
+                - it would help if multiplayer Roam had enforceable templates (not universally restrictive but restrictive within a project)
+            - From Brandon Toner to Everyone: (1:36 PM)
+                - +1 on community helping to uncover the “details”
+            - From jason kleinberg to Everyone: (1:36 PM)
+                - I’ve learned so much by simply looking at what others are doing and writing; how they structure their ideas.
+            - From Joey Harris to Everyone: (1:36 PM)
+                - +1 on collaboration
+            - From Mark M to Everyone: (1:36 PM)
+                - +1 again on community helping to uncover the details
+            - From Alex Shchedrin to Everyone: (1:36 PM)
+                - And you don’t have to follow others or adopt their templates/approach. Things that work will naturally get adopted more.
+            - From Joey Harris to Everyone: (1:37 PM)
+                - +1 @alex
+            - From Brandon Toner to Everyone: (1:37 PM)
+                - +1 Alex — just *seeing* the work of others gives you all kinds of data! (Good, bad, neutral, etc etc)
+            - From Brandon Toner to Everyone: (1:38 PM)
+                - The bulk of data allows us to assemble, remix and build — reducing the friction of creating from zero
+            - From Kate Foy to Everyone: (1:38 PM)
+                - “The value of constraints …” yes, Matt.
+            - From Mary Chipman to Everyone: (1:38 PM)
+                - +1
+            - From CatherineRickwood to Everyone: (1:38 PM)
+                - P.O.D. Process. Organisation. Discipline + time constrained
+            - From Kate Foy to Everyone: (1:39 PM)
+                - For me the constraint was “do it every day.”
+            - From Jason Scott to Everyone: (1:39 PM)
+                - +1 @Matt well said
+            - From Kate Foy to Everyone: (1:39 PM)
+                - Habit-formation helped me to gain momentum.
+            - From Ronaldo da Silva Alves Batista to Everyone: (1:39 PM)
+                - To have constraints is to have freedom actually...because you'll end up doing what you really want in the end.
+            - From Andy Henson to Everyone: (1:39 PM)
+                - Yes, Kate. Making this a daily habit has been the key insight for me from this
+            - From Nikki Huang to Everyone: (1:39 PM)
+                - Agree Kate, as with any habit, do it daily, ideally at the same time (ie nest your habit as part of your bigger daily routine)
+            - From Beau Haan to Everyone: (1:40 PM)
+                - @Bill YES!!!
+            - From Kate Foy to Everyone: (1:41 PM)
+                - “Ideas have their time …” Hello, Steven Johnson :)
+            - From Alex Shchedrin to Everyone: (1:41 PM)
+                - #Idea from cohort comment: should we do a Roam Book club reunion in 6 months? See how ideas from the book developed
+            - From Brandon Toner to Everyone: (1:41 PM)
+                - Ideas have their time ~~ Adjacent Possible
+            - From Me to Everyone: (1:41 PM)
+                - Yay Steven Johnson shoutout!
+            - From Nikki Huang to Everyone: (1:42 PM)
+                - Do you have a Roam version of your Zettelkasten that you can share with us Sonke :)?
+            - From Jeremie Rykner to Everyone: (1:42 PM)
+                - Lol Multi-Roam Graphs, serendipity connections <Steven Johnson> <Sonke Ahrens> great minds think a like
+            - From Brandon Toner to Everyone: (1:42 PM)
+                - +1 Nikki — I would love to see how Sonke has structured his zettelkasten
+            - From Kate Foy to Everyone: (1:42 PM)
+                - Very meta @Jeremie!
+            - From Beau Haan to Everyone: (1:43 PM)
+                - YES!!!
+            - From Me to Everyone: (1:43 PM)
+                - 100% yes!
+            - From Beau Haan to Everyone: (1:43 PM)
+                - Crushing it!
+            - From Julie Freyberg to Everyone: (1:43 PM)
+                - Jeremie, thanks for staying up late to be here!
+            - From Me to Everyone: (1:43 PM)
+                - The real power of this is when it gets out to all of our academic institutions
+            - From Beau Haan to Everyone: (1:43 PM)
+                - With a lever long enough and a fulcrum strong enough…
+            - From Mary Chipman to Everyone: (1:44 PM)
+                - cognitive dissonance
+            - From jason kleinberg to Everyone: (1:44 PM)
+                - All levels of education can benefit from the principles of ZK. Wish I learned this when I was 8…
+            - From dan allosso to Everyone: (1:44 PM)
+                - Collaborative work becomes a learning outcome. Yeah, we’ll need some new models for grading and assessment!
+            - From Brandon Toner to Everyone: (1:44 PM)
+                - The implications of this on societal learning gives me chills
+            - From Beau Haan to Everyone: (1:44 PM)
+                - Ripples man… it’s the ripples !!!
+            - From Ashwin Siddarth to Everyone: (1:44 PM)
+                - Lot of unlearning to do
+            - From William Njau to Everyone: (1:45 PM)
+                - "technology is like a lever that help bring an idea into existence” shout out to Roam
+            - From Mary Chipman to Everyone: (1:45 PM)
+                - signal to noise...
+            - From Me to Everyone: (1:45 PM)
+                - Yep, quality over quantity
+            - From Joey Harris to Everyone: (1:45 PM)
+                - Roamkasten
+            - From Bill Petro to Everyone: (1:45 PM)
+                - +1 Roamkasten.
+            - From Me to Everyone: (1:45 PM)
+                - Read fewer books but understand each book more deeply is one thing I am planning to do as a result of this episode of book club
+            - From Andy Henson to Everyone: (1:45 PM)
+                - Same Matt!
+            - From Matthew McKinlay to Everyone: (1:45 PM)
+                - same matt
+            - From Kate Foy to Everyone: (1:46 PM)
+                - Ooh, Roamkasten - you heard it here first!
+            - From Mary Chipman to Everyone: (1:46 PM)
+                - +1
+            - From Andy Henson to Everyone: (1:46 PM)
+                - Roam Book Club, where we read fewer books :)
+            - From Me to Everyone: (1:46 PM)
+                - I love that Andy!
+            - From Brandon Toner to Everyone: (1:46 PM)
+                - Love that Andy!
+            - From Ronaldo da Silva Alves Batista to Everyone: (1:46 PM)
+                - I am practicing the habit to abandon a lot of books
+            - From Kate Foy to Everyone: (1:46 PM)
+                - Yes, Sonke … density is great. Extracting the juice!
+            - From Jeremie Rykner to Everyone: (1:46 PM)
+                - @Matt just imagine being able to Roam Portal through a whole library/collection of books
+            - From Kate Foy to Everyone: (1:46 PM)
+                - “So many books, so little time.” On my fridge.
+            - From Ronaldo da Silva Alves Batista to Everyone: (1:47 PM)
+                - @Kate So true...
+            - From Me to Everyone: (1:47 PM)
+                - @Jeremie I think it would be really cool if each time a book club met on Roam their goal was to create a highly annotated version that anybody could browse through and glean insights from
+            - From Brandon Toner to Everyone: (1:47 PM)
+                - I love the idea of stacking ideas over time — challenging and supporting premises. Individually, within small teams, and as larger organizations
+            - From Jason Carman to Everyone: (1:47 PM)
+                - Reading your book certainly has inpsired me to read more research and studies.
+            - From Bill Petro to Everyone: (1:47 PM)
+                - +1 @Brandon
+            - From Nikki Huang to Everyone: (1:47 PM)
+                - Exactly, so how do we integrate that density idea in our own note-taking? That’s kind of why I was talking about making permanent notes which integrate various parts of the book rather than one paragraph at a time. What do you guys think about having some fleeting / literature notes which don’t end up becoming their own permanent notes, but instead might be integrated into a single permanent note later on, maybe at the end of reading a chapter or something?
+            - From Joey Harris to Everyone: (1:48 PM)
+                - +1 @Nikki
+            - From Me to Everyone: (1:49 PM)
+                - That’s a great question Nikki. I think a lot about Christopher Alexander’s “levels of scale” here. He proposed multiple tables of contents, each at a different level of bird’s eye view from way high up to granular
+            - From CatherineRickwood to Everyone: (1:49 PM)
+                - @Nikki. I’m wrestling with that myself. Current thinking is to pull fleeting notes across a whole book or chapter together to create permanent notes, or even bringing all the fleeting notes together for literature notes.
+            - From Brandon Toner to Everyone: (1:49 PM)
+                - Ouuuuuu, Matt! Love that concept.
+            - From Me to Everyone: (1:49 PM)
+                - It’s a tall order for ONE person to create such a table of contents for any book but as a team project I think it’s really fun
+            - From Jason Carman to Everyone: (1:49 PM)
+                - random question here, what book was read in the first RBC?
+            - From Me to Everyone: (1:49 PM)
+                - Book club v.1 was “Where Good Ideas Come From"
+            - From Jason Carman to Everyone: (1:50 PM)
+                - Ty
+            - From Kate Foy to Everyone: (1:50 PM)
+                - “Where Good Ideas Come From” by Steven Johnson
+            - From Brandon Toner to Everyone: (1:50 PM)
+                - YES to the NATURE of relations!
+            - From Me to Everyone: (1:50 PM)
+                - Which was cited as a favorite book of Conor’s, in fact that book clearly contains many of the seeds that led to Roam itself
+            - From Brandon Toner to Everyone: (1:50 PM)
+                - YES YES YES
+            - From Kate Foy to Everyone: (1:50 PM)
+                - Subtitle (and key to the idea of the book) “The Natural History of Innovation.”
+            - From Me to Everyone: (1:50 PM)
+                - Yes Mike!
+            - From Jason Scott to Everyone: (1:51 PM)
+                - +1 Mike!
+            - From Brandon Toner to Everyone: (1:51 PM)
+                - BRAVO Mike!
+            - From Me to Everyone: (1:51 PM)
+                - One key idea was that each Zettel should itself be almost of publishable quality
+            - From Julie Freyberg to Everyone: (1:51 PM)
+                - Wow Mike, so well said!
+            - From Beau Haan to Everyone: (1:51 PM)
+                - YES!!!
+            - From Brandon Toner to Everyone: (1:51 PM)
+                - I find that nuance hard to express in Roam
+            - From Kate Foy to Everyone: (1:52 PM)
+                - The moment where the actual task of thinking happens - yes not note-taking for its own sake but as a means to an end.
+            - From Me to Everyone: (1:52 PM)
+                - The work of thinking for me often seems to happen right there at the very end - the final “production” touches that make the permanent note really feel permanent
+            - From Brandon Toner to Everyone: (1:52 PM)
+                - How can I tag blocks to make explicit the nature of relationships between ideas
+            - From nelsonmuniz to Everyone: (1:52 PM)
+                - Excellent, Mike! The problem of sequencing is the crucial one
+            - From dan allosso to Everyone: (1:52 PM)
+                - But a connection between two seemingly unrelated ideas IS AN IDEA.
+            - From Kate Foy to Everyone: (1:53 PM)
+                - Yes, @Dan.
+            - From Brandon Toner to Everyone: (1:53 PM)
+                - +1 Dan
+            - From Me to Everyone: (1:53 PM)
+                - Today I learned the acronym ELI5 which means “explain  that like I’m 5 (years old)” - a useful technique to remind yourself that it’s not done until you can state it so clearly a kid could udnerstand
+            - From Joey Harris to Everyone: (1:53 PM)
+                - Interrelating notes is where thinking happens...Roam is a "tool for networked thought." It is designed to facilitate thinking as Sönke describes.
+            - From Me to Everyone: (1:53 PM)
+                - Joey, 100%
+            - From Jason Carman to Everyone: (1:53 PM)
+                - +1 ELI5
+            - From Me to Everyone: (1:54 PM)
+                - This version of book club helped me see that the finishing touches of the process - the “permanentization” of the note - ultimately is all about making it as linkable as possible, not about making it as permanent as possible
+            - From dan allosso to Everyone: (1:54 PM)
+                - +1 Brandon!
+            - From Markus Zohner to Everyone: (1:54 PM)
+                - +
+            - From Gene Z to Everyone: (1:55 PM)
+                - @Brandon I started creating notes capturing such words / phrases
+            - From Mary Chipman to Everyone: (1:55 PM)
+                - +1
+            - From Nikki Huang to Everyone: (1:55 PM)
+                - That’s a great idea Brandon
+            - From Julie Freyberg to Everyone: (1:55 PM)
+                - Gene Z, say more…
+            - From dan allosso to Everyone: (1:55 PM)
+                - Good tags.
+            - From [[Darin]] Flynn to Everyone: (1:55 PM)
+                - [[Steven Pinker]]’s “Arcs of coherence” chapter in [The Sense of Style](https://www.amazon.ca/Sense-Style-Thinking-Persons-Writing/dp/0670025852) might be useful as a typology for connecting notes/ideas
+            - From Joey Harris to Everyone: (1:55 PM)
+                - ELI5 is the Feynman Technique
+            - From dan allosso to Everyone: (1:56 PM)
+                - “Agrees”, “Supports”, “Challenges” etc.
+            - From Matthew McKinlay to Everyone: (1:56 PM)
+                - that because howver therefore
+            - From Kate Foy to Everyone: (1:56 PM)
+                - +Matt
+            - From Nikki Huang to Everyone: (1:56 PM)
+                - Haha love that
+            - From Matthew McKinlay to Everyone: (1:56 PM)
+                - Toulmin's argument structure
+            - From nelsonmuniz to Everyone: (1:56 PM)
+                - Right, Brandon! A controlled vocabulary for linking and sequencing notes
+            - From dan allosso to Everyone: (1:56 PM)
+                - “And”, “But”, “Or”
+            - From Kate Foy to Everyone: (1:57 PM)
+                - Both Matts! :)
+            - From Gene Z to Everyone: (1:57 PM)
+                - @dan allosso, yes. @Julie  just with anything else I like to learn  / understand, I started a section of my ZK around writing, where I write about useful phrases as people mentioned above
+            - From Kate Foy to Everyone: (1:57 PM)
+                - Oooh, I like this Brandon.
+            - From DewayneC to Everyone: (1:57 PM)
+                - The query language of graph databases such as Neo4j, can provide many ideas of relations between objects.
+            - From Me to Everyone: (1:58 PM)
+                - Man there is so much to explore here! This is why I love book club
+            - From Yingyue Liu to Everyone: (1:58 PM)
+                - ODD (Overview, Design concepts, Details)
+            - From Nikki Huang to Everyone: (1:58 PM)
+                - If you google “linking words” and look at Google Images, there are great categories to start this kind of endeavour. Something we often use with English as a foreign language students :)
+            - From Joey Harris to Everyone: (1:58 PM)
+                - What I love about Roam: every single thing that everyone has been brainstorming is possible...Roam allows for any and all of it (in principle, at least) even in its current nascent form
+            - From nelsonmuniz to Everyone: (1:58 PM)
+                - A taxonomy of relationships expressed as a controlled vocabulary
+            - From Brandon Toner to Everyone: (1:58 PM)
+                - YES NELSON
+            - From Julie Freyberg to Everyone: (1:58 PM)
+                - More for Dharam to add to the graph, with these words!
+            - From Chinarut - to Everyone: (1:58 PM)
+                - conversational ontology
+            - From Brandon Toner to Everyone: (1:58 PM)
+                - That’s the outcome
+            - From Gene Z to Everyone: (1:59 PM)
+                - @Nikki yes! "linking words" is the term I've been looking for
+        - [[Reply-from]][[Mike Kramer]]Thanks for posting this!
+        - [[Reply-from]] [[Darin]] And for this:
+            - Writing advice from Matt Stone & Trey Parker (South Park)
+                - "but ... therefore/because" YouTube [clip](https://youtu.be/j9jEg9uiLOU)
+                    - h/t [[Matt Brockwell/MJB]]
+                - [[Reply-from]] [[Matt Brockwell/MJB]] this is awesome thanks for finding this Darin!
+                    - #Chat [[Kate Foy]] MJB, I know from RBC 1 that you are fond of improv's ways and means, so I found the "but" and "therefore" really resonates - same in improv and in actor's working out their strategies in playing actions. 
+                    -  
+    - ## [Zoom Link](https://us02web.zoom.us/j/89124754465?pwd=R2VIUnFlVVZMVEptcktZdEc2MisyQT09)
+    - {{[[DONE]]}} **Section 1** [[Writing practice]]
+        - {{[[POMO]]: 25}}
+        - Pick from the prompts below and write in your own page for 25 minutes.
+        - Questions for us from [[Sönke Ahrens]]
+            1. What have you learnt about note taking that I (Sönke) should know about?
+            2. Are there any additions to the process described in the book?
+            3. Discuss your impression of the range of possibilities and limitations of a Zettelkasten?
+            4. (what use cases does it work for? Are there any examples it doesn't work for?)
+        - General review questions 
+            1. Reflect on your impressions of the book 
+                - "A wonderful hand-hold on process but, more importantly, a poetics of learning, and an urging to educators to reflect upon their own methodologies."
+            2. Reflect on your note taking and reading. What if anything, has changed?
+                - "Getting used to the terminology was a starting bump along the way - important to get definitions right to clarify thinking - but the individuality that can follow in the (process) footsteps of Luhmann and Ahrens has led to flexibility and discoveries. "Making a beautiful mess" is a mantra of my own learning and advice to my (performing arts) students."
+                    - "Staying calm during all of this has been necessary - the rush to create lots of material (to endgame) got in the way; messy can be/was beautiful, and there are learnings, always. "
+                    - "The upside has been moving my process along - and increasing a daily discipline of reading then learning how this process - let's call it "Zettling" is now solid. Ahrens approach has provided a template for finding my way. There have been models by others that I have begun integrating into my own approach, and I consider this a work in progress."
+            3. Do you plan to continue your Zettelkasten from here?  
+                - "Absolutely - it's now a habit and part of my daily TODOs."
+                    - "Finding a way that worked for me was/is key to all of this but perhaps the biggest learning has been **don't let highlights/notes taken quickly from a source moulder in the graph** but the importance of actively creating fleeting notes and set that up permanent notes and potential articles. That requires **discipline and daily (almost) attention** - tending the digital garden as some others have called it. "
+                    - "Spending time on this is a habit that needs forming and this has been a challenge. By putting these as TODO s in my Daily Notes page, I've started to get back into the exercise of reading and writing - the most valuable take-away of Book Club 2 for this book and others I have begun in the interim. **It's now a process and, more importantly, a habit.**"
+    - {{[[DONE]]}} **Section 2** Talk with [[Sönke Ahrens]]
+        - {{[[POMO]]: 45}}
+        - {{[[POMO]]: 45}}
+        - [[Dharam Kapila]] to use [[Roam Portal]] to show us around the graph
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FoReYPYgoxA.jpg?alt=media&token=27af6131-b224-4e32-b01b-1747953e01ad)
+            - 
+        - Group discussion and questions
+        - Exploring the #Zettels   tag
+    - {{[[TODO]]}} **Section 3** [[Break Out Rooms]]
+        - {{[[POMO]]: 30}}
+    - {{[[TODO]]}} **Section 4** Reflections and Graph decisions
+        - {{[[POMO]]: 15}}
+- Test [[Dharam]]
+    - 
+- #[[Quick Capture]]
+    - ...
+- [[Chinarut]] #quote "perhaps some guidelines on the number of Zettels - like is it a funnel?  what is an **example** ratio of fleeting to literature to zettel?"
+    - #Reply-from [[Darin]] It's striking that the three types of notes ended up with comparable numbers in the present graph, as [[Dharam Kapila]] showed:
+        -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FGeS0UOwEhR.png?alt=media&token=64d89f4c-0cad-4430-a137-be0aa251710d)

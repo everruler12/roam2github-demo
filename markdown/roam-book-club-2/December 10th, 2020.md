@@ -1,0 +1,21 @@
+- [[Jason Carman]]
+    - A [[Question]] for everyone:
+        - It was a note on "technology, acceptance problems" that allowed [[Ahrens]] to ask a question that made a [[connection]] between __"why some people struggle to implement the slip-box"__ and __"a book on the history of the shipping container." __
+            - To me, this was the only clear [[example]] of a [[permanent note]] and a subsiding [[connection]] in the entire book...
+        - I'm curious to know from anyone who has an active [[Zettelkasten]]/[[Slip-box]] **what some of their permanent notes -> connections are? **
+        - 
+    - [[Reply-from]][[Mike Kramer]]Thank your for pointing out that there was a concrete example of a connection between permanent notes in the book. I had made a list of the examples he gave of notes, but not of their connections.
+        -  I have been grappling with understanding a Zettelkasten as a system that works according to evolutionary principles. This database is not supposed to include many texts, so it has been difficult to show that here. But many of my Zettels record my attempts to think about this.
+            - [[the evolutionary requirement of variation is satisfied in a [[Zettelkasten]] when simple ideas connect to form a novel combination]]
+            - [[an evolutionary explanation requires variation, inheritance, and selection]]
+            - [[the evolutionary requirement of heritability is satisfied in a [[Zettelkasten]] when a complex idea is formed by inheriting lower-level simpler ideas]]
+            - [[the evolutionary requirement of selection is satisfied in a [[Zettelkasten]] when the writer selects one lower-level simpler idea to form a complex idea and rejects other lower-level simpler ideas]]
+            - Here is another branch:
+                - [[Ogle. Smart World. the difference between the biosphere and a [[Zettelkasten]] network of ideas is that the use of an idea by one person leaves as much and as good for everyone else]]
+            - [[Sönke Ahrens]] does make a rather causal aside about evolution and a Zettelkasten both working by trial and error in 13.1. But the notes I created are distinct from his point.
+            - I am not certain if the examples, above, provide satisfactory responses to your question, since many of the Zettels created in this database represent thoughts of their creators that were prompted by their reading of the book, but do not capture an idea expressed in the book. Often they did show the literature note that led to their permanent note idea. So, there was a connection, it was just not expressed as a connection between permanent notes.
+            - @[[Mike Kramer]] these are fantastic personal examples. Thank you! You mentioned that you made a list of the examples he gave of notes, I didn't catch  any of these could you possibly comment your block ref or add them here?
+                - By the way, your personal examples of evolutionary concepts and the relation to the zettelkasten are brilliant. I especially like this one:
+                    - "[[the evolutionary requirement of selection is satisfied in a [[Zettelkasten]] when the writer selects one lower-level simpler idea to form a complex idea and rejects other lower-level simpler ideas]]"
+    - [[Reply-from]] [[Darin]] I thought the following example was pretty good and fairly easy to imagine as a blog post or podcast: "One example is the question of personal responsibility, which is discussed on the example of obesity and the influence of hormones as a sub-topic to a philosophical discussion on free will. None of it needs to be discussed right away, especially as most of these ideas would require more research and reading. But there is also no reason not to write down these possible connections and come back to them later, if my research points me back to them." [*](((1yQzlfyLI)))
+        - This is a fantastic example [[Darin]], thank you.

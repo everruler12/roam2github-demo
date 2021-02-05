@@ -1,0 +1,35 @@
+- **Twitter:** @Lovescoffee
+- **Website:**
+- **Company:** optional, delete otherwise
+- **Favourite books:**
+- **Link to something you find interesting:**
+- **Book Club 1 member? (y/n):**Y
+- Literature notes
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - I want notetaking to become sort of a second nature. But I want to do this in a way I feel comfortable with. I've read the book but I find it difficult to implement it.
+        - A secondary goal is for me to become more familiar with Roam. This is an outstanding opportunity to kill 2 birds with one stone.
+        - Can I let go of thinking in structures? I can't help myself but I'm always thinking about ways to do the things better or even perfect. This stops me from even taking notes because I'm thinking I'm not saving it at the right place or something
+        - Furthermore it will help me with my English because this is not my first language.
+        - It was good to hear from [[Sönke Ahrens]] that sometimes it's ok to just read. Notes might come in a later stage. Keep this in mind. It might help to keep reading!
+        - I want to consistently add personal insights to my notes and not just adding highlights. What will this bring me?
+        - I've read a lot already but I've forgotten a lot to. Will this way help me remember and or implement the knowledge better?
+        - I want to learn from others. See and hear their insights and workflow.

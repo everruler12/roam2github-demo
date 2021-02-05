@@ -1,0 +1,8 @@
+- Updated the following page names to [[Goals for Book Club]] for search-ability 
+    - Goals of Book Club
+    - Book Club Goals
+    - Goals for bookclub
+    - goalsetting
+    - Goals
+    - What goals do you have after completing this book club?
+    - What would help this group achieve those goals?

@@ -1,0 +1,86 @@
+- #references
+    - Title: A bridge to meta-rationality vs. civilizational collapse
+    - Meta:
+        - Tags: #ref/video #meaning #crisis 
+        - Related: [[Notes on Awakening from the Meaning Crisis 11]]
+        - Authored by: [[Evan McMullen]]
+        - Source: {{[[video]]: https://www.youtube.com/watch?v=ss2_PIzl9ik}}
+    - #Chat
+        - This is a space for collective discussion. See examples in [[Notes on Awakening from the Meaning Crisis 11]] 
+- Content
+    - Notes
+        - [[Z: We are not only in an ecological and societal crisis, but also in a "meta" crisis, where we are seeking meaning and truth in a time of secularism ]]
+        - [[Z/C: The mind, like a telescope, cannot see itself, meaning we need outside influence to help us create meaning to understand the world]]
+        - [[The map is not the territory]], coined by polish scientist Alfred Korzybski, means that a representation of an object - a map, in this case - is not the same as the object - the map. 
+        - [[Z/C: Scientism, commitment to the scientific method above all else - often practiced by non-scientists working in science adjacent fields e.g, engineering - has failed society, contributing to the meaning crisis, and the mental health crisis]]
+        - [[Z/C: Humans need Paths to become fully developed, sovereign, ethically grounded adults]]
+        - [[Z/C: Science is not a path]]
+        - [[Z: Moving out of the meaning crisis means engaging in individual phenomenological work with a disciplined and consistent practice, as well as engaging in collective phenomenological work with a group of likeminded individuals, including people who are further along the path]] 
+        - [[Z: Knowledge Quests, individual and collective, are critical for finding your path, however these quests are often seen as "woo"]]
+        - [[Z/C: Humans competitive advantage is culture and memetics]]
+        - [[Z: Many communities exist today that are doing phenomenological self-inquiry, but they are siloed, so a bridge is necessary, and an attempt to speak a common language, to communicate, collaborate, and share amongst these communities, as group phenomenological inquiry is a necessity to escape the meaning crisis]]
+    - Quotes
+        - 3.42 [[Z/C: Human development has been crippled by wrong relationship to things like truth and meaning aka "meta-crisis"; crisis of crisis: ecological, societal]]
+        - The map is not the territory
+        - The world cannot be experienced directly, only mental representations of the world can be experienced
+        - Rationalism mistakenly assumes that language-based conceptions of reality can be "true" in a non-indexical/context free sense
+        - The telescope cannot see itself; the mind cannot see itself
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ftest852%2FsXy2l4WQMH.png?alt=media&token=c2caebc7-70e3-41fc-9dd3-34192c226a25)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ftest852%2FWfZhLbCvmM.png?alt=media&token=18a15892-10fd-4e72-ae6f-fe696c66f1d3)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ftest852%2FofMI6TadjV.png?alt=media&token=f4e528f7-3d40-4bb6-a201-18096c442f4f)
+        - 10: 18 Scientism: the cultural, and sometimes personal elevation of knowledge produced by the Scientific Method above all else. 
+        - Injunction is verifying a claim and confirmation is building on it in a community
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ftest852%2FkcNmWW3Lm8.png?alt=media&token=0a46c91c-b883-492e-84c1-a46fcc107667)
+        - 12.52 Knowledge Quests are collective experiences in map-making
+        - Maps are data compressions over reality; some feature are salient and others are irrelevant
+        - Science is useful for studying the world outside of our minds, the physical world
+        - 15:49 Over-broad applications of scientific models; Michael Valentine, a former Stoa guest, talks about fake frameworks
+        - 16:53 Introspective Wisdom Traditions as Cultural Specialization
+        - These traditions create models which work well for human phenomenological reality; for example, research shows religious people live longer lives, are better adjusted, and happier; vs science which has a poor track record, creating crisis like mental health, meaning, and persistent, low-grade nihilism as modern cultural background noise
+        - 17:58 Claim: Science is not a Path
+        - Humans need Paths to become fully developed, sovereign, ethically grounded adults
+        - In buddhism it's called 3 trainings: morality, concentration, and insight
+        - 18:58 Scientism as Path-inoculation
+        - Pedantic rejection of "fake frameworks" - pedantically useful but physically not useful for organizing the world
+        - Fourier trade-off, Turing. - look up
+        - Scientism is mainly practiced by non-scientists; people in scientifically informed fields like medicine and engineering
+        - 20:53 But these other Knowledge Quests are full of Woo?!!
+        - Answer: take phenomenology seriously 
+        - 22:51 The knife's edge of Western Science is beginning to converge on Buddhist ways of describing the self 
+        - Psychology has not caught up
+        - 23:24 Phenomenological self-inquiry is a possible bridge from stage 4 to stage 5
+        - Why? because all other models are built from phenomenological observations over time. All models our brains construct are attempts to explain/predict regularities in our phenomenological experience over time
+        - 24:09 Serious, dedicated phenomenological inquiry seems necessary for healthy human adult development
+        - This is more important than understanding STEM knowledge, otherwise we fall prey to viral memes that just reinforce current bad in society e.g, power dynamics
+        - 27:21 Humans competitive advantage is culture and memetics
+        - Stage 5 = fluid switching between models
+        - 30: 35 System 1 vs System 2: elephant & rider dichotomy; like Kahnemann? 
+        - 31:53 what is an indexical nature of language? #topofmind
+        - 31:53 inviting people to work with him to build bridges
+        - 33:02 thinks Stoa community is a bridge from 4 to 5. historically, according to keegan, institutions served as a bridge from 3 to 4
+        - 34:01 What is Theravada 4 paths, tibetan 10 bhumi?
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ftest852%2F_l0W2GRP0U.png?alt=media&token=0d137ead-9c07-4b7b-8b3b-fe3375119a81)
+        - Q&A 36:31
+            - It's hard to go through phenomological inquiry on your own. Suspects it's because paths have been made into strict traditions, although it's changing now that path making has been open sourced in the age of post reason. For practitioners, it's very noisy and hard to navigate all path. What is the meta path through this noise & how do you select paths as they're useful to you?
+                - Answer: Phenomoligical self inquiry is defined as paying deep attention to one's own conscienscenss; you'll find intersting things about hows the mind and you work, which are very different than what Western culture has taught you. There are communities of practitioners e.g, buddhists or stoics; the next step is to communicate with these people who are doing phenomological self inquiry. These paths must be constructed in a social environment to avoid going down blind alleys and garden paths ; reading books and such is good but they're very culturally bound. We can reinvent and rediscover practical insights by being a good faith community and operating under stoa's principles of good charity and principle of omega 
+            - Does phenomonoligical self inquiry ever give rise to something beyond the self? 
+                - Answer: Yes, and this is why the bridge often goes into "woo." Problem is that our language is not devised to handle this (question: i'm unclear on this language point) Watch Alexander Totterin Stoa session. Collective presencing is an approach to the collective phenomenology (reminds me of Arrival, ted chiang)
+            - 42:10 Getting the sense that even most self-aware individuals can be subject to blind spots. Is a potential remedy to have a sense of accountability and engage in collective intelligence to discover phenomenological blind spots. My point is to connect this to what hippies call "oneness"
+                - Answer: Community is crucial for it to be a valid knowledge quest. Going back to Tim Wilbur, you must do the injunction yourself, get results yourself, then discuss it with others because a telescope cannot see itself. Second point gets into state vs. stage. In buddhism, enlightenment is often thought of as an experience to be sought out, but it's not an experience itself, it's a shift in relating to all experiences. People can enter into these mental states at any stage, and it's important to have a collective intelligence. Robert Anton Wilson calls them "reality tunnels."
+            - 44:30 As a former scientism follower, between all of the wisdom traditions you've studied, what are some of the common threads:
+                - Answer: taking seriously phenomonolical self inquiry; observing the mind in a disciplined and consistent way. The way you do it matters far less than that you do it. Then, you should discuss the results with a community of people who are doing their own phenomological inquiry to discover what insights are generalized vs. just quirks of your mind. Rationalists calls this rational mind fallacy: assuming that other people's minds are the same as your own. 
+            - 46:50 In a later slide, you posed question called inherent limitations. Can you expand more; do you see it as social or economical or neurological for particular individuals? Is this a multi-way bridge; can you move from one stage to another and back again both as an individual and back again
+                - Answer: Yes and. I don't see a clear dichotomy. Eg, poverty, malnutrition, and trauma causes brain damage. Perhaps brain damage is a limitation. Keegan talks about state vs stages; people can have access to other stages; there is a stage that you've stabilized at, but on a bad day or under a lot of stress, you can regress to a lower stage; in peek experiences, you can get a taste for higher stages without stabilizing them. For stage 5 to be a thing, you need it to always be operating and not run as a background process
+            - 51: 18 How do we bring the science to the woo people? 
+                - Answer: Speculation that is well less founded than stuff I've been talking about before. I want to disentangle science and empirism. Can't do science on woo traditions because the results are not always repeatable, but they are empirical. I think science is a knowledge quest in the domain of outer world and scientific phenomenology is a knowledge quest in inner world. Just like anything else, Jedd Mckenna (enlightenment thinker), people don't grow because they want to, but b/c it's become too painful not to. I see it as supporting people in whatever stage their in. It's important to operate on principle of charity and having good faith dialogue. 
+            - 56: 18 Where do psychadelics fit into your thoughts on phenomological self inquiry? 
+                - Answer: Caveat, psychedelics were a really critical path for me, but I recognize how much luck was involved in the context I did because I went really far down that road and I'm an outlier to humanity. Psychadelics can be a good tool in the toolkit to kick people up to a higher state. I view psychadelics as tantric paths , which are more dangerous because you can fuck yourself up and others around you. Tantric practitioners were known as black magicians. I don't think bringing a Western psychological frame to psychedelics will be affective. We should be looking at the psycho texts of indigenous texts. MDMA assisted therapy for PTSD is showing immense progress. Recommend book by James Battemon, psychedelic explorer, which is a guide for how to use psychedelics. 
+            - 1:01: 25 There are dangers of going down tantric path. How do we as a community protect ourselves?
+                - Answer: community support is critical. second, looking to people further along the path. I'm allergic to guru based or teacher model. DSM is garbage text. Certain teachers in tantric or shamanic traditions can help understand what resonates with a certain person and what that person's risk/reward ratio is. 
+                - 
+            - 1:04:21 How do you break frame for the largest number of human beings?
+                - Answer: psychadelics but breaking frame is inherently dangerous (reminds me of short story i need to read). Ideal is a slow, loving breaking of frame. 
+            - 1:06:21 How do you see communities forming and functioning? Is it around specific frameworks or traditions or more broad?
+                - Answer: Check out Vincent Horne's talk called the meta sangha. We already have many practice communities around wisdom traditions. We need a meta sangha approach to help avoid some of the dynamics of predation that happened in those communities e.g, osha with rolls royces and sex scandals. it's failure mode. I'm trying to emphasize indexable nature of language. Valuable for people to have 1 foot in multiple communities. Also, people who have a skepticism for any truth claims, like people in Stoa community. 
+            - 1:10:11 How do you help people find meta sangha communities? also, is there a danger in meta sangha communities when people use language differently from person to person? how does communication happen across disciplines
+                - Indexicality of language is a critical point. We should develop a practice of tabooing certain specialist terminology e.g. ego which can be used in freudian and jungian. Also, people should not be too dogmatic and get too attached to their language. People need to learn others' languages to communicate with them.

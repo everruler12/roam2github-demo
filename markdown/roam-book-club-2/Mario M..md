@@ -1,0 +1,88 @@
+- [[Introduction]]
+    - good [[writing]] depends on good [[note taking]]
+    - [[academic success]] is dependent on [[everyday work]]
+        - there is no correlation between [[IQ]] and [[academic success]]
+        - [[academic success]] is dependent on the quantity of [[self-discipline]] or [[self-control]] which are components of [[everyday work]]
+        - [[everyday work]] also includes doing the work required and doing it in a "smart way"
+    - [[will power]] is limited and cannot be achieved with [[self-control]] and [[self-discipline]]
+        - others have said that will power does not improve over time but I have had a different experience and therefore, believe that the methods used to improve willpower and defective.
+    - [[self-control]] and [[self-discipline]] have more to do with our environment than [[will power]]
+        - "every task that is interesting, meaningful, and well-defined will be done" this will beat [[will power]] any time
+        - if you want to succeed, don't depend on [[will power]], depend on your [[environment]]
+    - behavior has more to do with [[environment]] than it does with [[self-control]] and [[self-discipline]].
+        - something this author fails to address is the [[environment]] of the [[mind]]
+            - the [[mind]] contains an [[environment]] that can be changed
+                - the [[mind environment]] includes [[thoughts]] 
+                - if [[thoughts]] can be changed than the [[mind environment]] changes and [[behaviors]] and [[actions]] change.
+                - this is why I believe that [[will power]] can improve
+- [[Chapter 1. Everything You Need To Know]]
+    - this book will show you [[note taking]]
+        - it will do so by using the son of a brewer's success as an example.
+    - it will show you how to integrate [[note taking]] with work flow.
+        - this is accomplished with [[good structure]].
+            - having [[good structure]] does the bulk work for you so you can focus on content, argument, and ideas. 
+                - i.e. when writing: you can break the task down to bite sizes, finish the paper by finishing them. 
+                    - if the task is to write a paper but I can't sit and write then focus on taking notes - that is [[good structure]].
+                - [[good structure]] is different from a [[plan]]
+                    - a [[plan]] makes you [[rigid]] and requires [[will power]]
+                        - using [[will power]] will make you tired
+                        - if you are [[rigid]] you are not [[creative]]
+                        - [[planning]] also prevents [[insight]] from occurring
+                            - [[insight]] is also key to be [[creative]]
+                            - What I'm understanding so far is that structure is key to good, creative, insightful writing. 
+                                - there are many parts that go into writing
+                                    - these all have to be done well to produce good work
+                                        - this isn't the same as planning
+                                - [[good structure]] provides you with [[insight]] which fuels progress
+                    - the opposite of a [[plan]] is not [[aimlessness]]
+                    -  having a [[plan]] has a place (i.e. passing exams) but it will not help you learn/write/takenotes
+            - the a [[good structure]] (system) does not need to be complex
+            - a simple [[system]] will allow for ideas to be complex
+                - the system will require low energy to maintain allowing for the energy to go into idea developing
+    - good [[note taking]] relies on two ideas
+        - 1. the technique of slip-box
+            - this will be elaborated later
+        - 2. routine 
+            - (i'm beginning to think this book sucks)
+    - [[1.2 The Slip-box]]
+        - Luhmann wrote one idea (note) per slip card
+            - the [[note]] was only as good as it's context
+                - the context does not have to be the same as the one it originated from
+            - he began wondering how he could tie his [[note]]s together
+        - Misunderstandings about Luhmann's system include: 
+            - isolated focus on the slip-box
+                - leads to neglect of actual workflow
+            - notes on his system were in german and discussed in very private groups
+                - not widely accessible
+            - it is simple
+                - it is impossible for something simple to have grandiose results. 
+    - [[1.3 The slip-box manual]]
+        - two [[slip-box]]es
+            - 1. contained [[Bibliography]]
+            - 2. contained his main notes
+        - steps for [[note]] taking:
+            - step 1:
+                - read/see/percieve/think
+                - write note
+                - write reference
+            - step 2: 
+                - draw inferences from content of step 1 
+                - write it down
+                    - [[note]]s were generally simple/concise
+                        - he would allow himself to expand on them on other notes
+                        - [[note]]s were written as if he was writing to submit for publication.
+                        - sometimes a new [[note]] would follow up on a previously written one.
+                            - I wonder if I'm using this system incorrectly.
+            - whenever a [[note]] is added, check your box for other relevant notes
+- writing [[note]]s is not the main part of writing a paper [[Chapter 2. Everything You Need to Do]]
+    - however, it is the easiest part
+- [[note]]s are the product of thinking, reading, and understanding, which are the main part of writing a paper [[Chapter 2. Everything You Need to Do]]
+- fleeting notes: notes that pop into your mind without effort 
+    - jot these down; 
+- #Zettels [[Testing this css out]]
+    - #[[Literature Notes]] Doing the format this way will allow my notes to be neat
+    - #[[Fleeting Notes]] The individual didn't seem to understand what a fleeting note was
+- #Zettels [[The consistency of our work is only as good as the systems we instate for ourselves]]
+    - #[[Literature Notes]] A good system prevents us from failing [[((59-bYYcu-))]]
+    - #[[Literature Notes]] Our systems can make life productive and enjoyable 
+    - 

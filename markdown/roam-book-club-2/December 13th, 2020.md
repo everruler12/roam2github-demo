@@ -1,0 +1,106 @@
+- # [[Live Session 7]] Starting 12:30 PST
+    - ## [Zoom Link](https://us02web.zoom.us/j/83436580997?pwd=eFhSNXpNMzMyR3h3ZjgzM0Jta3ROQT09
+)
+    - {{[[TODO]]}} **Section 1** [[Writing practice]] 
+        - {{[[POMO]]: 25}}
+        - Pick from the prompts below and write in your own page for 25 minutes.
+            - You start a conversation with a stranger in the street. They ask you what is a Zettelkasten. What do you say? 
+            - Reflect on your reading and writing habit through Book Club. Did the emphasis and exploration of Sonke's book change your reading and writing habits?
+            - The book promotes a bottom up approach to note taking, which we have used in Book Club. Reflect on this. How did this feel? 
+            - What's your favourite blocks (or quotes) from the book?
+        - {{[[DONE]]}} {{[[POMO]]: 25}}
+        - How effective do you think your note taking process is? 
+            - {{[[slider]]}}
+        - 
+    - {{[[TODO]]}} **Section 2** [[Breakout Rooms]]
+        - {{[[TODO]]}} {{[[POMO]]: 25}}
+    - {{[[TODO]]}} **Section 3** [[Graph Meditation]]
+        - {{[[POMO]]: 10}}
+        - We went through the process fleeting notes, literature notes, zettels. But the real power comes from connecting them.  
+            - How do we link? 
+                - Note to Note 
+                - By Topic?
+        - Reflect on Roam Book Club
+        - Comment on your impressions of the shared graph
+        - "Q: What were the most effective and/or useful conventions arrived at for making multiplayer work in the club?"
+        - Were you surprised by anything in the graph?
+        - Reflect on the shared multi-player zettelkasten of Book Club
+        - Refer to the #Zettels page. Any favourites? Any why?
+        - Have we finished? Do you feel you have clarity about the Zettelkasten process in Roam? 
+    - {{[[TODO]]}} **Section 4** [[Breakout Rooms]]
+    - {{[[POMO]]: 25}}
+    - {{[[TODO]]}} **Section 4** Final review and next steps
+        - Final thought for Twitter- What's something you have learnt from How to Take Smart Notes / Roam Book Club. Please feel free to mention your twitter handle (@name) in your response. 
+        - > {{count}}An easy way to keep things under the 280 character limit in Twitter
+
+Just simply type `{{count}}` and it'll count your characters!
+    - {{[[POMO]]: 15}}
+    - [[Ideas for Next Book]]
+- 
+- 
+- [[Joey Harris]]
+    - **Session 7**
+        - **Session 7 Writing Prompts**
+            - You start a conversation with a stranger in the street. They ask you what is a Zettelkasten. What do you say? 
+                - A zettelkasten is a way of growing a collection of personal ideas and notes developed from one’s reading which can be used for thinking and writing.
+            - Reflect on your reading and writing habit through Book Club. Did the emphasis and exploration of Sonke's book change your reading and writing habits?
+                - Yes. My reading is now more focused, reflective and selective (even when reading fiction!). My writing is also more focused, reflective and selective, as well as more succinct, more creative and, perhaps, deeper.
+            - The book promotes a bottom up approach to note taking, which we have used in Book Club. Reflect on this. How did this feel? 
+                - The bottom up approach didn’t feel too unnatural because it’s close to the way I naturally think and reflect on what I read “in my head.” What was different was being focused and disciplined about it and doing it “out loud” in writing.
+            - What's your favourite blocks (or quotes) from the book?
+                - "“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something.” (Steve Jobs)"
+                - "The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. Without structure, we cannot differentiate, compare or experiment with ideas. Without restrictions, we would never be forced to make the decision on what is worth pursuing and what is not. Indifference is the worst environment for insight. And the slip-box is, above all, a tool for enforcing distinctions, decisions and making differences visible. One thing is for sure: the common idea that we should liberate ourselves from any restrictions and “open ourselves up” to be more creative is very misleading indeed (Dean 2013, 201)."
+                - "Assigning keywords is much more than just a bureaucratic act. It is a crucial part of the thinking process, which often leads to a deeper elaboration of the note itself and the connection to other notes."
+                - "As writers, we approach the question of keywords differently. We look at our slip-box for already existing lines of thought and think about the questions and problems already on our minds to which a new note might contribute."
+                - "One of the most difficult tasks is to rigorously delete what has no function within an argument–“kill your darlings.”[ 42] This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later. For every document I write, I have another called “xy-rest.doc,” and every single time I cut something, I copy it into the other document, convincing myself that I will later look through it and add it back where it might fit. Of course, it never happens–but it still works. Others who know a thing or two about psychology do the same (cf. Thaler, 2015, 81f)."
+                - "As the slip-box is not a book with just one topic, we don’t need to have an overview of it. On the contrary, we are much better off accepting as early as possible that an overview of the slip-box is as impossible as having an overview of our own thinking while we are thinking. As an extension of our own memory, the slip-box is the medium we think in, not something we think about. The note sequences are the clusters where order emerges from complexity. We extract information from different linear sources and mix it all up and shake it until new patterns emerge. Then, we form these patterns into new linear texts."
+                - "The way people choose their keywords shows clearly if they think like an archivist or a writer. Do they wonder where to store a note or how to retrieve it? The archivist asks: Which keyword is the most fitting? A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it? It is a crucial difference."
+                - 
+        - **Questions**
+            - Q: What extensions, js, add-ons, etc., were particularly effective in this iteration of the book club?
+            - Q: What were the most effective and/or useful conventions arrived at for making multiplayer work in the club?
+            - Q: What are some of the main understandings or things learned which will be carried forward into Roam Book Club 3?
+            - Q: How do we add an avatar?
+        - **Ideas for Next Book**
+            - How to Read a Book by Mortimer Adler
+            - How to Think in Writing
+            - Snow Crash
+            - Antifragile
+            - Getting Things Done
+            - Siddharta by Herman Hesse
+            - #Chat [[Chinarut]] how are these books prompted/informed by your zettels or the group’s zettels?
+        - #Quotes
+            - >"Linking is thinking." [[Matt McKinlay]]
+        - **Discussion**
+            - [[Mike Kramer]]
+                - T=Tag, R=Relate/Relationships, A=Arrange, P=Pinpoint (specificity of relationship, what is the nature of the relationship)
+            - [[Matt McKinlay]]
+                - Q: How do you get to conclusions with the TRAP process?
+                - A: [[Mike Kramer]]Doesn't like to see conclusions without specific reasons, arguments and definitions. Often has to find or reconstruct arguments to support conclusions arrived at by others. ([[Joey Harris]]: TRAP is designed to provide the reasons for conclusions.) 
+                - A2: [[Mike Kramer]] A zettel for me is a declarative statement the meaning of which can be true or false. A zettel is a sentence which has a meaning which can be true or false. I only try this TRAP process after I have already come up with a zettel.
+            - [[Jason Caro]]
+                - Q: Should hunches be recorded in a zettelkasten? How to distinguish a long-term hunch from a permanent note or zettel? Are we limiting the dynamism of a slip-box by getting rid of stuff?
+                - A: [[Charles Farr]] I do keep some stuff that's not only zettles in my graph. Your notes can evolve in a digital zettelkasten. Updates are easy. 
+                - A: [[Beau Haan]]talked through using his developing Roam zettelkasten and some of the thinking behind how he uses it, especially for connecting note-to-note. Fleeting notes might be a good repository for "hunches."
+                - [[Matt McKinlay]] Academic writing is different, including how one uses the various types of notes.
+                - [[Matt Brockwell]]
+                    - Zettel questions. Most of the things that we memorialize as statements are actually the answers to questions. What are the (often implicit and unstated) questions? How might we work with the questions rather than the answers?
+        - **Free Writing**
+            - "We went through the process fleeting notes, literature notes, zettels. But the real power comes from connecting them.  "
+                - "How do we link? "
+                    - We link both by "Note to Note " and by "By Topic?".
+                        - We link in various ways and at multiple levels. That's the whole idea of both [[Zettelkasten]] and [[Roam]]. I think this is how our brains/minds might naturally work (whether or not we are consciously aware of it).
+                        - "Note to Note "
+                            - Note to note linking, particularly linking #Zettels is the "meat" of applied usage of a [[Zettelkasten]].
+                        - "By Topic?"
+                            - Topical linking is useful while working with ideas, as interstitial framework, and for various personal reasons. Topical linking is also useful as a way of linking specific projects to a larger body of thought, much like an individual book, paper, or essay is part of a larger body of literature on any given topic. There are natural intellectual links, connections and relationships between topics and topical links can function as nodes of thought within the larger areas of thought.
+                - Connections
+                    - According to [[Sönke Ahrens]], the various types of notes have various "jobs" and the way they are used in linking is related to their natural function to some degree.
+        - **More Discussion**
+            - metakasten, roamkasten, metaroamkasten, interkasten
+            - 
+        - Future
+            - Another version of How to Take Smart Notes
+            - Other versions of different books running simultaneously
+            - 
+- 

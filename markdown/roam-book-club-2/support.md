@@ -1,0 +1,19 @@
+- If you prefer to post a question and/or technical aspects of Roam are going over your head, please go to [[I Need Help!]]
+- #experiment assertions
+    - the book club #multiplayer experiment presents some of the most challenging #usecase.s pushing Roam to its limits :)
+    - a lionshare of believers are in this #experiment bringing a TON of sum experience to the table
+    - an [[in-graph support experience]] is a good idea
+    - participants shall actively triage their set of requests and come up with creative ways to communicate which requests are most relevant and important to them (contrast to throwing requests over the fence in a typical support system)
+        - there is a long-term collective, consensus selection of requests that will inevitably emerge (applicable to both feature requests (`# support`) and frequently asked questions (`# help`))
+- some minimal conventions to get the ball rolling
+    - insert a TODO and tag #support with your headline
+    - parent of block naturally provides context
+    - child blocks are optional to add more context
+    - child blocks serve as conversation with the support/dev team (including links to help pages and/or workarounds)
+- we will come up with tags, queries, attributes, and filters organically to sort requests and issues over time and manage state.
+    - before we go nuts creating tags, queries or attributes, let’s collect lots of issues and requests first (raw data :)
+    - [[enhancement request]] tag already exists (could refactor)
+    - #bug could be another tag to start with ensuring these get squished sooner than later
+    - experiment with filters below to keep things simple initially
+- {{attr-table: [[IssueType]]}}
+- 

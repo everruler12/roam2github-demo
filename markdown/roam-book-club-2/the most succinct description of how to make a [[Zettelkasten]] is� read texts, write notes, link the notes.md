@@ -1,0 +1,11 @@
+- keywords::
+- source:: p127
+- relevant links::
+- ------------------------------
+- notes::
+    - quote
+        - Read with a pen in your hand, take smart notes and make connections between them.
+    - [[the succinct response to why make a [[Zettelkasten]] is: it breaks the hard task of writing good texts down into the satisfying tasks of writing notes and connecting notes]]
+    - [[the less succinct description of how to make a [[Zettelkasten]] is: read interesting texts, write interesting permanent notes, make interesting links among notes]]
+- ------------------------------
+- change log::

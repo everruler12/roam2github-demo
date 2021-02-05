@@ -1,0 +1,186 @@
+- [[Directory]]
+    - Name:: Skye White
+    - Home:: Byron Bay, Australia
+    - Twitter:: @long3lack
+    - Work:: Caseworker
+- [[Conventions]]
+    - "Community tags "
+        - "Preliminary tags, we will add to and adjust these as we move forward"
+        - "#Chat"
+        - "#deepdive"
+        - "#sub (used in conjunction with #Chat, helps filter out things that are clearly sub-chats, not main topics)"
+    - "#Chat [[Matt Brockwell/MJB]] Here are the guidelines for "chat" threads: #guidelines"
+        - "a chat thread is just a string of sequential comments from different users, that are readable from top to bottom, in the same time-ordered way that you might read a book or play."
+            - "(we recommend that, by default, that comments in a chat be indented to the same level, "
+                - "but if you want to clearly indicate that a comment is a detail or an aside, it can make sense to indent, like this- "
+                - "but kindly DO continue to follow the "time-ordering principle", so that the points still "scroll" downwards in temporal order, from first at top, to most recent-in-time, at the bottom.)"
+        - "anyone can start a chat, in any of the "writeable pages" in the graph (i.e. daily notes pages, and each of us in our own pages) - but to make it "query"-able, please include [[Chat]] or #Chat in its block header, and then indent one level to start writing ... one comment or idea = one "block""
+        - "consider **adding subject hashtags  to the "header line"** if you want - this is super helpful in "surfacing" and "finding " the chat later."
+        - "if you want to comment on something higher in thread, **use a "block reference"** so that your comment will still appear in chronological order"
+            - "Then, the little number floating next to the block-that-you-referenced, will show that someone responded to it. "
+            - "for added clarity, the hashtag #in-response-to may also be useful, as in"
+                - ""point A I am making""
+                - ""point B I am making""
+                - "this is #in-response-to ""point A I am making"""
+        - "for clarity, we suggest you denote change-of-speaker by writing [[your name]]."
+            - "you can "namespace it" and then only your initials will be visible (go to "user settings" to cycle the namespace view appropriately). Example: [[Matt Brockwell/MJB]]"
+                - "If you have a long name, I recommend you use a TextExpander and hotkey your nametag to a shortened key combo (mine is `,,me`)"
+        - "if you want to be helpful to people who wander in later to know when the conversation happened, consider date and time-stamping your chats. "
+            - "If you are using a text expander program time- and date- stamping can also be "hotkeyed""
+        - "if a chat is clearly a SUBtopic of another topic, consider using #sub in the header line"
+            - "this allows for a filtered view of "main topics only" from the # `chat` home page."
+        - "**ADVANCED CHAT ADVICE:**"
+        - "If you want to be considerate of other users in the graph if many are active at the same time, click the little dot for the bullet and choose "focus on block" whenever you want to type into a block."
+            - "If you do that, your typing will not disturb other people's view, nor can they type into the block that you are writing into. "
+        - "Note that one challenge is when more than one person are typing into a conversation at the same time - it can be hard to keep everything sequenced in temporal order while more than one are typing, but taking a moment to move blocks back into temporal order if they fall "out of order" -"
+            - "that helps people to read the conversation later."
+- [[Roam Tips]]
+- [[Thoughts]]
+    - "#meta"
+        - "Reflect on the potential of [[collaborative zettelkastens]]. What future can you imagine? What lies ahead?"
+        - "Reflect on the role of [[conventions]] in a shared graph."
+        - "How could `🗣notifications` be improved? #conventions"
+        - "What naming [[conventions]] would you suggest?"
+        - "What [[conventions]] can you imagine that could help to facilitate a better experience?"
+        - "#feedback"
+            - "What challenges are you having in contributing to the shared graph?"
+            - "What has been confusing or unclear in [[Roam Book Club 2]]?"
+            - "What has been helpful in [[Roam Book Club 2]]? "
+    - "{{[[DONE]]}} **Section 4 Graph meditation **"
+        - "Graph Meditation #[[Graph Meditation]]"
+            - #Chat   🤔 should we have a convention for reactions?
+                - personally, I'm experimenting with emojis to 'grow' notes into publish-able work
+                - I'm a Social Worker and this will help identify what 'phase' or 'stage' an idea is at, particularly relating to the children and families I work with.
+                - with a shared graph, we can #quantify a #[[critical mass]] of a particular emoji and 'upgrade' a #block or #note to the next evolution when an agreed number of votes are reached.
+    - "^^**Some tips on how write your notes**^^"
+        - "**Write for discoverability**"
+            - "Keep in mind that people aren't going to natively remember to check your page.  "
+            - "When writing, try and think 'how would others find this' "
+                - "Use tags, square brackets, and attributes liberally."
+        - "**Write in blocks**"
+            - "Another goal of book club is to explore block level writing. "
+            - "The more you can atomise your blocks, to one thought per block, the more it will allow others to remix individual blocks. "
+            - "Whilst it's fine to write in whatever style you want, 'block writing' is a further way to supercharge interaction in Roam. "
+                - "Rather than write long prose based paragraphs, break up your paragraphs into multiple blocks "
+                    - ">>Indent "
+                        - ">>  early "
+                            - ">>  and "
+                                - ">> often. "
+                - "This will allow others to block reference any particular block that you write, rather than an entire block which might have multiple points."
+                - "Check out Conor's videos on Youtube for a sense of it. e.g."
+                    - "{{[[youtube]]: https://www.youtube.com/watch?v=YcNW-eidDJk&t=1143s}}"
+    - How to Take Smart Notes video
+        - https://vimeo.com/275530205
+            - 6 notes per day (evergreen notes)
+            - note-taking is the most important skill for those whose job is to develop thoughts
+            - typical workday
+                - reading
+                - taking literature notes
+                - write the 'actual notes'
+                    - what does that mean
+                    - making connections
+                    - designing the note to be 'atomic'
+                        - by using slashes and numbers and letters, he can branch out and link to other atomic notes
+                            - looks like hypertext, but it isn't
+                    - everything builds up from below
+            - index with terms
+                - surprising few entries per term
+                - entries into a line of thought
+            - The core features
+                - note sequences are for developing dieas (instead of storing)
+                - links and indices are helpful, but not central featurews
+                - the workflow is completely streamlined towards [[publishing [[insight]]]]
+                    - the time-consuming part is not the writing, but the rearracnging of notes and ideas
+                    - zettelkasten, wiring is circular, not linear
+                - roughly distinguish between 3 types of notes
+                    - fleeting
+                    - permanent - main notes
+                        - these are understandable even without context.
+                        - thus enables the building of a critical mass of ideas to create new ideas
+                    - project-related
+                - atomic notes - one idea per note
+                    - #block
+            - The difference
+                - status quo re: teaching writing is linear
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FBahloo%2FgOJs3DZlD-.png?alt=media&token=592cd4c7-c746-4bfc-9a27-667bc07cf196)
+                - Zettelkasten:
+                    - only written down ideas count
+                    - bottom-up
+                    - questions arise from material
+                    - categories emerge
+                    - externalised system to think in
+                    - highly standaradised
+                    - process oriented
+                    - the questions you begun with  are very different from the questions at the end
+                    - 
+            - productivity
+                - thinking, connecting and understanding become concrete actions
+                - focus on the process - not on the outcome
+                - writing is broken down into reasonable steps (one note at a time)
+                - the value of each idea compounds - the more notes the better
+                - clear distinction between permanent and temporary notes
+            - learning
+                - what works
+                    - spacing
+                    - interleaving
+                    - connecting
+                    - self-testing
+                    - elaboration
+                        - what is it about..?
+                        - what does in mean ..?
+                        - how does is connect?
+                        - swapping perspectives: from the context of the sources tot he context of ones own thoughts.
+                        - does it contradict, complement, confirm or specify what I believed before?
+                - what doesn't
+                    - cramming
+                    - one thing at a time
+                    - compartmentalisation
+                    - underlining and copying
+                    - re-reading
+            - creativity
+                - different tasks require different forms of attention
+                - externalisation allows the brain to do what it can do best: making comparisons and associations
+                - ... while the slip box keeps track of factual knowledge
+                - ideas can mingle and spark new ideas - plus: chance is given a chance
+            - another book
+                - make it stick - the science of successful learning
+- [[Glossary]]
+    - "Index::"
+        - "Core terms"
+            - "[[reference notes]] (meta)"
+            - "[[fleeting notes]] (meta)"
+            - "#[[Fleeting Notes]] (zettlekasten)"
+            - "[[literature notes]] (meta)"
+            - "#[[Literature Notes]] (zettlekasten)"
+            - "[[permanent notes]] (meta)"
+            - "#[[Permanent Notes]] (zettlekasten)"
+            - "[[branching notes]] (meta)"
+            - "adding (proposed:)"
+                - "[[Gateway Note]] or [[Index Note]]"
+                - "inspired by this observation here:"
+                    - ""#Question[[Mike Kramer]]Is [**this**](https://notes.andymatuschak.org/%C2%A7Corporate_research_lab_practices) note from [[Andy Matuschak]] an example of a {{alias:((UuMRDEmqT))type 1 connection}}?""
+        - "Other terms"
+            - "#[[Branching Notes]] (zettlekasten)"
+            - "[[intermediary notes]] (meta)"
+            - "#[[Intermediary Notes]] (zettlekasten)"
+            - "[[zettels]] (meta)"
+- Fleeting Notes:: 
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]

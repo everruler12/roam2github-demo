@@ -1,0 +1,7 @@
+- [[Daily Logs]]
+    - 10:00 [[Call]] with [[Jeeva Vijay]] of [[Ness Labs]] re: [[Book Club]]
+        - Based in Chennai, followed in Anne-Laure for quite some time when she was just posting the blog and before Ness Labs community was created
+        - [[Book Club]]
+            - Likes to do a monthly feedback
+            - List 10 books and vote and pick
+            - 

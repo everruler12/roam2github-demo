@@ -1,0 +1,34 @@
+- Breakout Group Number - X
+(fill this in for your X!)
+    - Who was in this group on 11.1.20::
+    - What did your group talk about?::
+    - Any questions for the book club as a whole?::
+    - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+- Website:: [Communicating Science](http://communicatingscience.ut.ee)
+- Company:: [[University of Tartu]], Estonia
+- **Favourite book:** [[Zen and the Art of Motorcycle Maintenance]]
+- Literature Notes::
+    - [[Introduction]]
+        - "Luckily, this is not the whole story. We know today that ^^self-control and self-discipline have much more to do with our environment than with ourselves^^ (cf. Thaler, 2015, ch. 2) – ^^and the environment can be changed^^...Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long-and short-term interests. Having a meaningful and well-defined task beats willpower every time. ^^Not having willpower, but not having to use willpower indicates that you set yourself up for success.^^ This is where the organisation of writing and note-taking comes into play. [*](((tIetkYe5Q)))"
+            - [[Extrinsic Motivation]][[Intrinsic Motivation]] when organising your own personal writing environment, and you're struggling with the [[writer's block]] building [[working habits]] makes the need for [[self-control]] not necessary. 
+    - [[Chapter 1. Everything You Need To Know]]
+        - {{[[embed]]: ((e5t8EGtoY))}}
+            - #[[Fleeting Notes]] Ahrens distinguishes planning and structuring work. If we take writing a journal article as an example, and we inform students that they need to plan the content of the journal article, at what point does a clear structure of work differ from planning? Plans are precisely there to offer structure, and given journal articles are highly structured pieces of texts, would you not want to favour planning over structure? 
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 

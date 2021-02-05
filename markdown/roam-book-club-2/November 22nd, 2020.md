@@ -1,0 +1,71 @@
+- ## Announcements
+- 
+- #Announcement [[Beau Haan 📌]] Let's take those `Fleeting` notes and make 'em into `Zettels`
+
+📆 [Sign up for 1-on-1 Coaching Session here!](https://calendly.com/beauhaan/zettelkasten)
+
+**Update:** __That went fast... If you don't see a time that works for you, I'll add more times if/when Los Angeles is put on lockdown for this week, check back on the__ [[Daily Notes]] __page!__
+- :hiccup [:hr {:style {:border-top "3px solid black"}}]
+- # [[Live Session 4]] Starting 12:30 PM PST
+    - ## [Zoom link](https://us02web.zoom.us/j/89237673554?pwd=SGM0WkZpd1ZFTndIa3ZuZEFyemxnQT09)
+    - {{[[DONE]]}} **Section 1** [[Writing practice]]
+        - {{[[POMO]]: 15}}
+            - Pick from the prompts below and write in your own page for 15 minutes.
+                - Reflect on the book.  What are you impressions? 
+                    - #Reply-from[[Yingyue Liu]]
+                        - The book provides an overarching as well as detailed description of the Smart Notes technique. 
+                        - At the same time, the readers don't have enough chance to know more about Professor Luhmann. And I even doubt if the author ever tried to understand Professor Luhmann first before he markets this note-taking system to the readers. So it's like a toolbox with not enough context.
+                        - Therefore, to make the most out of the book, the readers have to intentionally reflect about their own life objects and why they are writing.
+                    - #Reply-from [[Alan Laidlaw]]
+                        - I wonder how applicable Luhmann's process is to our lives. It was a good solution for him and the way he worked. We have different demands though. Perhaps our engine doesn't allow for the same gestation period. So I'm curious how others are finding the notes at a 6mo and 5yr timeline.
+                    - #Reply-from [[Tanner Potter]]
+                        - The impression I've had about the book is that I need to decrease consumption, while increasing processing and sharing. The best way for me to do that is via writing.
+                            - #Reply-from[[Yingyue Liu]]Great catch! A balanced writing workflow is really the outcome of consistent practice of taking smart notes.
+                        - Something else that has really struck me is the broken nature of the current process of writing. Picking a topic in advance, and then finding evidence to support that. That style is too end-first. I often end up with thoughts that are longer than a tweet but shorter than a blog post. By using a structure with some rails but lots of optionality, I have the opportunity to increase quantity of output and quality of content.  
+                - Reflect on literature notes- useful? Did they help you understand the book in a different way? 
+                - Reflect on the work and timeline- has it been easy/hard to get through the phases so far? 
+                - How is your progress towards your initial goals? Or have they changed?
+                    - #Reply-from [[Mary Chipman]]
+                        - My goals have changed.
+                            - Initially I was looking for a suitable "scaffolding" or schema in relational database lingo, that I could plug ideas and content into without having to think much about it. Issues:
+                                - Roam is a moving target, basically a beta software product.
+                                    - Basic features and functionality around attributes and queries is half-baked.
+                                    - Add-ons and js hacks are fragile when you don't know what form the final product is going to take.
+                                - There is no one-size-fits-all that works in all situations and for all purposes
+                                    - A writer focuses on output, a business person on meetings and contacts, a software developer on projects, etc.
+                                    - An intellectual is going to be focused on leveraging serendipity and thinking about how to create a system to connect disparate ideas
+                                - The terminology is all over the place, which seems to foster focusing on taxonomies rather than ideas.
+                                    - No semantic consistency is an impediment to understanding.
+                                    - I find I'm having to translate into my own glossary of terms.
+                                - I don't really understand Luhmann's conceptual architecture yet.
+                                    - The more I learn, the less I know.
+                - Explore the concept of permanent notes/zettels.
+                    - Explain what a permanent note is in your own words?
+                        - #Reply-from[[Yingyue Liu]]
+                            - A permanent note is a piece of independent and precise summary of an idea. The permanent notes are often written in a way that they can be later connected with other permanent notes. At the same time, they are meaningful alone at anytime.
+                    - What is holding you back from creating zettels?
+                    - What are you unsure about? 
+                        - #Reply-from[[Yingyue Liu]]
+                            - Any way I can develop my standards for a good permanent note and good practice to create good connections between notes to make the slip-box smarter. 
+                - Do you have any questions for [[Sönke Ahrens]]?
+                    - #Reply-from[[Yingyue Liu]]
+                        - When should I delete or at least simplify a note? How can I decide the right size of a slip-box? I suppose to keep the system working, we need to maintain and update the slip-box.
+        - {{[[DONE]]}} **Section 2** [[Breakout Rooms]]
+            - Read everyone in your room's answers to the prompts above and discuss
+                - {{[[POMO]]: 25}}
+        - {{[[DONE]]}} **Section 3** 
+            - [[Graph Meditation]]
+                - {{[[POMO]]: 10}}
+                - Look around the graph, explore what has being created.
+                    - {{[[POMO]]: 8}}
+                - Demonstration from [[Dharam Kapila]] of [[Roam Portal]]
+                    - {{[[POMO]]: 15}}
+        - {{[[DONE]]}} **Section 4** [[Book Club member talk]]
+            - Book Club member talk through by [[Mike Kramer]] 
+                - {{[[POMO]]: 15}}
+            - Zettel discussion 
+        - {{[[TODO]]}} **Section 5: This coming week**
+            - Proposed Zettel process
+            - Timeline to come
+- -------------------
+- #Chat [[Beau Haan 📌]] #RoamPortal ... I mean... I'm speechless... 🤯

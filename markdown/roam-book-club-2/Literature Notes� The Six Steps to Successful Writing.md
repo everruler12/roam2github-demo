@@ -1,0 +1,32 @@
+- "#quote^^The good news is that we can train ourselves to stay focused on one thing for longer if we avoid multitasking, remove possible distractions and separate different kinds of tasks as much as possible so they will not interfere with each other.^^ "
+    - Slip-box is supposed to operate as this simple system. You just make note then you move on to other thing
+    - Makes point for digital minimalism..Also it shows how it is all about the structure/environment we create and surround ourselves in which guides how successful we will be at learning
+        - #Thought How do I create an ideal environment for Spanish learning..bake the exposure into all facets of my life and make it as convenient as possible
+- "#quote ^^Unfortunately, the most common way people organise their writing is by making plans. Although planning is almost universally recommended by study guides, it’s the equivalent of putting oneself on rails.^^" Dont make plans become an expert
+    - How do you "become an expert"
+        - Get to a state of [[Embodied Experience]]- A feel for a process, an acquired intuition for which task will bring one closer to final product and what is only distraction
+            - There is only so much planning and rigidity that you can have in order to do something well. In order to become an expert on something you must make the jump into just doing the thing and building your own intuition of the way the process is done. 
+                - Why you should only follow guides and plans only so far because it keeps you from developing your own insight
+- When taking notes constantly ask questions like: 
+    - "#quote ^^Every step is accompanied by questions like: How does this fact fit into my idea of …? How can this phenomenon be explained by that theory? Are these two ideas contradictory or do they complement each other? Isn’t this argument similar to that one? Haven’t I heard this before? And above all: What does x mean for y? These questions not only increase our understanding, but facilitate learning as well. Once we make a meaningful connection to an idea or fact, it is difficult not to remember it when we think about what it is connected with.^^"
+- Write literature notes in [[Translating]] form- Give the truest possible account of the original work, using different words. Way to envelope whole context as just coining rips from context. Note down ideas of certain pages
+    - Take notes in a way that you will go back to them to produce something more permanent. This includes underlining as long as it supplements our notes or adds context
+- Literature notes are at its core about understanding and grasping text so the length/complexity of one depends on what you need to make sense of it all
+    - Written as a tool to get you to permanent notes
+- Darwin wrote down the arguments against his theory as a way to understand, critique and evolve his own thought
+    - In the context of the slip box you are taking notes based off of whether something adds to a discussion in the slip box.
+        - This is a mental jump from working on the individual project with our preconceived ideas towards the open connections within our slip box
+    - #Thought When thinking about the blog pieces should keep the prompt open, not a set argument --> not "why were developing West Campus poorly" but more researching the method and looking to understand its phrases and meanings
+- Writing brief accounts of the main idea of a given portion of the text is more effective than just underlining quotes bc it is the first step in doing something w/ the text
+    - Point of permanent notes is to see how they connect w/ other ideas of different context, as a way to step out of the arguments of a text
+        - 
+- "Make a career one note at a time"
+- Literature notes as an excercise to gauge our understand/lackthereof
+    - Should act as a way to organize thought from the reading. Doing this just gives more exposure to the material and I could then turn the notes into permanent/transform them into something that can be
+- Permanent Notes as "thinking within the medium of writing in a dialogue w/ already existing notes
+    - In a way forces you to synthesize/work through the thoughts floating in your head
+    - #Thought Integrate the idea (curiosity, question, thought) with the literature notes. The thoughts can act as direction to notes I want to take/look into
+- Ask when writing permanent notes: "why did the aspects of what I wrote down catch my interest
+- In the context of new information that traditionally feels like simply factual information that you have to memorize the method for connected learning is by asking why. Use you intuiotion to dig deeper into why something operates that way and find connections of your past knowledge to really work from --> helps anchor the information as well. If you dont know do a little bit of research 
+    - "#quote Stein et al. illustrate how commonsensical this is on the example of a biology novice who learns the difference between veins and arteries: “[ he] may find it difficult at first to understand and remember that arteries have thick walls, are elastic, and do not have valves, whereas veins are less elastic, have thinner walls, and have valves” (ibid.). But by elaborating a little bit on this difference and asking the right questions, like “why?” the students can connect this knowledge with prior knowledge, like their understanding of pressure and the function of the heart. Just by making the connection to the common knowledge that the heart presses the blood into the arteries, they immediately know that these walls need to sustain more pressure, which means they need to be thicker than veins, in which the blood flows back to the heart with less pressure. And, of course, this makes valves necessary to keep the blood from flowing back. Once understood, the attributes and differences are almost impossible to disentangle from the knowledge of veins and arteries."
+        - Simply trying to memorize the difference btw veins and arteries is not as effective as going to the deeper reason as to why something is the way it is. If going deeper is not realistic, find ways to connect it to other thought

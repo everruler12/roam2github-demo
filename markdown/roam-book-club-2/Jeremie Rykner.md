@@ -1,0 +1,217 @@
+- Jeremie Rykner:: [@JeremieRykner](https://twitter.com/JeremieRykner) Based in [[Jerusalem]] [[Israel]]
+Originally from [[Belgium]] 
+- Website:: [jrykner.com](jrykner.com)
+- Linkedin: https://linkedin.com/in/jeremie-rykner
+- Favourite books:: 
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: y
+- [[🎤 Live Sessions 🎤]]
+    - [[Book Club Live Session 1]]
+        - Wow,impressed by the +220 people that showed up today for the first session, quite overwhelming
+        - So far i'm now at chapter 4, found it much easier and broader then I first thought
+        - [[Goals for Book Club]]
+            - thinking about my own goals from this book and book club, now as i'm not only wanting to note taking for clearing my own thoughts but also for my academic writing as part of my graduate MA degree this year
+            - Hopefully I will read and write more this year and launch a blog
+            - Note taking faster, smarter and more productive
+            - How to resurface information at the right time
+            - Prioritization of notes
+            - wide vs deep notes
+            - ^^**I'm interested in the historical perspective and evolution of note taking, in the greek,roman, middle ages, renaissance, belle epoque, industrial revolution, the baby boomers pre internet and now in the digital age**^^[*](^^**I'm interested in the historical perspective and evolution of note taking, in the greek,roman, middle ages, renaissance, belle epoque, industrial revolution, the baby boomers pre internet and now in the digital age**^^ ) {{[[r/moved]]}}
+            - **How are we notetaking in the information abundance age?**[*](**How are we notetaking in the information abundance age?** ) {{[[r/moved]]}}
+    - [[Book Club Live Session 2]] [[November 8th, 2020]]
+        - {{[[POMO]]: 20}}
+        - Reflection on first reading phase of the book 
+            - What ideas resonate with you from the book
+                - Writing as a process that starts with an input from a thought or a reading is easier if done in a methodological way
+                - Writing is a process not a one time stand alone act, it can be the beginning the middle or the end of your thought and output process #[[Fleeting Notes]]
+                - Having a place to write down, collect and organize your thoughts is critical to your output success #[[Fleeting Notes]]
+                - What is the gist of the book? 
+                    - Write everyday and keep it for future reference in a way that will make it easy to find and flexible enough to fit any future need
+            - Discuss the fleeting note phase
+                - What does the concept of fleeting notes mean to you? 
+                    - Write with the flow, don't overthink it, just write as you think, like a teleprompter of your brain #[[Fleeting Notes]]
+                    - if you don't write it down immediately when the thought first occurs you might lose it forever
+                    - fleeting notes are temporary and should be processed on a regular basis, ideally daily or at least weekly to be put in the right context, and then refined and processed, after which it becomes obsolete and can be deleted
+                - Define a fleeting note in your own words. 
+                    - Output of thoughts in written form, before being reviewed, refined and processed. Raw thoughts in written form? #[[Fleeting Notes]]
+                - How did you take fleeting notes? Discuss your method.
+                    - Write my thoughts as they come without judgement
+                - What is the value of fleeting notes?  For this book, and for previous books you have read? 
+                    - Transfers your understanding of the current situation into words that can be reviewed later, like a snapshot of your thoughts at a particular moment of time in the universe #[[Fleeting Notes]]
+                    - Value of fleeting notes is in transcribing your interpretation of the content you consumed and processed in the raw form in your own brain
+                    - It's value is in my unique version of the interpretation of the book for me at this particular time and place in the universe
+        - [[Breakout Session]]
+            - #Chat #sub [[Juan Caicedo]] [[Adrian Brookes]] [[Yosevu Kilonzo]] [[Moira]] 
+                - Talking about the difference between the 3 types of notes, [[Fleeting notes]] [[Literature notes]] [[Permanent Notes]]
+                - We are talking about the academic context to the 3 levels of note processing 
+                - [[Patricia Soto]] is an academic that was asking about how to write while keeping a chronological timeline
+                    - You can either write in the daily pages or add the date to each note, + you can use the /time  feature to mark the current time 23:22
+                    - Interesting discussion in our breakout session as we had a few academics, to hear how they see Sonke 3 part process of note taking 
++ we talked about how to keep a timeline of your notetaking, I offered using the daily notes, tagging the date + the option to use /time to log the current time 
+
+    - [[Luca Dellanna]] Ergodicity Book on Roam "{{[[DONE]]}} **Section 3 Interview with** [[Luca Dellanna]]"
+        - Interesting idea to publish book on Roam
+        - Good question that was asked is how to keep up with where you are, and what have you read (track your progress) ?
+        - Told us about https://roam-books.com
+    - "Graph Meditation #[[Graph Meditation]]" "{{[[DONE]]}} **Section 4 Graph meditation **"
+        - It's getting better
+        - syncing smoothly today, glad to see the green dot 
+        - So today we were about 80 people, last time +200, so I guess the multiplayer simulteanous editing experience can hold up to about 100 people at the same time
+        - Could be interesting to get a "currently active" users in the graph level, similarly to what you can see in google docs #feature #idea #Chat [[@Matthew McKinlay]]
+        - How to deal with the abundance?  Avoid getting overwhelmed and drowning 
+        - ^^**Multi-dimensional reading and writing experience  in Roam multiplayer graph, challenging and bending the [[Sönke Ahrens]] methodology #[[Fleeting Notes]]**^^
+        - 
+-  How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - "The third typical mistake is, of course, to treat all notes as fleeting ones. You can easily spot this approach by the mess that comes with it, or rather by the cycle of slowly growing piles of material followed by the impulse for major clean-ups. Just collecting unprocessed fleeting notes inevitably leads to chaos. Even small amounts of unclear and unrelated notes lingering around your desk will soon induce the wish of starting from scratch."
+            - I find it challenging to come to the right balance between random fleeting notes and zettels. #[[Fleeting Notes]]
+            - Fleeting notes keep the stream of thoughts flowing, but can lead to chaos #[[Fleeting Notes]]
+            - "Writing is a process not a one time stand alone act, it can be the beginning the middle or the end of your thought and output process #[[Fleeting Notes]]"
+            - 
+        - 
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+            - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)" [*](((LHC51VCE_)))[test ref *]()
+                - Testing how to do that
+            - [*](((x5hx3y9ay)))[*]()
+                - Changes in behavior require a change of habits, thus we need to acknowledge that #[[Literature Notes]]
+                -  
+    - [[Afterword]]
+- Fleeting Notes:: 
+    - Interesting point: ((((fi5Gyhc9N))))
+    -  "I find it challenging to come to the right balance between random fleeting notes and zettels. #[[Fleeting Notes]]"
+    -  "Fleeting notes keep the stream of thoughts flowing, but can lead to chaos #[[Fleeting Notes]]"
+    - "^^**Multi-dimensional reading and writing experience  in Roam multiplayer graph, challenging and bending the [[Sönke Ahrens]] methodology #[[Fleeting Notes]]**^^"
+    - "Transfers your understanding of the current situation into words that can be reviewed later, like a snapshot of your thoughts at a particular moment of time in the universe #[[Fleeting Notes]]"
+    - "Write with the flow, don't overthink it, just write as you think, like a teleprompter of your brain #[[Fleeting Notes]]"
+    - "Writing is a process not a one time stand alone act, it can be the beginning the middle or the end of your thought and output process #[[Fleeting Notes]]"
+    - 
+- 
+- Literature Notes::
+    - ()
+- 
+- [[Live Session 3]] [[November 15th, 2020]]
+    - "How do you take literature notes? Discuss your method."
+        - After reading the book, or articles in questions, and having highlighted interesting sentences or paragaphs, I will export the highlights through [[ReadWise]]and then process the highlights and review them in my graph. 
+Then I will look at those that trigger/ generate any interesting thoughts and write my own notes on them with a block reference or beneath the relevant quote
+        - Thus creating my [[Literature Notes]] based on my own words interpretation of highlighted passages
+        - Next would be to review my [[Literature Notes]] and write [[Zettel]] or [[Permanent Notes]] based on them for long term referencing
+        - With that method I see highlights and random short notes as [[Fleeting Notes]]
+        - 
+    - "What struggles have you had implementing literature notes?"
+        - I see the challenge as allocating the right amount of time for it as part of the process, reasonable time, not too much or too little to legitimize the value as it's a [[Interim]] phase between [[Fleeting Notes]] and [[Permanent Notes]] or [[Zettel]]
+    - 
+    - ""
+        - {{[[TODO]]}} **Section 1 Writing Session**
+            - {{[[POMO]]: 15}}
+                - Pick from the prompts below
+                    - Define a literature note in your own words.
+                    - How do you take literature notes? Discuss your method.
+                    - Have you found value in taking literature notes already?
+                    - What struggles have you had implementing literature notes?
+                    - Describe any enlightening moments you had while taking literature notes.
+        - {{[[DONE]]}} **Section 2 Breakout rooms**
+            - {{[[POMO]]: 5}}
+                - Read everyone in your room's answers to the prompts above
+                - Interesting conversation in the breakout room with [[Julie Freyberg]] [[Shana Pote]] and [[Joey Harris]] discussed each other process and the challenges we face regarding implementing it with regard to our academic readings and the issue of time allocation 
+                - 
+            - {{[[POMO]]: 15}}
+                - Discuss each other's answers
+        - {{[[DONE]]}} **Section 3 Block References**
+            - Demonstration of block references for literature notes in Roam
+            - Group block reference exercise
+        - {{[[TODO]]}} **Section 4 Breakout rooms 2**
+            - {{[[POMO]]: 10}}
+                - Literature note writing exercise
+                    - Take any 2-3 blocks from the book and summarize them
+            - {{[[POMO]]: 10}}
+                - Teach everyone else in your room what you learned from the blocks you summarized and the exercise
+        - {{[[TODO]]}} **Section 5: This coming week**
+            - Finish taking literature notes this week
+                - If you are done, and want to start zetteling, just use the `#zettel` tag on any block you want to make a zettel
+            - We will discuss zetteling next session!
+    - 
+- [[Live Session 4]][[November 22nd, 2020]]
+    - "Pick from the prompts below and write in your own page for 15 minutes."
+        - "Reflect on the book.  What are you impressions? "
+            - #Reply-from[[Jeremie Rykner]] An Academics approach to personal knowledge management focused on productive output
+                - It's important to remember to focus on the outcome not only the process #Zettels [[It's important to remember to focus on the outcome not only the process]] #[[Permanent Notes]]
+            - "At the same time, the readers don't have enough chance to know more about Professor Luhmann. And I even doubt if the author ever tried to understand Professor Luhmann first before he markets this note-taking system to the readers. So it's like a toolbox with not enough context."
+            - "#Reply-from [[Tanner Potter]]"
+                - "The impression I've had about the book is that I need to decrease consumption, while increasing processing and sharing. The best way for me to do that is via writing."
+        - "Reflect on literature notes- useful? Did they help you understand the book in a different way? "
+            - #Reply-from [[Jeremie Rykner]] Bringing in my highlights and giving them my interpretation is helpful in distilling the important parts in my opinion which have value for me 
+        - "Reflect on the work and timeline- has it been easy/hard to get through the phases so far? "
+            - #Reply-from[[Jeremie Rykner]] Like previously mentioned focus should be on the end goal not sticking to much on the techical procedure. It should only assist us in getting closer and safer to our end goal which is the long term retainment and use of #[[Permanent Notes]]
+        - "How is your progress towards your initial goals? Or have they changed?"
+            - #Reply-from[[Jeremie Rykner]]Once I have freed myself from the strict adherence and focus on the outcome I find it easier and helpful to distill the texts I read into practical notes towards turning them hopefully into timeless #[[Permanent Notes]]
+        - "Explore the concept of permanent notes/zettels."
+            - "Explain what a permanent note is in your own words?"
+            - "What is holding you back from creating zettels?"
+            - "What are you unsure about? "
+        - "Do you have any questions for [[Sönke Ahrens]]?"
+    - [[Breakout Session]]
+        -  "Participants: [[Casey Gollan]] [[Eben Halford]] [[Jeremie Rykner]] [[Doug Vahey]] [[Max]] [[Jose Arriaza]]"
+
+            - Discussing how to structure Zettels in a [[Niklas Luhmann]]way, how can we sort them digitally to keep some kind of an architecture?
+            - [[Folgezettel]] the nested sequence of notes is it necessary in a digital system like [[Roam Research]] ?
+            - How to get long term insights and learning with this system?
+            - Structured note taking system vs spatial systems?
+            - The limits of scaling note taking systems both individually and in shared graphs
+    - If you did the right job with turning #[[Fleeting Notes]] into #[[Literature Notes]] then the #[[Fleeting Notes]] become obsolete and can be deleted or archived
+    - #Question [[Jeremie Rykner]]How Permanent is a [[Permanent Notes]] aka #Zettels taking into account it is using **your **own current context of distilling **your **content?
+    - #Question [[Jeremie Rykner]] Could you or someone else understand your own #Zettels 10-20-50years from now without the literature notes?
+    - The notes are not the most important, the connection you make from them and the notes generated through that is the point
+    -  Interesting demo and application for [[Roam Portal]] extension especially across big graphs like this one of the book club where it's easy to drown in the quantity and frequency of notes
+    - 
+- [[Live Session 5]][[November 29th, 2020]]
+    - "Reflect on your own reading and writing practice and habits with this book over the last month. "
+        - The structure, accountability and mutual roam graph has facilitated having a more ritualized reading and reading insights practice
+    - "Reflect on your Zettel process"
+        - I believe you should go with your flow, so whenever you have an insight, thought, idea, question, it should be written down as a first draft, rough Zettel, and then you can refine and distill it into a permanent Zettel if it matures into an evergreen permanent Zettel
+    - "Template - Apply children as text"
+
+        - It's trying to switch from Fleeing Notes to Fleeting Notes, if we don't make it a habit of immediately catching our thoughts onto a sustainable format we will lose most of them like we lose and forget our dreams
+    - "Template - Apply children as text"
+    - [[Live Session 6]]
+        - "Questions for us from [[Sönke Ahrens]]"
+            - "What have you learnt about note taking that I (Sönke) should know about?"
+                - There is some order in the chaos
+                - A systematic approach makes it easier to generate creative deep ideas
+            - "Are there any additions to the process described in the book?"
+                - I would add more practical examples using tech tools
+                - Emphasizing how to handle the  information age overflow
+                - Living in the age of information abundance, the distilling process is different then in the  scarcity age
+            - "Discuss your impression of the range of possibilities and limitations of a Zettelkasten?"
+                - Finding the right balance on input vs time devoted to output
+                - I would be interested in ways this process can be shortened,automated or scaled
+            - "(what use cases does it work for? Are there any examples it doesn't work for?)"
+                - Definitely is built and works for academic writing
+                - ^^**Is there an optimal size for an effective  #Zettelkasten ?**^^
+        - Conversation with [[Sönke Ahrens]]
+            - The secret is using it freely to, just with basic structure to fall back
+            - Roam makes it easier by lowering the treshold
+            - Granularity on the page level is easier thanks to blocks structure on roam
+            - The hierchical sturcture is here to help us distill the notes into usable notes
+            - today he would stress more the balance between the top down and bottom up notes
+            - **building a perfect system won't get you anywhere** #Quotes
+            - ^^**Like Beau said it's not about collecting anymore it's about digesting**^^
+            - 

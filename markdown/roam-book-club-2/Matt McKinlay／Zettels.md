@@ -1,0 +1,31 @@
+- #Zettels [[Zettel claim here]]
+    - #[[Literature Notes]] 
+    - #[[Fleeting Notes]]
+- #Zettels [[Here is the zettel itself]]
+    - #[[Literature Notes]] Include block reference to your literature notes that informed your Zettel
+    - #[[Fleeting Notes]] Include a block reference from the actual book that is the original source
+    - 
+    - 
+- 
+    - #[[Literature Notes]]
+        - ((u8OFT9VtU))
+        - #[[Fleeting Notes]] 
+            - ""Equally manageable is the task of bringing already existing notes into order, especially if half of them already are in order." Searching through a file system with strings of discussions, plenty of material and ideas is, believe it or not, fun. It does not require the kind of focused attention you would need to formulate a sentence or to understand a difficult text. Your attention is rather at ease and it even helps to have a playful mindset. Only with a less narrow focus will you be able to see connections and patterns. You see clearly where long strings of discussions have already been built up–this is a good starting point. If you do look for specific notes, you have an index to turn to. No problem at all so far."
+- 
+- 
+- #Zettels [[Writing is an accumulation process]]
+    - #[[Literature Note]] ((fd7qn71e-))
+    - #[[Fleeting Notes]] ((JFRY5W5vo))
+- 
+- #Zettels [[A reliable Zettelkasten makes the task of writing playful]]
+    - #[[Literature Notes]] ((u8OFT9VtU))
+    - #[[Fleeting Notes]] ""Equally manageable is the task of bringing already existing notes into order, especially if half of them already are in order." Searching through a file system with strings of discussions, plenty of material and ideas is, believe it or not, fun. It does not require the kind of focused attention you would need to formulate a sentence or to understand a difficult text. Your attention is rather at ease and it even helps to have a playful mindset. Only with a less narrow focus will you be able to see connections and patterns. You see clearly where long strings of discussions have already been built up–this is a good starting point. If you do look for specific notes, you have an index to turn to. No problem at all so far."
+- #[[Relevant notes]] [[Overcomplicated]]
+    - "#WIllpower [[Approaching note-taking with a plan in any form is results-oriented and tests willpower in continuing, instead of relying on a structure that confines the process in order to produce insight]]"
+    - "#Dissatisfied [[To continue on the arduous path of expertise, thinking about structure provides rewards through continual insight, that the planner-type only achieves when it is all over and done with]]"
+    - #Zettels [[Create a simple note taking system]]
+        - #[[Literature Note]] Insert lit note here [*](((sZZifNT1C)))
+            - Most people overcomplicate their note taking system. However, a simple system that is reliable is more effective
+                - #[[Fleeting]] Nice example of over engineering a solution to a problem
+            - Mote Lit notes
+        - 

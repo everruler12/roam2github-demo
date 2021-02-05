@@ -1,0 +1,167 @@
+- Kris Nolte:: [@krisnolte](https://twitter.com/krisnolte)
+- Website:: [krisnolte.tumblr.com](krisnolte.tumblr.com), [https://www.are.na/kris-nolte](https://www.are.na/kris-nolte)
+- **Background**: 
+    - Digital learning in higher ed 
+    - Informal education / conversation projects
+    - Knowledge management 
+    - Music (piano, conducting, arranging)
+    - Design and photography 
+- Favourite books:: 
+    - Amusing Ourselves to Death, War and Peace, The Book of Awakening, Thinking in Systems
+- **Currently reading**: 
+    - How to Take Smart Notes, How to Do Nothing, Learning to Change Lives 
+- Link to something you find interesting::
+    - https://www.instagram.com/kensukekoike/
+- **Relevant tools I've used:** 
+    - Evernote, Notational Velocity, Plectica, Kumu, Airtable, Mindmeister, Mindnode, AnkiWeb, Readwise, LINER, Obsidian 
+- Book Club 1 member? (y/n):: n
+- 
+- [[Goals of Book Club]]
+    - [[Goals for Book Club]]
+        - Discover Roam and Zettelkasten.
+        - Compare this approach to my current note taking methods in Evernote. 
+        - Practice and internalize this new method, to whatever extent feels useful. 
+        - Learn how Roamans take notes and think about notetaking. 
+        - Consider how this personal note taking style might inform group notetaking (e.g. improving team knowledge management).
+        - Become more aware and reflective about my note taking habits. 
+        - Learn how to take notes more clearly and succinctly. Finding an elegant structure for them with appropriate levels of detail and abstraction. 
+        - Learn the common traps one can fall into with any note taking method.  
+    - 
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Live Sessions - Roam Book Club 
+    - Session 1 
+        - [[Breakout Room 3 - Session 1]]
+            - Introductions: Who's used Roam?
+            - Goal to finish Sönke's book by next Sunday
+            - Who's in the room: Mario, Michael, Grigori, [[Shana Pote]], [[Kris Nolte]]
+            - Background:
+            - Zettelkasten method (based on Nicolas Lumen)
+            - 'Box of slips' based method
+            - Synchronicity as a goal
+            - Roam recs: JS plugins, Roam 42, learning queries
+            - Zettlekasten uses year, month, date, time
+            - Fleeting notes -> evergreen notes
+            - Zettlekasten note captures the fluid thoughts, persisting over time
+            - [[Questions for Sönke]]
+                - How did you discover Lumen? And why? - Grigori
+                - Why follow Lumen and not another method? - Shana
+                - Have you looked at other methods in comparison? What are your thoughts? 
+                - How would you characterize your book? Is it about writing? Thinking? The particular note taking method? 
+                - What would you hope or expect from a person who masters the book? Related: who is your ideal audience? 
+                - How much does your execution of the method evolve or vary over time? 
+                - How disciplined are you with the system? Do you find yourself abandoning parts of the process?  
+        - Sönke Ahrens talk
+            - Surprised to not see it more adopted in academia
+            - Tried many different systems (HTML, various apps)
+            - ROAM immediately resonated for Sönke 
+            - Hopes: encourage greater interdisciplinary 
+            - Q&A 
+                - Benefits of this style of notetaking: Making connections between notes that are new/old 
+                - It doesn't make sense to take notes on everything. Sometimes better to read more and not take notes. 
+                - How do you see this applying outside of academia? 
+                    - A: Works for many professions, generally. With local adaptations, it can be helpful across industries (business, programming, arts, medicine, and on)
+                - What's lost using software vs. pen/paper?
+                    - Perhaps the memory-enhanced benefits of handwriting? 
+                    - Maybe not 'either/or' though. 
+                    - Roam removes friction in a huge way. 
+                - Warning... 
+                    - Don't look for a perfect system that works in the same way for every scenario. So much depends on the status of different projects... Can help to modulate how many notes you take based on your objectives. 
+                        - Luxury to read and take notes exclusively. Sometimes it's important to focus just on specific project deadlines, or talking with people, thinking, etc. 
+                        - Being flexible as more important than being rigid
+                - How to approach the book? 
+    - Session 2
+    - Session 3
+        - **Define a literature note in your own words.**
+            - A literature note is a high level note meant to distill the essence of a particular source, in your own words. It can also serve as a reference note to compile any block reference commentaries or other pieces of relevant information. 
+    - Session 4
+        - Session 4 Reflection Questions 
+            - "Reflect on the book.  What are you impressions? "
+            - "Reflect on literature notes- useful? Did they help you understand the book in a different way? "
+                - I'm only part-way through turning my Kindle highlights into proper notes, but I've loved the process so far. It's been a useful exercise to boil down particular passages in my own words. I found it helpful to make literature notes that referenced multiple quotes at once. To more directly be forced to synthesize and make my own connections. I'll be curious to see how this builds into a permanent note/zettel, which I suspect will help me understand the book even more deeply. 
+            - "Reflect on the work and timeline- has it been easy/hard to get through the phases so far? "
+                - Reading the book itself went quite smoothly. It's well written and pulls you along just fine. I also have finally  gotten the hang of taking literature notes based on my Kindle highlights (thanks to the Readwise integration and things I've learned from members here), and I've enjoyed that process. 
+                - I'm still unsure if I'm organizing the lit notes in the most effective way, but I understand there's no right or wrong really. So I'll keep on and see how I might change my approach over time. 
+                - It has been hard to bring my lit notes from my personal Roam graph into the public graph. I've relied on manually typing out passages from the book in my block reference searches to link them to my lit notes, which feel pretty onerous. And I haven't yet gotten the hang of excerpting sentences within a ref block. 
+                - I still need more time on lit notes in general, but mostly because it's been a busy week. 
+            - "How is your progress towards your initial goals? Or have they changed?"
+                - I'm on track with my goals. I know much more about the slip-box method than when I started. 
+                - This book club has inspired me to go through the entire 'Beginner to Superuser' YouTube course on Roam by Anonym.s - which has definitely helped me to become more comfortable with the Roam itself. 
+        - [[Session 4 - Breakout Group 9]]
+            - Group members: [[Mary Chipman]], [[Nikki Huang]], [[Kris Nolte]], Christine N, [[Sari Siyam]] 
+            - MC inspired to look back to Luhmann himself and understand how he literally. Going back to the source. -> https://niklas-luhmann-archiv.de/nachlass/zettelkasten
+            - CN - it's easy for notes to get bloated really easily in Roam. That's been tricky to work out/understand. 
+            - MC - One thing that can help is to learn how block references work. It really is important to have structure/scaffolding. "You need a schema."
+            - Anonym.s YouTube course on Roam itself - https://www.youtube.com/playlist?list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC&app=desktop 
+            - Articles on block references: https://costarichard.github.io/tools/roam/roam-blocks/
+            - Sari -- three month rule idea, stick to it for three months to see if it works for you
+            - It's possible to customize the CSS 
+            - NH - using Roam as daily organizer. Previously, Omnifocus. 
+            - Book rec from MC re: writing: https://www.amazon.com/Several-Short-Sentences-About-Writing/dp/0307279413/
+            - Sari - https://nesslabs.com/articles
+            - Alternatives to Roam? The Brain.. though much more mindmappy. 
+            - MC - Evernote became "a dumpster where things went to die."
+        - Group Discussion 
+            - Evergreen notes definition (see [Andy Matuschak's site](https://notes.andymatuschak.org/Evergreen_notes)
+- Literature Notes::
+    - [[Chapter 14. Make it a Habit]]
+        - [*](((x5hx3y9ay))).. KN: It's hard to change our own behavior and helps to be aware of this fact. More experience with a behavior may help us feel more in control, but don't be fooled! 
+- Literature Notes:: 
+    - Your success as a writer, both in terms of quality and speed, hinges on how well you can think through a topic before even making a judgement. 
+        - "To sum it up: The quality of a paper and the ease with which it is written depends more than anything on what you have done in writing before you even made a decision on the topic. But if that is true (and I wholeheartedly believe it is), and the key to successful writing lies in the preparation, it also means that the vast majority of self-help books and study guides can only help you to close the barn door correctly and according to official rules–not just a moment, but many months after the horse has already escaped."
+    - Having a well-oiled process can ease the common motivational challenges that writers face. 
+        - "A good, structured workflow puts us back in charge and increases our freedom to do the right thing at the right time."
+    - David Allen wants us to develop a "mind like water" with his method of externalizing thoughts / todos (GTD). Freeing up our working memory is the ultimate aim. 
+        - "Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a “mind like water”-the state where we can focus on the work right in front of us without getting distracted by competing thoughts."
+    - Niklas Luhmann was fed up with taking notes and marginalia the traditional way. His scribbles just sat. He turned the slip-box into a silent thought partner and serendipity hub to give the ideas vitality. 
+        - "After collecting notes for a while in the way most people do, commenting in the margins of a text or collecting handwritten notes by topic, Luhmann realised his note-taking was not leading anywhere. So he turned note-taking on its head. Instead of adding notes to existing categories or the respective texts, he wrote them all on small pieces of paper, put a number in the corner and collected them in one place: the slip-box."
+        - "His slip-box became his dialogue partner, main idea generator and productivity engine."
+    - Luhmann really let his motivation and interest levels guide the explorations. He found it easiest to not push what he wasn't ready for in a given moment. I presume he would agree with Bucky Fuller's "don't fight forces, use them" mantra. 
+        - "But what is even more impressive than the sheer number of publications or the outstanding quality of his writing is the fact that he seemed to achieve all this with almost no real effort. He not only stressed that he never forced himself to do something he didn’t feel like, he even said: “I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else.”"
+        - "Studies on highly successful people have proven again and again that success is not the result of strong willpower and the ability to overcome resistance, but rather the result of smart working environments that avoid resistance in the first place"
+    - Luhmann took a role-based approach approach to writing. Breaking up the task itself into atomic bits. Giving one part of himself the job of laying out an outline. Then another part later filling in that outline. Yet another to polish the sentences and re-organize them. 
+        - [*](((pAECpc8Gl)))
+    - The slip-box will take on an emergent quality over time. Instead of merely grasping for new ideas/patterns, all one needs to do is open the slip-box and see what conceptual "clusters" have formed. 
+        - ""Do not brainstorm for a topic. Look into the slip-box instead to see where chains of notes have developed and ideas have been built up to clusters. Don’t cling to an idea if another, more promising one gains momentum.""
+    - Seeing lectures is a great way to stay plugged into the current state of research. It's wise to go in there with intent. Bringing ideas and questions that relate to the topic at hand. Even participating in any Q&A. 
+        - "Working as if nothing else counts than writing does not mean spending more time writing at the expense of everything else. Only if we compartmentalise our work into different, isolated tasks will it seem like focusing on writing reduces the time we spend on other tasks. But it does not mean to read less, for this is the main source of the writing material. It doesn’t mean to attend fewer lectures or seminars, because they provide you with the ideas to write about and questions worth answering. Attending lectures is also one of the best ways to get an idea about the current state of research, not to mention the ability to ask and discuss questions. Focusing on writing also doesn’t mean to stop giving presentations or finding other ways of making your thoughts public. Where else could you get feedback for your ideas?"
+        - "Having a clear, tangible purpose when you attend a lecture, discussion or seminar will make you more engaged and sharpen your focus. You will not waste your time with the attempt to figure out what you“should” learn."
+    - You don't want to fall in the hole where you decide that __everything__ is important and worth of being noted. Endlessly compiling ideas is a great way to never actually write. 
+        - "A typical mistake is made by many diligent students who are adhering to the advice to keep a scientific journal. A friend of mine does not let any idea, interesting finding or quote he stumbles upon dwindle away and writes everything down. He always carries a notebook with him and often makes a few quick notes during a conversation. The advantage is obvious: No idea ever gets lost. The disadvantages are serious, though: As he treats every note as if it belongs to the “permanent” category, the notes will never build up a critical mass. The collection of good ideas is diluted to insignificance by all the other notes, which are only relevant for a specific project or actually not that good on second sight. On top of that, the strict chronological order does not offer any help to find, combine or rearrange ideas in a productive sense. It is not surprising that my friend has a bookshelf filled with notebooks full of wonderful ideas, but not a single publication to show."
+        - "^^As he treats every note as if it belongs to the “permanent” category, the notes will never build up a critical mass.^^ [*](((7GWVsCHA5))) #post-lit"
+        - "A typical mistake is made by many diligent students who are adhering to the advice to keep a scientific journal. A friend of mine does not let any idea, interesting finding or quote he stumbles upon dwindle away and writes everything down. He always carries a notebook with him and often makes a few quick notes during a conversation. The advantage is obvious: No idea ever gets lost. The disadvantages are serious, though: As he treats every note as if it belongs to the “permanent” category, the notes will never build up a critical mass. The collection of good ideas is diluted to insignificance by all the other notes, which are only relevant for a specific project or actually not that good on second sight. On top of that, the strict chronological order does not offer any help to find, combine or rearrange ideas in a productive sense. It is not surprising that my friend has a bookshelf filled with notebooks full of wonderful ideas, but not a single publication to show."
+        - "the benefit of note-taking decreases with the number of notes you keep."
+    - Without the higher structure of permanent, more solidified notes that capture your ideas, it will be harder to pen more expansive pieces that span projects and time. These notes should stand alone and be understandable out-of-context. 
+        - "The second typical mistake is to collect notes only related to specific projects. On first sight, it makes much more sense. You decide on what you are going to write about and then collect everything that helps you to do that. The disadvantage is that you have to start all over after each project and cut off all other promising lines of thought. That means that everything you found, thought or encountered during the time of a project will be lost. If you try to mitigate the effect by opening a new folder for every potential new project whenever you stumble upon something that might be interesting for that, you will soon end up with an overwhelming amount of unfinished projects. If that in itself does not become a drag on your motivation, the task of keeping track of them will. But most importantly, without a permanent reservoir of ideas, you will not be able to develop any major ideas over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that."
+    - Drawing circles of inquiry. Thinking back to Gademer's "hermeneutic circle."
+        - "the decision to read something and not something else is obviously rooted in prior understanding, and that didn’t come out of thin air, either. Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically, that is what Hans-Georg Gadamer called the hermeneutic circle"
+    - As a learner, it's vital to consistently seek feedback. 
+        - "Feedback loops are not only crucial for the dynamics of motivation, but also the key element to any learning process. Nothing motivates us more than the experience of becoming better at what we do. And the only chance to improve in something is getting timely and concrete feedback. Seeking feedback, not avoiding it, is the first virtue of anyone who wants to learn, or in the more general terms of psychologist Carol Dweck, to grow. Dweck shows convincingly that the most reliable predictor for long-term success is having a “growth mindset.” To actively seek and welcome feedback, be it positive or negative, is one of the most important factors for success (and happiness) in the long run. Conversely, nothing is a bigger hindrance to personal growth than having a “fixed mindset.” Those who fear and avoid feedback because it might damage their cherished positive self-image might feel better in the short term, but will quickly fall behind in actual performance (Dweck 2006; 2013). Ironically, it is therefore often the highly gifted and talented students, who receive a lot of praise, who are more in danger of developing a fixed mindset and getting stuck. Having been praised for what they are (talented and gifted) rather than for what they do, they tend to focus on keeping this impression intact, rather than exposing themselves to new challenges and the possibility of learning from failure. Embracing a growth mindset means to get pleasure out of changing for the better (which is mostly inwardly rewarding) instead of getting pleasure in being praised (which is outwardly rewarding). The orientation towards the latter makes one stick to safe, proven areas. The orientation towards the first draws the attention to the areas most in need of improvement. To seek as many opportunities to learn as possible is the most reliable long-term growth strategy. And if growth and success are not reasons enough, then maybe the fact that the fear of failure has the ugliest name of all phobias: Kakorrhaphiophobia."
+    - The slip-box is different than an encyclopedia or Wikipedia. It's entirely one author and it evolves as that author learns more. 
+        - "As we are the authors of all the notes, we learn in lockstep with the slip-box. This is another big difference from using an encyclopaedia like Wikipedia. We use the same mental models, theories and terms to organise our thoughts in our brains as in our slip-box. That the slip-box generates an excess of possibilities enables it to surprise and inspire us to generate new ideas and develop our theories further. It is not the slip-box or our brains alone, but the dynamic between them that makes working with it so productive."
+    - We may want to leave unresolved questions in our mind to rumble around. This can take advantage of the "Zeigenard effect."
+        - "Conversely, we can use the Zeigarnik effect to our advantage by deliberately keeping unanswered questions in our mind. We can ruminate about them, even when we do something that has nothing to do with work and ideally does not require our full attention. Letting thoughts linger without focusing on them gives our brains the opportunity to deal with problems in a different, often surprisingly productive way. While we have a walk or a shower or clean the house, the brain cannot help but play around with the last unsolved problem it came across. And that is why we so often find the answer to a question in rather casual situations."
+- #Archived Notes
+    - 

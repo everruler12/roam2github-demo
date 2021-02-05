@@ -1,0 +1,2 @@
+- Levin, Mary E., and Joel R. Levin. 1990. “Scientific Mnemonomies: Methods for Maximizing More Than Memory”. American Educational Research Journal 27 (2): 301–21.
+- 

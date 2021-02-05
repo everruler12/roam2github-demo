@@ -1,0 +1,33 @@
+- A structure for task is ultimately what you need to be more effective since multitasking/generally breaking up our focus is what breaks us
+    - "#quote ^^When we think we multitask, what we really do is shift our attention quickly between two (or more) things. And every shift is a drain on our ability to shift and delays the moment we manage to get focused again. Trying to multitask fatigues us and decreases our ability to deal with more than one task.^^"
+    - "#quote^^The good news is that we can train ourselves to stay focused on one thing for longer if we avoid multitasking, remove possible distractions and separate different kinds of tasks as much as possible so they will not interfere with each other.^^ "
+- Dont make plans as a way to organize for writing because the rigid structure  --> become an expert
+    - What does an expert mean?
+    - In order to be creative you need to jump between a playful, curious mind that can come up with unique thought and a more analytical/focused frame of mind 
+        - "#quote ^^The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame.” (Dean, 2013, 152)^^"
+    - That requires a system that is equally flexible
+        - "#quote ^^Unfortunately, the most common way people organise their writing is by making plans. Although planning is almost universally recommended by study guides, it’s the equivalent of putting oneself on rails.^^"
+        - "#quote ^^The widespread praise for planning rests on the misconception that a process like writing an academic text, which is highly dependent on cognition and thinking, can rely on conscious decision-making alone. But academic writing is an art, as well, which means it is something we can become better at with experience and deliberate practice.^^"
+- Notes on [[Fleeting notes]]
+    - Fleeting Notes are a way for you to store a thought on paper so that you can go back to it later. The less time you take flipping through your book to understand what you said the better. So that means write as a direct reference, explain the thought in full (maybe even have numbers associated w/ the underline you made) and give truest account of original work using different words --> way to envelope whole context as just coping rips from context
+    - Act as short hints of what you feel that is common and may be useful.
+    - Meaningful dialogue w/ read text not copying
+    - 
+    - "#quote ^^Luhmann describes this step as follows: “I always have a slip of paper at hand, on which I note down the ideas of certain pages. On the backside I write down the bibliographic details. After finishing the book I go through my notes and think how these notes might be relevant for already written notes in the slip-box. It means that I always read with an eye towards possible connections in the slip-box.” (Luhmann et al., 1987, 150)^^" #[[Roam Meta]]
+    - [[Z: Work in a way/under a system that allows us to take breaks w/out fear of loosing a thread]]
+        - Notes should be written as a sort of hand off to the next stage of the process. 
+            - At this moment I am trying to work towards underlining content and taking my own notes to synthesize ideas im trying to talk about so that when I come back to take literature notes I dont have to spend time trying to figure out what I was referencing
+                - Could use paper tabs as a way to reference back to something specific
+    - Questions to bring up when making notes #[[Roam Meta]]
+        - "#quote ^^Every step is accompanied by questions like: How does this fact fit into my idea of …? How can this phenomenon be explained by that theory? Are these two ideas contradictory or do they complement each other? Isn’t this argument similar to that one? Haven’t I heard this before? And above all: What does x mean for y? These questions not only increase our understanding, but facilitate learning as well. Once we make a meaningful connection to an idea or fact, it is difficult not to remember it when we think about what it is connected with.^^"
+    - Fleeting notes should act as an outcome of our thinking, including the connections we see
+    - When going back through text focus on rewriting info to make lit notes
+- Write to build connections bc that is what builds thought and knowledge
+- Notes on [[Literature Notes]]
+    - Literature Notes are at its core about understanding and grasping text so the length/complexity of one depends on what you need to make sense of it all
+    - Should be written as a tool to get you to permeant notes
+- The [[Slipbox]] method of note taking is effective at combating confirmation bias because it "#quote ^^turning the whole writing process on its head, and secondly, by changing the incentives from finding confirming facts to an indiscriminate gathering of any relevant information regardless of what argument it will support.^^"
+    - [[Z: You should be looking for all arguments around the issue as a way of rounding the web of information around the topic. Its about whether something adds to the discussion of he slip box ]]
+        - "#quote ^^Charles Darwin. He forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories.^^ "
+    - __When thinking about the blog pieces I should focus on keeping the prompt open, more about discovery and learning rather than proving something wrong even if my intention is to make something critical of the status quo__ #[[Blog ideas]]
+- 

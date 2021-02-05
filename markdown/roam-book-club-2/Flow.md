@@ -1,0 +1,3 @@
+- https://en.wikipedia.org/wiki/Flow_(psychology)
+- "In [positive psychology](https://en.wikipedia.org/wiki/Positive_psychology), a **flow state**, also known colloquially as being **in** **the zone**, is the [mental state](https://en.wikipedia.org/wiki/Mental_state) in which a person performing some activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by the complete absorption in what one does, and a resulting transformation in one's sense of time.
+- Named by [Mihály Csíkszentmihályi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) in 1975,"

@@ -1,0 +1,8 @@
+- "[[Guided Writing Template - Apply children as text]]"
+    - #Zettels 
+        - #[[Reference Notes]] 
+        - #[[Literature Notes]] 
+            - 
+        - #[[Fleeting Notes]] 
+            - 
+- 

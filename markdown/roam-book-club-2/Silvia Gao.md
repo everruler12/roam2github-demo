@@ -1,0 +1,17 @@
+- Marisol Im:: Silvia Gao
+- Website:: 
+- Fleeting Notes:: 
+- Link to something you find interesting::
+- Literature Notes::
+- [[Book Prompts]]
+- [[Writing Prompts]]
+    - [[Charlie Mead]] Has developed [[JavaScript]] plugins
+        - Cite a page 
+        - Grab me one random book prompt
+        - Go to [[plugins/(rand)]]
+        - Go to [[roam/js]]
+        - [[Book Prompts]]
+            - "“A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep on going as the work becomes effortless (Csikszentmihalyi, 1975). Something like that does not happen by chance.” [[Chapter 1. Everything You Need To Know]] [*]([[Beau Haan 📌]])"
+        - [[Writing Prompts]]
+            - "Write about the best book you have ever read, and what made it great. What does this book need to do, to be similar?"
+            - 

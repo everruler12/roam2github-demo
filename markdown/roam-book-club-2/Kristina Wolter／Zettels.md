@@ -1,0 +1,75 @@
+- #[[Relevant Notes]]
+    - #Zettels  [[Energy is limited, yet the right workflow has the potential to excite and move you forward without depleting this valuable resource. ]]
+        - #[[Literature Notes]] [Chapter 8. Let the work carry you forward (paragraph 1)](((RK0T2uHBh)))
+            - Lessons we learned from school about energy can help us understand workflow.  Sometimes workflow demands energy from us, other times workflow has the potential to generate and excite us.  Select a workflow that leverages your limited energy. 
+        - #[[Fleeting Notes]] School theory about energy and workflow - what triggers, excites, and drains
+            - School
+                - I think the criticism is that school didn't teach us well
+                    - We never learned how to apply that concept
+                        - It brings you back to learning and theories
+                            - We're taught something but we forget it
+                                - To apply it to something
+                                    - Resurface what we learned
+                                        - To take away an important message
+                - We learn something and seem to forget it
+            - Energy stands out
+                - It's mentioned a lot, but energy is special
+                    - Limited
+                    - So don't waste it!!!
+                    - I knew people in Uganda that would count the meter
+                        - They knew energy was limited
+                    - We think we live in unlimited resources
+            - Triggered
+                - It reminds me that sometimes
+                    - Tripwire
+                    - Sometimes we have to be smacked if we get too close to the fire
+                        - It has to trigger something
+                            - Otherwise we're blinded
+                - Burst of reality
+            - Reaction
+                - It makes me think of consequence
+                    - Not in the negative way
+                        - A reaction
+                            - Only hope it's a good one
+            - Draining of energy
+                - If we don't want to do something, it takes energy
+                    - It feels wasted
+                        - It could be better used
+            - Workflow
+                - Something I'm trying to master
+                    - That I can feel I made the most out of the time that I have
+                        - If I don't, why were you given that time anyway
+            - Energizing
+                - It feels like goosebumps
+                    - Oooh!
+        - The author helps us recall key points linked to exergonic and endergonic reactions and how energy is either added to the process or generates energy.  
+            - An example of this is work - either it drains us or we get into the grove and can't stop. 
+        - This paragraph sounds like inertia - let's find a system that pulls us, while reserving our precious energy. 
+- 
+- 
+- "Template - Apply children as text"
+    #Zettels 
+        - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
+            - An old habit is strong and will resist any direct confrontation. So instead of confronting an old habit head on, focus your energy on new habits and allow them to grow and build strength through routines - to the point where they will overcome and replace the old habits. 
+            - Instead of hanging a dream catcher hanging beside your bed, find ways to connect a pen and paper to you.  In both cases, the purpose is to capture floating ideas.  
+            - Convert note-taking into 
+        - #[[Fleeting Notes]] 
+            - Trick
+                - it makes me think of the tricks I try to tell myself - but sadly do not always work.
+            - Old habits are hard to break
+                - don't fight old habits.  
+                    - allow them to be consumed by new habits that gain momentum over time
+                        - Linked to behavior change practices, the theme of small doable actions continues to stand out - when I think of new habits. 
+                            - Small steps, feel achievements
+            - Fetch pen & paper
+                - catch your ideas - like a Indian dream catcher, but with pen and paper.  The netting is there to capture the dreams - and so you need to capture these fleeting notes.
+            - routines
+                - brushing my teeth is my most consistant, reliable routine that I do without thinking
+                    - I struggle setting routines
+                        - I sometimes pretend I need a routine, but ignore myself - guess its is not that important to me
+            - 
+- 
+- 
+- The author helps us recall key points linked to exergonic and endergonic reactions and how energy is either added to the process or generates energy.  
+    - An example of this is work - either it drains us or we get into the grove and can't stop. 
+- This paragraph sounds like inertia - let's find a system that pulls us, while reserving our precious energy. 

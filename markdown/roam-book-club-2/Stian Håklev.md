@@ -1,0 +1,212 @@
+- Twitter profile:: [@houshuang](https://twitter.com/houshuang)
+- Website:: 
+    - https://reganmian.net
+    - https://notes.reganmian.net
+    - https://networkedthought.substack.com/
+- Company:: [[Minerva Project]]
+- Location:: near [[Oslo]], [[Norway]]
+- Favourite books:: [[Atomic Habits]]
+- Link to something you find interesting:: [[Awakening from the Meaning Crisis]] - [my notes](https://roamresearch.com/#/app/stian-research/page/vEwAiXSrH)
+- Book Club 1 member? (y/n):: n
+- [[Questions for Sönke]]
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
+- Literature Notes::
+- [[Notes on Awakening from the Meaning Crisis 11]]
+    - https://roamresearch.com/#/app/stian-research/page/P-25jxwhG
+    - Title: Higher States of Consciousness, Part 1
+        - https://www.youtube.com/watch?v=39NpjQDtqNw
+        - Teacher: [[John Vervaeke]]
+        - [[Rika Sukenik]] #Chat watching now. i'm intrigued. I'll need to watch over multiple sessions. I'll leave notes iteratively 
+    - to investigate the [[higher states of consciousness]] we want to look at subjective reports 
+        - [[Rika Sukenik]] #Chat Woah, 30-40% of people have attained enlightenment. I'm curious to see the study to understand 30-40% of how many people? what types of people? where are these people?
+            - [[Stian Håklev]] I know - he references several books, which it would be useful to scan through to look at definitions etc. There is an interview I listened to with Aella, who is now writing a book about enlightenment experiences, and is also interviewing people. Below I paste my notes from that podcast
+                - 
+                    - 'She thinks that she's reached [[normal enlightenment]] through heavy use of [[LSD]]. 
+                        - But other people who she convinced to use LSD have not had the same experience. 
+                    - The host is very positive about [[micro dosing]]. 
+                    - She identified something like six categories of [[enlightenment]]. 
+                        - One is focused on the abilities like controlling their breath and other mental issues that they solve everything and they know how to live happily. One on a feeling like a collection of atoms replicating the universe, very physical and one more spiritual. She's looking to turn this into a book and also has a community forum where these people discuss with each other. Many of them do not describe themselves as enlightened 
+                - [[[[Aella]] the Enlightened Cam Girl Writer and Entrepreneur]] by [[Other Life]] ([[Justin Murphy]])
+                    - https://www.listennotes.com/podcasts/other-life/aella-the-enlightened-cam-IMF4vdaokfu/
+                    - grew up in a fundamentalist Christian home 
+                    - was a [[cam girl]] for five years, 
+                        - learned a lot about [[marketing]] 
+                            - have to get men to compete against each other in a public sphere, for someone higher 
+                            - made $50,000 in her most successful month, 
+                    - lives in a [[rationalist house]] in [[Berkeley]]. 
+                        - Serious and believe that they need to improve the world. 
+                        - A lot of people are working on AI related stuff. 
+                            - Perhaps they're just finding an excuse for the intellectual work they want to do to look like heroes. 
+                        - Very reasonable people. very direct, they might directly ask her to go on a date. 
+                    - She's kind of [[autistic]]. 
+                        - And she went to parties with a list of questions to ask and later turn these into card games that she sells. https://www.askhole.io/ #Conversation
+                    - She is doing research on [[enlightenment]], and has interviewed a number of people. 
+                        - 'She thinks that she's reached [[normal enlightenment]] through heavy use of [[LSD]]. 
+                            - But other people who she convinced to use LSD have not had the same experience. 
+                        - The host is very positive about [[micro dosing]]. 
+                        - She identified something like six categories of [[enlightenment]]. 
+                            - One is focused on the abilities like controlling their breath and other mental issues that they solve everything and they know how to live happily. One on a feeling like a collection of atoms replicating the universe, very physical and one more spiritual. She's looking to turn this into a book and also has a community forum where these people discuss with each other. Many of them do not describe themselves as enlightened 
+            - Also pasting some notes from a previous episode (9) where he talked about Siddharta, and my questions about these "enlightened people"
+                - So they change their whole life. The [[agent arena relationship]] is completely reconfigured. And this is called the [[quantum change theory]], which is a bad name, but it actually happens and I guess this might also be related to how people with [[PTSD]] can use [[psychedelic drugs]] to get better and, and stuff like that because it radically kind of changes your framing, but now he's going much deeper and says it's not just about changing one frame for another, but it's actually seeing some deeper reality that you you seek towards and completely reinterpret your role in the world agent arena figuration 
+                    - 30 to 40% have gone through these kinds of mystical experiences through surveys, and they report that they have a huge increase in meaning in life. And this is across all groups and, and cultures and all religions have these kind of mystical traditions. 
+                    - So these people, apparently, it's the most significant event in their life, it has significantly increased their meaning in life and their capacity for insight and stuff like that. And yet, I don't see these people making huge contributions other than maybe going deeper into certain religions or practices. I'm not sure if the solutions to the climate crisis or socio economic problems are going to come from these people and maybe places like the [[Monastic Academy]] is trying to change that but I'm really curious if this is true, if you know was Einstein – Were all of the great thinkers... – I mean, they might have been very good at making leaps and thinking outside of frames and stuff, but I don't think they reached Buddhist enlightenment. And the people who reached for this enlightenment. Are there examples of them doing this kind of incredible work or is the work that they're doing maybe? Does it change the perception of importance so that the work that we think is very important does not seem important to them. #q
+                    - And that seems crucially connected to this whole concept of a meaning crisis. Because if becoming enlightened, makes you think that nothing matters because we're all just at them and we're all blissful in whatever misery, physical misery, we might find ourselves. That's not really going to address those big crises. So, it will be interesting to see how he pulls that all together. 
+        - How is the world being experienced? 
+        - How is the self being experienced and 
+        - how is the relationship between the self and the world being experienced and 
+            - ^^I guess this is the [[agent arena relationship]]^^
+        - People report that things are vivid, bright, clear, perceptual clarity.
+            - God in the Old Testament is described as **glorious**, and it's not a moral judgment. This is similar to what is described during [[flow]] experiences
+        - There is attentional scaling,
+            - this kind of zooming in and seeing things at an incredible clarity level of detail, but also zooming out and feeling that you can see the whole picture
+                - the whole world.
+        - The world is 
+            - beautiful.
+            - It's very alive.
+            - It is pregnant with energy, and significance.
+        - And all of this comes together in the concept of oneness.
+            - deep and profound integration.
+        - On the side of the self, people report a deep sense of peace,
+            - not peace as an negative absence of conflict. But similar to [[Plato]]'s [[anagoge]], in their harmony.
+            - They often report the deepest sense of peace that they felt in their life? 
+            - And for [[Plato]], this deep peace and connection to reality is connected.
+        - Profound [[joy]].
+            - Joy, we've lost the concept of joy, but this deep sense of contentment, contentment, you feel what You have a connection to what is good.
+        - There is a [[loss of self]]
+            - in the sense of the conscious autobiographical self, and this is similar to the [[flow]] state.
+        - But there is a remembrance of the true self
+            - of [[sati]] - who I really am
+        - tremendous energy and vitality similar to [[flow]] state.
+        - They feel so connected to reality that they conform to it – similar to [[Aristotles]]' [[conformity theory of knowing]]
+            - that they participate in reality
+    - This insight is created through **disruption**
+        - the disruption can be long term 
+            - [[Siddharta]] meditating or practicing mindfulness for six years
+        - or shorter term
+            - like fasting, 
+            - withdrawal from sex,
+            - drumming and 
+            - taking psychedelics,
+        - these practices can be combined. So people who have practiced mindfulness might have more meaningful trips with acid than others.
+    - [[Nirvana]] and [[Moksha]] mean release from the self. So we're moving from an egocentric to an allocentric perspective, because reality becomes so salient that it for some moments, releases us from the obsession of the ego
+        - releases us from the super-salience or the [[bullshitting]] of our own egos.
+    - There is experimental evidence that if you give people a set of pictures that they can make sense of relate to each other, they will report their own lives as being more meaningful than otherwise. So the act of making meaning also makes us see our own lives as more meaningful.
+    - He's saying that the more often you are in [[flow]] states, the more meaningful you find your own life.
+        - ^^And one thought that just struck me is I'm wondering if I sometimes feel in a [[flow]] state when I'm in a very engaged conversation with someone else about an intellectual problem.^^
+        - ^^And whether I'm feeling the lack of that, given my current isolation or working from home, of course I also gain in flow if I am focusing deeply on my work and hopefully through other experiences like kayak paddling or climbing.^^
+        - ^^It's also interesting that the effort of thinking about the way in which I communicate and trying to be less dominating and more socially caring can also be disruptive of the flow state. But I guess if I am able to learn and internalize a more productive way of communicating that would disappear^^ #[[Conversation]]
+    - So comparing insight to flow states, some academics suggest that insight is a [[fluency spike]].
+    - [[fluency]] is a general property of our cognitive processes.
+        - So if I make it easier for you to process information, you will rate it as more trustworthy, more believable than other information. ^^I think he mentioned this in an earlier episode. And I think I've also heard some research around learning when it comes to even things like font and font size and color, and stuff like that. And I guess it could also relate to [[multimodal learning]] - [[cognitive load]]?^^
+        - So it's not simply that it's easier because repeating information does not trigger this. It's somehow related to [[psycho-technology]] and [[the development of literacy]], __although I didn't quite follow the argument.__
+            - There is some evidence that in most environments, fluency of processing is a good heuristic for zeroing in on the things that you should be focusing on.
+    - And so with a fluency spike. If you feel that the processing of information becomes significantly easier, you are also likely to believe it's more real.
+        - ^^Is that why people come out of these experiences, convinced that it's more real? But then it seems that it's very easy to fool you.^^
+    - So, you have insights, [[flow]] is an [[cascade of insights]].
+        - You are picking up on implicit patterns that go beyond the clarity of knowledge, you cannot explain them.
+            - ^^And I remember having a lot of questions about this above about insight from playing games about the potential to be fooled - see [flow in episode 2](((RwT0YRigl)))^^
+            - But he's saying that the key here is that we are getting better and better at distinguishing between [[correlation and causation]].
+                - He talked about interacting with the world as being one way in which we learn about this difference between [[correlation and causation]].
+                    - ^^And I think that's related to [[Piaget]].^^
+            - But I'm not quite sure how this [[flow]] and [[cascade of insights]] actually leads to being better at distinguishing [[correlation and causation]].
+    - He proposes a [[continuity hypothesis]] 
+        - insight -> flow -> mystical experiences -> transformative experiences.
+        - The same machinery is being used by these different processes, but it's being progressively [[exapted]].
+    - **"And when we're talking about Awakening from the Meaning Crisis, we're trying to find the rational guide for this kind of awakening."**
+    - So there's **a continuity hypothesis**, and also **a priming hypothesis**. 
+        - The more you have these little kinds of insights, and flow and so on, the more likely you are to have an awakening.
+    - He's talking about [[the optimal grip]] 
+        - if you want to see something, you move around, move closer or farther away, to get the optimal balance between detail, and [[gestalt]], and the whole thing. 
+            - ^^he's talked about this before, but it's interesting how he draws the parallel to [[drawing]]. If you are drawing a face, you choose this balance, you don't draw one eye that covers the whole page, and you don't draw it as a pinprick in the crowd. ^^
+                - ^^It's interesting to think about this in terms of [[Drawing with the right side of your brain]] and perception. Because a lot of the challenge with drawing is overriding the patterns that are already stored, so how does that relate to seeing something? ^^
+                - ^^And what role does understanding play in drawing, are you simply capturing something blindly, trying to turn off all your semantic parsing and simply tracing rays of light.^^
+                - ^^But of course, you also have a creative side, which is related to semantics, whether you draw a forest scene – dark and heavy and pregnant with meanings, or a cabin, looking very inviting. ^^
+                    - ^^So maybe when you draw, you switch between these modes of capturing the actual reality that you see with the perspectives and the colors and the shades, and seeing the gestalt and object and giving it a meaning and a unity. That is not just simple, simple pixels, arrays of light.^^
+    - Now he's talking about [[martial arts]], and how beginners [[hard-focus]] on the person 
+        - just like a person that's been held up at gunpoint can describe the gun but nothing about the person. (There's research on this.)
+        - And so what you want is [[soft focus]] and an awareness and you want to flow around 
+            - ^^this reminds me of the video on Alexander Technique [*](((vvuqBEwr5))), where he demonstrated this shifting awareness or opening of awareness, creating of space between him and the camera and widening his awareness to the whole room.^^
+                - ^^This is a minute 38.30 if I want to send this to Michael^^
+    - He talks about ontologies and [[the basic level]]. 
+        - So most people would say look at the dog. 
+            - And they would not say look at the mammal. 
+            - But they might say look at the cocker spaniel. 
+            - But most people would would default to the basic level, 
+                - look at the table, look at the pen, not the writing implement. 
+            - And why do we do this? 
+                - We want to optimize the similarity within the level and the difference with other categories. 
+                    - ^^But it's interesting how there might be cultural or socio cultural differences here. Like, people might say, look at the blonde look at the redhead. Whereas I might say, look at the girl or look at the black guy. I wonder if there's other examples. ^^
+                        - ^^I guess if you're in a specialist community, I would say look at the horse and you would say look at the vallak. Because different categories are salient to us based on our knowledge. ^^
+                        - ^^So maybe the point about [[drawing]] is that when you draw, there's a different level of zoom that is optimal. ^^
+                            - ^^But probably you also need to shift between zoom levels when you're doing the shadowing of the eye. And then you're going out and you're looking at, for example, the facial expression. And perhaps this zooming in and zooming out and taking apart and forming the [[gestalt]] is really helpful for [[cognitive flexibility]]. ^^
+                            - ^^And I wonder if there's other examples of this? Is there a parallel to music? to writing?^^
+    - So,  the concept is that [[flow states]] depend on expertise, 
+        - you can only get into flow state in something that you have an expertise in, you have to be at the edge of your capabilities. 
+        - So, what is the expertise that is challenged in these kinds of insights scenario?
+        - And he is suggesting that [[optimally gripping]] (choosing the right balance between gestalt and features) is the main general skill that we've been practicing all of our lives that we use constantly and that is actually an expertise. 
+            - In a [[higher consciousness event]] where we're altering our consciousness, we are seeing much more, we're both seeing much more detail and much more of the whole.
+    - Why are we so hardwired for [[mind wandering]] and [[distraction]]? because it enables [[insight]], it breaks up these frames.
+        - What the disruptive strategies are doing with insights is called the automatisation. 
+        - #Chat [[Rika Sukenik]] Super interesting. I'm currently exploring time boxing mind wandering. Similarly, time boxing procrastination. Have you tried?
+            - [[Stian Håklev]] Curious how you would do time boxing of procrastination? I have looked into a number of ways to structure my time/productivity etc, however it's been more focused on the productive time, than actually encouraging a certain amount of randomness... I guess for me, some of the things I do around retrospectives (shared here https://twitter.com/houshuang/status/1245592946952384516) is introducing a bit of this serendipity, also using spaced repetition for exposure to ideas (inspired by Andy Matuschak)
+        - [[Zach Erving]] is becoming the world expert on mind wandering #research
+        - Mind wandering enhances your capacity to [[insight]]
+        - [[Deautomazation]] increases variation in your brain
+    - ^^And right now I'm walking in the floodlit trail and it is completely pouring down and I am soaking wet and it is quite fascinating.^^
+    - So he's talking about [[perception]], and how, when you want to find out if something's real, you move around it, the more variance you add, and the things stays the same or continuous, the more real you think it is.
+        - But there's **good and bad invariance**, 
+            - if you increase the variance. And you know, this invariance that tells you something about the pattern, what's real. 
+            - But if you keep trying to solve the problem in many different ways, and you you fail to, because there's something about the problem formulation that's stopping you from solving the problem - that's bad invariance. 
+                - And there's a heuristic to help you. And so look across all of your failed attempts, and see what the invariant is. And then try to change that invariant to see if that helps to solve the problem.
+                    - This requires humility, paying attention, noticing your failures. 
+                        - ^^And this is a nice parallel to all the things about [[journaling]], and [[Daily review]] and reflection. And also this concept of a [[Decision journal]], and even of [[algorithms for thought]], that can help us make better decisions as individuals or as groups. ^^
+                        - ^^And it's interesting to think about the difference or similarity between making decisions and solving problems. ^^
+                        - ^^Because often, when you make a decision, you're making it between a preset list of problems. And perhaps the ideal solution is not on that list. ^^
+                            - ^^And here there's a link to the thinking about [[participatory democracy]] as my conversations with [[Sveinung Legard]].^^
+                            - ^^And how, how can you use this heuristic, this idea of changing the framing and Gestalt, zooming in zooming out, for larger organisms, because so far all we've talked about is individuals. ^^
+                            - ^^Larger organisms are composed of individuals acting as individual agents, but there's something more going on. The problem is that you always have interest. You always have biases, ideological beliefs. People trying to manipulate the process in different ways out of fear, out of gain.^^
+                            - ^^And so you cannot assume that it is a disinterested body of people who are trying to come up with the best solutions. How do you correct for that still enable this kind of creative approach? ^^
+                            - ^^And is there anything here from from the writings of [[Johan Galtung]], it would be really interesting to revisit that in light of all of these new ideas. ^^
+    - There's a system of errors. For example, little kids would rather have five candies spaced further apart than five candies close to each other. 
+        - And so we can reliably predict that they will make similar errors. 
+        - And they don't just have an insight on that problem. They have a [[systematic insight]]. And they grow up. And they go to the next stage of development. 
+        - And I'm wondering if this is similar or different from [[conceptual change]], 
+            - so someone learns about gravity, there is a whole range of errors that they will not make. But is this akin to growing up? 
+            - When we're talking about [[intelligent tutoring systems]] and modeling the state of the students misconceptions? Is that the same or is that a different level? 
+            - Because these mechanisms that he's talking about are more fundamental and cross domain? 
+            - I'm also wondering whether he's talking at any point in the series about organisms and organizations, because they are crucial for creating change in the world.
+    - Of course, there are other people that are thinking very deeply about these issues. Like [[Richard D. Bartlett]], who is talking a lot about affinity circles. 
+        - And so what is the relationship between personal development and societal development, but maybe as the intermediary organizational development. And of course, there you have organizational culture, which [[Tomas Björkman]] might have some insights on.
+        - And you have this discussion that goes back to the podcast about [[GameB]], where, in the initial [[GameB]] community, there was actually a significant split, because people could not decide on which goes first. 
+            - But these are actually somewhat separate questions. 
+                - One is kind of changing the entire society, and then you get into questions about systematic change and capitalism and democracy. 
+                - And the other one is a little bit smaller scale talking about participatory democracy, even at the community level.
+    - And I guess that's where Sveinung with his background in direct democracy, and it would be interesting to look at [[Murray Bookchin]], who is kind of the guru there and what he has to say, and I should send him a link to to [[Richard D. Bartlett]].
+    - [[McGee and Barbara]] seeing through illusion into seeing what is real #research
+- #Chat [[Mike Kramer]] ([[@Mike Kramer]])
+    - Hey Mike, not sure you'll see this, but I just wanted to let you know that I just came across your Zettels from the daily page, and I really liked your approach. I really enjoy people who read actively and bring in ideas from other books and approaches. I hope to dig more into your notes later, but if you ever want to chat or just exchange async, it would be fun. I'm at @houshuang on Twitter, or shaklev@gmail.com. Couldn't find you outside of the graph - and I probably won't be on here very often. :) 
+- 
+- 

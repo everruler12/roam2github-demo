@@ -1,0 +1,15 @@
+- [[Chapter 8. Let the Work Carry You Forward]]
+    - #[[Fleeting Notes]] More on flywheel - positive experience from taking and converting notes. If it feels wrong / adjust the approach 
+    - #[[Fleeting Notes]] How can your ideas be wrong 30% of time? Introducing error for innovation / more ambitious ideas. Also relates to "Why am I hesitating to write own ideas in the slipbox? #[[Fleeting Notes]]"
+    - #[[Fleeting Notes]] Redundant and repetitive notes in slip-box are feedback on quality of notes (confirmation bias)
+    - 
+- [[Alex Shchedrin]]
+    - [[RBC/Admin]]
+    - #[[Literature Notes]]  [Chapter 8. Let The Work Carry You Forward](((NcwnhsymJ)))
+        - The process needs to encourage positive experience from each step (e.g. taking notes, converting notes). If a step of experience does not feel positive, i.e. feels wrong, then it needs to be adjusted, as it will bring the whole system down.
+        - More literature notes here 
+    - "#[[Fleeting Notes]] More on flywheel - positive experience from taking and converting notes. If it feels wrong / adjust the approach "
+        - Add more notes here...
+        - [[Chapter 8. Let the Work Carry You Forward]]
+            - 
+- {{[[TODO]]}} Get the timestamp from Audible app? 

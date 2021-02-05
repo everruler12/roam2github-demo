@@ -1,0 +1,14 @@
+- Michael Nieman:: [@hazloquedebes](https://twitter.com/hazloquedebes)
+- Website:: [www.conroymichel.com](www.conroymichel.com)
+- Favourite books:: 
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: n
+- [[Goals]]
+    - I'm interested in experimenting with how to use [[Roam]] to effectively organize my thoughts -- it's got so many subtle features and workflows
+    - I am very interested in the [[zettelkasten]] technique and how to thoroughly process the information I'm consuming
+    - I hope that in a few weeks' time, I will have an established method of processing what I'm consuming, reflecting on it, augmenting it, and re-sharing it with greater context or additional thoughts
+    - I hope that -- more than just "another book on note taking" -- that I'll actually have a new set of practices and routines and habits that I've been able to get in place for when I go forward in my writing adventures
+    - I'm willing to let go of my old habits and presumptions about how to write, and start from scratch with these new ideas, even though they may feel foreign and slower to start, with the trust that they will lead to a deeper and richer knowledgebase for decades to come
+    - I'm willing to be patient with this new approach, understanding that I can't be good at everything when I first start it, and that I should keep a longer-term perspective on how this will change the trajectory of my future
+    - Listening to & observing other people's approaches to the same goals, and being willing to try those techniques to see how well they fit with me personally
+    - 

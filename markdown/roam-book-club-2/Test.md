@@ -1,0 +1,13 @@
+- Denise
+- 
+    - #[[Literature Notes]] [Source](link)
+        - Trust is tested when people go against their natural instincts
+    - #[[Fleeting Notes]] 
+        - it's about trust whether it's earned or given
+        - Even if trust is earned it has to be given
+        - In any relationship
+            - Subordinate type
+        - Which ends in a no good relationship
+        - There's different level of trust
+        - This is a test of trust 
+        - They are going against their natural instincts

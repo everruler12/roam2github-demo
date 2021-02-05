@@ -1,0 +1,9 @@
+- About me
+    - Programmer, interested in languages and people.
+    - Book Club 1 member? (y/n):: n
+- 
+- How to Take Smart Notes:
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - 

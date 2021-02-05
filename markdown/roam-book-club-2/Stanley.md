@@ -1,0 +1,90 @@
+- Twitter:: @st4nI3y
+- Favourite Books:: Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb, Sword of Truth Series by Terry Goodkind, Letters from a Stoic by Seneca
+- Marisol Im:: Stanley
+- Book Club 1 member? (y/n):: Yes
+- About Me:: I am a General Technologist by trade, and a "Security Guy" by passion.
+- Website::
+- [[Book Club Live Session 1]]
+    - Breakout Group Number - (42)
+        - Who was in this group on 11.1.20::
+            - [[Joshua Gerald Butler]]
+            - [[Deb Hart]]
+            - [[Zia Taha]]
+        - What did your group talk about?::
+            - [[Deb Hart]] 
+                - "Roam allows your notes to talk back to you"
+                - "Intellectual Paradise"
+            - [[Joshua Gerald Butler]]
+                - Roam Leads to a more natural way of note-taking
+            - [[Zia Taha]]
+                - The differences between Roam from Wikis 
+        - Any questions for the book club as a whole?::
+        - Our group question for Sönke Ahrens::
+Talk to us about your path to taking smart notes? 
+    - [[Goals for Book Club]]
+        - Learn more about how I naturally thinking/learning. 
+        - Develop a comfort with Roam through using it to do stuff. 
+        - Learn how to consume ideas and core concepts from large pieces of literature
+        - Improve myself.  
+        - Be a constructive member of the club
+        - Better understand "phased reading"
+        -  
+- [[Book Club Live Session 2]]
+    - "{{[[DONE]]}} **Section 1 Writing task** "
+        - "What ideas resonate with you from the book"
+            - The pervasive nature of writing through out our lives, and the under valuation that we seem to assign to it as humans.  The flippant nature we slop text down on to a medium and then move, is amazing.
+            -  The difference of function between keep notes and keeping references.  I have been fixated on trying to use 1 tool for all things when instead I should have broken up this task of Note Taking in to more bite sized pieces, Having a tool that does all things poorly vs having a single tool that does 1 thing very well
+            - The process of learning and writing cannot bet slip apart and neither are linear paths.  There is a structured fluidity to learning and writing that if you become to ridged you spend more time on your system then you do learning and if you become to flexible you'll get nothing accomplished.  There is a balance to the two that must be found, and it seems as if that balance is determined person to person.
+        - "Discuss the fleeting note phase"
+            - "What does the concept of fleeting notes mean to you? "
+                - The concept of a fleeting note equates to a thought.  I have a ton of them in any given day, there is little to no friction around them, and only some of them should actually be pursued however, at the same time I never want to limit the amount of them I have.  It would also be great if I had a place to keep them so I can come back to the ones that I forget. Or to notate the ones I forget on purpose. 
+            - "How did you take fleeting notes? Discuss your method."
+                - I used readwise, and highlighted the things that mattered/were important to me. 
+            - "What is the value of fleeting notes?  For this book, and for previous books you have read? "
+                - Fleeting notes allow you to capture moments of importance, they allow you to take a snapshot of something that mattered or could have mattered.  Fleeting notes allows for one to get their thoughts out of their head and then start to structure/organize them in a sensible way.  Fleeting notes also allows for one to keep track of the nuance around the major points.  
+    - "{{[[DONE]]}} **Section 2 Breakout rooms **"
+        - "Discuss your written notes, and your impressions of the book more generally."
+            - {{[[embed]]: ((((fRSHa5yTx))))}}
+        - "{{[[DONE]]}} **Section 4 Graph meditation **"
+            - #[[Graph Meditation]]
+                - What is the current state of the graph? 
+                    - ITS BIG
+                    - State of individual pages?
+                        - Invidualistic
+                    - Are we developing a writing practice? 
+                        - I don’t know what a Writing Practice is?
+                        - I believe we are Practicing at writing
+                    - Do we need a glossary?
+                        - Examples? 
+                    - What needs work in the graph? 
+                        - Merging pages?
+                - Are beginners able to make sense of what's going on?
+                    - It MIGHT become hard to find stuff….
+                    - I think this is great for Beginners - giving people a reason to do real life things with Roam makes the ideas *stick*
+- Fleeting Notes:: 
+    - [[November 1st, 2020]]
+        - [[Sönke Ahrens]] Talking to the book club - 
+            - a [[zettelkasten]] becomes a dialog partner in your note taking process. 
+            - "New Ideas" are not necessarily "better", and the lack of taking notes forces one to be reliant on "new" ideas
+            - There seems to be a natrual humility to his  approach to information.  Phrases like "I'm not an expert"  come quickly and steadily to his mouth. 
+            - Roam has the huge advantage in that it removes "friction" 
+            - Dialog between the notes
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]

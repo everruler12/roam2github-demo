@@ -1,0 +1,28 @@
+- "{{[[DONE]]}} **Section 1 Writing Session**"
+    - "Define a literature note in your own words."
+        - Translating a thought expressed in a book into your own words.
+        - They do not need to include enough context to stand on their own
+            - But they have enough context so that you don't need to read the original text to make sense of them
+    - "How do you take literature notes? Discuss your method."
+        - I usually look through all the exports that have been imported through Readwise and try to make a new bullet in my own words for each of the ones that I find relevant.
+            - I then create a block reference to the original one below so that I can backtrack to the source
+        - I always highlight the title of a chapter, which makes it easy to sort out my notes once they have been imported
+    - "What struggles have you had implementing literature notes?"
+        - Almost all of my notes turn into summarization
+        - Sometimes a few highlights seem to build towards the same note, but I have a hard time consolidating them
+            - This happens especially when the same theme appears across different chapters
+                - By the time I see find a new fleeting note related to an earlier thought, I'm not sure where that earlier thought was, and I don't want to backtrack to find it
+        - I have not been able to create a daily practice of processing my fleeting notes into literature notes
+            - Usually I go through in one go and process all the fleeting notes once I have finished reading a book
+    - "Have you found value in taking literature notes already?"
+        - They provide me an easy way to scan through the material of a book when I would like to refresh on the content
+        - Putting things into my own words definitely helps me remember more
+    - "Describe any enlightening moments you had while taking literature notes."
+        - Often I realize that the same thoughts have come up multiple times
+            - It's helpful to consolidate all the different wording used by the author into one place, to distill the main idea behind them
+            - Not needing to worry about connecting literature notes while I am writing them helps me focus on just extracting the gist
+- "{{[[TODO]]}} ~~Section 4 Breakout rooms 2~~"
+    - Acknowledge the challenges of changing behavior
+        - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)"
+    - Doing something in the same way makes us feel in control, even when that is counter productive
+        - "We have the best chance to change our behaviour over the long term if we start with a realistic idea about the difficulties of behavioural change (Dean 2013). And that is not so easy, because the more we are used to doing something in a particular way, the more in control we feel about it, even though we are less in control of it. (This is in part also due to the aforementioned mere-exposure error.)"

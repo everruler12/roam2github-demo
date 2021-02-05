@@ -1,0 +1,7 @@
+- "How are you enjoying [[Roam Book Club]]? Describe your experience. #feedback"
+- Use the following tags anywhere in the database:
+    - #feedback
+        - #[[[[feedback]]: What's working]]
+        - #[[[[feedback]]: What could be better]]
+        - #[[[[feedback]]: [[Suggestions]]]]
+        - #bug-reports

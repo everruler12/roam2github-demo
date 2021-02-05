@@ -1,0 +1,5 @@
+- 
+- I like roam.  I writing in roam everyday, and it is become a habit I think. and for the long run, I want to writing in English in my own 
+- I do have a roam account. Otherwise I can't typing in here. But I only have 1 test graph, yes, I am a shamer. I don't want to pollution my (only one, single, or ???) ghaph, and (selfish, ignorant) want to use a free graph (which is this one) , and I think this graph will open to me for a long time which sounds like I have two graph now.
+- I want to read the book again and only take notes in English. Read again, this is the third round, the first two round I take notes in Chinese, and I want to read again, not just because I forgot something so I need to read again, but learn English writing by read a English book, I think this could help me on writing in English.
+- 

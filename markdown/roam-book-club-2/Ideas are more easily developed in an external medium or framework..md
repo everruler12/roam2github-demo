@@ -1,0 +1,6 @@
+- permanent notes
+    - Source: 
+    - Keywords:
+    - Relevant notes:
+    - My notes
+    - questions

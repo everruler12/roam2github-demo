@@ -1,0 +1,11 @@
+- Creating systems to limit the amount of willpower needed to do an action
+    - #quote Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower.
+    - Important for the structure to be simple and straightforward so that we do not get tied up in attempt to following the system correctly
+        - #quote The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward.
+        - "#quote Even hard work can be fun as long as it is aligned with our intrinsic goals and we feel in control. The problems arise when we set up our work in such an inflexible way that we can’t adjust it when things change and become arrested in a process that seems to develop a life of its own."
+        - "#quote The best way to maintain the feeling of being in control is to stay in control. And to stay in control, it's better to keep your options open during the writing process rather than limit yourself to your first idea. It is in the nature of writing, especially insight-oriented writing, that questions change, the material we work with turns out to be very different from the one imagined or that new ideas emerge, which might change our whole perspective on what we do. Only if the work is set up in a way that is flexible enough to allow these small and constant adjustments can we keep our interest, motivation and work aligned–which is the precondition to effortless or almost effortless work."
+        - "#quote We need a reliable and simple external structure to think in that compensates for the limitations of our brains. But first, let me guide you through the process of writing a paper with the slip-box."
+        - Create systems to gather everything thats in our head (thought, what we need to do, any other random thing) and have it in a place to be processed in a standardized way
+            - When it is somewhere outside of our brain it frees up our limited mental resources and allows us to focus on whats infront of us
+- [[Z: Slip box as a dialogue partner, main idea generator, and productivity engine]]
+    - What does this look like for each?

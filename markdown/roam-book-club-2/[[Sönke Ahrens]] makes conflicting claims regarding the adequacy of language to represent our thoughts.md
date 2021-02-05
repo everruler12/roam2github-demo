@@ -1,0 +1,7 @@
+- If I were working in my own database, I would tag this as a structure Zettel.
+- On the one hand, Ahrens seems to affirm the partial independence of internal thoughts from their externalized expression:
+    - #Zettels [[the language we use to communicate with others can never completely represent our thoughts]]
+- Yet, if writing constitutes our thinking, it must be the case that the language in which we are writing represents the thought it constitutes
+    - #Zettels[[making a permanent note constitutes our thinking]]
+- The way that I have formulated the conflict leaves a possible solution open. Language might not represent thought __completely__ but it perhaps __can__ represent thought adequately. 
+    - So, I would reject the strong Feynmann claim that writing constitutes the thought, but I agree that the writing makes the thought (of the good idea) possible by compensating for the inadequate bandwidth of the overloaded working memory. 

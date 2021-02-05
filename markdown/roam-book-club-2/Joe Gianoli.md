@@ -1,0 +1,78 @@
+- 
+- Website:: 
+- 
+- Favourite books:: 
+- [[Book Club Live Session 1]]
+    - [[Questions for Sönke]]
+        - how to integrate zettelkasten and spaced repetition?
+        - for non-academics, what are some helpful insights to help for their given field?
+    - Interview with Sonke
+        - people are being experimentlal and customizing their personal zettlekasten approach
+        - notion of complex vs linear - too many books take 1 concept and apply it to everything - that is over reductive thinking 
+        - then the need for software that does Zettelkasten
+            - ideas have their time - same idea pops up in different places
+        - if we don't take notes - we are floating on new ideas new ideas are not necessarily the best. The moment where you have to make a decision about 2 different notes - I thought this was the same idea - but it isn't.  the moment you have to write something down, the brain has to take over - A DIALOG PARTNER
+        - write down or type?  writing is better
+        - Roam Research removes friction
+        - radical flexibility
+        - Stages
+            - fleeting notes
+            - literature notes
+        - begin with the end in mind - THINK ABOUT HOW YOU WILL USE YOUR NOTES
+        - How he uses [[Roam]]
+            - in Roam he takes longer notes - b/c block level refs
+            - notes as densley connected - note sequences? granularity?
+            - hashtag - one word - and is a table of contents or index or collection pages - allows you to jump to a big page with a bunch of references
+    - Phased Reading
+        - fleeting notes
+        - and then go through
+        - use block references - make comments
+        - then make zettels -or permanent notes
+    - check out '(rand)"
+    - [[Goals of Book Club]]
+        - Develop a system to turn knowledge into wisdom more effectively.
+            - The more interconnected my knowledge is, the more likely it is to become behavior-changing wisdom
+            - regimented
+                - implicit in this systems or process thinking is the necessity of a regimented set of actions
+                - the process itself can be flexible, but in order to see the benefits, certain behaviors must be set and followed - There must be a system!
+                - what are these core behaviors?
+                    - read in kindle
+                    - highlight in kindle
+                    - sync [[ReadWise]] with Roam Research
+                    - return to the highlights pages in Roam
+                    - translate the most important concepts into permanent notes
+    - from [[@Beau Haan]]
+        - Fleeting Notes = Seeds 
+Literature Notes = Digging into the soil
+Permanent Notes = Roots of the trees
+[[Branching Notes]] = Trees in the forest
+Folgezettel = Entangled roots, connecting each tree
+Zettelkasten = The forest
+
+The goal = a forest that grows from the core of who we are!
+- Link to something you find interesting::
+- Book Club 1 member? (y/n):: N
+- How to Take Smart Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+        - write your notes here 
+    - [[Chapter 2. Everything You Need to Do]]
+        - write your notes here 
+    - [[Chapter 3. Everything You Need to Have]]
+        - write your notes here 
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+        - etc 
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- spaced repetition - how to integrate zettlekasten and spaced repetition

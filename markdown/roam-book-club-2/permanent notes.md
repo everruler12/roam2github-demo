@@ -1,0 +1,7 @@
+- Aliases::
+    - #[[Permanent Notes]] — actual notes, **not meta**
+- Related:: [[fleeting notes]], [[literature notes]], [[branching notes]], [[intermediary notes]]
+- Interpretation Discussion:: 
+    - From [[Writing Prompts]]
+        - "What is your [[interpretation]] of [[permanent notes]]?"
+        - "What is the difference between a [literature note]([[literature notes]]) and a [permanent note]([[permanent notes]])?"

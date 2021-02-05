@@ -1,0 +1,36 @@
+- Marisol Im:: Ronda Davis
+- Website:: https://rondadavis.com/
+- Fleeting Notes::
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- [[Book Club Live Session 1]]
+    - {{[[POMO]]: 15}}
+    - [[Goals for Book Club]] [[Goals for Book Club]]
+        - To resume reading "How to Take Smart Notes" and continue making highlights as I learn the concepts presented in the book
+            - Taking Smart Notes
+            - Zettelkasten Method
+            - Creating a system for myself
+            - Creating Zettels
+        - To gain more practice with using the Kindle to Readwise to Roam integration
+        - To gain more experience working with block references, including text and alias
+        - To take time to process the highlights to gain insights that I can use
+        - To understand the benefits (as well as challenges) with working in a Roam multi-player environment
+        - To learn from the insights of others
+        - To be able to share my insights with others (blog article, presentation with others, etc.)

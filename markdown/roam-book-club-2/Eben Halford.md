@@ -1,0 +1,129 @@
+- Name:: Eben Halford
+- Twitter:: @ebstar
+- Website:: [Orgology](https://orgology.substack.com)
+- Work:: Agile Coach/Org Design/Ex CTO
+- Favourite books:: Hidden Connections by Fritjof Capra, Fear and Loathing in Las Vegas by Hunter S Thompson
+- Link to something you find interesting:: 
+- Book Club 1 member? (y/n):: No
+- LIve Session Notes
+    - "What struggles have you had implementing literature notes?"
+        - I got confused between literature notes and fleeting notes and ZK
+        - I guess this is not really so much a struggle as a question of the systems intent
+        - The real struggle is environmental. Having time with 2 kid and a baby to really focus on a book. Easy enough to highlight some text but to fin the pace and time to think has been difficult 
+    - "Define a literature note in your own words."
+        - If literature notes are your recasting, in your own words, of a portion of a book that you find important, what then are Zettles? How are they different.
+    - "Have you found value in taking literature notes already?"
+        - Yes. Thinking through an idea and wondering why it is important to me and then recasting it into my own words has helped me to remember the ideas and even pull them into the context that I felt they triggered for me
+- Fleeting Notes:: 
+- Literature Notes::
+- [[Sonke Ahrens Interview]]
+    - If you don't take notes you're just floating on the new ideas you come across
+    - Ideas can seem similar yet when you write them down you may notice they are different in important ways
+        - Zettelkasten Dialogue partner
+    - Filtering is important - read more take less notes
+    - The system works for a wide variety of professions - avoid taking it as stop by step guide - use it as a launchpad to create a system for yourself
+    - Q: Anything lost by using tech and typing
+        - Maybe? Writing has its place, Sonke often takes handwritten notes before entering into SW - a risk of SW is you think about the SW instead of the content. SW lack of friction
+        - Net benefit is with SW
+    - Q: Routines - Process of writing
+        - Not sure he's developed a routine yet with Roam - early days. 
+        - Routine is attractive - but maybe illusory. Depends on where you are in project
+        - For example sometime you need to immerse yourself in the literature
+        - Deadlines though will create that focus.
+        - Being flexible is important too
+    - Q: What's it like to be the Patron Saint of Roam 😄
+        - (Sonke is being very humble)
+        - He may write a book with an even broader reach?
+        - Happy to have reached a broad audience with HTTSM
+    - Q: How should we read your Book Sonke?
+        - Use the book to create the way you will use ZK
+    - Q: How to ZK in Roam
+        - You can write longer notes - because blocks
+        - Sequences - densely connected notes - dialogue between notes - within one note
+        - Where there is a lack of connection - separate notes
+        - Distinguish between types of links between blocks tags vs longer multi word tags
+        - Page as index's that collect stuff
+    - Q: Difference between individual and collective ZK
+        - Keep them separate - your ZK will be personal to you in style
+        - Sonke will come back and check out how it goes
+- [[Book Club Live Session 1]]
+    - [[Goals for Book Club]]
+        - Have developed a framework for Zettles that works for me
+        - Have met a bunch of interesting people
+        - Have used Roam a lot and have seen others use it so I can learn more of it
+        - Develop a consistent reading habit - never read a book progressively
+        - Have fun
+        - Hear ideas - Share ideas - Synthesise some new ones
+        - Would like to join a GMT/CET [[Meetup]] any takers?
+        - "Enjoy it as a process rather than lament what it isn't yet "
+- #[[Fleeting Notes]]
+- [[Introduction]]
+- [[Chapter 1. Everything You Need To Know]]
+    - "A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas. By breaking down the amorphous task of “writing a paper” into small and clearly separated tasks, you can focus on one thing at a time, complete each in one go and move on to the next one (Chapter 3.1). A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep on going as the work becomes effortless (Csikszentmihalyi, 1975). Something like that does not happen by chance."
+        - #quote ^^A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything.^^ >> Framework. Structure as freedom #[[Fleeting Notes]]
+    - "Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower. This is not only demotivating, but also unsuitable for an open-ended process like research, thinking or studying in general, where we have to adjust our next steps with every new insight, understanding or achievement–which we ideally have on a regular basis and not just as an exception. Even though planning is often at odds with the very idea of research and learning, it is the mantra of most study guides and self-help books on academic writing. How do you plan for insight, which, by definition, cannot be anticipated? It is a huge misunderstanding that the only alternative to planning is aimless messing around. The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward. We do not want to make ourselves dependent on a plan that is threatened by the unexpected, like a new idea, discovery–or insight."
+        - Structure and plans - Framework and Process - Complicated and Complex. Also CDE Model from [Glenda Eoyang](https://en.wikipedia.org/wiki/Glenda_Eoyang) #[[Fleeting Notes]]
+        - Makes reference to insight not being planned. Emergence in complex systems cannot be planned
+        - Flexibility in software dev - dependant on a plan?
+- [[Chapter 2. Everything You Need to Do]]
+- [[Chapter 3. Everything You Need to Have]]
+- [[Chapter 4. A Few Things to Keep in Mind]]
+- [[The Four Underlying Principles]]
+    - [[Chapter 5. Writing is the Only Thing That Matters]]
+    - [[Chapter 6. Simplicity is Paramount]]
+    - [[Chapter 7. Nobody Ever Starts From Scratch]]
+    - [[Chapter 8. Let the Work Carry You Forward]]
+- [[The Six Steps to Successful Writing]]
+    - [[Chapter 9. Separate the Interlocking Tasks]]
+    - [[Chapter 10: Read for Understanding]]
+    - [[Chapter 11. Take Smart Notes]]
+    - [[Chapter 12. Develop Ideas]]  
+    - [[Chapter 13. Share Your Insight]]
+    - 
+    - [[Chapter 14. Make it a Habit]]
+        - Familiarity breeds contempt. Contempt helps us believe that to change is easy. [*](((x5hx3y9ay)))
+- [[Afterword]]
+- 
+- Session 2 Writing
+    - Not in the mood for writing :) wondering if I should skip this session
+    - Ideas that resonate
+        - Emergence, can't plan for inspiration or insight.
+        - Read what is interesting to you
+        - Take notes in your own words - why was it interesting, what context, how does that change your thinking 
+    - Fleeting Notes
+        - I found it very difficult to read this book through fast - felt like I was skimming it
+        - Feels like this is progressive summarisation plus the Zettelkasten method
+- ""
+    - {{[[TODO]]}} **Section 1 Writing Session**
+        - {{[[POMO]]: 15}}
+            - Pick from the prompts below
+                - Define a literature note in your own words.
+                - How do you take literature notes? Discuss your method.
+                - Have you found value in taking literature notes already?
+                - What struggles have you had implementing literature notes?
+                - Describe any enlightening moments you had while taking literature notes.
+    - {{[[TODO]]}} **Section 2 Breakout rooms**
+        - {{[[POMO]]: 5}}
+            - Read everyone in your room's answers to the prompts above
+        - {{[[POMO]]: 15}}
+            - Discuss each other's answers
+    - {{[[TODO]]}} **Section 3 Block References**
+        - Demonstration of block references for literature notes in Roam
+        - Group block reference exercise
+    - {{[[TODO]]}} **Section 4 Breakout rooms 2**
+        - {{[[POMO]]: 10}}
+            - Literature note writing exercise
+                - Take any 2-3 blocks from the book and summarize them
+        - {{[[POMO]]: 10}}
+            - Teach everyone else in your room what you learned from the blocks you summarized and the exercise
+    - {{[[TODO]]}} **Section 5: This coming week**
+        - Finish taking literature notes this week
+            - If you are done, and want to start zetteling, just use the `#zettel` tag on any block you want to make a zettel
+        - We will discuss zetteling next session!
+- "Explore the concept of permanent notes/zettels."
+    - "What is holding you back from creating zettels?"
+        - Not really understanding how to link and group them with index pages - how do you sequence them? 
+        - As I understand it one ZK flows into another or at least links in some kind of sequence perhaps
+    - "Reflect on the work and timeline- has it been easy/hard to get through the phases so far? "
+        - Hard but only because of small kids and work - Sunday comes around fast
+- 

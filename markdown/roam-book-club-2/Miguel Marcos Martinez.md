@@ -1,0 +1,27 @@
+- Twitter:: @MiguelMarcosM12
+- Favourite books:: The Last Navigator, Stephen Thomas
+- Link to something you find interesting:: The Calculator: How Kenneth Feinberg determines the value of three thousand lives. [[https://www.newyorker.com/magazine/2002/11/25/the-calculator]]
+- Book Club 1 member? (y/n):: y
+- [[Book Prompts]]
+    - ""The contemporaries of Henry Ford did not understand why something as simple as the conveyor belt should be that revolutionary. What difference does it make to let the cars move from worker to worker instead of letting the workers walk from car to car? I would not be surprised if some of them even thought of Ford as a bit simpleminded and overly enthusiastic about a rather minor change in work organization. It is only in hindsight that the scale of the advantages of this small tweak became obvious to everyone. I wonder how long it will take until the advantages of Luhmann’s slip-box and work routines become equally obvious to everyone. But by then, everyone will already have known it all along the way." - p. 18"
+        - This is universal with any new metaphor. One could substitute the above example with questioning why one would need to seen an icon of a folder or an icon of a file when a terminal command listing already works. It took a good 10 years for Doug Engelbart's concepts about the GUI, mouse, menus, word processing, and more to make it into the leading edge of the mainstream. Younger people are likely to be mystified why that transition
+        - This happens often with breakthroughs. The history of Doug Engelbart’s achievements comes to mind. He presented the world with the GUI, drop down menus, the mouse, word processing and outlining, and video conferencing in 1968. Terminal users would say why do we need icons for folders and files when the command line list works perfectly well? Society is biased toward continuity and it’s hard for people to open their minds to other ways of looking. This Twitter thread from Palladium Magazine puts it eloquently: https://twitter.com/palladiummag/status/1317557838449831937?s=21
+        - An open mind is critical in the process of designing a personal knowledge workflow. It doesn’t have to be any particular existing process or tool, you have to make it yours, regardless of what others say.
+    - "“That is why the slip-box is not introduced as another technique, but as a crucial element in an overarching workflow that is stripped of everything that could distract from what is important. Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking. The slip-box provides an external scaffold to think in and helps with those tasks our brains are not very good at, most of all objective storage of information.” [[Chapter 3. Everything You Need to Have]] [*]([[Beau Haan 📌]])"
+        - I wonder if there is not a better term than slip box. Perhaps it’s less of an issue for younger generations than it is for me. A slip box was a wooden box of slips of paper meant to jot quick notes down. That gives it more of a to-do or jotter function than a collection of valued, interpreted notes.
+        - Because of the generation I’m from I gravitate somewhat more to the idea of a card catalog (which Luhmann actually had, see https://www.deutschlandfunkkultur.de/media/thumbs/3/3aab1a90ff5682730aedaf7ef6170fafv1_max_635x357_b3535db83dc50e27c1bb1392364c95a2.jpg?key=b15887). Even this, though, only goes so far, as the classic card catalog was a reference tool, not a thinking tool.
+        - Some sort of slip box or card catalog is needed, however. I believe Ahrens is right that this final note destination serves as a scaffolding for hones thinking, outside of the scope of factoids, details, references, and anecdotes.
+- [[Goals for Book Club]] 
+    - I'd like to have a documented understanding of this effort. I am thinking there could be learnings I can use when coordinating large groups for fact-finding purposes. How does a collective group invent its own processes? How easy it to change or improve such a process?
+    - There is no perfect path or method to keeping quality notes. Are the variables and constants I'm not aware of?
+    - For any collective software solution, what can be done to avoid people stepping on each others' toes or duplicating efforts/ideas? Is it just something we should accept as part of the process?
+- **Fleeting notes:**
+    - Breakout Group Number - 25
+        - Who was in this group on 11.1.20:: Sieglinde Geisel, Michael Nieman, Dom, Miguel Marcos Martinez
+        - What did your group talk about?:: Setting up pages, Roam is a bit difficult to learn, interest in the Mobile version to take notes on the fly, handwritten notes vs. typedwritten notes
+        - Any questions for the book club as a whole?::
+        - Our group question for Sönke Ahrens::
+(#[[question for Soenke]])
+    - If there are any Europeans that would like to participate in a [[Meetup]], I'm happy to organize. Please DM me on Twitter: @MiguelMarcosM12
+- **Literature notes:**
+    - 

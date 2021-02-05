@@ -1,0 +1,6 @@
+- "{{[[DONE]]}} **Section 1** [[Writing practice]]"
+- "{{[[DONE]]}} **Section 2** Zettel writing session with [[Beau Haan]]"
+- "{{[[DONE]]}} **Section 3** [[Break Out Rooms]]"
+- "{{[[DONE]]}} **Section 4** Graph Meditation"
+- "{{[[DONE]]}} **Section 5** [[Matt Brockwell]] to explore spaced repetition tools"
+- "{{[[DONE]]}} **Section 6** What's next"

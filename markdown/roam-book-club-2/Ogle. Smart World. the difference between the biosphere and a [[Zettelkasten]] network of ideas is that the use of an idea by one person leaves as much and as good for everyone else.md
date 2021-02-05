@@ -1,0 +1,9 @@
+- keywords::[[Zettels]]
+- source::[[[[Richard Ogle]] Smart World: Breakthrough Creativity and the New Science of Ideas]]
+- relevant links::
+- ------------------------------
+- notes::
+    - {{[[TODO]]}} find the "as much and as good" in Locke's Second Treatise and create a note
+    - [[[[[[Steven Johnson]] Where Good Ideas Come From]] [[Thomas Jefferson]]wrote that an idea is not like property since I do not lose it if I give it to you]]
+- ------------------------------
+- change log::

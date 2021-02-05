@@ -1,0 +1,147 @@
+- **Name:**  Asha Hassan
+- **Website:** none
+- **Company:** student 
+- **Fleeting Notes:**
+- **Literature Notes:**
+- Use
+    - [[spaced repetition]]
+- [[Introduction]]
+- [[Chapter 1. Everything You Need To Know]]
+- [[Chapter 2. Everything You Need to Do]]
+- [[Chapter 3. Everything You Need to Have]]
+    - You only need 4 tools, something to write with and on, a system to reference,  the slip box and a system to edit
+    - notebook or roam for fleeting notes, zotero or roam for referencing, slip box roam, editor??
+    - 
+- [[Chapter 4. A Few Things to Keep in Mind]]
+    - flute analogy, its not the tools its how you use them and improve with them over time
+    - be curious about your system and figure out whats working and whats not. not in the tools but in the whole workflow
+- [[The Four Underlying Principles]]
+- [[Chapter 5. Writing is the Only Thing That Matters]]
+    - writing is not a task that you do, it is the only thing that matters and studying is independant research for the truth
+    - all writing then is a claim on the truth and public when shared with anyone
+        - For me this means that the truth is out there and we just need to keep exploring in the medium of writing to filter and find it
+    - "How does one create a positive feedback loop to continue this practice and set themselves up for success? " 
+    - 
+    - "Well, if you can make the task [“interesting, meaningful and well-defined”](((tIetkYe5Q))), this challenge may take care of itself, right?"
+    - have a clear purpose when attending lectures will help keep you engaged and focused
+        - always ask what is my focus here
+    - see note taking as a technique and try deliberate practise to improve
+- [[Chapter 6. Simplicity is Paramount]]
+    - fleeting notes/underlining/writing in margins is only helpful if in your system you have time to elaborate in your own words. otherwise it has no meaning to you
+    - so literature notes are left ususally in the referenced section to remind you of where and what
+    - then in the slip box is the literature notes but more refined with your lines of thought,  explained to yourself clearly
+    - so types of notes 1. literature- in the refernce system brief expl
+    - permanent notes- in the slip box, completely self explanaotry and linked to your own thinking 
+    - 3 project notes- kept in the project folder then archived (all the bits in the writing)
+    - explore and over time you will see where clusters of your interest emerge. make it a daily habit
+- [[Chapter 7. Nobody Ever Starts From Scratch]]
+    - #[[Zettels]] [[The only way to truly engage and produce something worthwhile is to explore ]]
+        - #[[Literature Notes]]
+            - Immersion in whats 'out there' and relating to texts through externalising and wrestling with them is how we can develop ideas and progress. Letting your mind dictate what you want to find is not the best way instead read and let your inner questions lead you to where you did not know existed
+        - #[[Fleeting Notes]] [Chapter 7. Nobody Starts From Scratch]((((kvk3dCa8w)))
+            - reminds me of learning theories in general- constructivisim?
+            - there is always preconceived notions and ideas based past experiences that are vague in your mind and most importantly no reference to relate it to
+            - The idea is that you're preconcieved ideas are only as good as their source
+            - the best way  to develop them is to play and build on top of each other leading you to a direction you couldn't plan for
+            - it remind me of the quote' you dont know what you dont know' 
+            - Reminds me of the tons of things I've read but forgotten and hasnt really impacted me the way it could've 
+            - think with writing and externalise your thoughts to challenge them and see the weakness 
+            - our brains aren't reliable judges- it can't access all the data so have it down in front of you to analyse and see the patterns 
+            - 
+- [[Chapter 8. Let the Work Carry You Forward]]
+- #Zettels [[There are different types of work, look for what energizes you]]
+    - #[[Literature Notes]] [Chapter 8. Let The Work Carry You Forward](((RK0T2uHBh)))
+        - think of work like a chemical reaction, it can either give energy or take it away zettlekasten system gives you more energy as you take part in it as opposed to other ways that may drain you 
+    - #[[Fleeting Notes]]
+        - It reminds me of my school, chemistry class
+            - The example itself 
+        - When working, just get it done
+            - Most of what I do, it's ticking boxes, where as there's times when it's OMG
+        - Relax after
+            - Netflix and chilling
+        - It causes momemtum
+            - By doing it, it build upon itself, it has it's own energy
+- #[[Zettels]] [[Maintaining Positive feedback loop is essential if you want to go the distance]]
+- #[[Zettels]] [[The slip-box is a door to access and communicate with the large structures in your mind developed over time]]
+    - #ref[Chapter 8. Let The Work Carry You Forward]((((U0D-8ZKaX)))
+- #Zettels[[ Progress can only come when you externalise your thinking for critique (even if only by you). The faster and larger the volume of feedback the futher you will go (ofc only if you act on it )]]
+    - #[[Literature Notes]] [Let The Work Carry You Forward]
+        - Maintaining Positive feedback loop is essential if you want to go the distance 
+        - Growth mindset, making it public and setting up a regular feedback loop with yourself is important because only from that point can you move forward/progress. The larger the volume (over time) and the speed you get feedback the more quickly you can adapt and stay on the track of improvemment.
+        - The slip-box is an extension of you, very personal and allows you to more clearly see the links and connectedness of your ideas/actions. Information is never isolated but always linked to a larger stucture that you can enter through several points. It'll show you how to access these structures and help you see where 1+1 can=3 
+    - #[[Fleeting Notes]] 
+        - thinking of times where I've tried to motivate myself to get things done and how it's not been successful
+            - but then times, being surprised at how easy it was to just get on with things because I decided something was important to me
+                - not just by saying but knowing deeply
+            - I always think about slowing down and finding the thing the will keep you on the PFloop instead of having to nap to recover
+            - I'm lucky enough to have felt this and simply boiled down to me WANTING to do the thing, no guilt, no pep talk needed. It was someting I sought because I liked it/ made me feel good
+        - Growth mindset is not enough 
+            - Mentions actively seeking feedback is necesaary  and the only way to do this is to put yourself out there for criticism 
+            - you can't learn if you stay in the safe zones or if you can't see what you think. you need to be clear 
+            - gowth vs fixed mindset- recurrent theme in a lot of books and I can relate. Not so much in maintainig identity but not wanting to disappoint 
+                - how would that fit in here?
+        - you need to have the feedback loop set up already where you are regularly getting small feedback and improving slowly 
+            - the slip box will force you to look at your permanent notes and relate them to other over time challenging/reinforcing your ideas
+        - Thinking of brain as an index and the more connected our thoughts are the more pathways can trigger a domino effect leading us
+            - slipbox vs wiki/collection of notes is in the connections and how personal it is to you and your own thinking. You will have a direct access to your thinking and how things relate leading to new connections that you couldnt see before 
+        - the effectiveness of one big lump of feedback vs several small feedback is less
+            - if you are constantly seeing the weak points you can fix them quicker and then 
+                - makes me think about future projects and how to present them. make them visible so I can see where I can improve as opposed to keep them hidden until the final bit 
+        - Always test yourself- you brain likes the easy option and may convince you that you understand but only when you put it to the test do you see the actual 
+            - passive Vs Active learning 
+            - MCQ and how you retain for longer 
+            - get your brain working 
+        - 
+- [[The Six Steps to Successful Writing]]
+- [[Chapter 9. Separate the Interlocking Tasks]]
+    - #[[Zettels]]
+        - #[[Literature Notes]] 
+        - #[[Fleeting Notes]][[Chapter 9. Separate the Interlocking Tasks]]
+            - our environment is leads us to have weaker attention spans
+            - TV, SM etc
+            - More impatient
+            - people think they are good at multitasking but its proven they are less effective
+            - its a cognitive bias
+            - Our brain can only do on thing at a time but it means its switching from ne to another really quickly tiring you out 
+            - I can relate how easily distractable I can be and the energy it takes for focus at times
+            - I somehow believe I have to be thinking of other things 
+- 
+- [[Chapter 10: Read for Understanding]]
+    - #[[Fleeting Notes]](((05rA5-SHM)))
+        - writing a good paper is just the last part of a seqeunce you started ages ago
+        - reminded me of my recent ILO and how easy it was to edit for submission after I wrote a messy draft 
+        - collet thoughts and notes in your slip box and just put them toether to make the draft before you edit
+        - by writing something when you read, you are able to 
+        - Makes me think about my SSU and other things that I want to write 
+            - 
+    - 
+- [[Chapter 11. Take Smart Notes]]
+- [[Chapter 12. Develop Ideas]]
+- [[Chapter 13. Share Your Insight]]
+- [[Chapter 14. Make it a Habit]]
+- [[Afterword]]
+- 
+- It reminds me of my school, chemistry class
+    - The example itself 
+- 
+- Coaching Session Review
+    - fleeting notes- whats floating in your mind as you read- jot them down
+    - literature- how can you explain this in your own way to your future self
+    - zettel/permanent note- statement that is public and can be argued for or against by future zettels in relation to your experiences
+        - helpful because over time maybe you can challenge assumptions beliefs that you have made
+            - maybe even write up zettles about longstanding negative/limiting beliefs and explore in your mind what backs up those beliefs, this way you can rewire you thoughts maybe?
+    - when you have lots of zettles then you can categorise, link under the zettle it has a relation to or set it up but worry about this only when you get the basics down 
+    - think in general how to use in day to day
+- 
+- Thoughts
+    - highlight and write some fleeting notes in kindle
+    - also use voice notes for fleeting stage (audible) then process them into literature notes after each chapter of doc/ subsection of data 
+    - make zettels by reviewing fleeting and literature notes 
+    - 
+- When working, just get it done
+    - Most of what I do, it's ticking boxes, where as there's times when it's OMG
+- Relax after
+    - Netflix and chilling
+- 
+- It causes momemtum
+    - By doing it, it build upon itself, it has it's own energy

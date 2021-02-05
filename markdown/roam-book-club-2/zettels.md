@@ -1,0 +1,8 @@
+- Aliases::
+    - [[Zettel]]
+- Related:: [[fleeting notes]], [[literature notes]], [[permanent notes]], [[zettelkasten]], [[slip-box]]
+- Interpretation Discussion::
+    - From [[Writing Prompts]]
+        - 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2F4NBnVnxf_v.png?alt=media&token=5265c7a3-704e-4039-b4d9-c87c99401fe5)
+    - Source:: https://en.wiktionary.org/wiki/Zettel

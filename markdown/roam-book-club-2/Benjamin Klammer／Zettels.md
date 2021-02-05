@@ -1,0 +1,11 @@
+- #[[Relevant Notes]] [[Workflow]]
+    - "#[[Effort at Work]] [[There are different ways to deal with energy at work: ranging from a constant feeding of energy to receiving energy from the work. We should aim for the second one, possibly by setting priorities and values to tasks and decisions.]]"
+    - "#[[Solution]] [[The blank page problem is overcome by a small friction method, easy to adhere to, reducing the mental effort of dealing with complex information.]]"
+    - #Zettels [[Once you put into the effort of work for Zettelkasten-Workflow and stick with it, you will recieve more energy than it costs you.]]
+        - #[[Reference Notes]] [Chapter 8 - Let the word carry you forward. Paragraph 1](((RK0T2uHBh)))
+        - #[[Literature Notes]] Working with a Zettelkasten starts as an exergonic reaction, but continues as an endergonic reaction after you get in the workflow.
+            - Once you get in the workflow fo a Zettelkasten, it will energize you more than it takes energy from you. It starts with an exergonic reaction but after a certain point it changes to endergonic reaction.
+        - #[[Fleeting Notes]] If the Zettelkasten should give you energy in the future, you have to have the guts to work with it everyday.
+            - Energy is a limited amount of source we all have through the day. Roy Baumeister calls this the Ego Deplation. You have to make a lot decisions through the entire day which sort robs you energy and reduces you're ability to regulate/have Voltion/Willpower. 
+            - Stick to the process and try to trust in yourself.
+            - There seems to be a sort of cumulation point where your Zettelkasten doesn't rob you energy anymore. Instead of that it's the complete opposite. It gives you energy and power. You really have to trust the process and keep on trying, than you will get to that point. 

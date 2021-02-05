@@ -1,0 +1,7 @@
+- [[November 8th, 2020]]
+    - ~template 🧩: 11.8.20 report-back from small group
+        - Breakout Group Number - YOURNUMBERHERE
+            - Who was in this group on 11.8.20::
+            - Any struggles or challenges identified?:: 
+            - Anything you are excited about?::
+            - Does the concept of a "Fleeting Note" make sense to you?::

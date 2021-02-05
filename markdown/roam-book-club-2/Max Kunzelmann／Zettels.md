@@ -1,0 +1,137 @@
+- [[December 5th, 2020]]
+    - 12:00
+        - #[[Relevant Notes]] [[Habit]]
+            - "#Ease [[A dependable system allows the tool to disappear and the focusing on the thinking has a sense of ease to it]]"
+            - "#[[Blank Page]] [[Having a practical note-taking system alleviates the biggest struggle when writing--the blank page]]"
+            - "#Structure [[A system that provides a simplified chunking of complex concepts, gives users a structure that they can depend on, developing trust and habit]]"
+            - "#Process [[Simplicity in our process and thought enables the complexity we want in our work.]]"
+            - "#[[Effort at Work]] [[There are different ways to deal with energy at work: ranging from a constant feeding of energy to receiving energy from the work. We should aim for the second one, possibly by setting priorities and values to tasks and decisions.]]"
+            - "#Flow [[When structured thoughtfully, effort at work can become effortless as we enter a flow state of productivity.]]"
+            - "#Workflow [[Once you put into the effort of work for Zettelkasten-Workflow and stick with it, you will recieve more energy than it costs you.]]"
+            - "#[[Diversion]] [[Today's society of constant information makes it seem easier to do several things at the same time, i.e. multitasking, yet it only diverts your focus.]]"
+            - "#Discipline [[There's no need for discipline if you're deeply interested in what you're doing.]]"
+            - "#Reading  [[One should strive to summarize an author's message in a way that is clearly understood and can be communicated to others and easily retrieved as needed.]]"
+            - "#[[Spontaneity]] [[Insights or the birth of new ideas cannot be planned, but the energy to create the space for its birth can.]]"
+            - #Zettels [[Habits lower the required energy to build momentum]] 
+                - #[[Reference Notes]] [Chapter 8 Paragraph 1](((RK0T2uHBh)))
+                - #[[Literature Notes]] Energy of interesting projects can be used to work on projects which are boring or need to be done and building a habit lowers the initial amount of energy required to get into the flow which will produce momentum and energy.
+                    - Exergonic reaction: I need to put energy into this process to keep it going. Like using energy from a different project or different area to work on something which I don't like.
+                    - Endergonic reaction: When this reaction is triggered with some initial amount of energy (habit?), this reaction continues to happen for some time and releases energy which can be used for the same or other projects. Getting into the flow releases energy and keeps me working on some projects. 
+                    - Building a habit can remove or lower the initial amount of energy required to start a process. As soon as this happened, the work itself can create momentum (and energy) to keep us working on a project.
+                - #[[Fleeting Notes]] I can use the momentum and flow of intersting things to work on boring stuff which needs to be done. The way this can be done is to trick myself to like some boring task and working on it for a limited time before working on some interesting task. Building a habit might be very useful.
+                    - My chemistry teacher teacher
+                        - We did those reactions
+                        - My last test with him
+                            - He could explain things really well
+                    - Work is draining draining
+                        - School and University
+                            - You don't want to do, but have to do is straining
+                            - Interesting but some you don't want to do
+                    - Work is energizing
+                        - To go one step further
+                            - I noticed that during my A levels
+                                - Math wasn't a problem
+                                - Didn't like German - boring
+                                - Latin - poem analysis
+                                    - Similarity to German
+                                        - I have to do it
+                        - Flow
+                            - Other get into flow and its energizing
+                    - Get myself to like German
+                        - That changed something
+                            - I need to do this
+                                - I'm going to analyse this poem
+                                    - To get the points and the analysis
+                                    - To do them as good as possible
+                                        - It was cool
+                                            - It's not that hard
+                                                - I tricked myself
+                                                    - This is energizing
+                    - We should look to get into flow
+                        - Keeps you going
+                            - You don't have distractions
+                            - Really focusing on what you want to do
+                            - Don't think of doing the dishes
+                                - Focused on what you want to do
+                                    - A very good point
+                    - Building momentum
+                        - If I'm in sort of a flow - like programming
+                            - That builds momentum
+                                - I don't want to stop until I finish
+                        - Couple of times I started at 8pm, sitting there at 1am
+                            - Very, very useful
+                                - I read about this
+                                    - Multitasking is wasting brain energy
+                                        - Focusing on the problem
+                                            - 2-3-4 hours focusing on the problem
+                                                - Very productive
+                                                - Also important to let the mind wander
+                                                - Going for a walk
+                        - Excited about one project
+                        - Work on what I have to do first, for an hour
+                            - Then go back to what I want to do
+                    - Reading the book Flow
+                        - That's what I wanted to do for quite some time
+                            - Because I heard of the word flow a year ago
+                                - I didn't know what it is
+                                    - I read blog posts
+                                - that book always came up
+                                    - That might be a good read
+                                        - I haven't read it yet is because there are other things that I want to do first
+                                        - I understand from the diagrams
+                                            - I can't know that for sure until l read the book first
+                                                - I grasp the concepts
+                    - Workflow and momentum
+                        - Building habits
+                            - You can actually produce momentum at a certain rate
+                            - A fixed starting point
+                                - Possibility to get into flow
+                                    - Not random, from having a good
+                                        - Forcing it in a good
+                    - ****
+    - 22:20
+        - #[[Relevant Notes]] [[Indentation]] 
+            - "#Flexibility [[Flexibility should allow for focusing in a single topic while saving additional information for later.]]"
+            - "#[[Base]] [[Changing the bases of an idea structure has the most repercussions yet they often seem to be the hardest to change as they already support everything]]"
+            - "#Flow [[When structured thoughtfully, effort at work can become effortless as we enter a flow state of productivity.]]"
+            - "#Ease [[A dependable system allows the tool to disappear and the focusing on the thinking has a sense of ease to it]]"
+            - #[[Zettels]] [[Indenting blocks in Roam keeps related information together and allows to branch into multiple discussions or to add multiple arguments to one key aspect.]]
+                - #[[Reference Notes]] #Video [[R.J. Nestor]] [Indent with Intent: Fundamentals of Roam Research](https://www.youtube.com/watch?v=UTxCbLIifXU)
+                - #[[Fleeting Notes]] By indenting blocks related information can be kept together and correctly referenced in Roam. And it's possible to branch into multiple discussions or arguments from one key aspect.
+                    - indenting keeps __related information together__ and these block can be referenced in a nice way with roam.
+                    - with indenting we can __branch__ from a thought into a discussion and built multiple parallel discussions doing so.
+                    - top bullet is key idea. Further indented notes support that point with other arguments (eg. used for a research paper but also applies in general).
+                    - deeply related to previous thought ($$\rightarrow$$ new indented block)
+                    - **parent-child** relationship.
+                        - The indented block is deeply connected to the previous block
+                    - **sibling relationship**. at the same level
+                        - same, like major points, major concepts. Keep in mind that references do not recognize these siblings because they are not indented.
+                    - make sure to think about how a information relates to the previous block of information.
+                        - deeply connected -> indented
+                        - on the same level of thought -> sibling
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

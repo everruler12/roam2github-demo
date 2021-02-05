@@ -1,0 +1,24 @@
+- Write your zettels on your own page
+- using this structure: 
+- The title of the zettel is tagged #Zettels followed by a claim as a declarative sentence.  That x is like y.  Make the claims about the book, emerging from your literature notes
+    - e.g. #Zettels 
+        - And then below this title include evidence .  
+        - Justification 
+        - Block referencing a particular block from the book 
+        - Or block referencing from your literature notes
+- 
+- #Zettels That note-taking is only useful if structured well
+    - Find some evidence of this, or justification. 
+        - Find a block 
+    - #Zettels [[Include your zettel here]]
+        - #[[Literature Notes]]  
+            - Block reference here
+        - #[[Fleeting Notes]] 
+            - Block Reference here
+            - 
+    - #Zettels [[The Zettel here]]
+        - #Source ((LzPUPtuDJ))
+- #Connection [[The importance of Willpower]]
+    - "#Zettels [[The Zettel here]]"
+    - "#Zettels That note-taking is only useful if structured well"
+    - 

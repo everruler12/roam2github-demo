@@ -1,0 +1,186 @@
+- Name:: Jason Caro
+- Favourite Books:: [[Light In August]], [[The Structure of Scientific Revolutions]], [[How to Take Smart Notes]] 😉
+- Profession:: Mechanical Engineer
+- Timezone:: Bangladesh (GMT+6) and CST
+- Website:: 
+- Location:: [[New Orleans]]
+- Literature Notes::
+    - #quote Every intellectual endeavour starts with a note.
+    - #quote I never force myself to do anything I don’t feel like. Whenever I am stuck, I do something else. #Luhmann
+    - #quote Having read more does not automatically mean having more ideas. Especially in the beginning, it means having fewer ideas to work with, because you know that others have already thought of most of them. Good students also look beyond the obvious. They peek over the fences of their own disciplines
+    - #quote “mind like water” - the state where we can focus on the work right in front of us without getting distracted by competing thoughts.
+    - The Slipbox process should be as seamless and easy to use as possible, from fleeting note to manuscript. From fleeting notes to literature and permanent notes, and then to manuscript.  What does a bad slipbox look like?  One that does not allow efficient note writing or manuscript writing.
+        - #quote Even the best tools won’t make much of a difference if they are used in isolation. Only if they are embedded in a well-conceived working process can the tools play out their strengths. There is no point in having great tools if they don’t fit together.
+    - #quote And this is the other insight of David Allen: Only if you can trust your system, only if you really know that everything will be taken care of, will your brain let go and let you focus on the task at hand.
+    - #quote His texts read as if he is trying to squeeze as much insight and as many ideas as possible into one publication.
+        - *Note:** Density funneling knowledge
+    - #quote Instead of struggling with adverse dynamics, highly productive people deflect resistance, very much like judo champions.
+        - *Note:** Slip box = Martial art of deflecting resistance
+    - #quote Strictly speaking, Luhmann had two slip-boxes: a bibliographical one, which contained the references and brief notes on the content of the literature, and the main one in which he collected and generated his ideas, mainly in response to what he read. The notes were written on index cards and stored in wooden boxes. In a second step, shortly after, he would look at his brief notes and think about their relevance for his own thinking and writing. He then would turn to the main slip-box and write his ideas, comments and thoughts on new pieces of paper, using only one for each idea and restricting himself to one side of the paper, to make it easier to read them later without having to take them out of the box.
+        - *Note:** 2 slip boxes
+        - *Tags:** favorite
+    - #quote while the notes on the literature were brief, he wrote them with great care, not much different from his style in the final manuscript: in full sentences and with explicit references to the literature from which he drew his material.
+    - #quote Writing is, without dispute, the best facilitator for thinking, reading, learning, understanding and generating ideas we have.
+    - #quote Keep it very short, be extremely selective, and use your own words. Be extra selective with quotes – don’t copy them to skip the step of really understanding what they mean.
+    - quote / #[[Literature Notes]] “The idea is NOT to collect but to develop ideas, arguments, and discussion.” - if the whole point was just to collect then one would stop at the Capture phase.  But this is folly!  The real exciting and meaningful work is done in the Processing phase of note-taking.
+        - #quote Make permanent notes. Now turn to your slip-box. Go through the notes you made in step one or two (ideally once a day and before you forget what you meant) and think about how they relate to what is relevant for your own research, thinking or interests. This can soon be done by looking into the slip-box – it only contains what interests you anyway. The idea is not to collect, but to develop ideas, arguments and discussions.
+    - #[[Literature Notes]] Just as one should pay attention to the ratio of intellectual input to intellectual output, one should also pay attention to the ratio of efforts spent Capturing Notes vs Processing Notes.
+    - #quote Write exactly one note for each idea and write as if you were writing for someone else: Use full sentences, disclose your sources, make references and try to be as precise, clear and brief as possible.
+    - #quote Just follow your interest and always take the path that promises the most insight.
+    - #Zettels  The point of a slipbox is to generate insights and then make them public
+        - #quote An idea kept private is as good as one you never had.
+        - #quote Making something public always means to write it down so it can be read. There is no such thing as a history of unwritten ideas.
+        - #quote everything is streamlined towards one thing only: insight that can be published.
+        - Like bicycling, it can only be learned by doing it. Most study guides and academic writing teachers are trying very hard to spare you from that experience by telling you what, when and how to write instead. But they are keeping you from learning the very thing academia and writing is all about: gaining insight and making it public.
+    - #quote The slip-box is the shipping container of the academic world. Instead of having different storage for different ideas, everything goes into the same slip-box and is standardised into the same format.
+    - #quote 1.  Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two. 2.  Permanent notes, which will never be thrown away and contain the necessary information in themselves in a permanently understandable way. They are always stored in the same way in the same place, either in the reference system or, written as if for print, in the slip-box. 3.  Project notes, which are only relevant to one particular project. They are kept within a project-specific folder and can be discarded or archived after the project is finished.
+    - #quote Only if the notes of these three categories are kept separated it will be possible to build a critical mass of ideas within the slip-box.
+    - #quote He always carries a notebook with him and often makes a few quick notes during a conversation. The advantage is obvious: No idea ever gets lost. The disadvantages are serious, though: As he treats every note as if it belongs to the “permanent” category, the notes will never build up a critical mass. The collection of good ideas is diluted to insignificance
+    - #quote The third typical mistake is, of course, to treat all notes as fleeting ones. You can easily spot this approach by the mess that comes with it, or rather by the cycle of slowly growing piles of material followed by the impulse for major clean-ups. Just collecting unprocessed fleeting notes inevitably leads to chaos. Even small amounts of unclear and unrelated notes lingering around your desk will soon induce the wish of starting from scratch.
+    - #quote The only permanently stored notes are the literature notes in the reference system and the main notes in the slip-box. The former can be very brief as the context is clearly the text they refer to. The latter need be written with more care and details as they need to be self-explanatory.
+    - #quote Permanent notes, on the other hand, are written in a way that can still be understood even when you have forgotten the context they are taken from. Most ideas will not stand the test of time, while others might become the seed for a major project.
+    - #quote structure your workflow according to the fact that writing is not a linear process, but a circular one: the problem of finding a topic is replaced by the problem of having too many topics to write about.
+        - Is good writing (and therefore thinking) perhaps "spiral" shaped in its process like the way Boyd's scientific realism gradually spirals into proving itself real?
+        - Should one pay attention over time to if their writing is spiralling in on more micro-concepts and conclusions, or spiralling out into more bigger and broad concepts and questions?
+        - Perhaps one should pay attention to the ratio of the tendency of their writing/thinking to spiral in or spiral out.  And perhaps spiralling in or out can both be considered progress and both lead to interesting conclusions and insights.
+        - What the heck are we even talking about? What does spiralling in or out actually describe? Is it just broader and more specific concepts or can the spiral pattern be used to track other variables as well?
+    - #quote These studies help to solve a puzzle that has bothered psychologists who study creative people as well. “On one hand, those with wandering, defocused, childlike minds seem to be the most creative; on the other, it seems to be analysis and application that’s important. The answer to this conundrum is that creative people need both … The key to creativity is being able…
+        - *Note:** #creativity is the ability to shift between generalized playful and childlike openness to narrow analytical and rigorous analysis.  In order for creativity to work, these modes of operation need to maintain separation from each other, or else they risk dragging each other down.  One is never as creative or as  rigorous as they could be if they allow rigor to trample on sessions of creative thinking or if they allow creativity to soften the sharpness of rigorous analysis.  This separation might be the key to thriving with #IntellectualDuality
+    - #Zettels  The slipbox process is about gaining insight, and then eventually acting on that insight
+        - Actions can include
+            - Making it public: writing an essay or a podcast
+            - Self Improvement: using it to improve my own life
+            - Entrepreneurial: the basis for a prototype or whitepaper
+        - #quote  But they are keeping you from learning the very thing academia and writing is all about: gaining insight and making it public.
+    - *Note:** Lit notes should not be a project in and of themselves.  they serve the slipbox.  that is all.
+        - #quote You need to take some form of literature note that captures your understanding of the text, so you have something in front of your eyes while you are making the slip-box note. But don’t turn it into a project in itself. Literature notes are short and meant to help with writing slip-box notes. Everything else either helps to get to this point or is a distraction.
+    - #Literature Note The external mental scaffolding of my slipbox and writings are required for clear rational thinking because my human brain cares more about making me feel like I have a coherent view of the world than actually having one.
+        - #quote The brain, as Kahneman writes, is “a machine for jumping to conclusions” (Kahneman, 2013, 79). And a machine that is designed for jumping to conclusions is not the kind of machine you want to rely on when it comes to facts and rationality – at least, you would want to counterbalance it.
+- Zettels::
+    - #Zettels [[Confirmation bias increases when note taking systems struggle to capture complexity]]
+        - #[[Literature Notes]] Confirmation bias will tend to increase when we can't capture complexity adequately in our notes
+            - "Thankfully, we don’t have to choose between usability and usefulness. Quite the contrary. The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles. The simplicity of the structure allows complexity to build up where we want it: on the content level. There is quite extensive empirical and logical research on this phenomenon (for an overview: cf. Sull and Eisenhardt, 2015). Taking smart notes is as simple as it gets."
+            - "When we take permanent notes, it is much more a form of thinking within the medium of writing and in dialogue with the already existing notes within the slip-box than a protocol of preconceived ideas. Any thought of a certain complexity requires writing. Coherent arguments require the language to be fixed, and only if something is written down is it fixed enough to be discussed independently from the author. The brain alone is too eager to make us feel good–even if it is by politely ignoring inconsistencies in our thinking. Only in the written form can an argument be looked at with a certain distance–literally. We need this distance to think about an argument–otherwise the argument itself would occupy the very mental resources we need for scrutinizing it."
+    - #Zettels [[When used properly, the Zettelkasten will increase the ratio of intellectual output to intellectual input]]
+        - #[[Literature Notes]] "Writing helps articulate what is missing in your thinking [*](((5LSeCJWB5)))"
+        - #Zettels [[Writing speculative outlines increases intellectual output]]
+            - Supporting Claims:
+                - #Zettels [[Speculative outlines are a forcing function for creating permanent notes]]
+                    - #[[Literature Notes]] One cannot outline an original position without some original insights
+                        - "2. A similar though less crucial kind of link collection is on those notes that give an overview of a local, physical cluster of the slip-box. This is only necessary if you work with pen and paper like Luhmann. While the first type of note gives an overview of a topic, regardless of where the notes are located within the slip-box, this type of note is a pragmatic way of keeping track of all the different topics discussed on the notes that are physically close together. As Luhmann put notes between notes to internally branch out subtopics and sub-subtopics, original lines of thoughts were often interrupted by hundreds of different notes. This second type of note keeps track of the original lines of thought. Obviously, we don’t need to worry about this if we work with the digital version."
+                    - External Source:
+                        - Andy Matuschak
+                            - Create speculative outlines while you write
+                            - https://notes.andymatuschak.org/Create_speculative_outlines_while_you_write
+                - #Zettels [[Speculative outlines create a stepping stone between notes and manuscript writing]]
+                    - #[[Literature Notes]] The jump to writing a manuscript is easier when an outline already exists
+                        - "Since writing is nothing more than the revision of a rough draft, which is nothing more than turning a series of notes into a continuous text, which are written on a day-to-day basis, connected and indexed in the slip-box, there is no need to worry about finding a topic to write about. Just look into your slip-box and see where clusters have been built up. These clusters are what caught your interest again and again, so you already know that you have found material to work with. Now you can spread out these notes on your desktop or use the outliner of the Zettelkasten, outline your argument and construct a preliminary order of sections, chapters or paragraphs. This will make questions, which are not answered, obvious, and it will show the gaps in the argument that need to be filled and make visible which parts still need some work."
+                    - #[[Literature Notes]] Our understanding of complex arguments, or our own arguments, is bound to change overtime
+                        - "Outlining or changing the outline is also a very different task that requires a very different focus on something else: not on one thought, but on the whole argument. It is important, though, to understand outlining not as the preparation of writing or even as planning, but as a separate task we need to return to throughout the writing process on a regular basis. We need a structure all the time, but as we work our way bottom-up, it is bound to change often. And whenever we need to update the structure, we need to take a step back, look at the big picture and change it accordingly."
+    - #Zettels [[Every slipbox needs some capacity for responsible speculation]]
+        - Speculation is an important part of the creative intellectual process.
+            - When one has a hunch about something, there needs to be a means to record this hunch, even if it is wild and cannot be defended yet.
+        - Responsible speculation happens when one follows up a speculation with an important question.
+            - What else has to be true, in order for this to be true?
+- How should we accommodate "hunches" / "speculations" in a slipbox that is otherwise filled with zettels which are, by my definition, well-supported claims?  
+    - Are speculative claims and well-supported claims capable of interacting with each other productively?
+        - Does their interaction reduce the level of rigor in a slipbox?
+            - How does one ensure their inclusion does not lead to sloppy thinking?
+- Best of Daily Notes Discussion:
+    - "#Chat [[Edvardo Archer]] I have come across several passages of the book that has refined my knowledge of what [[The Slip-box is **NOT**]]. What are the notes you are taking to help you understand what it is and isn't?"
+        - "As an extension of our own memory, the slip- box is the medium we think in, not something we think about"
+            - "#Reply [[Beau Haan 📌]] This is such a powerful sentence, because it contextually reframes the idea of note-taking from--containing information to wrestling with knowledge"
+            - ""As the slip-box is not a book with just one topic, we don’t need to have an overview of it. On the contrary, we are much better off accepting as early as possible that an overview of the slip-box is as impossible as having an overview of our own thinking while we are thinking. As an extension of our own memory, the slip-box is the medium we think in, not something we think about. The note sequences are the clusters where order emerges from complexity. We extract information from different linear sources and mix it all up and shake it until new patterns emerge. Then, we form these patterns into new linear texts.""
+                - "#Reply-from [[Jason Caro]] really well said Edvardo."
+    - "#Chat [[Jason Caro]] Does anyone use title prefix conventions to distinguish between different types of notes?"
+        - "I currently use the following prefixes:"
+            - "Z: Permanent Note"
+            - "L: Literature Note"
+            - "Q: Open Question"
+            - "H: Hypothesis"
+            - "T: Theory"
+                - "#Reply [[Beau Haan 📌]] Although this way of distinction is effective, I think there's a more powerful way of approaching this within [[Roam]]"
+                    - "I'm of the opinion that the questioning and hypothesizing is actually part of the [[Zettelkasten]] process, so as the `Permanent Notes` continue to build one after the next, that questioning, supporting, and undermining happens naturally as part of the way this system works"
+                    - "How else would it? If I am adding notes in a nested sequence that gives me a sense of dialogue then the conversation has to build, negate, support, and expand just like if it was happening with another person, but this system uses those same principles but with the most interesting person we know--__ourselves__"
+        - ""The Z: prefix has the advantage of distinguishing permanent notes from other types of notes.""
+            - ""I am not yet convinced this is a long-term solution.""
+                - ""Does a [[Zettel]] title prefix (i.e. "Z:") scale well for thousands of permanent notes?""
+        - "#Reply-from [[Matt Brockwell/MJB]] I'm leaning towards hashtags for this purpose simply because they are more fluid and merge-able later"
+            - "#Reply-from [[Kate Foy 🌱]] I use an emoji in the title - I see it quickly - and reference the natural world from seedling to branch to tree. Eccentric, maybe, but it works for me. I'm a visual kinda gal. 😀"
+                - "#Reply-from [[Jason Caro]] This is an interesting approach, as I sometimes find myself getting tired of seeing a bunch of "Z:"s and "Q:"s in the titles. An emoji element could be a cool option! 😎"
+            - "#Reply-from [[Jason Caro]] I hear you on using something that will be more "fluid and merge-able" later.  Roam's future roll-outs of [[attributes]] and search [[filtering]] features could make title [[prefixes]] obsolete. "
+                - "For now, the main advantage of using title [[prefixes]] seems to be during [[inline tagging]]."
+                    - "In the middle of writing a note, one can type a double-bracket, a "Q:", and a key-word. They then see all of their open questions related to that key-word."
+                        - "I'm not sure if this will scale well to thousands of notes, but for now it presents the ability to do "filtering on the fly" without leaving the body of a note."
+            - "#Reply-from [[Jason Caro]] I suppose another fundamental question is if [[title prefixes]] limit the human mind's journey toward insight?"
+                - "Does putting notes into "categories" limit the [[openness]] of the [[Zettelkasten]] system?"
+                    - "Does the mind become distracted by title prefixes or can they be paid attention to only when they are relevant and helpful?"
+    - "#Reply-from [[Jason Caro]] I hear you on using something that will be more "fluid and merge-able" later.  Roam's future roll-outs of [[attributes]] and search [[filtering]] features could make title [[prefixes]] obsolete. "
+        - "For now, the main advantage of using title [[prefixes]] seems to be during [[inline tagging]]."
+            - "In the middle of writing a note, one can type a double-bracket, a "Q:", and a key-word. They then see all of their open questions related to that key-word."
+                - "I'm not sure if this will scale well to thousands of notes, but for now it presents the ability to do "filtering on the fly" without leaving the body of a note."
+    - "#Reply-from [[Jason Caro]] I suppose another fundamental question is if [[title prefixes]] limit the human mind's journey toward insight?"
+        - "Does putting notes into "categories" limit the [[openness]] of the [[Zettelkasten]] system?"
+            - "Does the mind become distracted by title prefixes or can they be paid attention to only when they are relevant and helpful?"
+    - "#Reply-from [[Nicole Drumhiller]] All of my highlights are in the physical book. From here I've created literature notes but have placed these into #Zotero. For my permanent notes, I've created a section on my page and outlined the book and then have written out things in a manner that they are in permanent form, but I'm still struggling with the best way to save these in my own graph for future use. Basically, I'm trying to figure out what a permanent slip-box would look like in Roam."
+        - "#Reply-from [[Jason Caro]] I am trying to figure out the same thing. Keeping one's [[Literature Note]]s in a separate system like [[Zotero]] is an interesting option, because it seems to align with the way [[Luhmann]] constructed his own [[Zettelkasten]]."
+    - "#Chat [[Siva Arunagiri]] [[Sönke Ahrens]] talks about using [[zettelkasten]] numbers but I think we wouldn’t need those numbers on [[Roam Research]]. What do you all think about it? "
+        - "#Reply-from [[Matt McKinlay]] Great question Siva! I have been thinking about the same.  My thoughts- "
+            - "I don't think a numbered system is required or would be useful. "
+                - "Roam generates IDs automatically at block level (amazing) and I think numberered system would primarily be an equivalent/competing ID system."
+                - "Bi-directional links on both pages are the equivalent too of a numbered system. "
+                - "Creating a numbered system adds extra overhead and potential confusion to implement collectively."
+                    - "#Reply-from [[Siva Arunagiri]] this is exactly what I was thinking as well. Numbering would just add extra overheads and like you have said about Bi-directional links would do the trick of connecting notes. "
+            - "However, it promotes sequence in the development of zettels"
+                - "#Reply [[Beau Haan 📌]] This IS [[Folgezettel]]"
+                - "Benefit of a numbered system is that it promotes sequence between notes. "
+                    - "e.g. Can see not only links between notes, but numbered sequences so can see in what order notes became linked"
+                    - "But, I still think we can achieve the sequence with noting dates explicitly, e.g. on date picker, as well as automatically by using daily notes. "
+                        - "#Reply-from [[Jason Caro]] Great point. If one is able to design a workflow to construct their [[Zettelkasten]] from the Daily Notes page, then the sequencing would be automatic."
+            - "I would like to experiment with a template for zettels though, which would have an attribute for links to other notes. "
+        - "#Reply-from [[Alex Shchedrin]] There is something beautiful in simplicity of proximity relationship between notes, i.e. note 1a and 1a1 and 1a2 are all related in a cluster, and it is visible with the alphanumeric system. "
+            - "I wonder if instead of numbers the sequence/proximity relationship could be achieved in [[Roam]] with block referencing (or perhaps embedding) permanent notes on a single page in an outline format, in addition to other means to connect notes, such as block references and tags."
+            - "I am still developing this idea or mapping tools available within Roam to the workflow that would be the most natural and simple to me."
+    - What is your definition of fleeting notes?
+        - "[[Alex Shchedrin]] Fleeting notes are captured temporary reminders of thoughts, questions, and ideas that appeared in our consciousness. The capture process needs to be as frictionless as possible (not to disrupt the flow of reading or listening). You also need to trust that you will (1) process them eventually and (2) when processing will still remember the thought, question or idea enough to consider turning it into a permanent note. (also related to [reflection on phase 1](((ZbAlynTq-))))"
+    - "#[[Daily Writing Prompt]] "Should you delete your [[fleeting notes]] in a [[Roam]] [[zettelkasten]]?""
+        - "In the old days it would have been difficult and impractical to keep fleeting notes. But now we can keep them as the space they consume is virtual. It is possible to hide them and ignore them easily. We can also flag ones that also present some kind of value and have them cluster randomly together in queries as mentioned [[November 8th, 2020]] in the call by [[Shana Pote]]"
+            - "I rather like the definition of a fleeting note by [[Beau Haan 📌]] "
+                - "[[The fleeting note is the highest order of connectedness, captured, or else lost to the abyss]]"
+            - "early 13c., "fickle, shifting, unstable," from Old English __fleotende__ "floating, drifting," later "flying, moving swiftly," from present participle of __fleotan__ "to float, drift, flow" (see [fleet](https://www.etymonline.com/word/fleet?ref=etymonline_crossreference#etymonline_v_38622) (v.)). Meaning "existing only briefly" is from 1560s. Related: __Fleetingly__. - https://www.etymonline.com/word/fleeting"
+                - "#Reply [[Beau Haan 📌]] #flowstate 🤯"
+                    - "#Reply [[Wade Dominic]] Exactly. It is the thoughts that float across different literature/thinking. The pattern recognition. "
+        - "[[Alex Shchedrin]] in my personal graph I am exploring sending fleeting notes into the future with the delta function (alt + shift + enter on a Mac), and then reviewing and editing them the next day. Once edited, it is sent in the future again, and again, and again. Initially the wording may change, the details and connections may get added, at a later stage a related note may appear below. "
+            - "I am still figuring out that process, but something about sending a note to your future self is fascinating. "
+                - "I notice that I [keep writing about it](((sZXaBxGMn)))"
+    - ""#quote ... note-taking flies mostly under the radar: We don’t experience any immediate negative feedback if we do it badly.""
+    - 
+- [[Live Session 6]]
+    - "Questions for us from [[Sönke Ahrens]]"
+        - "What have you learnt about note taking that I (Sönke) should know about?"
+        - "Are there any additions to the process described in the book?"
+        - "Discuss your impression of the range of possibilities and limitations of a Zettelkasten?"
+        - "(what use cases does it work for? Are there any examples it doesn't work for?)"
+    - "General review questions "
+        - "Reflect on your impressions of the book "
+        - "Reflect on your note taking and reading. What if anything, has changed?"
+        - "Do you plan to continue your Zettelkasten from here?  "
+- [[Live Session 7]]
+    - "The book promotes a bottom up approach to note taking, which we have used in Book Club. Reflect on this. How did this feel? "
+        I suspect the bottom up approach to note taking is mostly correct. It allows one to aggregate "ground-level" insights and facts prior to deciding on "higher level" conclusions. Besides helping to prevent confirmation bias, this method also makes it easier to guide research. One only has to follow their intuition to decide what to read, so long as they take [[smart notes]] along the way.
+        A slip-box without any top down elements is also just as problematic. For one, outlining is a critical stepping stone towards manuscript writing. Without outlines we will be lost trying to translate a sea of notes into a logical flow of paragraphs.
+        A slip-box also needs some amount of capacity for speculation.  
+    - "Refer to the #Zettels page. Any favourites? Any why?"
+        - " #Zettels Taking #[[Permanent Notes]] is a [3-step](((iSTOcChsD))) research process that involves [evaluating the connections between ideas](((JClYkAXzm))), [identifying a gap in the connections](((SjWuC1KTM))) and [proposing a new idea to fill the gap](((nxcSssVrI)))."
+            - This is interesting. Is identifying a gap in the connections and proposing a new idea to fill the gap, the basis for connection between notes?
+        - "#Zettels [[In seeking truth, writing should be both the means and the end]]"
+            - We cannot fully engage with claims until they are written out explicitly.
+            - The desired output of a Zettelkasten is a well-written manuscript of true claims.
+        - "#Zettels [[Flow energizes the work you do so the energy should be put into creating a structure which incubates that flow]]"
+            - How do I create a slipbox structure that encourages mental flow states?
+        - [[Z: By treating writing as the only thing that matters, it changes the intentions behind the way in which you study/conduct research]]
+            - Am I structuring my slipbox to make the transition to writing manuscripts as easy as possible?
+        - "#Zettels [[Z: Creating structures to work in, not plans to follow is critical to staying in control of our work]]"
+            - 
+        - "#Zettels [[Simplicity in our process and thought enables the complexity we want in our work.]]"
+        - "#Zettels [[Once you put into the effort of work for Zettelkasten-Workflow and stick with it, you will recieve more energy than it costs you.]]"

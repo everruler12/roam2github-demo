@@ -1,0 +1,3 @@
+- [[Thought capture methods]]
+- Reasoning
+    - [[Willpower is a limited resource and the brain naturally prioritizes short term interest]]

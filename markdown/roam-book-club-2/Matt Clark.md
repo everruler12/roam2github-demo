@@ -1,0 +1,25 @@
+- Twitter:: @mclark37
+- Instagram::  https://www.instagram.com/mclark3737/
+- Interests:: Football, Reading, Peloton, Tennis, D&D, Faith, and more than a little obsessed with the new Ford Bronco.
+- Favorite Authors:: Robert Jordan, Joe Abercrombie, Patrick Rothfuss, Brandon Sanderson, Tim Ferris, N.T. Wright, Donald Miller, & Michael Lewis
+- **Company:** Wells Fargo Bank N.A. (CIB Securities Operations) 
+- Literature Notes::
+    - [[Introduction]]
+    - [[Chapter 1. Everything You Need To Know]]
+    - [[Chapter 2. Everything You Need to Do]]
+    - [[Chapter 3. Everything You Need to Have]]
+    - [[Chapter 4. A Few Things to Keep in Mind]]
+    - [[The Four Underlying Principles]]
+        - [[Chapter 5. Writing is the Only Thing That Matters]]
+        - [[Chapter 6. Simplicity is Paramount]]
+        - [[Chapter 7. Nobody Ever Starts From Scratch]]
+        - [[Chapter 8. Let the Work Carry You Forward]]
+    - [[The Six Steps to Successful Writing]]
+        - [[Chapter 9. Separate the Interlocking Tasks]]
+        - [[Chapter 10: Read for Understanding]]
+        - [[Chapter 11. Take Smart Notes]]
+        - [[Chapter 12. Develop Ideas]]  
+        - [[Chapter 13. Share Your Insight]]
+        - [[Chapter 14. Make it a Habit]]
+    - [[Afterword]]
+- Fleeting Notes:: 
