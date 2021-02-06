@@ -1,8 +1,0 @@
-- keywords::
-- source::
-- relevant links::
-- ------------------------------
-- notes::
-    - some [[Permanent Note]]s reproduce at a high rate and proliferate in the [[Zettelkasten]] and thus are adaptive and evolutionarily successful, while others are nonadaptive and evolutionary dead-ends.
-- ------------------------------
-- change log::
