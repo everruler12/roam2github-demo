@@ -1,12 +1,5 @@
 name: "Roam Research backup"
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-      - cron: "0 * * * *"
-
 jobs:
   backup:
     runs-on: ubuntu-latest
