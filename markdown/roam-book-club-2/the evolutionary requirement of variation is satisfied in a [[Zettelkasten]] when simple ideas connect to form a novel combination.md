@@ -1,7 +1,0 @@
-- keywords::
-- source:: self. inspired in part by [[Books/Where Good Ideas Come From]]
-- relevant links::
-- ------------------------------
-- notes::
-- ------------------------------
-- change log::
