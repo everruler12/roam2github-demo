@@ -1,3 +1,0 @@
-- #[[Literature Notes]]
-    - "#quote ^^Charles Darwin. He forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories.^^ "
-    - "The [[Slipbox]] method of note taking is effective at combating confirmation bias because it "#quote ^^turning the whole writing process on its head, and secondly, by changing the incentives from finding confirming facts to an indiscriminate gathering of any relevant information regardless of what argument it will support.^^""
