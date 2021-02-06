@@ -1,3 +1,0 @@
-- [[Writing Prompts]]
-    - "What's your current note taking process?"
-    - 

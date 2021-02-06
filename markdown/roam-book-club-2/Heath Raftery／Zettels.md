@@ -1,7 +1,0 @@
-- "Template - Apply children as text"
-    - #[[Zettels]] [[Make the process a habit chain: reading creates the urge to have pen & paper; having note creates the urge to make permanent notes. That way it's not a chore and you'll wonder why anyone does it any other way!]]
-        - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
-            - Taking Smart Notes should be an extension of existing habits into new ones. It should not feel like a chore.
-        - #[[Fleeting Notes]] the techniques will only be practical if they become habit. Then they will become painful to not do!
-            - Certainly seems sensible that a habit will be necessary in order for these note taking techniques to actually happen. At the moment it seems like a lot of work. That's the power of habit I suppose - instead of exercising willpower and working hard to make it happen, it becomes routing and almost automatic.
-            - The holy grail is looking at others that don't do it with derision! Haha, reminds me of the frustration and expert has around novices - how can you work so inefficiently??

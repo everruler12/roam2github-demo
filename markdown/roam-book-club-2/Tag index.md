@@ -1,5 +1,0 @@
-- There are going to a billion tags created. 
-- With the help of a few Roamans, the goal is to attempt to build a tag index. 
-- 
-- **Theme**
-- 

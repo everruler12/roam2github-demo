@@ -1,1 +1,0 @@
-- ^^**I'm interested in the historical perspective and evolution of note taking, in the greek,roman, middle ages, renaissance, belle epoque, industrial revolution, the baby boomers pre internet and now in the digital age**^^ {{[[∆]]:27+2}}

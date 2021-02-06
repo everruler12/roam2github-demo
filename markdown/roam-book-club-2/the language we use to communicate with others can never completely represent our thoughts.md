@@ -1,7 +1,0 @@
-- source:: 81 "Taking permanent notes of our own thoughts is a form of self-testing as well: do they still make sense in writing? Are we even able to get the thought on paper? . . . Writing here, too, is not copying, but translating (from one context and from one medium into another). No written piece is ever a copy of a thought in our mind." [*](((tjWCJM6Cr)))
-- He says this right after reiterating a point he makes frequently: permanent notes based on readings must be translated from the author's words into our own words because we are taking the author's words out of context and putting them into our own context.
-- This is why the quotation has the word "too." Because just as we must translate the work of others, so TOO, we must translate our own thoughts.
-    - I find this somewhat unsatisfying. Since he uses the word "too" and he uses "translate" for both cases, why can't we translate our thoughts? He does seem to believe we can translate adequately the symbolic meanings of others. Does he believe our own thoughts are non-symbolic, in whole or in part?
-        - The Feynmann example says that his notes __are__ his thinking process. So, Ahrens must believe that the "written piece is . . . a copy of a thought" in his mind.
-            - “No, no!” Feynman protested. “They aren’t a record of my thinking process. They are my thinking process. I actually did the work on the paper.” [*](((CenVMab1s)))
-            - 

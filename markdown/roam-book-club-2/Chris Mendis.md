@@ -1,4 +1,0 @@
-- Marisol Im:: Chris Mendis
-- Company:: [Format](https://www.format.com)
-- Fleeting Notes::
-    - Hi there! 👋I'm a web developer, based in Toronto, Ontario, Canada. I got interested in Roam through Product Hunt and Kevin Rose. I was introduced to "Taking Smart Notes" through a Roam onboarding session that I attended a few weeks ago.

@@ -1,3 +1,0 @@
-- Aliases::
-    - [[intermediary notes]] — discussion ABOUT the idea/concept (meta) 
-- Related:: #[[Fleeting Notes]], #[[Literature Notes]], #[[Permanent Notes]], #[[Branching Notes]], #[[Intermediary Notes]]

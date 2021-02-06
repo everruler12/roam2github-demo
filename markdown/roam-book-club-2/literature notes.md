@@ -1,8 +1,0 @@
-- Aliases:: 
-    - #[[Literature Notes]] — actual notes, **not meta**
-- Related:: [[fleeting notes]], [[permanent notes]], [[branching notes]], [[intermediary notes]]
-- Interpretation Discussion::
-    - From [[Writing Prompts]]
-        - "What is your [[interpretation]] of [[literature notes]]?"
-        - "What is the difference between a [literature note]([[literature notes]]) and a [permanent note]([[permanent notes]])?"
-        - "In what [[tone-of-voice]] should a [literature note]([[literature notes]]) be written?[*](((nwItsAHTd)))"

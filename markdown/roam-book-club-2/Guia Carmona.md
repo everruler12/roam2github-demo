@@ -1,7 +1,0 @@
-- **Twitter:** https://twitter.com/guiacarmona1
-- **Website:** https://unbuenplan.blog/
-- I am a translator from Spain living in Germany. I traslated [[How to Take Smart Notes]] into [[Spanish]] it was published a month ago.
-    - I am also running a book club for the book in Spanish, check it out [here](https://unbuenplan.blog/2020/11/01/leer-el-metodo-zettelkasten-y-tomar-notas-en-comunidad/)
-- 
-- **Fleeting notes:**
-- **Literature notes:**

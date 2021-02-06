@@ -1,6 +1,0 @@
-- Website: https://www.insightfulhour.com
-- Favorite books: So many!
-- Book Club 1 member: n
-- Book Notes:
-    - [[Introduction]]
-    - 

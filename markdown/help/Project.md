@@ -1,5 +1,0 @@
-- {{[[DONE]]}} Item #now
-- {{[[DONE]]}} Item #next
-- {{[[DONE]]}} Item  #future
-- 
-- 

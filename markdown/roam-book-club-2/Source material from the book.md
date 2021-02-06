@@ -1,2 +1,0 @@
-- More notes
-- traditional page

@@ -1,3 +1,0 @@
-- [[Directory]]
-- Public page
-- 

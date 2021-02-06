@@ -1,3 +1,0 @@
-- Reference
-    - 
-- #Thought When thinking about the blog pieces should keep the prompt open, not a set argument --> not "why were developing West Campus poorly" but more researching the method and looking to understand its phrases and meanings

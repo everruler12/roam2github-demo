@@ -1,6 +1,0 @@
-- Name:: 
-- Website:: 
-- Company:: 
-- Fleeting Notes:: 
-- Literature Notes::
-- 

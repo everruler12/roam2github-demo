@@ -1,9 +1,0 @@
-- [[Scott M]]
-    - I want to work on an idea I added to my slip box 1 year ago: is it right to find a note in your slip box (or is that what the reference is for?)or to create an idea from a note in your slip box?
-    - 
-- [[Julie F]]
-    - Is some of this (thinking/advice) different for writing poetry?  How, and how not?  He did only include very specific types of writing in saying who this book was for - student, academics, nonfiction writers.  Curious about this.
-- [[Chinarut]]  [[December 5th, 2020]]
-    - {{embed: ((-WSJRX3kL))}}
-- [[Antonette Laderas]]
-    - {{[[embed]]: ((((Vf-E3Aspt))))}}

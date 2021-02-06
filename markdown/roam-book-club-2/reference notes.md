@@ -1,4 +1,0 @@
-- Related:: [[fleeting notes]], [[literature notes]], [[permanent notes]], [[branching notes]], [[intermediary notes]]
-- Interpretation Discussion::
-    - From [[Writing Prompts]]
-        - "What is your [[interpretation]] of [[reference notes]]"

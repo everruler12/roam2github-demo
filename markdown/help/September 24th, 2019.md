@@ -1,3 +1,0 @@
-- Super important link for anyone using [[Roam for Research]]
-    - Convert [[PDFs]] to [[HTML]]
-        - https://www.arxiv-vanity.com/

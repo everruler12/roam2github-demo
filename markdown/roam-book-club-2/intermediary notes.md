@@ -1,6 +1,0 @@
-- Aliases:: 
-    - #[[Intermediary Notes]] — actual notes, **not meta**
-- Related:: [[fleeting notes]], [[literature notes]], [[permanent notes]], [[branching notes]]
-- Interpretation Discussion::
-    - From [[Writing Prompts]]
-        - "What is your [[interpretation]] of [[intermediary notes]]?"

@@ -1,1 +1,0 @@
-- https://www.sermoncentral.com/contributors/j-jeffrey-smead-profile-34010?ref=SermonDetails

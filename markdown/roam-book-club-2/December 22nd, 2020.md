@@ -1,2 +1,0 @@
-- Reading Programming Clojure, 3rd Edition
-- 

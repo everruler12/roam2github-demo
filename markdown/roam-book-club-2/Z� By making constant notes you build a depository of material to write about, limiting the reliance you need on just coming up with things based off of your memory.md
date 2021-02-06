@@ -1,5 +1,0 @@
-- #[[Literature Notes]]
-    - "The depository of notes is where you create, build and shape your thoughts/arguments"
-        - "Opinions/thoughts you have are registered in slip box in a attempt to actually move forward with it"
-        - "There is a momentum in your pursuit that just adds continually to the depository of your notes --> can translate into manuscript easily if done right"
-- 

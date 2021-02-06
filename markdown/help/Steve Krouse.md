@@ -1,3 +1,0 @@
-- twitter:: [[@stevekrouse]] 
-    - https://twitter.com/stevekrouse
-- 

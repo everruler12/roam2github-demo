@@ -1,1 +1,0 @@
-- [BuJo](https://bulletjournal.com/pages/learn) #fleeting

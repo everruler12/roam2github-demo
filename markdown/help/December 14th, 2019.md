@@ -1,7 +1,0 @@
-- [[Evening Questions]] #[[Week of December 15th, 2019]] #[[Month of December 29th, 2019]]
-    - [[What interesting ideas did I come across?]]
-        - [[Alternative Education]]
-            - Threatening Institutions and [[Gatekeepers ]]
-                - [[Rich Paul]] the sports agent for [[Lebron James]]
-                    - https://www.espn.com/nba/story/_/id/8766225/rich-paul-one-lebron-james-close-friends-now-agent-espn-magazine
-                    - 

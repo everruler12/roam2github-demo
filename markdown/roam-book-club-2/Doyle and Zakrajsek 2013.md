@@ -1,2 +1,0 @@
-- Doyle, Terry, and Todd Zakrajsek. 2013. The New Science of Learning: How to Learn in Harmony With Your Brain. Sterling, Virginia: Stylus Publishing.
-- 

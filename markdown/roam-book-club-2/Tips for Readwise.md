@@ -1,4 +1,0 @@
-- [[FInding the Chapter in Kindle Book to which a Readwise highlight relates back]]
-    - Highlight the first sentence of the chapter
-    - Write a note associated with that line in readwise that this is the start of the chapter 
-    - Then, when the readwise highlights and notes are synced with roam, i go into the synced list of highlights, and add a heading block every time a new chapter starts, so it is then more obvious where in the book i am. 

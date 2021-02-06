@@ -1,9 +1,0 @@
-- 
-- 
-- Is this the current #RBC3 graph?
-    - nope!
-        - 😹
-        - 
-        - 
-        - 
-        - 😂

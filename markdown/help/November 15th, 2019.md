@@ -1,5 +1,0 @@
-- Daycare closed
-    - Children's museum
-    - Which wich
-- Call with Pete @ 11am
-- Gabe's birthday party @ 5pm

@@ -1,4 +1,0 @@
-- another thought about something cool here:
-    - it lets a person "claim" a bullet quickly which is nice
-    - #Reply [[Matt Brockwell/MJB]]
-        - now I don't have to worry about someone else trying to type into this block at the same time as me which is still a problem in current-implementation multiplayer roam

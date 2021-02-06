@@ -1,5 +1,0 @@
-- Metadata::
-    - Source::
-    - Author::
-    - Summary::
-    - 

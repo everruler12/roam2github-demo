@@ -1,7 +1,0 @@
-- "Template - Apply children as text"
-    - #[[Zettels]] [[Build routines to create flowing networks of information; allowing insights to emerge more effortlessly.]]
-        - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
-            - Go with the flow and make this a habit. If we can do this connections can become effortless. Allow yourself to take action systematically in line with your intuition.
-        - #[[Fleeting Notes]]  Association: Take action with attentive intuition routinely to make habits effortless like submerging yourself in a culture to more easily learn a language
-            - Making breaking habits effortless - using small intermediate packets. Write something down to make it a routine. Think inside the external system as if it is another language. The key is action and intention
-            - Associations: learning a language, a new desktop operating system

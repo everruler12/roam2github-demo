@@ -1,3 +1,0 @@
-- "[[Quality of Life Improvements]]"
-    - This is a great one, where's the title though?
-        - "{{[[video]]: https://www.loom.com/share/f5c52cd86ce748f58c1b6bcc5d90c901}}"

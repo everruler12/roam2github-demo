@@ -1,6 +1,0 @@
-- drafts:: [[Draft 2]]
-- this is the main point
-    - ""If total war was the big political story of the 20th century, the big economic story was the rise of a new kind of company. And this too tended to produce both social and economic cohesion. [[4](http://paulgraham.com/re.html#f4n)]""
-- "[[braindumping]] on that topic in the daily notes in daily notes, or an other page "
-- This is the new rephrasing of that statement for this new context [*](((MUsYPfrdz)))
-- 

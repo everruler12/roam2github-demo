@@ -1,2 +1,0 @@
-- Resonance Calendar
-    - [[Upheaval]]

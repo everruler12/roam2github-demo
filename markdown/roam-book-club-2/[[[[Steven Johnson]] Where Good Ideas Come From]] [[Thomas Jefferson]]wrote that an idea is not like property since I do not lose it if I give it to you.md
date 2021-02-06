@@ -1,7 +1,0 @@
-- keywords::[[Zettel]]
-- source:: source::p240 8/13/13 letter to Isaac McPherson
-- relevant links::
-- ------------------------------
-- notes::
-- ------------------------------
-- change log::

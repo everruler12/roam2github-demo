@@ -1,7 +1,0 @@
-- #Directory
-- Michael Nieman:: @giri_kunche
-- Website:: 
-- Company:: optional, delete otherwise
-- Favourite books:: 
-- Link to something you find interesting::
-- Book Club 1 member? (y/n):: n

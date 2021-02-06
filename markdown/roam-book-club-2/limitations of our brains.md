@@ -1,7 +1,0 @@
-- author: [[Mike Kramer]]
-- notes:
-    - I think the analysis of why a [[Zettelkasten]] overcomes the limitations of the mind is flawed
-        - if we want to increase our learning and understanding, then we should, as much as possible, focus on [[retrieval practice]] and NOT writing per se
-            - source: [Blunt, Karpicke. Retrieval practice with concept mappinig](https://pdfs.semanticscholar.org/0130/2b7670c540cdea04878d697feaa65959f6c9.pdf)
-        - it is important not to MERELY reread permanent notes, but first to try to create them (retrieval practice through self-testing) and only to read them subsequent to the testing
-- related claims:

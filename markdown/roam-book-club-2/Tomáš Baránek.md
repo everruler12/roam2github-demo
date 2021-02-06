@@ -1,6 +1,0 @@
-- Michael Nieman:: [@tombarys]
-- Website:: https://medium.com/@tombarys
-- Website:: https://lifehacky.cz
-- Favourite books:: oh man, tons of them, Lifespan by David Sinclair, Circadian Code by Satchin Panda
-- Link to something you find interesting::
-- Book Club 1 member? (y/n):: n

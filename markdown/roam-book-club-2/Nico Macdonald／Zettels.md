@@ -1,8 +1,0 @@
-- "Template - Apply children as text"
-    - #[[Zettels]] [[Smaller steps that become habits produce results]] 
-        - #[[Literature Notes]] [Chapter 14. (Paragraph 6))](((4hIM0I_l_)))
-            - By adding a small but immediate or instinctive step or behaviour, we can leverage our desire, and minimise the effort needed, to make the next necessary step. 
-        - #[[Fleeting Notes]] A reminder of GTD inbox. The reassurance of knowing WITBD. Behaviours > habits √  
-            - Reminds me a little of Getting Things Done, particularly the idea of the ‘inbox’ into which one offloads any task. 
-            - I use the Things task manager to prompt me to do certain daily tasks so I no longer have to think about them. Likewise, I feel reassured that by putting every task into Things that there is nothing will forget or, rather, that I know exactly what I am __not__   doing! 
-            - The idea that when behaviours can be turned into habits they are will be more easily taken advantage of. 

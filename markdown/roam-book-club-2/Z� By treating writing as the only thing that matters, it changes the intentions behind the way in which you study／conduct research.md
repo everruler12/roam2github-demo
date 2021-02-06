@@ -1,2 +1,0 @@
-- #Zettels
-    - [[Z: Thinking, reading, learning, understanding and generating ideas is the main work of everyone who studies, does research or writes --> so if you take your notes in a smart way, it will propel you forward]]

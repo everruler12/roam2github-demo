@@ -1,9 +1,0 @@
-- Marisol Im:: [[Annemarie Munk]]
-- Twitter: @annemariemunk 
-- Link to something you find interesting:: https://www.drjasonfox.com/
-- Company:: The Swim Lab
-- **Profession: ** Mental Performance Coach
-- Fleeting Notes:: 
-- [[Introduction]]
-- [[Chapter 1. Everything You Need To Know]]
-    - Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower. This is not only demotivating, but also unsuitable for an open-ended process like research, thinking or studying in general, where we have to adjust our next steps with every new insight, understanding or achievement–which we ideally have on a regular basis and not just as an exception.

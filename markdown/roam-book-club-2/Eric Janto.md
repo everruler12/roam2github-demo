@@ -1,8 +1,0 @@
-- Name:: [[Eric Janto]]
-- Website:: ^^[ericjanto.com](https://www.ericjanto.com/)^^
-- Company:: I'm a #[[computer science]] student @[[The University of Edinburgh]]
-- Email:: 
-    - I'm keen to make friends via email, don't hesitate to contact me: jantoeric@gmail.com
-- Interests:: #Productivity #Music #[[computer science]] #Reading #[[Classical Music]] #[[Artificial Intelligence]]
-- Literature Notes::
-- Fleeting Notes::

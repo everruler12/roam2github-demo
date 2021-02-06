@@ -1,5 +1,0 @@
-- **Name:** Suraj Deshmukh
-- **Website:** https://suraj.io
-- **Literature Notes:**
-    - 
-    - 

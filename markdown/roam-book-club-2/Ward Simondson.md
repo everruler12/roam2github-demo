@@ -1,6 +1,0 @@
-- Michael Nieman:: [@yosevu](https://twitter.com/yosevu)
-- Website:: [notes.yosevu.com](notes.yosevu.com)
-- Company:: optional, delete otherwise
-- Favourite books:: 
-- Link to something you find interesting::
-- Book Club 1 member? (y/n):: n

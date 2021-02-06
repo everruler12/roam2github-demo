@@ -1,2 +1,0 @@
-- Related:: [[Graph Meditation]], [[guidelines]], [[Chat guidelines]], [[governance]], [[order]], [[structure]], [[Conventions Handbook]]
-- {{[[query]]: {and: {or: [[conventions]] [[Conventions]] [[Conventions Handbook]] [[guidelines]]} {or: [[Fleeting Notes]] [[Literature Notes]] [[Permanent Notes]] [[Suggestions]] [[feedback]] [[Graph Meditation]]}}}}

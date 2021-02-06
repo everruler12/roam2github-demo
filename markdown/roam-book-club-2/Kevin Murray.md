@@ -1,3 +1,0 @@
-- Twitter: [kmaustral](https://twitter.com/kmaustral)
-- Knowledge worker for the crafts
-- I'm interested to explore "knowledge weaving" as a form of collective intelligence.

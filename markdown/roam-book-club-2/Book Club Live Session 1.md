@@ -1,6 +1,0 @@
-- 
-- [[Goals for Book Club]]
-    - Finish reading [[How to Take Smart Notes]] by end of [[Roam Book Club]] week 1
-    - Learn how to make good use of block references in Roam
-    - Learn how to use notes and references made by others in a shared graph
-    - Begin writing my first set of notes for a book

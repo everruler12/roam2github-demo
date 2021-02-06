@@ -1,7 +1,0 @@
-- i have no idea what i am doing
-- i need help
-- Peggy McElgunn
-- Twitter: peggymcelgunn
-- Website: www.gpsforgrowth.com
-- Company: Global Professional Services PC
-- 

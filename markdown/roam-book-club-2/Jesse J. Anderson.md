@@ -1,5 +1,0 @@
-- [[About Me]]
-    - **Occupation:** [[Designer]]/[[Developer]]
-    - **Twitter:** [jessejanderson](http://www.twitter.com/jessejanderson)
-    - **Pronouns:** He/him
-    - 

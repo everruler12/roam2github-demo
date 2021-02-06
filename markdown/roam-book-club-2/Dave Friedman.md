@@ -1,3 +1,0 @@
-- About me: suburbs of NYC
-- Not sure what to include here
-- Apparently I successfully linked this profile in the Directory...progress.

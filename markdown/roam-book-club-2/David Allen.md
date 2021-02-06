@@ -1,1 +1,0 @@
-- Author of [[Getting Things Done]]

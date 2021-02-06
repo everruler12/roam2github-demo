@@ -1,1 +1,0 @@
-- [[zakk]] created [this twitter](https://twitter.com/ZFleischmann/status/1309167935055900674) thread on implementing a Zettelkasten in Roam and has an article coming out on it soon

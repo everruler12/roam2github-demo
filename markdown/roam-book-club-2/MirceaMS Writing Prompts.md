@@ -1,3 +1,0 @@
-- How does the new information contradict, correct, support, or add to what I already know? 
-- How can I combine ideas to generate something new? 
-- What questions are triggered by these new ideas?

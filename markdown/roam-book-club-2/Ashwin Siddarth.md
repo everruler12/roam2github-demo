@@ -1,5 +1,0 @@
-- [[Directory]]
-    - Interests:: 
-    - Pronouns:: he/him
-    - Twitter:: @sidart_
-- 
