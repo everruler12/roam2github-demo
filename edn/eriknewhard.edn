@@ -66,8 +66,9 @@
   [1
    :user/settings
    {:namespace-options [:none :partial :full],
-    :roam/js {:active-blocks #{"TVb6fcClb" "od_FzrSTB"}}}
-   536875708]
+    :roam/js {:active-blocks #{"TVb6fcClb" "od_FzrSTB"}},
+    :right-sidebar-pinned {}}
+   536875828]
   [1 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536870913]
   [345 :block/uid "39AIv1PMn" 536872033]
   [345
@@ -98,42 +99,11 @@
    536872337]
   [1051 :block/uid "4J82QuZPm" 536873971]
   [1052 :block/uid "cULJMOlZC" 536873971]
-  [1053 :block/string "Tags: Philosophy" 536873971]
-  [1053 :block/uid "cY2bq0lcw" 536873971]
-  [1053 :edit/time 1602601110854 536873971]
-  [1053 :edit/user 1 536875711]
   [1054 :block/uid "BHi4uaTyS" 536873971]
-  [1055 :block/string "Type: Article" 536873971]
-  [1055 :block/uid "JpyPeP6Tg" 536873971]
-  [1055 :edit/time 1602601110862 536873971]
-  [1055 :edit/user 1 536875711]
-  [1055
-   :entity/attrs
-   #{[{:source [:block/uid "JpyPeP6Tg"],
-       :value [:block/uid "JpyPeP6Tg"]}
-      {:source [:block/uid "Cf3QV7JjD"],
-       :value [:block/uid "cULJMOlZC"]}
-      {:source [:block/uid "Cf3QV7JjD"],
-       :value " https://markmanson.net/why-we-all-need-philosophy"}]
-     [{:source [:block/uid "JpyPeP6Tg"],
-       :value [:block/uid "JpyPeP6Tg"]}
-      {:source [:block/uid "cY2bq0lcw"],
-       :value [:block/uid "izbZ8Tvhw"]}
-      {:source [:block/uid "cY2bq0lcw"],
-       :value [:block/uid "SVImgHkML"]}]}
-   536873971]
   [1056 :block/uid "Cf3QV7JjD" 536873971]
-  [1057 :block/string "Author: Mark Manson" 536873971]
-  [1057 :block/uid "GOnq3Zsdo" 536873971]
-  [1057 :edit/time 1602601110868 536873971]
-  [1057 :edit/user 1 536875711]
   [1058 :block/uid "izbZ8Tvhw" 536873971]
   [1059 :block/uid "2k5bGnPvi" 536873971]
   [1059 :entity/attrs #{} 536873971]
-  [1060 :block/string "Author: Mark Manson" 536873971]
-  [1060 :block/uid "1HyLVElMT" 536873971]
-  [1060 :edit/time 1602601110868 536873971]
-  [1060 :edit/user 1 536875711]
   [1061 :block/uid "SVImgHkML" 536873971]
   [1062 :block/uid "vNsjsSb46" 536873971]
   [1062
@@ -162,111 +132,9 @@
        :value [:block/uid "BHi4uaTyS"]}
       {:source [:block/uid "oAcnC93yM"], :value " A Book About Hope"}]}
    536873971]
-  [1063 :block/string "Type: Book" 536873971]
-  [1063 :block/uid "0ToynUgRN" 536873971]
-  [1063 :edit/time 1602601110862 536873971]
-  [1063 :edit/user 1 536875711]
   [1064 :block/uid "FxUhu2crw" 536873971]
   [1065 :block/uid "0LNraB677" 536873971]
   [1066 :block/uid "oAcnC93yM" 536873971]
-  [1067 :block/string "{{TODO}} task 3 priority" 536873971]
-  [1067 :block/uid "1WlADkXmj" 536873971]
-  [1067 :edit/time 1602601110861 536873971]
-  [1067 :edit/user 1 536875711]
-  [1068 :block/string "{{TODO}} task 1" 536873971]
-  [1068 :block/uid "trL1f3RFB" 536873971]
-  [1068 :edit/time 1602601110858 536873971]
-  [1068 :edit/user 1 536875711]
-  [1069 :block/string "{{TODO}} task 3" 536873971]
-  [1069 :block/uid "cOMqwFenu" 536873971]
-  [1069 :edit/time 1602601110858 536873971]
-  [1069 :edit/user 1 536875711]
-  [1070 :block/string "{{TODO}} task 1" 536873971]
-  [1070 :block/uid "6SfK0i9Ly" 536873971]
-  [1070 :edit/time 1602601110858 536873971]
-  [1070 :edit/user 1 536875711]
-  [1071 :block/string "{{TODO}} task B" 536873971]
-  [1071 :block/uid "5ECEXOUPQ" 536873971]
-  [1071 :edit/time 1602601110858 536873971]
-  [1071 :edit/user 1 536875711]
-  [1072 :block/string "{{TODO}} task A" 536873971]
-  [1072 :block/uid "EMlhGhJT6" 536873971]
-  [1072 :edit/time 1602601110858 536873971]
-  [1072 :edit/user 1 536875711]
-  [1073 :block/string "note 2 archive" 536873971]
-  [1073 :block/uid "-xzPYl9Uo" 536873971]
-  [1073 :edit/time 1602601110858 536873971]
-  [1073 :edit/user 1 536875711]
-  [1074 :block/string "Confirmation Bias" 536873971]
-  [1074 :block/uid "ySxVAsEUX" 536873971]
-  [1074 :edit/time 1602601110858 536873971]
-  [1074 :edit/user 1 536875711]
-  [1075
-   :block/string
-   "3. Confirmation Bias. Subjects free to choose their information sources will seek out supportive rather than contrary sources."
-   536873971]
-  [1075 :block/uid "ltxxyGA7Y" 536873971]
-  [1075 :edit/time 1602601110858 536873971]
-  [1075 :edit/user 1 536875711]
-  [1076 :block/string "Metadata" 536873971]
-  [1076 :block/uid "teY5LBVc-" 536873971]
-  [1076 :edit/time 1602601110858 536873971]
-  [1076 :edit/user 1 536875711]
-  [1077
-   :block/string
-   "{{query: {and: TODO {between: yesterday today}}}}"
-   536873971]
-  [1077 :block/uid "rPtT83k0L" 536873971]
-  [1077 :edit/time 1602601110867 536873971]
-  [1077 :edit/user 1 536875711]
-  [1078 :block/string "Tags: Bias" 536873971]
-  [1078 :block/uid "mjhkvx43i" 536873971]
-  [1078 :edit/time 1602601110859 536873971]
-  [1078 :edit/user 1 536875711]
-  [1079 :block/string "Negativity Bias" 536873971]
-  [1079 :block/uid "dqA3hiyp2" 536873971]
-  [1079 :edit/time 1602601110859 536873971]
-  [1079 :edit/user 1 536875711]
-  [1080 :block/string "Incentive-Caused Bias" 536873971]
-  [1080 :block/uid "ohZwEp54c" 536873971]
-  [1080 :edit/time 1602601110859 536873971]
-  [1080 :edit/user 1 536875711]
-  [1081 :block/string "Actor-Observer Bias" 536873971]
-  [1081 :block/uid "zDRXUO1r2" 536873971]
-  [1081 :edit/time 1602601110859 536873971]
-  [1081 :edit/user 1 536875711]
-  [1082 :block/string "Group Attribution Bias" 536873971]
-  [1082 :block/uid "TYsEayLtB" 536873971]
-  [1082 :edit/time 1602601110859 536873971]
-  [1082 :edit/user 1 536875711]
-  [1083 :block/string "Tags: Bias" 536873971]
-  [1083 :block/uid "bsBlv1mxs" 536873971]
-  [1083 :edit/time 1602601110859 536873971]
-  [1083 :edit/user 1 536875711]
-  [1084 :block/string "Type: Article" 536873971]
-  [1084 :block/uid "7a2CfOSJb" 536873971]
-  [1084 :edit/time 1602601110862 536873971]
-  [1084 :edit/user 1 536875711]
-  [1084
-   :entity/attrs
-   #{[{:source [:block/uid "7a2CfOSJb"],
-       :value [:block/uid "7a2CfOSJb"]}
-      {:source [:block/uid "wvtE5fr5m"],
-       :value [:block/uid "cULJMOlZC"]}
-      {:source [:block/uid "wvtE5fr5m"],
-       :value
-       " https://markmanson.net/cognitive-biases-that-make-us-terrible"}]
-     [{:source [:block/uid "7a2CfOSJb"],
-       :value [:block/uid "7a2CfOSJb"]}
-      {:source [:block/uid "mjhkvx43i"],
-       :value [:block/uid "izbZ8Tvhw"]}
-      {:source [:block/uid "mjhkvx43i"],
-       :value [:block/uid "998_TmS4f"]}]}
-   536873971]
-  [1085 :block/string "Author: Mark Manson" 536873971]
-  [1085 :block/uid "NDTH54Q6t" 536873971]
-  [1085 :edit/time 1602601110868 536873971]
-  [1085 :edit/user 1 536875711]
   [1086 :block/uid "Gnuhry7Rb" 536873971]
   [1087 :block/uid "wvtE5fr5m" 536873971]
   [1088 :block/uid "IXdBzkm9x" 536873971]
@@ -292,20 +160,8 @@
       {:source [:block/uid "bsBlv1mxs"],
        :value [:block/uid "998_TmS4f"]}]}
    536873971]
-  [1089 :block/string "Type: Article" 536873971]
-  [1089 :block/uid "c3JLy4fUe" 536873971]
-  [1089 :edit/time 1602601110862 536873971]
-  [1089 :edit/user 1 536875711]
   [1090 :block/uid "TufctXNPq" 536873971]
   [1091 :block/uid "BbEil33LJ" 536873971]
-  [1092 :block/string "Author: Eliezer Yudkowsky" 536873971]
-  [1092 :block/uid "mhNuAlzoN" 536873971]
-  [1092 :edit/time 1602601110868 536873971]
-  [1092 :edit/user 1 536875711]
-  [1093 :block/string "Tags: Pick-up" 536873971]
-  [1093 :block/uid "SCiOwcMhe" 536873971]
-  [1093 :edit/time 1602601110859 536873971]
-  [1093 :edit/user 1 536875711]
   [1094 :block/uid "YJUFKZy5Z" 536873971]
   [1094
    :entity/attrs
@@ -334,90 +190,9 @@
       {:source [:block/uid "SCiOwcMhe"],
        :value [:block/uid "2hY4mx1bI"]}]}
    536873971]
-  [1095 :block/string "Author: Mark Manson" 536873971]
-  [1095 :block/uid "nEr-dveJg" 536873971]
-  [1095 :edit/time 1602601110868 536873971]
-  [1095 :edit/user 1 536875711]
-  [1096 :block/string "Type: Book" 536873971]
-  [1096 :block/uid "6FSBNhL2u" 536873971]
-  [1096 :edit/time 1602601110862 536873971]
-  [1096 :edit/user 1 536875711]
   [1097 :block/uid "gO0yKTGHk" 536873971]
   [1098 :block/uid "qd6ZB_ppT" 536873971]
   [1099 :block/uid "998_TmS4f" 536873971]
-  [1100 :block/string "{{DONE}} task 2" 536873971]
-  [1100 :block/uid "jGppVD3tw" 536873971]
-  [1100 :edit/time 1602601110859 536873971]
-  [1100 :edit/user 1 536875711]
-  [1101 :block/string "{{DONE}} task 2 priority" 536873971]
-  [1101 :block/uid "mY5Vhlzp-" 536873971]
-  [1101 :edit/time 1602601110861 536873971]
-  [1101 :edit/user 1 536875711]
-  [1102 :block/string "{{DONE}} task C" 536873971]
-  [1102 :block/uid "f1ph2nI1j" 536873971]
-  [1102 :edit/time 1602601110859 536873971]
-  [1102 :edit/user 1 536875711]
-  [1103
-   :block/string
-   "{{query: {and: TODO {between: last month today}}}}"
-   536873971]
-  [1103 :block/uid "XuT9JhrX8" 536873971]
-  [1103 :edit/time 1602601110867 536873971]
-  [1103 :edit/user 1 536875711]
-  [1104
-   :block/string
-   "8 Logical Fallacies that Mess Us All Up"
-   536873971]
-  [1104 :block/uid "0Dx5nlOdS" 536873971]
-  [1104 :edit/time 1602601110860 536873971]
-  [1104 :edit/user 1 536875711]
-  [1105
-   :block/string
-   "{{query: {and: priority {or: TODO DONE}}}}"
-   536873971]
-  [1105 :block/uid "QKTsiPYvO" 536873971]
-  [1105 :edit/time 1602601110861 536873971]
-  [1105 :edit/user 1 536875711]
-  [1106 :block/string "{{DONE}} task 2 priority" 536873971]
-  [1106 :block/uid "DYuUyzt1i" 536873971]
-  [1106 :edit/time 1602601110861 536873971]
-  [1106 :edit/user 1 536875711]
-  [1107 :block/string "{{TODO}} task 3 priority" 536873971]
-  [1107 :block/uid "ki_25HGCx" 536873971]
-  [1107 :edit/time 1602601110861 536873971]
-  [1107 :edit/user 1 536875711]
-  [1108 :block/string "Type: Book" 536873971]
-  [1108 :block/uid "9UsfWDzf2" 536873971]
-  [1108 :edit/time 1602601110862 536873971]
-  [1108 :edit/user 1 536875711]
-  [1109 :block/string "Type: Article" 536873971]
-  [1109 :block/uid "wXq4R6zmX" 536873971]
-  [1109 :edit/time 1602601110862 536873971]
-  [1109 :edit/user 1 536875711]
-  [1110 :block/string "{{attr-table: Type}}" 536873971]
-  [1110 :block/uid "ZCuzody-E" 536873971]
-  [1110 :edit/time 1602601110862 536873971]
-  [1110 :edit/user 1 536875711]
-  [1111 :block/string "Type: Book" 536873971]
-  [1111 :block/uid "G04ZqmbFW" 536873971]
-  [1111 :edit/time 1602601110862 536873971]
-  [1111 :edit/user 1 536875711]
-  [1112 :attrs/lookup 1052 536873971]
-  [1112 :attrs/lookup 1112 536873971]
-  [1112 :attrs/lookup 1130 536873971]
-  [1112 :block/string "Type: Article" 536873971]
-  [1112 :block/uid "7_11KLwZL" 536873971]
-  [1112 :edit/time 1602601110862 536873971]
-  [1112 :edit/user 1 536875711]
-  [1112
-   :entity/attrs
-   #{[{:source [:block/uid "7_11KLwZL"],
-       :value [:block/uid "7_11KLwZL"]}
-      {:source [:block/uid "gzSSshNDh"],
-       :value [:block/uid "cULJMOlZC"]}
-      {:source [:block/uid "gzSSshNDh"],
-       :value " https://markmanson.net/logical-fallacies"}]}
-   536873971]
   [1113 :block/uid "Ywxs3MX4n" 536873971]
   [1113 :entity/attrs #{} 536873971]
   [1114 :block/uid "OVknnDkwZ" 536873971]
@@ -427,24 +202,15 @@
   [1116 :block/uid "pbS36lPPN" 536873971]
   [1116 :entity/attrs #{} 536873971]
   [1117 :block/uid "WzVFSwwd8" 536873971]
-  [1118 :attrs/lookup 1051 536873971]
-  [1118 :attrs/lookup 1052 536873971]
-  [1118 :attrs/lookup 1054 536873971]
-  [1118 :attrs/lookup 1108 536873971]
-  [1118 :attrs/lookup 1118 536873971]
-  [1118 :attrs/lookup 1120 536873971]
-  [1118 :attrs/lookup 1121 536873971]
-  [1118 :attrs/lookup 1129 536873971]
+  [1118 :attrs/lookup 1052 536875829]
+  [1118 :attrs/lookup 1054 536875829]
+  [1118 :attrs/lookup 1118 536875829]
+  [1118 :attrs/lookup 1120 536875829]
+  [1118 :attrs/lookup 1121 536875829]
   [1118 :block/uid "8CcqjBLOq" 536873971]
   [1118
    :entity/attrs
    #{[{:source [:block/uid "8CcqjBLOq"],
-       :value [:block/uid "8CcqjBLOq"]}
-      {:source [:block/uid "9UsfWDzf2"],
-       :value [:block/uid "INsMJtRLF"]}
-      {:source [:block/uid "9UsfWDzf2"],
-       :value [:block/uid "4J82QuZPm"]}]
-     [{:source [:block/uid "8CcqjBLOq"],
        :value [:block/uid "8CcqjBLOq"]}
       {:source [:block/uid "aU_3heYN8"],
        :value [:block/uid "cULJMOlZC"]}
@@ -456,41 +222,10 @@
        :value [:block/uid "BHi4uaTyS"]}
       {:source [:block/uid "tZtcCg1JN"],
        :value " A Counterintuitive Approach to Living a Good Life"}]}
-   536873971]
-  [1119 :block/string "Author: Mark Manson" 536873971]
-  [1119 :block/uid "q4sHv_mnr" 536873971]
-  [1119 :edit/time 1602601110868 536873971]
-  [1119 :edit/user 1 536875711]
+   536875829]
   [1120 :block/uid "aU_3heYN8" 536873971]
   [1121 :block/uid "tZtcCg1JN" 536873971]
   [1122 :block/uid "2hY4mx1bI" 536873971]
-  [1123 :block/string "Leyendecker" 536873971]
-  [1123 :block/uid "mXU39CVOz" 536873971]
-  [1123 :edit/time 1602601110867 536873971]
-  [1123 :edit/user 1 536875711]
-  [1124
-   :block/string
-   "same as double bracket pages and hashtag tags"
-   536873971]
-  [1124 :block/uid "75FIsTVEs" 536873971]
-  [1124 :edit/time 1602601110868 536873971]
-  [1124 :edit/user 1 536875711]
-  [1125 :block/string "Author:" 536873971]
-  [1125 :block/uid "QY-sG0Bxq" 536873971]
-  [1125 :edit/time 1602601110868 536873971]
-  [1125 :edit/user 1 536875711]
-  [1126 :block/string "Author: " 536873971]
-  [1126 :block/uid "dInc8VBnI" 536873971]
-  [1126 :edit/time 1602601110868 536873971]
-  [1126 :edit/user 1 536875711]
-  [1127 :block/string "Author: " 536873971]
-  [1127 :block/uid "igftIF1rb" 536873971]
-  [1127 :edit/time 1602601110868 536873971]
-  [1127 :edit/user 1 536875711]
-  [1128 :block/string "Author: Mark Manson" 536873971]
-  [1128 :block/uid "wmun7LIZc" 536873971]
-  [1128 :edit/time 1602601110868 536873971]
-  [1128 :edit/user 1 536875711]
   [1129 :block/uid "INsMJtRLF" 536873971]
   [1130 :block/uid "gzSSshNDh" 536873971]
   [1131 :block/children 1132 536873974]
@@ -3731,8 +3466,8 @@
   [1644 :version/id "0.8.1" 536875737]
   [1644
    :version/nonce
-   "uuid6f8d9564-1a73-4e96-ac45-37936378aad9"
-   536875823]
+   "uuidb6076b2c-0fed-4d24-92c4-76c698cd85d7"
+   536875841]
   [1645 :block/children 1657 536875805]
   [1645 :block/uid "02-01-2021" 536875738]
   [1645 :create/time 1612141297443 536875738]
@@ -3908,7 +3643,7 @@
   [1674 :block/uid "02-07-2021" 536875823]
   [1674 :create/time 1612656065405 536875823]
   [1674 :create/user 1 536875823]
-  [1674 :edit/time 1612656065405 536875823]
+  [1674 :edit/time 1612713112802 536875837]
   [1674 :edit/user 1 536875823]
   [1674 :log/id 1612656065403 536875823]
   [1674 :node/title "February 7th, 2021" 536875823]]}
