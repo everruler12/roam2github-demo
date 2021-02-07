@@ -1,0 +1,8 @@
+- This page is to [[Honor]] the [[Hackers]] in [[RoamCult]] who used [[roam/js]] to build core features of Roam before we did
+- https://twitter.com/shodty/status/1288260174566719488
+    - author:: [[Shodty]]
+    - released as roam/js:: [[July 28th, 2020]]
+    - incorporated into core:: [[November 21st, 2020]] 
+        - {{embed: ((RGqCl_w4M))}}
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2FiMQ5a8mmal.gif?alt=media&token=f1b6d5b5-ad70-4ff9-bd6c-5143a527811f)
+- 

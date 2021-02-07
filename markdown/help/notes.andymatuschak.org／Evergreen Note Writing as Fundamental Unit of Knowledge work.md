@@ -1,0 +1,14 @@
+- source:: [[notes.andymatuschak.org]]
+- concepts:: [[[[*]] Note Writing as Fundamental Unit of Knowledge Work]]]]
+- content::
+    - # Evergreen note-writing as fundamental unit of knowledge work
+    - If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) written per day. [Note-writing can be a virtuosic skill](https://notes.andymatuschak.org/Note-writing_can_be_a_virtuosic_skill), but [Most people use notes as a bucket for storage or scratch thoughts](https://notes.andymatuschak.org/Most_people_use_notes_as_a_bucket_for_storage_or_scratch_thoughts) and [Note-writing practices are generally ineffective](https://notes.andymatuschak.org/Note-writing_practices_are_generally_ineffective).
+        - [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_insight_accumulate)
+        - [Evergreen note-writing helps reading efforts accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_reading_efforts_accumulate)
+        - Note-writing helps writing accumulate: these notes are the fuel for the [Executable strategy for writing](https://notes.andymatuschak.org/Executable_strategy_for_writing), particularly if you [Create speculative outlines while you write](https://notes.andymatuschak.org/Create_speculative_outlines_while_you_write).
+    - A caveat: [“Better note-taking” misses the point; what matters is “better thinking”](https://notes.andymatuschak.org/%E2%80%9CBetter_note-taking%E2%80%9D_misses_the_point%3B_what_matters_is_%E2%80%9Cbetter_thinking%E2%80%9D)
+    - ## References
+    - Ahrens, S. (2017). __How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers__.
+    - If writing is the medium of research and studying nothing else than research, then there is no reason not to work as if nothing else counts than writing.
+    - Focusing on writing as if nothing else counts does not necessarily mean you should do everything else less well, but it certainly makes you do everything else differently. Having a clear, tangible purpose when you attend a lecture, discussion or seminar will make you more engaged and sharpen your focus.
+    - Even if you decide never to write a single line of a manuscript, you will improve your reading, thinking and other intellectual skills just by doing everything __as if nothing counts other than writing__.

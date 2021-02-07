@@ -1,0 +1,49 @@
+- 
+- #MVP
+    - Example::
+        - A
+            - B
+                - C
+        - "B"
+        - "C"
+        - -- but where
+            - "B" and "C" are hidden in the default expansion view
+    - Other way to think of it
+        - A  $$_{2}$$
+            - [*](((2CsTIqNu2)))
+            - B
+                - [*](((n8ZlR367r)))
+                    - [*](((5TIKKFIjc)))
+            - "BB" #Maybe
+            - "BBB" #Maybe
+        - "AA"  $$_{3}$$
+            - [*](((zJUIqrt4L)))
+            - "C"
+            - "D"
+            - #Maybe - but unlikely "AAA" - [[Open Questions]] is (and leaning towards not) is including aunts and uncles into flattened feed -- not what [[Twitter]] currently does afaik
+        - "AAA"
+    - #hidden
+        - BB
+            - [*](((5TIKKFIjc)))
+        - BBB
+        - AA
+            - [*](((zJUIqrt4L)))
+            - C
+            - D
+        - AAA
+        - 
+- #V1
+    - A  $$_{2}$$
+        - AA
+            - AAA
+            - C
+            - D
+        - B
+            - BB
+                - BBB
+            - "BBB"
+    - "AA"  $$_{3}$$
+        - "AAA"
+        - "C"
+        - "D"
+    - "AAA"

@@ -1,0 +1,5 @@
+- Idea from [[Nadia Eghbal]] via [[Weiwei Hsu]]
+    - "[[Reading]] articles recommended by [[Weiwei Hsu]]"
+    - "If you don’t know what’s going on, there’s no shame in asking questions. ^^Questions aren’t a sign of ignorance; they’re a sign you’re paying attention.^^ “Technical” people is kind of a nonsensical term, when you think about it. Nobody is literate on every technical topic out there. A chemist has no idea what a cryptographer is talking about (unless they’ve learned both fields, of course!). ^^**I think technical people are just people who try to understand.**^^"
+- relates to the ideas in [[DO SCIENCE]]
+- https://twitter.com/andfeelgood/status/1205331511320309762?s=19

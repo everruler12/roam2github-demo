@@ -1,0 +1,3 @@
+- [[Dinner]]: Jersey Mikes
+- [[CCLNRV]]
+    - Meet with Pete at the library @ 2pm

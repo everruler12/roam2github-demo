@@ -1,0 +1,7 @@
+- 12:44
+    - Seems that we still have a bug in this database (which is separate from everything else), where very rarely some users are having their transactions added.
+- 12:45
+    - [[Design Challenges]]
+        - [[Sharing]] #[[UX Checklist]]
+- 12:50 - 13:14
+    - {{embed: [[UX Checklist]]}}

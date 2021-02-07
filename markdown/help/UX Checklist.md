@@ -1,0 +1,12 @@
+- Protocol for this
+    - Two components
+        - Problem definition
+            - [[User Goals]]
+                - + [[User Fears]]
+            - [[Violated Expectations]] + [[Necessary Communication]]
+                - are there things we need to communicate (like fact that emails don't send on adding another user)
+        - Option consideration
+            - List of options - each is tested to see if it meets the user goals
+                - include screenshots and links to figma files
+                - for each option -- say whether it meets the criteria
+            - Best option

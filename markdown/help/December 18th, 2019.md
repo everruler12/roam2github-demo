@@ -1,0 +1,92 @@
+- 03:15
+    - Need to sleep, but thinking about creating some examples of using Roam to create a [[Dependency Graph]] of [[Modular Lessons]] for [[Education]]
+    - Things to think about
+        - Interactive problem sets
+            - definitely the kind of thing you could build in through extensions once we open up the API
+        - Tracking how far through the course a student has moved
+            - both for [[Instructor Analytics]] and for [[Tracking Progress]] so the student knows what to read or do next
+                - this could easily be factored into the [[Graph Overview]]
+- Evening
+    - Mapping a knowledge graph
+        - Intro classes
+            - [[1]]
+            - [[A]]
+            - [[X]]
+    - Model map
+        - - 
+            - Nesting means it comes after 
+            - #[[tags]] used to show additional dependencies from other parts of tree
+        - [[1]]
+            - [[1.1]]
+                - #[[A]]
+                    - [[1.1.A]]
+                - #[[X]]
+                    - [[1.1X]]
+                        - [[1.1.X1]]
+                            - #[[1.1.A]] #[[1.2X]]
+                                - [[1.1.X1-1.1.A-1.2X.1]]
+            - [[1.2]]
+                - #[[X]]
+                    - [[1.2X]]
+        - [[A]]
+        - [[X]]
+    - 
+    - This is a simpler problem than a truth graph
+        - Because
+            - In a knowledge graph there is only one sort of dependency 
+                - Is the thing required for the next thing
+                    - If it isnt, remove it as a dependency 
+                - Did the student complete the material?
+                    -  If they did, add it to the completed attribute for them and they select the next module. 
+        - This could work fractal-ly 
+            - Any problem broken down into sub components 
+                - Used as specifically ingredients for other problems 
+                - So you start w
+                    - A = Broad subject 
+                        - Geometry 
+                    - Or A = Subproblem 
+                        - Specific proof or axiom from Euclid 
+    - How to track students
+        - Student A
+            - Level:: [[1.1.A]]
+            - Completed:: [[A]] [[1]] [[1.1]] 
+        - Student B
+            - Level:: [[1.2X]]
+            - Completed:: [[1]] [[X]] [[1.2]]
+    - 
+    - 
+    - 
+    - {{attr-table: [[Level]]}} 
+    - 
+    - 
+    - Checking truth claims is more difficult 
+        - You still have a graph 
+            - however you also factor in
+                - X --> Y is itself a claim that can be evaluated - and differ for each person.
+                    - IF BOB SAW HIM SHOOT THE GUN HE SHOT the president 
+                        - I can think bob is lying 
+                            - If Bob says he saw him shoot the gun, then Bob saw him shoot the gun
+                                - Is possibly implied claim 
+                        - I can think the gun had blanks 
+                        - I can think there were multiple shooters, and Bob shot someone else.
+                - You want to map certainly of a claim, and certainty of relationships.
+                    - !X -> B
+                        - Certainty:: {{[[slider]]}}
+        - You want a way of deferring evaluations of expert level claims to people you trust on a topic.
+            - Evaluating claims is tricky work
+            - Arguing for claims is too
+            - There is no reason to do it if the things you're working through aren't reusable and worth the effort
+                - It makes sense to lay out a proof in
+                    - Mathematics 
+                        - Proofs are the game 
+                    - Highly consequential decisions
+                        - Legal arguments 
+                        - Big money decisions based on logical models of the world
+                            - Like hedge fund decisions.
+                            - Large expenses for an individual.
+                    - Places where convincing someone who is skeptical, but amenable to rational argument is worthwhile.
+                        - Crowdsourcing != wikipedia
+                            - More likely to be github 
+                                - You want canonical representation of a person or group's understanding of an argument.
+                                - Coming to agreement is like pull requests on another person's mind.
+                        - Important to know debate rarely changes minds, mostly to help the undecided onlookers

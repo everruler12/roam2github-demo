@@ -1,0 +1,39 @@
+- Office hours
+    - When you copy/paste a block, and a block which references it into a new database, it will create two new blocks -- which makes roam/render pretty easy to use.
+        - Example::
+            - {{roam/render: ((lzFJr9YCu))}}
+                - ```clojure
+(defn hello []
+  [:button.bp3-button {:on-click #(js/alert "Hey Adam")} "Copy Paste this into your db"])```
+        - This also works for templates
+            - Sample calculation [[roam/templates]]
+                - This will do multiplication
+                    - A * B =  {{calc: ((DbOmtw4FP)) * ((Nisyw5VJW)) }}
+                    - A is 4
+                    - B is 5
+            - 
+            - This will do multiplication
+                - A * B =  {{calc: ((eWcA2fLJO)) * ((as84zCZli)) }}
+                - A is 6
+                - B is 50
+            - 
+    - How would you go about doing this https://twitter.com/saisatik/status/1353567549720420353?s=20
+        - Possible Answers::
+            - If I were trying to get a [[Roam Bounty]] for this, this weekend, without needing anything from the team - here is how I [[Conor]] would approach it.
+                - Steps::
+                    - {{[[TODO]]}} Decide how you are storing the contextual state -- I would do it with attributes most likely.
+                        - I would probably use a dedicated attribute - where Entity is the Command - and the then the blocks in the sidebar are Values
+                            - Example::
+                                - #Work 
+                                    - Loads Sidebar::
+                                        - #scheduled
+                                        - "{{[[mentions]]: [[Scheduling]]}}"
+                                            - {{[[mentions]]: [[Scheduling]]}}
+                                        - 
+                                        - 
+                                - #Personal 
+                    - {{[[TODO]]}} write a roam/js function - which creates a click handler for a link or tag of the thing you have that loads a context
+                    - {{[[TODO]]}} on-click simulate opening those blocks in the search field, and hitting shift-enter in order to open them in the sidebar.
+- [[Log]]
+    - 15:18 - 15:41 "Office hours" Q and A
+    - 15:41 - 15:44 (3 min) writing up "Office hours"

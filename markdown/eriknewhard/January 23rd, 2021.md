@@ -1,0 +1,5 @@
+- [[Tweet draft]]
+    - As self-aware beings, we can observe how we are being influenced by the environment, and recognize our natural reaction to those stimuli. There is a gap, a sliver of time before we react, where we can exert our own will to effect our response.
+        - (effect?)
+        - based on:
+            - "Between stimulus and response is a space. In that space lies our freedom and power to choose our response. In those choices lie our growth and our happiness."

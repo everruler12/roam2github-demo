@@ -1,0 +1,63 @@
+- Twitter::
+    - [Roam Twitter](https://twitter.com/RoamResearch)
+    - [Conor White-Sullivan](https://twitter.com/Conaw) (our founder & CEO)
+- Roam Community::
+    - [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-h695qjav-Rnlz8GFolVzFl8z3~U3tog)
+    - [Roam GitHub](https://github.com/Roam-Research)
+    - [Roam YouTube](https://www.youtube.com/channel/UCw7Xjh150WTk6hefbiowLlw/playlists)
+- Tutorial Videos::
+    - [A Beginner’s Guide to Roam Research by Drew Coffman](https://www.youtube.com/watch?v=X6OOos4met0&t)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=X6OOos4met0&t}}
+    - [Roam Research for Kids by Les Kristofs](https://www.youtube.com/watch?v=PMJL2cvmeeQ&list=PLS7Ix7BP1Vuoi3Hl46nUnDHukb52xQWx2)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=PMJL2cvmeeQ&list=PLS7Ix7BP1Vuoi3Hl46nUnDHukb52xQWx2}}
+    - [From Beginner to Superuser by Anonym.s](https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC}}
+    - [Top 5 Roam Research Tips for Beginners by Zack Fan](https://www.youtube.com/watch?v=b2Q5bAhtV9Y)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=b2Q5bAhtV9Y}}
+    - [How I Organise My Day with Roam by Shu Omi](https://www.youtube.com/watch?v=rYsghmH5Fno&list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=rYsghmH5Fno&list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve}}
+    - [Zettelkasten Method by The Upgraded Brain](https://www.youtube.com/watch?v=LDa8ljTjsGw&list=PLOBUbNWGPAg7-dRPTYDp8oQ7AbE5e6eyg)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=LDa8ljTjsGw&list=PLOBUbNWGPAg7-dRPTYDp8oQ7AbE5e6eyg}}
+    - [Roam Research: A tool for creative serendipity by Khe Hy](https://www.youtube.com/watch?v=3GG0Ck14ISM&t)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=3GG0Ck14ISM&t}}
+    - [Navigating Roam by Conor White-Sullivan](https://www.youtube.com/watch?v=3SwQ4usbCX4&list=PLirPuSjy7wZAbEY6nLcyQC6HZXRDt_qEL)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=3SwQ4usbCX4&list=PLirPuSjy7wZAbEY6nLcyQC6HZXRDt_qEL}}
+    - [How to Take Smart Notes Using Roam by Dalton Mabery](https://www.youtube.com/watch?v=zUPLJMnYw_M&list=PLnUTYxQTw_v_VIIv6jbD4rWP5VxIqGQrl)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=zUPLJMnYw_M&list=PLnUTYxQTw_v_VIIv6jbD4rWP5VxIqGQrl}}
+    - [Effortless Output with Roam by Nat Eliason](http://www.effortlessoutput.com/)
+- Hacks::
+    - [RoamHacker](https://roamresearch.com/#/app/roamhacker/page/-1s5kPhyX)
+        - {{iframe:https://roamresearch.com/#/app/roamhacker/page/-1s5kPhyX}}
+    - [RoamStack](https://www.roamstack.com/)
+        - {{iframe:https://www.roamstack.com/}}
+    - [RoamTips](http://roamtips.com/)
+        - {{iframe:https://www.roamtips.com/}}
+    - [RoamBrain](https://www.roambrain.com/)
+        - {{iframe:https://www.roambrain.com/}}
+- Ideology::
+    - [Cortex Futura](https://www.cortexfutura.com/articles)
+        - {{iframe:https://www.cortexfutura.com/articles}}
+    - [LessWrong](https://lesswrong.com/)
+        - {{iframe:https://lesswrong.com/}}
+    - [Ness Labs](https://nesslabs.com/roam-research)
+        - {{iframe:https://nesslabs.com/roam-research}}
+    - [Andy Matuschak](https://andymatuschak.org/)
+        - {{iframe:https://andymatuschak.org/}}
+    - [Nat Eliason](https://www.nateliason.com/blog/roam)
+        - {{iframe:https://www.nateliason.com/blog/roam}}
+- Voice and Vision::
+    - [Conor x Tiago Forte](https://www.youtube.com/watch?v=Hw2kJF_kxjE&t)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=Hw2kJF_kxjE&t}}
+    - [Conor x Kevin Rose](https://www.youtube.com/watch?v=kweL6tRfzUY&t)
+        - {{[[youtube]]: https://www.youtube.com/watch?v=kweL6tRfzUY&t}}
+    - [Conor x 20VC](https://hwcdn.libsyn.com/p/e/a/6/ea66ea99a9de7a0d/253_20VC-_Conor-White_Sullivan_Co-Founder__CEO__Roam_Research.mp3?c_id=72308348&cs_id=72308348&expiration=1607532034&hwt=da6085508f745e3dc414e60ab8a6adeb)
+        - {{iframe: https://hwcdn.libsyn.com/p/e/a/6/ea66ea99a9de7a0d/253_20VC-_Conor-White_Sullivan_Co-Founder__CEO__Roam_Research.mp3?c_id=72308348&cs_id=72308348&expiration=1607532034&hwt=da6085508f745e3dc414e60ab8a6adeb}}
+- Public Roam & Multiplayer Mode::
+    - [Roam Bookclub 2](https://roamresearch.com/#/app/roam-book-club-2)
+    - [Naval](https://roamresearch.com/#/app/Navalmanack/page/_H6kKQQPV)
+    - [RoamTutorial](https://roamresearch.com/#/app/RoamTutorial)
+    - [Covid19](https://roamresearch.com/#/app/covid19/page/sovtkqQ2O)
+    - [RoamCn阅读书单接龙🐲](https://roamresearch.com/#/app/RoamCN/page/AWPbXW0JT)
+    - [Open Impact](https://roamresearch.com/#/app/openimpact)
+    - [RoamPublic](https://www.roampublic.com/)
+        - {{iframe:https://www.roampublic.com/}}

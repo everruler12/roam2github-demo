@@ -1,0 +1,36 @@
+- This is definitely an #Experimental Feature
+- We'll be building out a more powerful set of features around databases soon
+- For now, Tables are really just a different way of viewing an indented list
+    - So, when you are listing out a bunch of similar items and defining similar properties, this lets you view that bulleted list as a table
+        - Example
+            - {{table}}
+                - **Entity**
+                    - **Attribute A**
+                        - **Attribute B**
+                - 1
+                    - 1A
+                        - 1B
+                - 2
+                    - 2A
+                        - 2B
+                - 3
+                    - 3A
+                        - 3B
+        - You can use all the other features of Roam in here as well
+            - {{table}}
+                - **Claim**
+                    - **Certainty**
+                        - **Significance**
+                - All Men Are Mortal
+                    - {{a}}
+                        - {{a}}
+                - Socrates is a Man
+                    - {{a}}
+                        - {{a}}
+                - Socrates is Mortal
+                    - {{a}}
+                        - {{a}}
+                - If "All Men Are Mortal" and "Socrates is a Man" then "Socrates is Mortal"
+                    - {{a}}
+                        - {{a}}
+- If you have strong opinions about this feature -- or about integrating database type attributes into your Roam account in general, we'd love to hear from you

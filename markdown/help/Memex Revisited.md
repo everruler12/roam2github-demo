@@ -1,0 +1,14 @@
+- source::  http://worrydream.com/refs/Bush%20-%20Memex%20Revisited.pdf
+- [[Quotes]][[Vannevar Bush]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FWxL8kivvpZ?alt=media&token=555028bc-743b-4dc4-b36d-03fa32c60f0b)
+    - [[Tiago Debate]][[Opening Point]] [[Information Overflow]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FuaqI5ojgRL?alt=media&token=da42e43e-1edd-4159-89f4-ce51c05a4d5c)
+            - could be exactly the same as "We are experiencing an unprecedented explosion of knowledge. Every day, 2700 books are published in the United States alone, 6850 scientific papers are authored, more than 2 million blog posts go live, and 294 billion emails fly back and forth. The amount of total data produced with every rotation of the Earth would fill a stack of books stretching to the moon and back. [1](((CUDrvnqeF))) While this exponential growth presents enormous opportunities for individuals and society at large, neither the human brain nor current technologies are equipped to harness it to its full potential."
+            - he says 
+        - Our present ineptitude in getting at the record is largely caused by the artificiality of systems of indexing.  When data of any sort are placed in storage, they are filed alphabetically or numerically, and information is found (when it is) by being traced down from subclass to subclass.
+            - it can can be in only one place, unless duplications are used;
+            - one has to have rules as to which path will locate it, and the rules are cumbersome
+            - Having found one item, moreover, one has to emerge from the system, like a dog who has dug up a buried bone, and then re-enter the system on a new path.
+                - This is a serious handicap, even with the high speed machinery just now beginning to be applies to the problem of libraries
+                    - -- makes me think of [[@RoamResearch]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FMJgkTlH_h3?alt=media&token=375264ed-7cd3-483e-abed-a14535dbea98)

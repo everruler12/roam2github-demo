@@ -1,0 +1,1 @@
+- You can trigger by typing `/embed` or surrounding a block  with `{{embed: ((block-uid-here}}`

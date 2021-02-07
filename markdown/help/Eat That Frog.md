@@ -1,0 +1,203 @@
+- #Productivity #Best-Of 
+    - [[Summary]]
+        - # Summary of Eat That Frog
+        - December 1, 2012 by [[William Eden]]
+        - [![](http://becomingeden.com/wp-content/uploads/2012/12/screen-shot-2013-03-06-at-1-47-04-pm.png)
+        - [Eat That Frog](http://www.amazon.com/gp/product/1576754227/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=effeforgeek-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=1576754227) by Brian Tracy is an excellent synthesis of much of the existing productivity literature to date, achieving about 80% of the total benefits from [[Time Management]].  My summary here attempts to condense the book into a few pages of critical insights, organized into four primary sections: organization, efficiency, identifying your strengths, and optimizing yourself.  Implementing even a small number of these techniques will result in greatly increased effectiveness.
+        - DO NOT WAIT, the time will never be right
+        - Seven Step Method
+            - Decide exactly what you want
+            - Write it down – thinking on paper is critical
+            - Set a deadline on your goal
+            - List the steps necessary for achievement
+            - Organize the list into a plan (priority and sequence, visual layout)
+            - Take action on your plan immediately
+            - Do something every day to move closer to that goal
+        - Reasons for procrastination (and their solutions)
+            - vagueness/confusion around objectives and how and why to accomplish them (write down goals, list specific steps)
+            - feeling of inadequacy, lack of confidence, inability in key area of [[task]] (identify and learn key skills)
+            - attempting to begin [[task]] while fatigued (protect energy level with diet, exercise, regular breaks/vacations)
+            - important [[task]]s seem large and formidable upon first approach (resolve to do single step or limited time period)
+        - ## Organization
+            - Always Work From a List
+                - Four lists: master list (to capture all ideas), monthly, weekly, daily
+                    - Make a list of every step needed to complete project, organize by priority and sequence
+                    - Just go as far as you can see, and be confident will be able to see farther at that future point
+                    - Make the next daily/weekly/monthly list at the end of the previous day/week/month
+                    - Transfer items from Master -> Monthly -> Weekly -> Daily
+                    - When a new [[task]] comes up, add to list before doing it
+                    - Tick off items as you complete them
+            - ABCDE Method
+                - Place letter next to each item
+                    - #A : [[task]] you must complete, very important, major positive/negative consequences (rank many A items with A-1, etc.)
+                    - #B : [[task]] you should complete, mild consequences
+                    - #C : [[task]] is optional, would like to do but no consequences attached
+                    - #D : [[task]] can be delegated, do so ASAP
+                    - #E : [[task]] can be eliminated without any real difference
+                - Never do a #B [[task]] when an #A [[task]] is left incomplete
+            - Begin Immediately and Persist Until the [[task]] is Complete
+                - Once you know the highest-value [[task]], everything else is a relative waste of time
+                - Take action on the most important [[task]] first thing every morning
+                - Once you start, keep working to full completion ([[task]] switching costs are a major time sink)
+                - Notice if you are becoming distracted by conversation or low-value activity
+                - Most identifiable sign of high-performing people is action-orientation, they are in a hurry to complete key [[task]]s
+                - Urgency will generate action instead of discussion: focusing on specific steps, concentrating on results
+            - Tricks to Get Started
+                - It is easier to commit to doing a small piece of work, and momentum often keeps us working beyond the initial steps
+                    - See also [[Intermediate Deliverables]]
+                - Divide large/complex projects into distinct smaller steps, and resolve to do one of them
+                    - See also [[Intermediate Packets]]
+                - Resolve to work for a specific short time period, as little as 5-10 minutes (even shorter works too)
+                    - See also [[Pomodoro Technique]] and [[Resolve Cycles]]
+            - Create Deadlines
+                - Imagine you have to leave town tomorrow, what absolutely must be done before you go?
+                - Set deadlines (and sub-deadlines as appropriate) for every [[task]] and activity
+                    - [[Meta]]: This is the next big thing for us to work on with [[Roam]] -- especially [[Roam for GTD]]
+                - Determine how many minutes/hours each [[task]] will require, add a 20% buffer, then make it into a game to beat your own estimates
+                    - #Scheduling [[Time Tracking]] -- in [[Features]]
+            - Create Blocks of Time
+                - Set aside 30/60/90 minute blocks for important [[task]]s
+                    - #Scheduling [[Time Tracking]] in [[Features]]
+                - Getting up early and working for hours before going to work is a key productivity habit
+                - Time planner on day/hour/minute level enables you to see and consolidate blocks of time
+                    - #Scheduling [[Time Tracking]] in [[Features]]
+                - Plan your day in advance and schedule fixed time periods for particular activities (e.g. sales calls 10-11 AM)
+                - During these work times, turn off electronic communication, eliminate any distractions, work nonstop
+                - Use transition periods (“gifts of time”) to complete small steps in larger [[task]]s
+                - If you fly often, plane rides are a great unbroken block of time, plan your work for the entire duration
+            - Review your goals and performance at the end of every day/week/month 
+                - [[Features]]
+        - ## Efficiency
+            - Three Questions for Maximum Productivity
+                - What are my highest value activities?  (Think to yourself, then ask others)
+                - What can I and only I do that if done well will make a real difference?
+                - What is the most valuable use of my time right now?
+                - The more accurate your answers are to these questions, the easier it will be to set priorities and do the most valuable [[task]] (epistemic rationality!)
+            - Apply 80/20 Rule to Everything
+                - Law of Forced Efficiency: There is never enough time to do everything, but there is enough time to do the most important things
+                - A handful of your [[task]]s are likely much more valuable than any of the others
+                - You get your time and life under control only insofar as you discontinue low-value activities
+                - If you want to add something new, you must complete or discontinue something old
+                - Completing high-value [[task]]s is more satisfying
+                - Continually review responsibilities to identify [[task]]s which can be delegated/eliminated without loss
+            - The most powerful word is “no”
+                - Say no to anything not a clear high-value use of time
+                - Say it clearly so that there are no miscommunications
+                - Say it regularly as part of your time-management strategy
+                - Say it early and often!
+            - Question to Ask: “If I were not doing this already, knowing what I know now, would I start doing it again today?”
+            - Improve Rate-Limiting Steps
+                - There is always a rate-limiting step in every [[task]]
+                    - {{[[DONE]]}}  add [[Theory of Constraints]] post from [[Tiago Forte]]
+                - Identify that choke point, and make a single-minded effort to weaken that constraint
+                - 80% of the limiting factors exist internally within you or your organization
+                - Take an honest look at self and company, accept responsibility for your life and look to yourself for both the cause and cure of the problem
+                - Accurate identification of the limiting factor can bring about huge progress quickly, otherwise you solve the wrong problem (epistemic rationality!)
+                - The key constraint may be small and not entirely obvious, make a list of every step in a process
+                - Behind every rate-limiting step is another one, so target the next one and alleviate that as quickly as possible
+            - Questions:
+                - What is holding you back?
+                - What sets the speed at which you achieve your goals?
+                - What determines how fast you move from here to there?
+                - What holds you back from doing the most important [[task]]s?
+                - Why haven’t you already achieved your goal?
+            - Workspace
+                - Clear everything off your desk until only the [[task]] at hand is in front of you
+                - Have everything you need to complete [[task]] in hand before you begin
+                - Make your work area comfortable, attractive, and conducive to working long periods
+                - Once you complete preparations, begin working immediately
+                - Assume the body language of high-performance: sit up straight, sit forward away from back of chair
+            - Electronic Communication
+                - DO NOT check voicemail/e-mail first thing in the morning
+                - Tech is your friend, there to increase speed/efficiency/accuracy of information transfer, but can be addictive
+                - Just because someone sends you an e-mail does not mean you have an obligation to respond (if the e-mail is important enough, the sender will resend)
+                - Delete 80% of e-mails unread immediately. Only 20% of those remaining are urgent, put the rest in a file to respond later
+                - Create zones of silence in your life where no one or nothing can reach you
+                - Maintain inner calm by pausing on a regular basis to listen to the silence
+        - ## Identifying Your Strengths
+            - What Are Your Unique Talents?
+                - Do what you love to do, and do it well!
+                    - What gets you the most compliments/praise?
+                    - What affects the performance of other people the most?
+                - Ask yourself these questions:
+                    - What am I really good at?
+                    - What do I enjoy the most about my work?
+                    - What has been the most responsible for my success?
+                    - If I could do any job at all, what would it be?
+                    - If I won the lottery, what work would I choose to do?
+            - Rule of Three
+                - Three core [[task]]s provide most of your value, focus on optimizing those
+                - In thirty seconds, write down your three most important goals in life right now
+                    - Giving people longer rarely results in different answers
+                    - In most cases people have a financial/career goal, a personal relationship goal, and a health/fitness goal.
+                - Expand to three most important goals in:
+                    - Business/career
+                    - Family/relationship
+                    - Financial
+                    - Health
+                    - Personal/professional development
+                    - Social/community
+                    - Biggest problems or concerns in life
+            - Key Result Areas
+                - Your work can usually be broken down into 5-7 key result areas (KRA), where you are completely responsible
+                    - Make a list of important output responsibilities, [[task]]s which feed into others
+                    - Determine key result areas and grade yourself on 1-10 scale
+                    - Your performance is only as strong as your weakest KRA
+                    - We tend to avoid jobs where we performed poorly in the past
+                    - Refuse to rationalize/justify/defend weakness, instead identify clearly, and make a plan to improve
+                - Big Seven in management: planning, organization, staffing, delegating, supervising, measuring, reporting
+                - Big Seven in sales: prospecting, building rapport and trust, identifying needs, presenting persuasively, answering objections, closing the sale, getting resales and referrals
+                - Question to Ask: “What one skill would have the greatest positive impact on my life?” (ask others as well) 
+        - ## Optimize Self
+            - Skill Acquisition
+                - Identify the most important things you do, and make a plan to continually upgrade those skills
+                - You can learn any skills necessary to be more productive/effective
+            - Three Steps to Mastery:
+                - Read in your field at least one hour/day
+                - Take every course/seminar available on key skills
+                - Listen to audio during downtime
+            - 3 D’s of New Habit Formation
+                - Decision to learn new habit
+                - Discipline to practice
+                - Determination to persist until habit is encoded
+            - Optimizing Mood
+                - To perform at your best, you need to be in a good mood!
+                - Level of self-esteem is critically important for motivation and persistence
+                - The way you interpret things determines how you feel
+                - Resolve to become an optimist
+            - Four Behaviors of Optimists:
+                - Look for the good in every situation
+                - Seek the valuable lesson in setback/difficulty
+                - Look for the solution to every problem (vs. blame/complain)
+                - Think and talk continually about your goals
+            - The biggest enemies are fear of failure/rejection and accompanying doubts
+                - The way to overcome fear is to do precisely that thing
+                - Act as if you already had the courage and behave accordingly
+            - State maxims to yourself on a regular schedule, to internalize positive beliefs
+            - Visualize
+                - Imagine being your future awesome self, self-image has a powerful effect on behavior
+                - Visualize how the world would look with your goals completed
+            - Generate Intrinsic Motivation
+                - See yourself as role model for others
+                - Set higher standards for yourself than others set for you
+                - Make it into a game!
+            - Energy Level is CRITICALLY IMPORTANT for Motivation
+                - Utilize the specific time of the day when you are at your best for top-priority [[task]]s
+                - Sometimes your best use of time is indeed to quit early and get a lot of sleep
+                - Take one full day off every week: no work or electronic communication or anything taxing. Instead do activities which replenish you
+                - Take regular vacations every year, both weekends and 1-2 week breaks
+            - Big three for energy level:
+                - Sleep
+                - Diet
+                - Exercise
+            - Questions:
+                - What am I doing physically that I should do more of?
+                - What am I doing that I should do less of?
+                - What am I not doing that I should start doing to maximize performance?
+                - What am I doing that affects my health should I stop doing entirely?
+            - Work/life balance is not optional
+                - Time management is a means to an end: freeing up time to do the things you love
+                - The more in-person time you spend with loved ones, the happier you will be
+                - What matters is quality of time at work and quantity of time in rest of life
+                - When you work, work – wasted work time comes out of personal life
+            - You are shaping yourself into a new, superior human being.  Be an ascending spiral of personal effectiveness.

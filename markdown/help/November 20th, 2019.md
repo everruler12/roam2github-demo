@@ -1,0 +1,44 @@
+- Go to farmer's market
+    - Den Hill
+    - Look for Beef or Turkey
+- CCL Meeting
+- Daily Schedule
+    - 5am
+        - Wake up
+        - [[Plant & Environmental Science website]]
+    - 6am
+        - [[Plant & Environmental Science website]]
+    - 7am
+        - Feed Lucy
+        - Get Anthony ready for school
+        - Make Breakfast
+    - 8am
+        - Lucy and I breakfast
+    - 9am
+        - [[Lucy]]
+            - Feed Lucy
+            - Lucy Nap
+        - Shower
+        - [[CCLNational]]
+    - 10am
+        - Lucy Nap
+        - Feed Lucy
+        - [[CCLNational]]
+    - 11am
+    - 12pm
+        - Lunch
+    - 1pm
+        - Lucy Nap
+    - 2pm
+        - Lucy Nap
+    - 3pm
+    - 4pm
+    - 5pm
+    - 6pm
+        - Dinner
+    - 7pm
+        - Kid's bedtime
+    - 8pm
+    - 9pm
+    - 10pm
+        - Sleep

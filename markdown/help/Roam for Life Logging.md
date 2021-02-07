@@ -1,0 +1,8 @@
+- Whenever I have a meeting, I tend to create a bullet point on my daily note file with a structure like this
+    - 17:52 -- 18:30  (38 minutes)
+        - [[Meeting]] with [[Tiago Forte]] and [[William Eden]]
+            - Note -- this is a fake meeting
+            - Discussion about [[Time Management]]
+                - Will thinks best book is [[Eat That Frog]]
+                - Tiago is a fan of [[GTD]]
+        -  `I track how much time I'm spending on things roughly by using "current time" `

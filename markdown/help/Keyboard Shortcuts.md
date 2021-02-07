@@ -1,0 +1,234 @@
+- General Tips and [[Productivity Hack]]
+    - Most people don't use caps-lock (unless you're shouting on the web or in emails, which you shouldn't be), but caps lock has a really convenient placement on your keyboard
+        - We generally advise (or at least [[Conor]] advises) switching cap-lock to the Control key
+            - How to map Caps-Lock to Control
+                - On Mac -- open your system preferences -- see the keyboard option
+                    - :imghttps://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2FScreenshot%202019-08-05%2012.20.16.png?alt=media&token=e25783d7-d176-4563-8c76-595c902d965c
+                    - At the bottom right you'll see "Modifier Keys..." in there you get a dropdown for changing them
+                        - :imghttps://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2FScreenshot%202019-08-05%2012.21.44.png?alt=media&token=f39e1762-79a7-4fb6-83a7-61eee29c7c86
+                    - That's it!
+            - This is useful for Roam
+                - See "Roam has a lot of unlisted keyboard shortcuts using the Control-key"
+            - It also is useful for a lot of other apps you probably use
+                - For example -- in most text editing apps -- including gmail and Roam
+                    - Control-A will bring you to the beginning of a line of text
+                    - Control-E will bring you to the end of a line
+                    - Control-K will delete until the end of line most apps -- the exception in Roam being if you have an {{alias: ((1675)) Autocomplete Open}}
+                    - Control-Y will paste the last line you deleted with Control-K
+- Roam has a lot of unlisted keyboard shortcuts using the Control-key
+    - We use the same ones you'll find in most text editing apps
+        - See "For example -- in most text editing apps -- including gmail and Roam"
+    - The most significant is that you can use Control-j and Control-k to move through all of the [[Autocomplete]] options
+        - J and K are used for Up and Down in the Vim text editor -- and they are particularly ergonomic
+        - this means that if you want to make something a todo, you can hit the slash command, write T, and then use Control-J to move down to select TODO without leaving the "home row" on your keyboard.
+            - We use this all the time, and once you're used to it, it makes referencing or embedding blocks -- or using any of the other advanced features of Roam a lot faster and more ergonomic
+- Key Chords
+    - We stole this idea from [[Emacs]] -- chords happen when you keep holding down the control key, and then hit multiple other keys in succession
+        - Example 
+            - {{embed: ((2605))}}
+- Keyboard shortcuts
+    - Triggers::
+        - Page Reference Autocomplete
+            - [[]]
+        - Block Reference Autocomplete
+            - (())
+        - Slash Commands
+            - /
+                - /TODO
+                    - Creates a check box, when clicked becomes {{DONE}}
+                - /Current 
+                    - TimeCreates a time-stamp of the current time in 24h format
+                - /POMO
+                    - Creates a 25 min Pomodoro timer
+                    - __There is no alert once it finishes__
+                - /Date 
+                    - PickerAllows you to choose a date from a calendar
+                - /Today
+                    - Today's date
+                - /Tomorrow
+                    - Tomorrow's date
+                - /Yesterday
+                    - Yesterday's date
+                - /Bold
+                - /Italics
+                - /Highlight
+                - /Strikethrough
+                - /Code Inline
+                    - Creates a monospaced code inline of the block
+                - /Code Block
+                    - Creates a code block allowing snippets of code
+                    - __Clojure, css, html, and javascript__
+                - /Latex
+                    - Allows LaTeX stylized text inline of the block
+                - /Calc
+                    - Inline calculator
+                - /Upload
+                    - Upload an image or file
+                - /Slider
+                    - Creates a slider from 0 to 10
+                - /Encrypt
+                    - Encrypts a block of text with a passphrase
+                - /Diagaram
+                    - Insert a diagram
+                - /Table
+                    - Insert a table
+                - /Kanban
+                    - Insert a kanban board
+                - /YouTube
+                    - Embed a YouTube video
+                - /Mentions
+                    - Insert mentions of a Block or Page
+                - /Word Count
+                    - Insert word count for page
+                - /Query
+                    - Insert a query
+                    - __See Queries section above__
+                - ?disablejs
+                    - add this to the URL when starting Roam to disable roam/js [(YouTube Tutorial)](https://youtu.be/_fiWkFlEyPE)
+                - ?disablcss
+                    - add this to the URL when starting Roam to disable roam/css
+    - Markdown::
+        - # Heading 1
+            - # followed by space, or
+            - Windows:: Ctrl-Alt-1
+            - Mac:: CMD-Alt-1
+        - ## Heading 2
+            - ## followed by space, or
+            - Windows:: Ctrl-Alt-2
+            - Mac:: CMD-Alt-2
+        - ### Heading 3
+            - ### followed by space, or
+            - Windows:: Ctrl-Alt-3
+            - Mac:: CMD-Alt-3
+        - Heading 0 
+            - Windows:: Ctrl-Alt-0
+            - Mac:: CMD-Alt-0
+        - **Bold**
+            - Windows:: Ctrl+b
+            - Mac:: Cmd+b
+        - __Italics__
+            - Windows:: Ctrl+i 
+            - Mac:: Cmd+i
+        - ~~Strikethrough~~
+            - Mac:: Cmd+y
+        - ^^highlight^^
+            - Windows:: Ctrl+h 
+            - Mac:: Cmd+h or CMD+Shift+h
+        - Latex: $$E = mc^2$$
+            - Windows:: Alt-Shift+4
+        - `Code Inline`
+            - /Code Inline
+        - ```javascript
+Code Block```
+            - /Code Block
+        - [link](https://www.example.com)
+            - Windows:: Ctrl+k 
+            - Mac:: Cmd+k
+        - Images ![](https://www.fillmurray.com/50/50)
+            - /Upload Image, Audio, or File
+    - Search::
+        - Current page
+            - Search in current page
+                - Windows:: Ctrl-f
+                - Mac:: CMD-f
+            - Page & block search
+                - (must be editing a block)
+                - Windows:: Ctrl-Shift-9 
+                - Mac:: Ctrl-Shift-9
+        - Find or Create Page dropdown
+            - Search all pages in the dropdown
+                - Windows:: Ctrl-u 
+                - Mac:: CMD-u
+            - Navigate up & down in the dropdown
+                - Windows:: Ctrl-j or Ctrl-k 
+                - Mac:: Ctrl-j or Ctrl-k 
+    - Blocks::
+        - New block
+            - Enter
+        - Indent block
+            - Tab
+        - Un-indent block
+            - Shift-Tab
+        - Go to next block
+            - Windows:: Down Arrow
+            - Mac:: Down Arrow / Ctrl-N
+        - Go to previous block
+            - Windows:: Up Arrow
+            - Mac:: Shift-Tab / Ctrl-P
+        - Move block up
+            - Windows:: Alt-Shift-Up Arrow
+            - Mac:: CMD-Shift-Up Arrow
+        - Move block down
+            - Windows:: Alt-Shift-Down Arrow
+            - Mac:: CMD-Shift-Down Arrow
+        - New line within block
+            - Shift-Enter
+        - Character - move back
+            - Mac:: Ctrl-B
+        - Character - move forward
+            - Mac:: Ctrl-F
+        - Character - delete back
+            - Mac:: Ctrl-H
+        - Character - delete forward
+            - Mac:: Ctrl-D
+        - Move to beginning of block
+            - Mac:: Ctrl-A
+        - Move to end of block
+            - Mac:: Ctrl-E
+        - Zoom-in to block
+            - Windows:: Alt-Right Arrow
+            - Mac:: CMD-Period (.)
+                - __(Firefox/Safari)__
+                    - CMD-Shift-Period (.)
+        - Zoom-out of block
+            - Windows:: Alt-Left Arrow
+            - Mac:: CMD-Comma (,)
+                - __(Firefox/Safari)__
+                    - CMD-Shift-Comma (,)
+        - Expand block
+            - Windows:: Ctrl-Down Arrow
+            - Mac:: CMD-Down Arrow
+        - Collapse block
+            - Windows:: Ctrl-Up Arrow
+            - Mac:: CMD-Up Arrow
+        - Select text in current block
+            - Windows:: Ctrl-A
+            - Mac:: CMD-A
+        - Select current block
+            - Shift-Up-Up __or__ Shift-Down-Down
+        - Select current block & block above
+            - Shift-Up-Up-Up
+        - Select current block & block below
+            - Shift-Down-Down-Down
+        - Select all blocks on page
+            - Windows:: Ctrl-Shift-A
+            - Mac:: CMD-Shift-A
+        - Jump to start of block
+            - Windows:: Ctrl-Home
+            - Mac:: Ctrl-A
+        - Jump to end of block
+            - Windows:: Ctrl-End
+            - Mac:: Ctrl-E
+    - Advanced::
+        - Toggle [[brackets]]
+            - Windows:: Ctrl+c ⇒ Ctrl+b
+            - Mac:: Ctrl+c ⇒ Ctrl+b
+        - Toggle Block Reference expansion
+            - Windows:: Ctrl+c ⇒ Ctrl+r
+            - Mac:: Ctrl+c ⇒ Ctrl+r
+        - Toggle your icon
+            - Windows:: Ctrl+c ⇒ Ctrl+s
+            - Mac:: Ctrl+c ⇒ Ctrl+s
+        - Toggle edit icon
+            - Windows:: Ctrl+c ⇒ Ctrl+c ⇒ Ctrl+s
+            - Mac:: Ctrl+c ⇒ Ctrl+c ⇒ Ctrl+s
+        - Toggle block preview
+            - Windows:: Ctrl+c ⇒ Ctrl+p
+            - Mac:: Ctrl+c ⇒ Ctrl+p
+        - Cycle [[name/spaces]]
+            - Windows:: Ctrl+c ⇒ Ctrl+l 
+            - Mac:: Ctrl+c ⇒ Ctrl+l
+        - Cycle through node levels (slideshow mode) 
+            - Works at current node level 
+            - Windows:: Ctrl+c ⇒ Ctrl+m
+            - Mac:: Ctrl+c ⇒ Ctrl+m

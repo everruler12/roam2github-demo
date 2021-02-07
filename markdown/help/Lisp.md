@@ -1,0 +1,5 @@
+- Examples:: [[Clojure]] [[Racket]]
+- A family of [[Programming Languages]] that was [[Discovered by]] [[John McCarthy]]
+- A special property of lisp languages is their [[macros]]
+- {{attr-table: [[Examples]]}}
+- 

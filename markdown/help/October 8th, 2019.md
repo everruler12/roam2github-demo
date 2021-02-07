@@ -1,0 +1,14 @@
+- Morning
+    - Re-read this
+        - http://ahistoryofthefuture.org/ankle-surveillance-monitors/
+        - http://ahistoryofthefuture.org/the-guide/
+- 18:31 -- 19:19
+    - Totally changed my position on [[How can we develop transformative tools for thought?]]
+        - I still wish the essay didn't lead with such a long example of memory tools, because the juice is at the end, and I'm worried the idea won't actually spread effectively because the memory example is confusing
+            - esp for the type of people who think that the Tools for Thought world is done -- that it reached its apex with Evernote and Google Docs
+        - I struggled for a while to convince anyone working on x-risk that tools for thought were worth pursuing, the best points of the essay were with why the field matters, and why it's ridiculous to think that [[Google Docs]] and [[Evernote]] are the end all
+            - ffs [[Tiago Forte]]
+                - https://twitter.com/fortelabs/status/1181636283598163968'
+    - Realizing it is not a totally crazy idea to put some of my public thoughts in here, rather than in my private db, since it gives at least a taste of how the transient notes that you take just to get thoughts out of your head can end up connecting into the more re-usable blocks that help you shape an idea
+    - Also nice to publicly document how my thoughts on a topic are changing over time
+- 

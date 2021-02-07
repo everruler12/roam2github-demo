@@ -1,0 +1,4 @@
+- url of poets.org page
+    - https://poets.org/poet/kahlil-gibran
+- born:: 1883
+- died:: 1931

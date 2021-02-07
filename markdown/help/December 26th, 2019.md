@@ -1,0 +1,28 @@
+- [[Conor]]
+    - 10:34 - 11:07
+        - [[Interview]] with [[Dan Shipper]] of [[Superorganizers]]
+            - Questions::
+                - How do I use Roam?
+                    - "1. Attention Management"
+                    - Breaking problems into component parts
+                        - Example::
+                            - [[Onboarding Flow]]
+                            - "Building this [[Onboarding Flow]]component out "
+                        - Watching a talk and taking notes on it
+                            - "[[Watching]] [[Joe Armstrong]] [[Forgotten Ideas in Computer Science]]"
+                        - Reading something and taking notes on it
+                            - "Rules for Roam"
+                - What is the difference between a block and a page?
+                    - A page is a global idea 
+                        - Person, place, thing, abstract concept, repeated category/tag idea, phrase
+                    - A block is a specific node - on a page, in a hierarcy on that page
+                        - can be built of references to other pages and blocks
+                    - attributes
+                        - "Blocks and Pages in Roam can both have attributes" 
+            - Takeaways::
+                - followup questions::
+                    - How to show off my Roam usage in a way that is not a demo / press release
+                        - A bit harder since have not been doing as much synthesis work on writing / research recently
+                        - Big area that will be be good is in product management type work
+                            - Starting to organize feature requests into our Roadmap / getting a sense for how the pieces are going to be fit together
+                - The todos that I have placed in this Roam haven't really been ones I've been going through and executing on -- in 2020 do want to go through these and clean them up a bit

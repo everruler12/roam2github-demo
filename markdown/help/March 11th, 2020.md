@@ -1,0 +1,8 @@
+- An example of using Roam for [[Trigger Action Plans]]
+    - comes from [[Taylor R]]
+    - Let's say that when you are [[😴 Feeling Tired]] you want that to be a [[Trigger]] for doing another action like [[🏋️‍♀️ Short Exercise]]
+    - [[[[😴 Feeling Tired]] [[->]] [[🏋️‍♀️ Short Exercise]]]]
+        - [[[[😴 Feeling Tired]] [[->]] [[🚰 Drink Water]]]]
+    - I'm starting to [[[[😴 Feeling Tired]] [[->]] [[🚰 Drink Water]]]]
+        - 
+- [[emoji]]

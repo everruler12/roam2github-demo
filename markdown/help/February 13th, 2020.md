@@ -1,0 +1,74 @@
+- 02:49
+    - [[Morning Pages]] {{word-count}} 
+        - 02:49 - 03:08 (19 min) 583 words
+            - Couldn't sleep, so I'll blog a bit here.
+            - Was thinking about how it feels incredibly easy to put completely unfiltered (well, everything is filtered if at least by your subconcious) thoughts on this page - but it was so legitimately physically stressful to try to answer [[Anne]]'s interview questions over email.  Like, I haven't had an urge for a cigarette that strong in the last 2.5 weeks since I quit.
+                - I think the delta is relates to [[Marshall Mcluhan]]'s [[The Medium is the Message]] idea
+                    - I have no problem doing live recorded interviews - because the expectation is that you're going to be off the cuff - you're more free to make a mistake, it is easier to come across as a solid speaker than a good writer.
+                    - Writing - because in theory you COULD labor over every word - and try to craft every sentence - the standard is much higher for the clarity of your communication.  
+                        - But the fact that I feel EVEN more comfortable writing in here - where every Potential Roam user could read this - than doing a recorded interview - also suggests that there is something more about the medium of being interviewed for SOMEONE ELSE's newsletter or website that makes things different.
+                            - One potential difference is that AGAIN - in an interview there is a higher expectation of preparedness.
+                            - In a newsletter - especially one like that - where the questions are personal and around motivations - there are two separate challenges
+                                - 1. I am being asked to introduce myself to an unfamiliar audience - they are being __forced__ in a sense to listen to me talk about myself - because someone they trust is interested, versus coming to my house (this public Roamblog is in a sense __my__ house, and is cluttered and free the way I like it to be) out of their own volition, because they already have some interest in what I'm thinking about.  -- somehow the audience here feels like it is more friendly / hospitable than an audience I don't know much about yet.
+                                - 2. On this site, I can change things, I can delete things, I can add to them and give additional context.  I don't have any pressure to be concise, or get to the point.  If someone is reading this, it is because they want to - and here of course.. I don't really care whether someone gets value out of this.  I'm writing in public here because I know there are at least a few people who enjoy hearing my thoughts about these sorts of things [*](((hczwHaltk)))
+                                    - In this case, I think that the relevance of thinking about my relative stress levels on different mediums / frames relates to long term decisions we'll be making with respect to [[Multi-User]] Roam
+                                        - For instance - **if** the things that makes me more comfortable with writing here is that [a](((o7-GDaoD8))) and [b](((pTBwfl6aN)))
+                                            - I am free to delete content later
+                                            - I am free to give additional detail or clarity or context later
+                                            - Then
+                                                - We should really be thinking carefully about the idea of someone else "cloning" someone else's notes into their database and maintaining attribution - without ability of the original author to retract or change their mind, or add additional context
+                                                - {{[[TODO]]}} The Command-K insertion is really not ergonomic - it should put you first in the `[]`
+                                                    - {{[[TODO]]}} and then with enter or tab it should move to you the `( )`
+        - 03:08 - 03:16 (8 min)
+            - Probably almost ready to get back to sleep - but tempted to do a bit of a draft on [[Anne]]'s questions here
+                - I think my preference would probably be for her to write up her own thoughts about Roam for the newsletter, and then just link the readers to these answers -- or to the twitter threads I included in my initial response to her - so that it can open up conversation.
+                    - {{[[TODO]]}} Change open/close blocks to be handled by each user in local state - but to default to the open/close setting of the author of the post...
+                        - If there are 1000 readers on a single Roam-blog we wouldn't want to have to store an open/close state for every one of those readers - but it would be good - though not essential - to be able to persist each reader's open/close setting between sessions
+                            - The simplest change to make is to say that only editors are firing open/close blocks - and that blocks for **readers** are being stored locally.
+                    - {{[[TODO]]}} definitely going to want to have some sort of special page or special type of block where only the author of the content is able to edit their content
+                        - definitely feels like it relates to long term multiplayer goals.
+                        - 
+        - 03:16 -- 03:20
+            - clean kitchen - planning on going to sleep - thinking about the question of "**You‌ ‌have‌ ‌been‌ ‌working‌ ‌on‌ ‌Roam‌ ‌for‌ ‌years‌ ‌now.‌ ‌What‌ ‌inspired‌ ‌you‌ ‌to‌ ‌start‌ ‌building‌ ‌this‌ ‌product?‌**"
+        - 03:21 - 04:16 
+            - **You‌ ‌have‌ ‌been‌ ‌working‌ ‌on‌ ‌Roam‌ ‌for‌ ‌years‌ ‌now.‌ ‌What‌ ‌inspired‌ ‌you‌ ‌to‌ ‌start‌ ‌building‌ ‌this‌ ‌product?‌**
+                - Hard to give a concrete answer to this - especially since [[Eureka Moments]] are a total fiction when it comes to new ideas and innovation
+                    - I totally buy [[Steven B Johnson]]'s claims about the [[Slow Hunch]] - that all good ideas emerge from folks living at the [[Adjacent Possible]], and that they often take years to crystalize.
+                - Still, the fiction is relevant, you have to decide after the fact that a few moments/observations were more important than others are are going to be the ones you imbue meaning into - so it is probably worthwhile choosing a few moments that stand out.
+                - A couple
+                    - Possibility
+                        - Seeing that Wikipedia and Open Source Software were instances of a more general pattern -- [[Commons Based Peer Production]] and that each had been enabled by a new collaboration medium (wikis and git respectivly) that was very different from anything that existed before the internet -- I got this from [[Yochai Benkler]]'s 2005 TED talk.
+                        - That observation gave me the sense that there were going to be a lot of other possible [[Wikipedia Scale]] global collaboration projects - and that the thing you needed to do to enable them was to create infrastructure for new kinds of collaboration and large group coordination.
+                            - so this posed a question - What are the Wikipedias we would want to have 100 years from now - what technology (social and technological) would have to be invented in order for those sort of projects to be viable. 
+                                - related to that question is the "Problem"
+                    - Problem
+                        - all of our [[Sense Making Institions]] - Media, Academic Publishing (both in the form of journals and in textbooks), even policy making and governance - law -- they're all basically run with the same model as before the internet. 
+                            - They're based on centralized authority, credentials, a clear distinction between Writer and Reader, Producer and Consumer -- most of which are really limitations that come out of a few things
+                                - 1. The existing limitations of many-to-many communication 
+                                    - If you get 50 people together in a room, and you want them all to gain common knowledge - you generally have to have only one person speaking at a time.  Even at human scale - the idea of Broadcast has been sort of a natural pattern.  
+                                - 2. Legacy financial structures for creating and distributing intellectual work
+                                    - Large scale broadcast technology started with the printing press - then radio, and TV.  The internet made it incredibly cheap for anyone to become a broadcaster - but the patterns people picked up on it (at least initially) were still pretty broadcast based. 
+                                - 3. Legacy [[reputation]] and [[fact checking]] systems -- which are both really [[Attention Allocation]] systems.
+                                    - It takes a long time to understand a complicated or counter-intuitive model about how the world works - it takes effort for the reader/listener to understand an author/speaker -- you have to be judicious in who you bother to try to understand.
+                                        - We defer to people who we trust - we cluster reputation into institutions - like the Church, the University, the Newspaper - and as long as we think that institution is doing a good job filtering for us - we listen to it for guidance on who we should bother trying to understand.
+                        - there is I think a more concise answer here which is that I think...
+                            - Technology (specifically communications technology) is upstream of culture.  
+                            - Every major cultural change - and all the major cultural institutions we have (Religion, Science, Politics, Jobs) - emerge from a change in technology that changes the balance of power and makes new options open.
+                                - Printing press -> Protestant Reformation
+                                - Birth control -> Women's Empowerment
+                                    - -> Sexual Revolution
+                                - TV -> JFK's Election, MLK's success
+                                - Twitter -> Trump
+                            - I think we're in a difficult time - where the internet has given us a sense that these old institutions don't really fit and can't REALLY be trusted (you can't really trust the news, science is stagnating / dealing with a reputation crisis - and inaccessible to most, education isn't preparing people for meaningful work, a lot of jobs are bullshit etc.) but at the same time, we don't have the tech available to design new institutions that we CAN trust, because most of our new technology is being built in the shadow of these old institutions. 
+                            - In some ways, we're becoming more powerful as a species- but as a collective - we're becoming STUPIDER - we're less able to form agreements about how the world works and take action on those agreements - we're less able to change our mind as a society as new information comes in.
+                                - The world is changing faster and faster - but our institutions are becoming more and more fragile and stagnant.
+                    - So given those [Problems](((bxWvKjPuJ))) and the [Possibility](((wT_EIptMs))) that there was something we could build that could enable more [[Peer to Peer]] institions for [[Collective Intelligence]] and [[Collective Action]] -- I started thinking about designing software for many-to-many communication and collective intelligence.
+                - Why Roam though
+                    - Well, I spent about 5 years trying to build technology to fix the news and enable more peer-to-peer government - and what I got to was - the problem was just too big to tackle all at once - there had to be a smaller problem to start with.
+                    - A great starting point for a lot of the [[Problems of Perspective]] would be to just have a single good and well intentioned writer who could take all the material from all the different groups and perspectives - and write a systhesis document - carefully laying out everyone's position - and creating a single digital artifact that tied everything together - but with links back the source material for every statement or claim.  
+                        - I figured that if you could break everything down (but also build bigger things out of the smaller pieces), you could allow individuals to make smaller contributions that could add up to something much more meaningful (though to scale, you'd also need ways to sift through noise and spam and folks gaming the system)
+                    - I started thinking about [[Mortimer Adler]]'s [[Syntopicon]] -- which was an [[Index]] of the "great ideas of the western world" -- where they took like 50 books that had shaped western civilization and they combed through all of those books to find the core ideas.  
+                        - Then they wrote an intro for each of the ideas - that talked about how that idea had been addressed by the different authors throughout history - and 
+                    -  04:15 - 04:21 
+                        - editing
+                    - 04:21 - 04:43 shower

@@ -1,0 +1,42 @@
+- ## Rules for Roam
+    - Everything I write goes into the daily notes
+    - When I want to reference an external source, I create a page for the article
+        - [[The Refragmentation]]
+    - I then am going to create a meta-data line, and nest all of the content of the article under the line
+        - see "#[[Paul Graham]] #[[Quotes]] #[[History of the 20th Century]]"
+    - When I want to comment on something, I'm going to nest my comments on the thing I'm reading underneath a tag for the page
+        - [[The Refragmentation]] 
+            - one of [[kash]]'s favorite essays
+            - "Worse still, for those who worry about these trends, the forces that were ^^pushing us **together** were an anomaly^^, a one-time combination of circumstances that's unlikely to be repeated — and indeed, that we would not want to repeat. #[[Master's Thesis]]" 
+                - this is an important idea
+                    - certainty:: {{[[slider]]}}
+            - 
+- Questions::
+    - {{[[DONE]]}} How do I incorporate this work into my [[Master's Thesis]]?
+        - Instead of just making a tag/link for the piece I'm reading, I'm also going to make a link/tag for the project that it relates to
+            - [[The Refragmentation]] [[Master's Thesis]]
+                - Paul Graham points out that the real problem in [[America]] started with a change in [[Corporations]]
+                    - see "Worse still, for those who worry about these trends, the forces that were ^^pushing us **together** were an anomaly^^, a one-time combination of circumstances that's unlikely to be repeated — and indeed, that we would not want to repeat. #[[Master's Thesis]]"
+            - 
+        - I can also do this retroactively -- so for instance, when I want to focus down on Chapter 1 of my thesis, I might go back and amend that link to saying Chapter one
+            - or just do this
+                - [[[[Master's Thesis]]/Chapter 1]]
+                    - # Introduction
+                        - blah blah blah
+                        - bhalhhljakljdf ahladf 
+                        - lkasdfjlkjadsfj
+                        - alkjdflkasdflkjasdfj 
+                        - ljasdflaksdjflksajdf 
+                        - [[December 4th, 2019]]
+                    - {{embed: ((7aoCWRXP2))}}
+    - {{[[DONE]]}} Should I have multiple databases or one 
+        - I strongly recommend having only a single database -- unless you a sharing with other people and want them to have full access to a large number of interconnected thoughts
+            - reason::
+                - I really like doing a thing called "Morning pages"
+                    - Example::
+                        - [[Morning Pages]] 
+                            - {{word-count}}
+                                - this is my journal for the day
+                                - as I write in it, in a free association style, I may think of some random thoughts that relate to [[The Refragmentation]] or [[the Depression]] or [[Master's Thesis]], I can always filter out those morning pages notes when I am looking for only serious well written stuff, but sometimes I might jot down an interesting idea or phrase, and will want to encounter it again in the future.
+                                - You never know what is going to prompt you to have an idea that relates to an important project (or on the flip side, some emotional insight that relates to personal matters), and having the friction of switching databases may be enough to cause you to not capture it
+                                    - or at least, even if you capture it, you'll be losing the context of where the idea came from. 

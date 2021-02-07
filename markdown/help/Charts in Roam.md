@@ -1,0 +1,11 @@
+- 
+- [[December 11th, 2019]]
+    - glasses of water:: 4
+- [[December 12th, 2019]]
+    - glasses of water:: 3
+- [[December 13th, 2019]]
+    - glasses of water:: 3
+- --
+    - [[December 14th, 2019]]
+        - glasses of water:: 0
+- {{chart: [[glasses of water]]}}

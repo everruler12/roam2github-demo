@@ -1,0 +1,3 @@
+- #Tweeted https://twitter.com/ErikNewhard/status/1331839890204487686?s=20 #gratitude
+    - A poem I wrote several years ago about "Greedsgiving" Day.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Feriknewhard%2Fr_vzkNo-CV.png?alt=media&token=f4bd0bbc-6159-48f4-a83b-895fef7ff806)

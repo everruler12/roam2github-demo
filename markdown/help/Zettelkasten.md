@@ -1,0 +1,6 @@
+- A system for organizing knowledge created by [[Niklas Luhmann]] -- based on index cards which each had a unique ID, and were linked together.
+    - Written about extensively in [[How to Take Smart Notes]] by [[Sönke Ahrens]]
+- Related Systems
+    - [[Commonplace Book]]
+    - Zibaldone -- 14th Century Version
+        - https://www.atlasobscura.com/articles/how-to-keep-a-zibaldone-a-13thcentury-answer-to-tumblr

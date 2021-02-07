@@ -1,0 +1,13 @@
+- author:: [[Howard Rheingold]]
+- source:: https://www.rheingold.com/texts/tft/
+- section on [[Lickleider]]
+    - source:: https://www.rheingold.com/texts/tft/07.html#Chap07
+    - Quotes::
+        - The idea of building a mathematical or electronic model was meant to simplify the [[task]] of understanding the complexities of the brain, like plotting a graph to see the key relationships in a collection of data. But the models themselves now began to grow unmanageably complex. Like Mauchly with his meteorological data, twenty years before, Licklider found he was spending more and more of his time dealing with the calculations he needed to do to create his models, which left less time for what he considered to be his primary occupation — thinking about what all that information meant. Beneath those numbers and graphs was his real objective — the theoretical underpinnings of human communication.
+        - [[Time Tracking]] and [[Time Management]]
+            - When he couldn't find any time-and-motion studies of information-shuffling researchers like himself, Licklider decided to keep track of his own activities as he went through his normal working day. "Although I was aware of the inadequacy of the sampling," he later wrote, with the modesty that he is known for among his colleagues, "I served as my own subject."
+            - his observations revealed that about 85% of his "thinking" time was actually spent "[[getting into a position to think]], to make a decision, to learn something I needed to know. Much more time went into finding or obtaining information than into digesting it."
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2Fb9ttX-ocn5?alt=media&token=f248b4b1-7362-4c0d-89c0-b8ea3d462f7f)
+        - Licklider's analysis of his research behavior showed that most of his [[task]]s were clerical or mechanical: "searching, calculating, plotting, determining the logical or dynamic consequences of a set of assumptions or hypotheses, preparing the way for a decision or an insight. Moreover, my choices of what to attempt or not to attempt were determined to an embarrassingly great extent by considerations of clerical feasibility, not intellectual capacity." #important 
+        - At that point in the history of computer technology — a field in which Licklider had been only tangentially involved until then — no respectable computer scientist would dare suggest that computer technology ought to be totally revamped so that scientists could use these machines to help keep track of data and [[build theoretical models]] of the phenomena they were studying.
+        - the AI founders were more interested in replacing the scientist than the scientist's file clerk.

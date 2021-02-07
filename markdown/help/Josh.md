@@ -1,0 +1,3 @@
+- lives in:: [[San Francisco]]
+- Programming Languages:: [[C (Language)]]
+- 
