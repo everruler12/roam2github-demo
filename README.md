@@ -6,7 +6,7 @@ The demo backups will be included, and your backups will be public. You should c
 
 ### [Click here for the main README with full instructions and explanations](https://github.com/everruler12/roam2github)
 
-## Roam-to-git users: simply update your existing repo
+## Update instructions for Roam-to-git users who followed my [old guide](https://eriknewhard.com/blog/backup-roam-in-github):
 
 For those who are having issues with [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git/) in GitHub Actions, try my new solution:
 
