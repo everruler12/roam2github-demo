@@ -22,3 +22,5 @@ For those who are having issues with [MatthieuBizien/roam-to-git](https://github
     - _If you created your repo before October 1st, 2020, you may need to change the branch name from 'main' to 'master'_
 
 This will backup Markdown, JSON, and EDN!
+
+Check here for additional [main.yml settings](https://github.com/everruler12/roam2github/blob/main/documentation/Settings%20for%20main.yml.md)
