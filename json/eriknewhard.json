@@ -4632,11 +4632,49 @@
   {
     "create-time": 1612742465870,
     "title": "February 8th, 2021",
-    "uid": "02-08-2021",
-    "edit-time": 1612742465870,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "string": "turn on sharing for individual pages",
+        "create-time": 1612824635743,
+        "uid": "Mhr-M7nRm",
+        "edit-time": 1612824665353,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      },
+      {
+        "string": "from Daily Notes, click title to enter daily note page",
+        "create-time": 1612824622058,
+        "uid": "rz9xQZtDO",
+        "edit-time": 1612824680603,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      },
+      {
+        "string": "share the page",
+        "create-time": 1612824665834,
+        "uid": "p-VdfI9RO",
+        "edit-time": 1612824686244,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "02-08-2021",
+    "edit-time": 1612742465870,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
