@@ -37,3 +37,6 @@
         - ## IF you want to also be considered for  #[[UI Engineer]]
             - {{[[TODO]]}}  generate a UI for displaying the diff 
             - {{[[TODO]]}} create a simple component that will let you save the state of a block subtree at various points, and return to these states - by firing new transactions
+- Import
+    - [[December 1st, 2020]]
+        - From: December 1st, 2020.json

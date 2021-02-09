@@ -4,11 +4,16 @@
         - [[Quality of Life Improvements]]
             - #roam/css
                 - [[BEM]] refactor for filters
+    - [[February 8th, 2021]]
+        - [[Quality of Life Improvements]]
+            - [[Help Menu]]#V1
+                - Now featuring more keyboard shortcuts and improved styling
+                - Version number, link to help db, and getting started videos now included
+                - 
     - [[February 2nd, 2021]]
     - [[February 1st, 2021]]
         - [[New Features]]
-            - New help menu in top right of screen #MVP
-                - 
+            - New [[Help Menu]] in top right of screen #MVP
                 - {{embed: ((g981j_kvZ))}}
             - Intercom live chat support for all users!
         - [[Quality of Life Improvements]]
