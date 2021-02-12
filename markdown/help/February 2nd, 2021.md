@@ -40,7 +40,6 @@ But when we saw Roam42 was obvious we needed to follow their lead
 
 Here are some photos - and a link to where you can play with these yourself {{count}}
         - {{[[TODO]]}} Roam42 Example
-        - 
 - 04:35 - 05:53 (1 hour 20 min)
     - [[The Ones Who Crossed The Rubicon]] [[RoamHacker]]
         - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnY86_obTk_.mp4?alt=media&token=42666cef-37ca-4b59-8738-71962903e35e
