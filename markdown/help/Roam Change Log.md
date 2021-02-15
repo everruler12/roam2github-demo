@@ -4,6 +4,13 @@
         - [[Quality of Life Improvements]]
             - #roam/css
                 - [[BEM]] refactor for filters
+    - [[February 14th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug where the help menu was shifting the page over
+            - Fixed bugs with code block dropdown and autocomplete overlaying on top of other elements inappropriately
+    - [[February 11th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug where order of sidebar windows when loading pinned windows was not preserved
     - [[February 8th, 2021]]
         - [[Quality of Life Improvements]]
             - [[Help Menu]]#V1
