@@ -6,9 +6,9 @@
     ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64000927612/original/4HwsAmMCpdycmaYvd40iy2jfQtpMYdwQXw.png?1594734244)
     Once you have the menu open, click on **Share**
     ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64000927666/original/8hKDNZ3TQGItRr_WzeuU4fLFWw1ipHe5tA.png?1594734342)
-    This launches the following pop-up where you can toggle **Page Permissions** to allow sharing of
-    specific pages (you can also choose to make your whole graph publicly readable and editable if you wish from here)
-    ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64000927832/original/6n2o76W2Zdtz2Sk2HmOhuoBA8KJsEWXwEQ.png?1594734702)
+    This launches the following pop-up where you can toggle **Page Permissions** to allow sharing of individual pages (you can also choose to make your whole graph publicly readable and editable if you wish from here)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDddow2Dv3o.png?alt=media&token=08958085-f06b-4914-9bae-3171c80ccdd8)
+        - 
     Once you have toggled page permissions like shown above, open the same **... **menu and you will see a new option to **Share Page **which you should click
     ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64000927894/original/UIODnBbNhOumbzG3gK9w_ltljWFXBTBo-Q.png?1594734883)
     This opens a pop-up where you can select if you want to have the page be private, publicly accessible but read only, or publicly editable
