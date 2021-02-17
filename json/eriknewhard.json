@@ -4778,11 +4778,25 @@
   {
     "create-time": 1613520070592,
     "title": "February 17th, 2021",
-    "uid": "02-17-2021",
-    "edit-time": 1613520070592,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1613585623086,
+        "uid": "rrsXcKcZU",
+        "edit-time": 1613585623086,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "02-17-2021",
+    "edit-time": 1613520070592,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
