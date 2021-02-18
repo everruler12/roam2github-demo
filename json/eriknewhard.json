@@ -4812,5 +4812,43 @@
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
+  },
+  {
+    "create-time": 1613688762356,
+    "title": "commit changes test",
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    "children": [
+      {
+        "string": "1",
+        "create-time": 1613688763968,
+        "uid": "nUGy5MwBZ",
+        "edit-time": 1613688768017,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1613688768877,
+        "uid": "PpPJjgtuf",
+        "edit-time": 1613688768877,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "rJHqK-9Lq",
+    "edit-time": 1613688762356,
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
   }
 ]
