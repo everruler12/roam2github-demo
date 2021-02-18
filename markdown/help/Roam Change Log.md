@@ -20,7 +20,6 @@
                 - Videos
                 - iframes
                 - Drawing
-            - Comment button on the `{{comment-button}}` component always visible on mobile and touch devices
             - Date links in the `{{orphans}}`component link to the appropriate Daily Notes page
         - [[Bug Fixes]]
             - Editing the page title in the sidebar does not cause the page title to get displaced vertically anymore
