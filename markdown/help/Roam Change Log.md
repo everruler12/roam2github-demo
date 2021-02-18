@@ -4,10 +4,42 @@
         - [[Quality of Life Improvements]]
             - #roam/css
                 - [[BEM]] refactor for filters
+    - [[February 17th, 2021]]
+        - [[Quality of Life Improvements]]
+            - Small improvement to the sorting of autocomplete dropdowns privileging string start
+                - A search for "foo" will privilege "foo bar" over "bar foo"
+            - If a page is open in the sidebar, clicking on the mentions will open mentions if not already open and close mentions if already open 
+        - [[Bug Fixes]]
+            - Shift-clicking on refs now stops creating text or block selections
+    - [[February 15th, 2021]]
+        - [[Quality of Life Improvements]]
+            - Top-right corner edit button is always visible on mobile and touch devices for the following components:
+                - Images
+                - Audio player
+                - Tables
+                - Videos
+                - iframes
+                - Drawing
+            - Comment button on the `{{comment-button}}` component always visible on mobile and touch devices
+            - Date links in the `{{orphans}}`component link to the appropriate Daily Notes page
+        - [[Bug Fixes]]
+            - Editing the page title in the sidebar does not cause the page title to get displaced vertically anymore
+            - Fixed bug where renaming a page in the sidebar while having a block containing a link to that page in the main page active forces the creation of another page with the original name rather than updating the page link in the main page
+            - Fixed issue of being unable to edit orphan blocks in `{{orphans}}` component
+            - 
     - [[February 14th, 2021]]
+        - [[Quality of Life Improvements]]
+            - Key command chord for toggling document mode on a page changed from `Ctrl-c Ctrl-v` to `Ctrl-m Ctrl-d` to prevent conflicts with copy and paste on PC
         - [[Bug Fixes]]
             - Fixed bug where the help menu was shifting the page over
             - Fixed bugs with code block dropdown and autocomplete overlaying on top of other elements inappropriately
+            - Fixed copy for File Too Large toast to reflect 100 MB limit on files
+            - Fixed copy for the key command for collapsing a block in the help menu
+            - Fixed bug in front-end [[Roam Alpha API]] where block-uids generated were not in the same format as block-uids generated normally
+    - [[February 13th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug where the help menu was shifting the page over in the browser window when opened after moving it
+            - Fixed bug with autocomplete and code block dropdowns were overlapping other components that should be rendered above them
     - [[February 11th, 2021]]
         - [[Bug Fixes]]
             - Fixed bug where order of sidebar windows when loading pinned windows was not preserved
