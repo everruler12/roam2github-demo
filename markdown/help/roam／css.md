@@ -1,4 +1,46 @@
 - [[Conor]]
+    - ```css
+.group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.group div {
+  border: none;
+}
+.group > .rm-block__self {
+  flex-grow: 0.1;
+}
+.group .rm-block__children .rm-block__controls {
+opacity: 0;
+}
+.group:hover .rm-block__children .rm-block__controls {
+opacity: 1;
+}
+
+.group > .rm-block__children {
+   flex-grow: 1;
+  margin: 12px 4px;
+  padding: 8px 0px;
+  border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  border-left: 1px solid green;
+}```
+    - ```css
+.grey-hl .rm-highlight {
+  background-color: transparent;
+  color: gray;
+}
+```
+    - ```css
+.big .rm-highlight {
+  background-color: transparent;
+  font-size: 2em;
+}```
+    - ```css
+.Falsified {
+text-decoration: line-through;
+}```
     - Old Block level styling
         - ```css
 .roam-block-container[data-page-links*="horizontal"] 
