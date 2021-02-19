@@ -25,7 +25,6 @@
             - Editing the page title in the sidebar does not cause the page title to get displaced vertically anymore
             - Fixed bug where renaming a page in the sidebar while having a block containing a link to that page in the main page active forces the creation of another page with the original name rather than updating the page link in the main page
             - Fixed issue of being unable to edit orphan blocks in `{{orphans}}` component
-            - 
     - [[February 14th, 2021]]
         - [[Quality of Life Improvements]]
             - Key command chord for toggling document mode on a page changed from `Ctrl-c Ctrl-v` to `Ctrl-m Ctrl-d` to prevent conflicts with copy and paste on PC
