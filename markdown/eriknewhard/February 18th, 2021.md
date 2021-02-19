@@ -1,0 +1,3 @@
+- https://twitter.com/ErikNewhard/status/1362618850819276803?s=20
+    - How often do we believe lies that rhyme with the "truth" we want to believe?
+        - Source:: [Life in VIEW | Introduction to VIEW - VIEW Series #1](https://share.transistor.fm/s/0a4acf41)

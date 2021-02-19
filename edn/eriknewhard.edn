@@ -3766,6 +3766,7 @@
   [1696 :create/user 1 536875870]
   [1696 :edit/time 1613585623086 536875873]
   [1696 :edit/user 1 536875870]
+  [1697 :block/children 1709 536875903]
   [1697 :block/uid "02-18-2021" 536875874]
   [1697 :create/time 1613606469362 536875874]
   [1697 :create/user 1 536875874]
@@ -3779,4 +3780,67 @@
   [1706 :edit/time 1613692916505 536875899]
   [1706 :edit/user 1 536875899]
   [1706 :log/id 1613692916504 536875899]
-  [1706 :node/title "February 19th, 2021" 536875899]]}
+  [1706 :node/title "February 19th, 2021" 536875899]
+  [1707 :attrs/lookup 1615 536875914]
+  [1707 :attrs/lookup 1707 536875914]
+  [1707 :attrs/lookup 1710 536875914]
+  [1707 :block/children 1710 536875909]
+  [1707 :block/open true 536875900]
+  [1707 :block/order 0 536875905]
+  [1707 :block/page 1697 536875901]
+  [1707 :block/parents 1697 536875901]
+  [1707 :block/parents 1709 536875906]
+  [1707
+   :block/string
+   "How often do we believe lies that rhyme with the \"truth\" we want to believe?"
+   536875902]
+  [1707 :block/uid "MlWNevygq" 536875900]
+  [1707 :create/time 1613708636583 536875900]
+  [1707 :create/user 1 536875900]
+  [1707 :edit/time 1613708637975 536875902]
+  [1707 :edit/user 1 536875900]
+  [1707
+   :entity/attrs
+   #{[{:source [:block/uid "MlWNevygq"],
+       :value [:block/uid "MlWNevygq"]}
+      {:source [:block/uid "nc8_auY7P"],
+       :value [:block/uid "zeJpAm_Wp"]}
+      {:source [:block/uid "nc8_auY7P"],
+       :value
+       " [Life in VIEW | Introduction to VIEW - VIEW Series #1](https://share.transistor.fm/s/0a4acf41)"}]}
+   536875917]
+  [1708 :version/id "0.8.2" 536875900]
+  [1708
+   :version/nonce
+   "uuid9d007bfe-9b9e-422b-a862-6587e8da3ff1"
+   536875917]
+  [1709 :block/children 1707 536875905]
+  [1709 :block/open true 536875903]
+  [1709 :block/order 0 536875903]
+  [1709 :block/page 1697 536875904]
+  [1709 :block/parents 1697 536875904]
+  [1709
+   :block/string
+   "https://twitter.com/ErikNewhard/status/1362618850819276803?s=20"
+   536875915]
+  [1709 :block/uid "vcpKM-ZWx" 536875903]
+  [1709 :create/time 1613708638221 536875903]
+  [1709 :create/user 1 536875903]
+  [1709 :edit/time 1613708730851 536875915]
+  [1709 :edit/user 1 536875903]
+  [1710 :block/open true 536875907]
+  [1710 :block/order 0 536875909]
+  [1710 :block/page 1697 536875908]
+  [1710 :block/parents 1697 536875908]
+  [1710 :block/parents 1707 536875910]
+  [1710 :block/parents 1709 536875908]
+  [1710 :block/refs 1615 536875912]
+  [1710
+   :block/string
+   "Source:: [Life in VIEW | Introduction to VIEW - VIEW Series #1](https://share.transistor.fm/s/0a4acf41)"
+   536875916]
+  [1710 :block/uid "nc8_auY7P" 536875907]
+  [1710 :create/time 1613708640573 536875907]
+  [1710 :create/user 1 536875907]
+  [1710 :edit/time 1613708748892 536875916]
+  [1710 :edit/user 1 536875907]]}

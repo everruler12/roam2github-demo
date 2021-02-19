@@ -4804,11 +4804,63 @@
   {
     "create-time": 1613606469362,
     "title": "February 18th, 2021",
-    "uid": "02-18-2021",
-    "edit-time": 1613606469362,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "string": "https://twitter.com/ErikNewhard/status/1362618850819276803?s=20",
+        "create-time": 1613708638221,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "children": [
+          {
+            "string": "How often do we believe lies that rhyme with the \"truth\" we want to believe?",
+            "create-time": 1613708636583,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "children": [
+              {
+                "string": "Source:: [Life in VIEW | Introduction to VIEW - VIEW Series #1](https://share.transistor.fm/s/0a4acf41)",
+                "create-time": 1613708640573,
+                ":block/refs": [
+                  {
+                    ":block/uid": "zeJpAm_Wp"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "zeJpAm_Wp"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                },
+                "uid": "nc8_auY7P",
+                "edit-time": 1613708748892,
+                ":edit/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                }
+              }
+            ],
+            "uid": "MlWNevygq",
+            "edit-time": 1613708637975,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "uid": "vcpKM-ZWx",
+        "edit-time": 1613708730851,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "02-18-2021",
+    "edit-time": 1613606469362,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
