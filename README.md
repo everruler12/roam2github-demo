@@ -1,10 +1,10 @@
 ## roam2github-demo
 
-# Don't fork this demo repo for your backups!
+# This is now out of date! Use [roam2github-actions](https://github.com/everruler12/roam2github-actions)
 
-The demo backups will be included, and your backups will be public. You should create your own **private** repo and copy the code from main.yml.
+---
 
-### [Click here for the main README with full instructions and explanations](https://github.com/everruler12/roam2github)
+### [Click here for the full guide](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9)
 
 ## Update instructions for Roam-to-git users who followed my [old guide](https://eriknewhard.com/blog/backup-roam-in-github):
 
@@ -12,14 +12,12 @@ For those who are having issues with [MatthieuBizien/roam-to-git](https://github
 
 1. Add secrets for the following values:
 
-    - `R2G_EMAIL`
-    - `R2G_PASSWORD`
-    - `R2G_GRAPH`
+    - `ROAM_EMAIL`
+    - `ROAM_PASSWORD`
+    - `ROAM_GRAPH`
         - Now with multi graph support! Just add graph names on separate lines in `R2G_GRAPH`. (Or separate them by commas.)
     
-2. Update your main.yml with the code here: https://github.com/everruler12/roam2github-demo/blob/main/.github/workflows/main.yml
-
-    - _If you created your repo before October 1st, 2020, you may need to change the branch name from 'main' to 'master'_
+2. Update your main.yml with the code here: https://github.com/everruler12/roam2github-actions/blob/main/.github/workflows/main.yml
 
 This will backup Markdown, JSON, and EDN!
 
