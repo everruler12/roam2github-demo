@@ -4868,11 +4868,73 @@
   {
     "create-time": 1613692916505,
     "title": "February 19th, 2021",
-    "uid": "02-19-2021",
-    "edit-time": 1613692916505,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "edit-time": 1613799396908,
+        "children": [
+          {
+            "string": "\"The attitude of 'us' and 'them' can and often does lead to conflict, even war. Much better, and more realistic, is the attitude of 'we'.\" ~Dalai Lama",
+            "create-time": 1613799356016,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "children": [
+              {
+                "string": "Source:: [Beyond Religion: Ethics for a Whole World by Dalai Lama XIV](https://www.goodreads.com/book/show/11346463-beyond-religion)",
+                "create-time": 1613799358877,
+                ":block/refs": [
+                  {
+                    ":block/uid": "zeJpAm_Wp"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "zeJpAm_Wp"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                },
+                "uid": "w2YjckR7S",
+                "edit-time": 1613799376916,
+                ":edit/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                }
+              }
+            ],
+            "uid": "jz-dN0xUv",
+            "edit-time": 1613799357531,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Zkb5SGmuZ"
+          }
+        ],
+        "uid": "PQ53qd0L1",
+        ":block/refs": [
+          {
+            ":block/uid": "Zkb5SGmuZ"
+          }
+        ],
+        "string": "#Tweeted https://twitter.com/ErikNewhard/status/1362999333910548480?s=20",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1613799356837,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "02-19-2021",
+    "edit-time": 1613692916505,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }

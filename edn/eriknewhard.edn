@@ -3774,6 +3774,7 @@
   [1697 :edit/user 1 536875874]
   [1697 :log/id 1613606469361 536875874]
   [1697 :node/title "February 18th, 2021" 536875874]
+  [1706 :block/children 1713 536875921]
   [1706 :block/uid "02-19-2021" 536875899]
   [1706 :create/time 1613692916505 536875899]
   [1706 :create/user 1 536875899]
@@ -3812,8 +3813,8 @@
   [1708 :version/id "0.8.2" 536875900]
   [1708
    :version/nonce
-   "uuidcb9a8b9d-8bc6-4d6d-ab52-1cea343a2e13"
-   536875918]
+   "uuidfa88266b-0917-4874-9584-46da27934ea4"
+   536875936]
   [1709 :block/children 1707 536875905]
   [1709 :block/open true 536875903]
   [1709 :block/order 0 536875903]
@@ -3850,4 +3851,63 @@
   [1711 :edit/time 1613779260175 536875918]
   [1711 :edit/user 1 536875918]
   [1711 :log/id 1613779260175 536875918]
-  [1711 :node/title "February 20th, 2021" 536875918]]}
+  [1711 :node/title "February 20th, 2021" 536875918]
+  [1712 :attrs/lookup 1615 536875934]
+  [1712 :attrs/lookup 1712 536875934]
+  [1712 :attrs/lookup 1714 536875934]
+  [1712 :block/children 1714 536875928]
+  [1712 :block/open true 536875919]
+  [1712 :block/order 0 536875923]
+  [1712 :block/page 1706 536875920]
+  [1712 :block/parents 1706 536875920]
+  [1712 :block/parents 1713 536875924]
+  [1712
+   :block/string
+   "\"The attitude of 'us' and 'them' can and often does lead to conflict, even war. Much better, and more realistic, is the attitude of 'we'.\" ~Dalai Lama"
+   536875925]
+  [1712 :block/uid "jz-dN0xUv" 536875919]
+  [1712 :create/time 1613799356016 536875919]
+  [1712 :create/user 1 536875919]
+  [1712 :edit/time 1613799357531 536875925]
+  [1712 :edit/user 1 536875919]
+  [1712
+   :entity/attrs
+   #{[{:source [:block/uid "jz-dN0xUv"],
+       :value [:block/uid "jz-dN0xUv"]}
+      {:source [:block/uid "w2YjckR7S"],
+       :value [:block/uid "zeJpAm_Wp"]}
+      {:source [:block/uid "w2YjckR7S"],
+       :value
+       " [Beyond Religion: Ethics for a Whole World by Dalai Lama XIV](https://www.goodreads.com/book/show/11346463-beyond-religion)"}]}
+   536875934]
+  [1713 :block/children 1712 536875923]
+  [1713 :block/open true 536875921]
+  [1713 :block/order 0 536875921]
+  [1713 :block/page 1706 536875922]
+  [1713 :block/parents 1706 536875922]
+  [1713 :block/refs 1134 536875936]
+  [1713
+   :block/string
+   "#Tweeted https://twitter.com/ErikNewhard/status/1362999333910548480?s=20"
+   536875935]
+  [1713 :block/uid "PQ53qd0L1" 536875921]
+  [1713 :create/time 1613799356837 536875921]
+  [1713 :create/user 1 536875921]
+  [1713 :edit/time 1613799396908 536875935]
+  [1713 :edit/user 1 536875921]
+  [1714 :block/open true 536875926]
+  [1714 :block/order 0 536875928]
+  [1714 :block/page 1706 536875927]
+  [1714 :block/parents 1706 536875927]
+  [1714 :block/parents 1712 536875929]
+  [1714 :block/parents 1713 536875927]
+  [1714 :block/refs 1615 536875931]
+  [1714
+   :block/string
+   "Source:: [Beyond Religion: Ethics for a Whole World by Dalai Lama XIV](https://www.goodreads.com/book/show/11346463-beyond-religion)"
+   536875933]
+  [1714 :block/uid "w2YjckR7S" 536875926]
+  [1714 :create/time 1613799358877 536875926]
+  [1714 :create/user 1 536875926]
+  [1714 :edit/time 1613799376916 536875933]
+  [1714 :edit/user 1 536875926]]}

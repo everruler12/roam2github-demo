@@ -1,0 +1,3 @@
+- #Tweeted https://twitter.com/ErikNewhard/status/1362999333910548480?s=20
+    - "The attitude of 'us' and 'them' can and often does lead to conflict, even war. Much better, and more realistic, is the attitude of 'we'." ~Dalai Lama
+        - Source:: [Beyond Religion: Ethics for a Whole World by Dalai Lama XIV](https://www.goodreads.com/book/show/11346463-beyond-religion)
