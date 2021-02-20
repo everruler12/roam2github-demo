@@ -1,9 +1,0 @@
-- 23:47 -- 00:06
-    - Going to be doing some [[Live Zettelkasting]] right now
-    - 23:52
-        - Couldn't find a link for sharing my twitch stream - I think the username is cwhitesullivan, so this will just be a recorded stream
-    - 23:53 - 23:57
-        - Let's see if I can just save this to twitch - although maybe youtube is better
-        - was able to get recordings with twitch
-    - 23:57
-        - checking youtube for golive feature

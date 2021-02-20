@@ -1,8 +1,0 @@
-- [[Evening Questions]] #[[Week of December 15th, 2019]] #[[Month of December 29th, 2019]]
-    - [[What made me happy today?]]
-        - Fucking love [[Josh]] -- he built an awesome feature
-    - [[What made me sad?]]
-    - [[Where there any signs of my day going to shit that I could recognize?]]
-    - [[What interesting ideas did I come across?]]
-- hours of sleep:: 4
-- 

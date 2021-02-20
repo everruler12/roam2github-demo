@@ -1,4 +1,0 @@
-- [[Roam Change Log]]
-    - [[Quality of Life Improvements]]
-        - For a Great Demo of this - see [[Roam White Paper]], [[It's Time To Build]], or [[Augmenting the Human Intellect: A Conceptual Framework]] - and click on the lines beneath the bullet points.
-        - {{[[video]]: https://www.loom.com/share/f5c52cd86ce748f58c1b6bcc5d90c901}}

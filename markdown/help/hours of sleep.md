@@ -1,6 +1,0 @@
-- {{chart: [[hours of sleep]]}}
-- [[December 2nd, 2019]]
-    - hours of sleep:: 2
-    - certainty of claim:: 8
-- {{attr-table: [[hours of sleep]]}}
-- 

@@ -1,2 +1,0 @@
-- Showing off [[Calculator]] to build a [[Simple Financial Model]]
-    - {{embed: ((wDLCSfnRM))}}

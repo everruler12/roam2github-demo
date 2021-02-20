@@ -1,4 +1,0 @@
-- Coding
-- Tweeting
-- Designing
-- Planning

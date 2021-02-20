@@ -1,2 +1,0 @@
-- [[Roam Change Log]] now lives here
-    - https://roamresearch.com/#/app/metaroam/page/qLYnQKofd

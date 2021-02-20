@@ -1,4 +1,0 @@
-- "Worse still, for those who worry about these trends, the forces that were ^^pushing us **together** were an anomaly^^, a one-time combination of circumstances that's unlikely to be repeated — and indeed, that we would not want to repeat. #[[Master's Thesis]]"
-- "Paul Graham points out that the real problem in [[America]] started with a change in [[Corporations]]"
-- "as I write in it, in a free association style, I may think of some random thoughts that relate to [[The Refragmentation]] or [[the Depression]] or [[Master's Thesis]], I can always filter out those morning pages notes when I am looking for only serious well written stuff, but sometimes I might jot down an interesting idea or phrase, and will want to encounter it again in the future."
-- [[v2]]

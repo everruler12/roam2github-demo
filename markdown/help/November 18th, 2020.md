@@ -1,1 +1,0 @@
-- __Fear is the mind-killer.__ {{[[∆]]:3+1}}

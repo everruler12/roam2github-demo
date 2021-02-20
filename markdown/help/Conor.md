@@ -1,3 +1,0 @@
-- lives in:: [[Oakland, CA]]
-- Programming Languages:: [[Clojure]], [[Clojurescript]]
-- 

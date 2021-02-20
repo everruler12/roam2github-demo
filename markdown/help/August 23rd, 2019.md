@@ -1,9 +1,0 @@
-- 19:15
-    - New features to check out
-        - All Pages -- check on sidebar -- will search across pages -- can sort by most mentioned
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2FScreenshot%202019-08-23%2019.16.47.png?alt=media&token=242729d4-2d5a-409a-b8c3-fc398ce7bdd0)
-        - Drag and Drop in images from your desktop
-        - Future dates
-            - if you used the {{date}} option -- you can schedule notes to appear in the mentions section of future days
-                - or create past days to shop up in your Daily Notes log
-    - Added to [[What People Are Saying]]

@@ -1,9 +1,0 @@
-- 03:24
-    - Great writeup on [[Reddit]] on [[Building a Second Brain]] in [[Roam]]
-        - https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/
-        - Writeup was missing [[Datepicker]] [[Features]] though, so created [[Roam Demo Videos]] gif and uploaded
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fv8%2Fhelp%2F-XdQbsv1u8?alt=media&token=3a9c24b7-ba16-4f0d-90db-79faddf53c32)
-                - using datepicker [[January 1st, 2020]]
-                    - This is a great way to schedule due dates, or the next day you want to look at something
-                        - since it will appear in the mentions of the next day
-                        - [[January 3rd, 2020]]

@@ -1,4 +1,0 @@
-- 12:34
-    - [[PARA: The Project List Mindsweep]]
-        - "There is often a resistance to writing down all our projects, because we fear that seeing them all in one place will be overwhelming. ^^But non-judgmentally collecting the full inventory is the first step to gaining control.^^ You committed to these projects – we’re just creating a tool to support you in managing them. #"
-        - 

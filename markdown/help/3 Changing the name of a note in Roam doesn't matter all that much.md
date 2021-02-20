@@ -1,4 +1,0 @@
-- certainty:: 5
-- Questions::
-    - Does this note contradict with [[1a Renaming a note in Roam should be done so that it appears in different autocomplete]] ?
-    - 

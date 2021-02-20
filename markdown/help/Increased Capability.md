@@ -1,3 +1,0 @@
-- A [Key Term]([[Key Terms]]) used by [[Doug Engelbart]] in [[Augmenting the Human Intellect: A Conceptual Framework]]
-- Definition::
-    - "[[Increased Capability]] in this respect is taken to mean a mixture of the following: ""more-rapid comprehension","better comprehension","the possibility of gaining a useful degree of comprehension in a situation that previously was too complex","speedier solutions","better solutions","and the possibility of finding solutions to problems that before seemed insoluble. "

@@ -1,3 +1,0 @@
-- Thinking more about [[Commenting]]
-    - "For consumers this new world meant the same choices everywhere, but only a few of them. When I grew up there were only 2 or 3 of most things, and since they were all aiming at the middle of the market there wasn't much to differentiate them."
-        - Now I can write this up here, and this is sort of a comment

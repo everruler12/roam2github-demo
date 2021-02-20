@@ -1,2 +1,0 @@
-- ^^References [[Productivity]] and [[Productividad]] ^^{{[[query]]: {or: [[Productivity]] [[Productividad]]}}}
-- 

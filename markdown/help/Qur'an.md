@@ -1,4 +1,0 @@
-- [[Surahs]]
-    - [[Al-Fatihah]]
-    - [[Al-Burah]]
-    - 

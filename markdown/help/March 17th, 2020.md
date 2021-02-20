@@ -1,6 +1,0 @@
-- Drafting and article
-    - [[Draft 1]] #[[placed]]
-        - [[braindumping]] on that topic in the daily notes in daily notes, or an other page 
-            - as it relates to [[Writers]]
-        - "If total war was the big political story of the 20th century, the big economic story was the rise of a new kind of company. And this too tended to produce both social and economic cohesion. [[4](http://paulgraham.com/re.html#f4n)]"
-    - {{[[DONE]]}} #[[Draft 1]] this is another topic that might relate

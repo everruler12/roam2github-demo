@@ -1,4 +1,0 @@
-- https://en.wikipedia.org/wiki/Graphical_model
-    - ![An example of a graphical model.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Graph_model.svg/220px-Graph_model.svg.png)
-    - 
-- {{[[query]]: {or: [[PGM]]}}}
